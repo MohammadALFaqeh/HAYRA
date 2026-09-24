@@ -229,6 +229,17 @@ export function useHostSession(sessionId: string) {
     [sessionId, headers],
   );
 
+  /** مزامنة مع تحديثات من جهاز آخر (مثل التحكم من شاشة العرض): أعد التحميل إذا كانت الحالة العامة أحدث */
+  const syncWith = useCallback(
+    (updatedAt: number | undefined) => {
+      const cur = stateRef.current;
+      if (!cur || !updatedAt || updatedAt <= cur.updatedAt) return;
+      if (queue.current.length || flushing.current) return;
+      void load();
+    },
+    [load],
+  );
+
   const resetQr = useCallback(async () => {
     const res = await fetch(`/api/game/${sessionId}/qr-reset`, { method: "POST", headers: headers() }).catch(() => null);
     return !!res?.ok;
@@ -246,6 +257,7 @@ export function useHostSession(sessionId: string) {
     endSession,
     sendFeedback,
     resetQr,
+    syncWith,
     hostKey: () => keyRef.current,
     reload: load,
   };

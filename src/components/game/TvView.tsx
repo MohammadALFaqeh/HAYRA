@@ -4,7 +4,9 @@ import Link from "next/link";
 import { Maximize, Minimize } from "lucide-react";
 import { useClockSync } from "@/lib/client/clock";
 import { unlockAudio } from "@/lib/client/sound";
+import { useHostSession } from "@/lib/client/use-host-session";
 import { usePublicSession } from "@/lib/client/use-public-session";
+import { cn } from "@/lib/utils";
 import { Logo } from "@/components/ui/Logo";
 import { SoundToggle } from "@/components/ui/SoundToggle";
 import { Spinner } from "@/components/ui";
@@ -14,11 +16,17 @@ import { FinalStage } from "./FinalStage";
 import { QuestionStage } from "./QuestionStage";
 import { ResultsView } from "./ResultsView";
 import { Scoreboard } from "./Scoreboard";
+import { TvHostControls } from "./TvHostControls";
 
-/** شاشة التلفزيون (بدون أدوات تحكم) + وضع المتفرج */
+/** شاشة التلفزيون + وضع المتفرج. على جهاز المضيف تصبح تفاعلية (فتح الخانات والتحكيم) */
 export function TvView({ sessionId, spectator = false }: { sessionId: string; spectator?: boolean }) {
   useClockSync();
   const { state, status } = usePublicSession(sessionId);
+  // جهاز المضيف (يحمل مفتاح الجلسة) يتحكم من الشاشة مباشرة
+  const host = useHostSession(sessionId);
+  const canControl = host.status === "ready";
+  const { syncWith } = host;
+  useEffect(() => syncWith(state?.updatedAt), [state?.updatedAt, syncWith]);
   const [origin, setOrigin] = useState("");
   const [started, setStarted] = useState(spectator);
   const [full, setFull] = useState(false);
@@ -84,7 +92,12 @@ export function TvView({ sessionId, spectator = false }: { sessionId: string; sp
   const playableCells = state.cells.filter((cell) => cell.status !== "empty").length;
 
   return (
-    <main className="flex min-h-dvh flex-col gap-4 px-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-[max(0.75rem,env(safe-area-inset-top))] sm:px-4 lg:gap-6 lg:px-8">
+    <main
+      className={cn(
+        "flex min-h-dvh flex-col gap-4 px-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-[max(0.75rem,env(safe-area-inset-top))] sm:px-4 lg:gap-6 lg:px-8",
+        canControl && "pb-40 sm:pb-28",
+      )}
+    >
       <header className="flex items-center gap-4">
         <Logo size={spectator ? 70 : 110} glow={false} className="mx-0" />
         <div className="flex-1">
@@ -114,7 +127,11 @@ export function TvView({ sessionId, spectator = false }: { sessionId: string; sp
               </div>
               <span className="rounded-full border border-white/10 bg-white/[0.05] px-3 py-1 text-xs font-bold tracking-wider text-white/45">الجولة الرئيسية · {usedCells}/{playableCells}</span>
             </div>
-            <Board columns={state.columns} cells={state.cells} />
+            <Board
+              columns={state.columns}
+              cells={state.cells}
+              onPick={canControl ? (cell) => cell.status === "available" && void host.dispatch({ type: "OPEN_CELL", cellKey: cell.key }) : undefined}
+            />
           </div>
         )}
         {inQuestion && <QuestionStage active={state.active!} teams={state.teams} timer={state.timer} origin={origin} sound={sound} />}
@@ -130,6 +147,7 @@ export function TvView({ sessionId, spectator = false }: { sessionId: string; sp
         <footer className="text-center text-sm text-white/40">👀 وضع المتفرج — للمشاهدة فقط {status === "polling" && "(تحديث دوري)"}</footer>
       )}
       <EventOverlay event={state.lastEvent} teams={state.teams} sound={sound} />
+      {canControl && <TvHostControls host={host} state={state} />}
     </main>
   );
 }

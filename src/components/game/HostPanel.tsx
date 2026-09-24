@@ -24,6 +24,7 @@ import {
 } from "lucide-react";
 import { useClockSync, useCountdown } from "@/lib/client/clock";
 import { useHostSession } from "@/lib/client/use-host-session";
+import { usePublicSession } from "@/lib/client/use-public-session";
 import { play, unlockAudio } from "@/lib/client/sound";
 import { toPublicState } from "@/lib/game/public";
 import { MYSTERY, POWERUPS, QUESTION_TYPES, isQrType } from "@/lib/game/constants";
@@ -41,6 +42,10 @@ export function HostPanel({ sessionId }: { sessionId: string }) {
   useClockSync();
   const router = useRouter();
   const h = useHostSession(sessionId);
+  // تحديثات من أجهزة أخرى (مثل التحكم من شاشة العرض)
+  const live = usePublicSession(sessionId);
+  const { syncWith } = h;
+  useEffect(() => syncWith(live.state?.updatedAt), [live.state?.updatedAt, syncWith]);
   const [origin, setOrigin] = useState("");
   const [pairOpen, setPairOpen] = useState(false);
   const [scoreTeam, setScoreTeam] = useState<TeamId | null>(null);
