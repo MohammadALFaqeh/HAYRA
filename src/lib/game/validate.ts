@@ -28,6 +28,8 @@ export function parseAction(raw: unknown): GameAction | { type: "UNDO" } | null 
     case "FINISH_RANKING":
     case "FINISH":
       return { type: a.type } as GameAction;
+    case "START_QUESTION":
+      return { type: "START_QUESTION" };
     case "OPEN_CELL":
     case "REOPEN_CELL":
       return isKey(a.cellKey) ? ({ type: a.type, cellKey: a.cellKey } as GameAction) : null;

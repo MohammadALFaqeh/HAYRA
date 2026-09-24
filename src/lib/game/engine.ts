@@ -58,6 +58,15 @@ function requireActive(s: GameState): ActiveQuestion {
   return s.active;
 }
 
+function requireStarted(a: ActiveQuestion) {
+  if (a.stage === "prep") fail("ابدأ السؤال أولًا");
+}
+
+/** هل لدى الفريق وسيلة مساعدة متاحة؟ (لتحديد مرحلة ما قبل السؤال) */
+function hasPowerups(s: GameState, team: TeamId) {
+  return s.settings.powerupsEnabled && s.settings.enabledPowerups.some((p) => s.teams[team].powerups[p] === "available");
+}
+
 function columnTitleForCell(s: GameState, cellKey: string): string {
   const cell = s.cells.find((c) => c.key === cellKey);
   const col = cell ? s.columns[cell.col] : undefined;
@@ -214,7 +223,7 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
         questionId: q.id,
         pickedBy: team,
         answeringTeam: team,
-        stage: "answering",
+        stage: hasPowerups(s, team) ? "prep" : "answering",
         basePoints: cell.points,
         multiplier,
         doubleFor: null,
@@ -231,7 +240,8 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
         awarded: 0,
         rankClaims: { A: [], B: [] },
       };
-      startTimer(s, s.settings.questionSeconds, "answer", now);
+      if (s.active.stage === "answering") startTimer(s, s.settings.questionSeconds, "answer", now);
+      else clearTimer(s);
       if (cell.mystery) {
         emit(s, ctx, "mystery", team, cell.mystery === "bonus" ? MYSTERY_BONUS_POINTS : 0, null, { mystery: cell.mystery });
       } else {
@@ -240,10 +250,24 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
       break;
     }
 
-    // ---------------------------------------------------- إجابة صحيحة
+    // ---------------------------------------------------- بدء السؤال بعد وسائل المساعدة
+    case "START_QUESTION": {
+      const a = requireActive(s);
+      if (a.stage !== "prep") break;
+      const extra = a.powerupsUsed.some((p) => p.powerup === "extra_time") ? EXTRA_TIME_SECONDS : 0;
+      a.stage = "answering";
+      a.openedAt = now;
+      a.stageStartedAt = now;
+      startTimer(s, s.settings.questionSeconds + extra, "answer", now);
+      emit(s, ctx, "open", a.pickedBy, a.basePoints, null, { started: true });
+      break;
+    }
+
+    // ---------------------------------------------------- إجابة صحيحة (أيضًا بعد إظهار الإجابة)
     case "MARK_CORRECT": {
       const a = requireActive(s);
       if (a.cellKey === "final") fail("استخدم تحكيم السؤال النهائي");
+      requireStarted(a);
       if (a.stage === "resolved") fail("تم احتساب هذا السؤال — استخدم التراجع إن لزم");
       award(s, action.team, ctx);
       break;
@@ -252,6 +276,7 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
     case "MARK_RANK": {
       const a = requireActive(s);
       if (a.cellKey === "final") fail("استخدم تحكيم السؤال النهائي");
+      requireStarted(a);
       awardRank(s, action.team, action.rank, ctx);
       break;
     }
@@ -303,6 +328,7 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
     case "TRANSFER": {
       const a = requireActive(s);
       if (a.cellKey === "final") fail("غير متاح في السؤال النهائي");
+      requireStarted(a);
       if (a.stage !== "answering") fail("التحويل متاح فقط أثناء إجابة الفريق الأول");
       if (a.noSteal) fail("السرقة ممنوعة في هذا السؤال 🛡️");
       s.teams[a.pickedBy].streak = 0;
@@ -318,6 +344,7 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
     case "REVEAL_ANSWER": {
       const a = requireActive(s);
       if (a.stage === "resolved" || a.stage === "revealed") break;
+      requireStarted(a);
       a.stage = "revealed";
       stopTimer(s, now);
       emit(s, ctx, "reveal", null, 0, commentFor("reveal", {}, ctx.random));
@@ -412,7 +439,7 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
     }
     case "SET_TURN": {
       s.turn = action.team;
-      if (s.active && s.active.stage === "answering" && s.active.cellKey !== "final") {
+      if (s.active && (s.active.stage === "answering" || s.active.stage === "prep") && s.active.cellKey !== "final") {
         s.active.pickedBy = action.team;
         s.active.answeringTeam = action.team;
       }
@@ -426,7 +453,8 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
       if (a.cellKey === "final") fail("وسائل المساعدة غير متاحة في السؤال النهائي");
       if (!s.settings.powerupsEnabled || !s.settings.enabledPowerups.includes(powerup)) fail("وسيلة المساعدة غير مفعّلة");
       if (s.teams[team].powerups[powerup] !== "available") fail("تم استخدامها مسبقًا");
-      if (a.stage !== "answering" && a.stage !== "stealing") fail("متاحة فقط أثناء الإجابة");
+      if (a.stage !== "prep" && a.stage !== "answering" && a.stage !== "stealing") fail("متاحة فقط قبل السؤال أو أثناء الإجابة");
+      const prep = a.stage === "prep";
       const q = s.questions[a.questionId];
 
       switch (powerup) {
@@ -436,7 +464,9 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
           break;
         case "extra_time":
           if (team !== a.answeringTeam) fail("الوقت الإضافي للفريق الذي يجيب الآن");
-          if (s.timer.running && s.timer.endsAt !== null) {
+          if (prep) {
+            // يُضاف عند بدء السؤال
+          } else if (s.timer.running && s.timer.endsAt !== null) {
             s.timer.endsAt += EXTRA_TIME_SECONDS * 1000;
             s.timer.durationMs += EXTRA_TIME_SECONDS * 1000;
           } else {
@@ -444,7 +474,7 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
           }
           break;
         case "no_steal":
-          if (team !== a.pickedBy || a.stage !== "answering") fail("يستخدمها الفريق صاحب السؤال قبل التحويل");
+          if (team !== a.pickedBy || (a.stage !== "answering" && !prep)) fail("يستخدمها الفريق صاحب السؤال قبل التحويل");
           a.noSteal = true;
           break;
         case "fifty_fifty": {

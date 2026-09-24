@@ -5,7 +5,6 @@ import { useRouter } from "next/navigation";
 import { QRCodeSVG } from "qrcode.react";
 import {
   ArrowRight,
-  BookOpen,
   Check,
   CloudOff,
   Eye,
@@ -274,7 +273,6 @@ function QuestionControls({
   const a = s.active!;
   const q = s.questions[a.questionId];
   const remaining = useCountdown(s.timer);
-  const [showSource, setShowSource] = useState(false);
   const [rated, setRated] = useState<string | null>(null);
   const [peek, setPeek] = useState(false);
   const timeUpSent = useRef<number | null>(null);
@@ -293,17 +291,21 @@ function QuestionControls({
   }, [a.questionId]);
 
   if (!q) return null;
-  const settled = a.stage === "resolved" || a.stage === "revealed";
+  const settled = a.stage === "resolved";
+  // بعد إظهار الإجابة أو فشل الفريقين: يختار المضيف لمين النقاط (أو لا أحد)
+  const afterReveal = a.stage === "revealed" || a.stage === "failed";
+  const prep = a.stage === "prep";
   // الإجابة مخفية أثناء السؤال (لمشاركة الشاشة) حتى ينتهي الوقت أو يُحسم السؤال
-  const answerVisible = settled || a.stage === "failed" || s.timer.expired || peek;
+  const answerVisible = settled || afterReveal || s.timer.expired || peek;
   const points = a.basePoints * a.multiplier;
   const other: TeamId = a.pickedBy === "A" ? "B" : "A";
   const qr = isQrType(q.type);
   const stageLabel: Record<string, string> = {
+    prep: `⚡ وسائل المساعدة لـ ${s.teams[a.pickedBy].name} (اختياري)`,
     answering: `🎯 ${s.teams[a.answeringTeam].name} يجيب`,
     stealing: `🦊 فرصة سرقة لـ ${s.teams[a.answeringTeam].name}`,
-    failed: "❌ لم يعرفها أحد",
-    revealed: "👀 ظهرت الإجابة",
+    failed: "❌ لم يعرفها أحد — أظهر الإجابة أو احتسبها",
+    revealed: "👀 ظهرت الإجابة — لمين النقاط؟",
     resolved: `✅ احتُسبت لـ ${a.winner ? s.teams[a.winner].name : ""} (+${formatPoints(a.awarded)})`,
   };
 
@@ -374,16 +376,6 @@ function QuestionControls({
           </button>
         )}
 
-        <button onClick={() => setShowSource((v) => !v)} className="flex items-center gap-1.5 text-sm text-volt-400">
-          <BookOpen className="h-4 w-4" /> {showSource ? "إخفاء المصدر" : "عرض المصدر"}
-        </button>
-        {showSource && (
-          <div className="rounded-xl bg-white/[0.04] p-3 text-sm text-white/70">
-            <div>المصدر: {q.source || "—"}</div>
-            <div>المرجع: {q.reference || "—"}</div>
-            <div>الحالة: {q.verified ? "موثّق ✅" : "غير موثّق ⚠️"}</div>
-          </div>
-        )}
       </div>
 
       {/* الحالة والمؤقت */}
@@ -415,7 +407,7 @@ function QuestionControls({
       </div>
 
       {/* أزرار التحكيم */}
-        {!settled && q.type === "reverse_points" && q.choices && (
+        {!settled && !prep && q.type === "reverse_points" && q.choices && (
           <div className="panel space-y-4 p-3">
             <div>
               <div className="text-sm font-semibold text-white/70">النقاط العكسية: تسجيل يدوي من المضيف</div>
@@ -448,7 +440,52 @@ function QuestionControls({
           </div>
         )}
 
-      {!settled && q.type !== "reverse_points" && (
+      {/* قبل السؤال: وسائل المساعدة (اختياري) ثم عرض السؤال */}
+      {prep && (
+        <div className="panel space-y-3 p-3">
+          <div className={cn("text-sm font-semibold", TEAM_COLORS[a.pickedBy].text)}>⚡ وسائل المساعدة لـ {s.teams[a.pickedBy].name}</div>
+          <div className="flex flex-wrap gap-1.5">
+            {(Object.keys(POWERUPS) as PowerupId[])
+              .filter((p) => s.teams[a.pickedBy].powerups[p] !== "disabled")
+              .map((p) => (
+                <button
+                  key={p}
+                  disabled={s.teams[a.pickedBy].powerups[p] !== "available"}
+                  onClick={() => act({ type: "USE_POWERUP", team: a.pickedBy, powerup: p })}
+                  className="rounded-xl bg-white/[0.07] px-3 py-2 text-sm font-semibold disabled:opacity-25"
+                  title={POWERUPS[p].desc}
+                >
+                  {POWERUPS[p].icon} {POWERUPS[p].name}
+                </button>
+              ))}
+          </div>
+          <Button size="xl" className="w-full" icon={<Play className="h-6 w-6" />} onClick={() => act({ type: "START_QUESTION" })}>
+            {a.powerupsUsed.length ? "اعرض السؤال" : "تخطي واعرض السؤال"}
+          </Button>
+        </div>
+      )}
+
+      {/* بعد إظهار الإجابة: لمين النقاط؟ */}
+      {afterReveal && (
+        <div className="space-y-2">
+          <div className="text-center text-sm font-semibold text-white/70">لمين النقاط؟</div>
+          {q.type !== "reverse_points" && (
+            <div className="grid grid-cols-2 gap-2">
+              <Button size="xl" variant="success" icon={<Check className="h-6 w-6" />} onClick={() => act({ type: "MARK_CORRECT", team: "A" })} className="border-2 border-gold-400/60">
+                {s.teams.A.name}
+              </Button>
+              <Button size="xl" variant="success" icon={<Check className="h-6 w-6" />} onClick={() => act({ type: "MARK_CORRECT", team: "B" })} className="border-2 border-volt-400/60">
+                {s.teams.B.name}
+              </Button>
+            </div>
+          )}
+          <Button size="lg" variant="danger" className="w-full" icon={<X className="h-5 w-5" />} onClick={() => act({ type: "BACK_TO_BOARD" })}>
+            لا أحد — العودة للوحة
+          </Button>
+        </div>
+      )}
+
+      {!settled && !afterReveal && !prep && q.type !== "reverse_points" && (
         <div className="grid grid-cols-2 gap-2">
           <Button size="xl" variant="success" icon={<Check className="h-6 w-6" />} onClick={() => act({ type: "MARK_CORRECT", team: "A" })} className="border-2 border-gold-400/60">
             صح لـ {s.teams.A.name}
@@ -476,7 +513,7 @@ function QuestionControls({
       )}
 
       {/* أدوات إضافية */}
-      {!settled && (
+      {!settled && !afterReveal && !prep && (
         <div className="flex flex-wrap gap-2">
           {q.clues && a.cluesShown < q.clues.length && (
             <Button size="sm" variant="soft" onClick={() => act({ type: "NEXT_CLUE" })}>
@@ -500,31 +537,6 @@ function QuestionControls({
           <Button size="sm" variant="ghost" icon={<RotateCcw className="h-4 w-4" />} onClick={() => act({ type: "RESTART_QUESTION" })}>
             إعادة السؤال
           </Button>
-        </div>
-      )}
-
-      {/* وسائل المساعدة */}
-      {!settled && s.settings.powerupsEnabled && (a.stage === "answering" || a.stage === "stealing") && (
-        <div className="panel space-y-2 p-3">
-          <div className="text-sm font-semibold text-white/60">وسائل المساعدة</div>
-          {(["A", "B"] as TeamId[]).map((t) => (
-            <div key={t} className="flex flex-wrap items-center gap-1.5">
-              <span className={cn("w-20 truncate text-sm font-bold", TEAM_COLORS[t].text)}>{s.teams[t].name}</span>
-              {(Object.keys(POWERUPS) as PowerupId[])
-                .filter((p) => s.teams[t].powerups[p] !== "disabled")
-                .map((p) => (
-                  <button
-                    key={p}
-                    disabled={s.teams[t].powerups[p] !== "available"}
-                    onClick={() => act({ type: "USE_POWERUP", team: t, powerup: p })}
-                    className="rounded-xl bg-white/[0.07] px-2.5 py-1.5 text-xs font-semibold disabled:opacity-25"
-                    title={POWERUPS[p].desc}
-                  >
-                    {POWERUPS[p].icon} {POWERUPS[p].name}
-                  </button>
-                ))}
-            </div>
-          ))}
         </div>
       )}
 

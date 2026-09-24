@@ -145,7 +145,7 @@ export async function buildBoard(
 
     let missing = 0;
     BOARD_POINTS.forEach((points, ri) => {
-      const difficulty = points / 100 + (random() < 0.5 ? 0 : 1);
+      const difficulty = points / 100 + (BOARD_POINTS.indexOf(points) === ri ? 0 : 1);
       const pick = pickBest(rows, difficulty, used, recent, settings.level, random);
       if (pick) used.add(pick.id);
       else missing++;

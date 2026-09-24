@@ -7,6 +7,7 @@ import { play, unlockAudio } from "@/lib/client/sound";
 import type { useHostSession } from "@/lib/client/use-host-session";
 import type { PublicState } from "@/lib/game/public";
 import type { TeamId } from "@/lib/game/types";
+import { POWERUPS } from "@/lib/game/constants";
 import { cn, TEAM_COLORS } from "@/lib/utils";
 
 type Host = ReturnType<typeof useHostSession>;
@@ -39,59 +40,95 @@ export function TvHostControls({ host, state }: { host: Host; state: PublicState
   let buttons: React.ReactNode = null;
 
   if (state.phase === "question" && a) {
-    const settled = a.stage === "resolved" || a.stage === "revealed" || a.stage === "failed";
     const other: TeamId = a.pickedBy === "A" ? "B" : "A";
     const ranking = a.question?.type === "reverse_points";
-    buttons = settled ? (
-      <Btn tone="gold" onClick={() => act({ type: "BACK_TO_BOARD" })}>
-        العودة للوحة ↩
-      </Btn>
-    ) : (
+    const award = (
       <>
-        {!ranking && (
-          <>
-            <Btn tone="leaf" className="border-2 border-gold-400/70" onClick={() => act({ type: "MARK_CORRECT", team: "A" })}>
-              <Check className="h-5 w-5" /> صح لـ {state.teams.A.name}
-            </Btn>
-            <Btn tone="leaf" className="border-2 border-volt-400/70" onClick={() => act({ type: "MARK_CORRECT", team: "B" })}>
-              <Check className="h-5 w-5" /> صح لـ {state.teams.B.name}
-            </Btn>
-            {(a.stage === "answering" || a.stage === "stealing") && (
-              <Btn tone="wine" onClick={() => act({ type: "MARK_WRONG" })}>
-                <X className="h-5 w-5" /> خطأ
-              </Btn>
-            )}
-            {a.stage === "answering" && !a.noSteal && (
-              <Btn tone="volt" onClick={() => act({ type: "TRANSFER" })}>
-                <ArrowRight className="h-5 w-5" /> تحويل لـ {state.teams[other].name}
-              </Btn>
-            )}
-          </>
-        )}
-        {ranking && <span className="px-2 text-sm text-white/60">سؤال ترتيب — سجّل النقاط من لوحة المضيف</span>}
-        <Btn onClick={() => act({ type: "REVEAL_ANSWER" })}>
-          <Eye className="h-5 w-5" /> إظهار الإجابة
+        <Btn tone="leaf" className="border-2 border-gold-400/70" onClick={() => act({ type: "MARK_CORRECT", team: "A" })}>
+          <Check className="h-5 w-5" /> {state.teams.A.name}
         </Btn>
-        <Btn onClick={() => act({ type: "SKIP" })}>
-          <SkipForward className="h-5 w-5" /> تخطي
+        <Btn tone="leaf" className="border-2 border-volt-400/70" onClick={() => act({ type: "MARK_CORRECT", team: "B" })}>
+          <Check className="h-5 w-5" /> {state.teams.B.name}
         </Btn>
-        {state.timer.label &&
-          (state.timer.running ? (
-            <Btn onClick={() => act({ type: "PAUSE" })} label="إيقاف مؤقت">
-              <Pause className="h-5 w-5" />
-            </Btn>
-          ) : (
-            <Btn onClick={() => act({ type: "RESUME" })} label="استئناف" disabled={state.timer.expired}>
-              <Play className="h-5 w-5" />
-            </Btn>
-          ))}
-        {state.timer.label && (
-          <Btn onClick={() => act({ type: "ADD_TIME", seconds: 15 })} label="+15 ثانية">
-            <Plus className="h-5 w-5" /> 15
-          </Btn>
-        )}
       </>
     );
+    if (a.stage === "prep") {
+      const team = state.teams[a.pickedBy];
+      const used = new Set(a.powerupsUsed.map((u) => u.powerup));
+      const options = state.settings.enabledPowerups.filter((p) => team.powerups[p] === "available" && !used.has(p));
+      buttons = (
+        <>
+          <span className={cn("px-1 text-sm font-bold", TEAM_COLORS[a.pickedBy].text)}>⚡ {team.name}:</span>
+          {options.map((p) => (
+            <Btn key={p} onClick={() => act({ type: "USE_POWERUP", team: a.pickedBy, powerup: p })} label={POWERUPS[p].desc}>
+              {POWERUPS[p].icon} {POWERUPS[p].name}
+            </Btn>
+          ))}
+          <Btn tone="gold" onClick={() => act({ type: "START_QUESTION" })}>
+            <Play className="h-5 w-5" /> {a.powerupsUsed.length ? "اعرض السؤال" : "تخطي واعرض السؤال"}
+          </Btn>
+        </>
+      );
+    } else if (a.stage === "resolved") {
+      buttons = (
+        <Btn tone="gold" onClick={() => act({ type: "BACK_TO_BOARD" })}>
+          العودة للوحة ↩
+        </Btn>
+      );
+    } else if (a.stage === "revealed" || a.stage === "failed") {
+      // بعد إظهار الإجابة: لمين النقاط؟
+      buttons = ranking ? (
+        <Btn tone="gold" onClick={() => act({ type: "BACK_TO_BOARD" })}>
+          العودة للوحة ↩
+        </Btn>
+      ) : (
+        <>
+          <span className="px-1 text-sm font-bold text-white/70">لمين النقاط؟</span>
+          {award}
+          <Btn tone="wine" onClick={() => act({ type: "BACK_TO_BOARD" })}>
+            <X className="h-5 w-5" /> لا أحد
+          </Btn>
+        </>
+      );
+    } else {
+      buttons = (
+        <>
+          <Btn tone="gold" onClick={() => act({ type: "REVEAL_ANSWER" })}>
+            <Eye className="h-5 w-5" /> إظهار الإجابة
+          </Btn>
+          {!ranking && award}
+          {!ranking && (
+            <Btn tone="wine" onClick={() => act({ type: "MARK_WRONG" })}>
+              <X className="h-5 w-5" /> خطأ
+            </Btn>
+          )}
+          {!ranking && a.stage === "answering" && !a.noSteal && (
+            <Btn tone="volt" onClick={() => act({ type: "TRANSFER" })}>
+              <ArrowRight className="h-5 w-5" /> تحويل لـ {state.teams[other].name}
+            </Btn>
+          )}
+          {ranking && <span className="px-2 text-sm text-white/60">سؤال ترتيب — سجّل النقاط من لوحة المضيف</span>}
+          <Btn onClick={() => act({ type: "SKIP" })}>
+            <SkipForward className="h-5 w-5" /> تخطي
+          </Btn>
+          {state.timer.label &&
+            (state.timer.running ? (
+              <Btn onClick={() => act({ type: "PAUSE" })} label="إيقاف مؤقت">
+                <Pause className="h-5 w-5" />
+              </Btn>
+            ) : (
+              <Btn onClick={() => act({ type: "RESUME" })} label="استئناف" disabled={state.timer.expired}>
+                <Play className="h-5 w-5" />
+              </Btn>
+            ))}
+          {state.timer.label && (
+            <Btn onClick={() => act({ type: "ADD_TIME", seconds: 15 })} label="+15 ثانية">
+              <Plus className="h-5 w-5" /> 15
+            </Btn>
+          )}
+        </>
+      );
+    }
   } else if (state.phase === "final_question" && f) {
     buttons = (
       <>

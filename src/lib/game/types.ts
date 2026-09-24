@@ -29,6 +29,7 @@ export type Phase = "board" | "question" | "final_wager" | "final_question" | "f
 
 /** مرحلة السؤال المفتوح */
 export type Stage =
+  | "prep" // قبل عرض السؤال: اختيار وسائل المساعدة (اختياري)
   | "answering" // الفريق صاحب الدور يجيب
   | "stealing" // فرصة السرقة للفريق الآخر
   | "failed" // لم يعرف أحد — بانتظار إظهار الإجابة
@@ -214,6 +215,7 @@ export interface GameState {
 // ------------------------------------------------------------
 export type GameAction =
   | { type: "OPEN_CELL"; cellKey: string }
+  | { type: "START_QUESTION" }
   | { type: "MARK_CORRECT"; team: TeamId }
   | { type: "MARK_RANK"; team: TeamId; rank: number }
   | { type: "FINISH_RANKING" }

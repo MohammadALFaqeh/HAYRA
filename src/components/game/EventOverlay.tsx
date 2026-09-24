@@ -135,12 +135,15 @@ export function EventOverlay({ event, teams, sound = true }: { event: LastEvent 
       default:
         break;
     }
-    if (s) {
-      setShown(s);
-      const t = setTimeout(() => setShown((cur) => (cur?.id === s!.id ? null : cur)), s.tone === "good" ? 3600 : 2600);
-      return () => clearTimeout(t);
-    }
+    if (s) setShown(s);
   }, [event, teams, sound]);
+
+  // مؤقت الإخفاء مستقل عن تحديثات الحالة، حتى لا تبقى الرسالة معلّقة على الشاشة
+  useEffect(() => {
+    if (!shown) return;
+    const t = setTimeout(() => setShown((cur) => (cur?.id === shown.id ? null : cur)), shown.tone === "good" ? 3000 : 2200);
+    return () => clearTimeout(t);
+  }, [shown]);
 
   return (
     <AnimatePresence>

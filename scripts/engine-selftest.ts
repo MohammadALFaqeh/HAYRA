@@ -8,7 +8,12 @@ import type { BoardCell, BoardColumn, GameAction, GameState, QuestionSnapshot } 
 
 let now = 1_000_000;
 const ctx = () => ({ now, random: () => 0.42, newQrToken: () => "tok_" + now });
-const run = (s: GameState, a: GameAction) => applyAction(s, a, ctx());
+const step = (s: GameState, a: GameAction) => applyAction(s, a, ctx());
+// فتح خانة ثم تخطي مرحلة وسائل المساعدة تلقائيًا (تُختبر صراحةً في القسم 9)
+const run = (s: GameState, a: GameAction) => {
+  const next = step(s, a);
+  return a.type === "OPEN_CELL" && next.active?.stage === "prep" ? step(next, { type: "START_QUESTION" }) : next;
+};
 
 function q(id: string, over: Partial<QuestionSnapshot> = {}): QuestionSnapshot {
   return {
@@ -121,6 +126,35 @@ now += 60_000;
 s = run(s, { type: "TIME_UP" });
 assert.equal(s.timer.expired, true);
 s = run(s, { type: "SKIP" });
+
+// 9) مرحلة وسائل المساعدة قبل السؤال + الاحتساب بعد إظهار الإجابة
+{
+  let t = createInitialState({
+    sessionId: "s2", teamNames: ["أ", "ب"], settings: { ...DEFAULT_SETTINGS },
+    columns, cells: structuredClone(cells).map((c) => ({ ...c, mystery: null, status: "available" as const })), questions, finalQuestionId: null, packName: null, now,
+  });
+  t = step(t, { type: "OPEN_CELL", cellKey: "c0-r0" });
+  assert.equal(t.active?.stage, "prep", "المرحلة الأولى: وسائل المساعدة");
+  assert.equal(t.timer.running, false, "المؤقت لا يبدأ قبل عرض السؤال");
+  assert.equal(toPublicState(t).active?.question, null, "نص السؤال مخفي قبل البدء");
+  assert.throws(() => step(t, { type: "MARK_CORRECT", team: "A" }), "لا تحكيم قبل البدء");
+  t = step(t, { type: "USE_POWERUP", team: "A", powerup: "double" });
+  t = step(t, { type: "USE_POWERUP", team: "A", powerup: "extra_time" });
+  t = step(t, { type: "START_QUESTION" });
+  assert.equal(t.active?.stage, "answering");
+  assert.equal(t.timer.durationMs, (DEFAULT_SETTINGS.questionSeconds + 15) * 1000, "الوقت الإضافي يُضاف عند البدء");
+  t = step(t, { type: "REVEAL_ANSWER" });
+  assert.equal(t.active?.stage, "revealed");
+  t = step(t, { type: "MARK_CORRECT", team: "A" });
+  assert.equal(t.teams.A.score, 200, "الاحتساب بعد إظهار الإجابة مع المضاعفة");
+  t = step(t, { type: "BACK_TO_BOARD" });
+  // الفريق ب بدون وسائل؟ لديه وسائله كاملة → prep أيضًا، ويمكن التخطي مباشرة
+  t = step(t, { type: "OPEN_CELL", cellKey: "c1-r0" });
+  t = step(t, { type: "START_QUESTION" });
+  t = step(t, { type: "REVEAL_ANSWER" });
+  t = step(t, { type: "BACK_TO_BOARD" }); // لا أحد
+  assert.equal(t.teams.B.score, 0);
+}
 
 // 8) السؤال النهائي
 s = run(s, { type: "END_BOARD" });

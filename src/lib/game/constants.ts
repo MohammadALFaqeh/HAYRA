@@ -1,8 +1,8 @@
 import type { GameSettings, Level, MysteryKind, PowerupId, QuestionType } from "./types";
 
 export const POINT_ROWS = [100, 200, 300, 400, 500, 600] as const;
-/** قيم خانات اللوحة — كل خانة تغطي مستويي صعوبة (100: 1–2، 300: 3–4، 500: 5–6) */
-export const BOARD_POINTS = [100, 300, 500] as const;
+/** قيم خانات اللوحة — كل قيمة مرتين (سؤال لكل فريق): الأولى بصعوبة 1/3/5 والثانية 2/4/6 */
+export const BOARD_POINTS = [100, 100, 300, 300, 500, 500] as const;
 
 export const DIFFICULTY_LABELS: Record<number, string> = {
   1: "سهل جدًا",

@@ -117,7 +117,8 @@ export function toPublicState(s: GameState, serverTime = Date.now()): PublicStat
       winner: a.winner,
       awarded: a.awarded,
       rankAttempts: { A: a.rankClaims.A.length, B: a.rankClaims.B.length },
-      question: q
+      // في مرحلة وسائل المساعدة يبقى السؤال مخفيًا عن الشاشة
+      question: q && a.stage !== "prep"
         ? {
             id: q.id,
             type: q.type,
@@ -177,7 +178,8 @@ export function toPublicState(s: GameState, serverTime = Date.now()): PublicStat
       row: c.row,
       points: c.points,
       status: c.status,
-      mystery: !!c.mystery,
+      // الخانة الغامضة مفاجأة: لا تظهر على اللوحة قبل فتحها
+      mystery: !!c.mystery && c.mysteryRevealed,
       mysteryKind: c.mysteryRevealed ? c.mystery : null,
       wonBy: c.wonBy,
     })),

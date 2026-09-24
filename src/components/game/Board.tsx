@@ -100,7 +100,7 @@ function Tile({
       ) : (
         <span className="text-base">✓</span>
       )}
-      {available && cell.mystery && (
+      {available && (cell.mystery || hostKind) && (
         <span
           className={cn(
             "absolute left-1.5 top-1.5 grid place-items-center rounded-full bg-violet-500 font-sans font-black text-white shadow-[0_0_12px_rgba(166,114,255,.8)]",

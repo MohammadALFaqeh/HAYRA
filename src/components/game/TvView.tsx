@@ -1,11 +1,12 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { Maximize, Minimize } from "lucide-react";
 import { useClockSync } from "@/lib/client/clock";
 import { unlockAudio } from "@/lib/client/sound";
 import { useHostSession } from "@/lib/client/use-host-session";
 import { usePublicSession } from "@/lib/client/use-public-session";
+import { toPublicState } from "@/lib/game/public";
 import { cn } from "@/lib/utils";
 import { Logo } from "@/components/ui/Logo";
 import { SoundToggle } from "@/components/ui/SoundToggle";
@@ -13,6 +14,7 @@ import { Spinner } from "@/components/ui";
 import { Board } from "./Board";
 import { EventOverlay } from "./EventOverlay";
 import { FinalStage } from "./FinalStage";
+import { PrepStage } from "./PrepStage";
 import { QuestionStage } from "./QuestionStage";
 import { ResultsView } from "./ResultsView";
 import { Scoreboard } from "./Scoreboard";
@@ -21,12 +23,15 @@ import { TvHostControls } from "./TvHostControls";
 /** شاشة التلفزيون + وضع المتفرج. على جهاز المضيف تصبح تفاعلية (فتح الخانات والتحكيم) */
 export function TvView({ sessionId, spectator = false }: { sessionId: string; spectator?: boolean }) {
   useClockSync();
-  const { state, status } = usePublicSession(sessionId);
+  const { state: live, status } = usePublicSession(sessionId);
   // جهاز المضيف (يحمل مفتاح الجلسة) يتحكم من الشاشة مباشرة
   const host = useHostSession(sessionId);
-  const canControl = host.status === "ready";
+  const canControl = host.status === "ready" && !!host.state;
   const { syncWith } = host;
-  useEffect(() => syncWith(state?.updatedAt), [state?.updatedAt, syncWith]);
+  useEffect(() => syncWith(live?.updatedAt), [live?.updatedAt, syncWith]);
+  // على جهاز المضيف نعرض الحالة المحلية فورًا بدل انتظار السيرفر (استجابة أسرع للأزرار)
+  const hostState = host.state;
+  const state = useMemo(() => (canControl && hostState ? toPublicState(hostState) : live), [canControl, hostState, live]);
   const [origin, setOrigin] = useState("");
   const [started, setStarted] = useState(spectator);
   const [full, setFull] = useState(false);
@@ -134,7 +139,8 @@ export function TvView({ sessionId, spectator = false }: { sessionId: string; sp
             />
           </div>
         )}
-        {inQuestion && <QuestionStage active={state.active!} teams={state.teams} timer={state.timer} origin={origin} sound={sound} />}
+        {inQuestion && state.active!.stage === "prep" && <PrepStage state={state} />}
+        {inQuestion && state.active!.stage !== "prep" && <QuestionStage active={state.active!} teams={state.teams} timer={state.timer} origin={origin} sound={sound} />}
         {(state.phase === "final_wager" || state.phase === "final_question") && <FinalStage state={state} origin={origin} sound={sound} />}
         {state.phase === "finished" && (
           <div className="grid h-full place-items-center">
