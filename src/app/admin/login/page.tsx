@@ -17,9 +17,12 @@ export default function AdminLogin() {
     setLoading(true);
     setError(null);
     const sb = getBrowserSupabase();
-    const { data, error } = await sb.auth.signInWithPassword({ email, password });
+    // "admin" اختصار لبريد المشرف
+    const login = email.trim().toLowerCase();
+    const fullEmail = login === "admin" ? "mohammadalfaqeeh73@gmail.com" : login;
+    const { data, error } = await sb.auth.signInWithPassword({ email: fullEmail, password });
     if (error || !data.user) {
-      setError("البريد أو كلمة المرور غير صحيحة");
+      setError("اسم المستخدم أو كلمة المرور غير صحيحة");
       setLoading(false);
       return;
     }
@@ -39,8 +42,8 @@ export default function AdminLogin() {
       <form onSubmit={submit} className="panel w-full max-w-sm space-y-4 p-6">
         <Logo size={130} />
         <h1 className="text-center font-display text-2xl font-extrabold">لوحة الإدارة</h1>
-        <Field label="البريد الإلكتروني">
-          <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} required dir="ltr" className="w-full" autoComplete="email" />
+        <Field label="اسم المستخدم أو البريد">
+          <input type="text" value={email} onChange={(e) => setEmail(e.target.value)} required dir="ltr" className="w-full" autoComplete="username" autoCapitalize="none" />
         </Field>
         <Field label="كلمة المرور">
           <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} required dir="ltr" className="w-full" autoComplete="current-password" />
