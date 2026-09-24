@@ -1,0 +1,44 @@
+{
+  "name": "hayra",
+  "version": "1.0.0",
+  "private": true,
+  "description": "حيرة — منصة ألعاب ومسابقات جماعية عربية بين فريقين",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test:engine": "tsx scripts/engine-selftest.ts"
+  },
+  "dependencies": {
+    "@supabase/ssr": "0.12.7",
+    "@supabase/supabase-js": "2.117.1",
+    "canvas-confetti": "1.9.4",
+    "clsx": "2.1.1",
+    "framer-motion": "12.43.0",
+    "jose": "6.2.12",
+    "lucide-react": "0.577.0",
+    "next": "15.5.26",
+    "papaparse": "5.7.0",
+    "qrcode.react": "4.2.0",
+    "react": "19.1.9",
+    "react-dom": "19.1.9",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/canvas-confetti": "1.9.0",
+    "@types/node": "22.15.30",
+    "@types/papaparse": "5.3.16",
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
+    "autoprefixer": "10.4.21",
+    "postcss": "8.5.6",
+    "tailwindcss": "3.4.19",
+    "tsx": "4.20.3",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

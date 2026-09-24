@@ -1,0 +1,7496 @@
+[
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "كم عدد سور القرآن الكريم؟",
+  "answer": "114 سورة",
+  "type": "text",
+  "extra": {},
+  "source": "المصحف الشريف",
+  "tags": [
+   "قرآن",
+   "سور"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0001",
+  "code": "q_0001"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "كم عدد أجزاء القرآن الكريم؟",
+  "answer": "30",
+  "type": "multiple_choice",
+  "choices": [
+   "30",
+   "40",
+   "60",
+   "114"
+  ],
+  "extra": {},
+  "source": "المصحف الشريف",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0002",
+  "code": "q_0002"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "في أي غار نزل الوحي لأول مرة على النبي ﷺ؟",
+  "answer": "غار حراء",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري",
+  "reference": "صحيح البخاري، كتاب بدء الوحي",
+  "tags": [
+   "سيرة",
+   "بداية الوحي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0003",
+  "code": "q_0003"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "ramadan",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما السورة التي ورد فيها ذكر شهر رمضان باسمه صراحة؟",
+  "answer": "سورة البقرة",
+  "type": "text",
+  "extra": {},
+  "explanation": "﴿شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ﴾",
+  "source": "القرآن الكريم",
+  "reference": "البقرة: 185",
+  "tags": [
+   "رمضان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0004",
+  "code": "q_0004"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما أطول سورة في القرآن الكريم؟",
+  "answer": "سورة البقرة",
+  "type": "text",
+  "extra": {},
+  "explanation": "عدد آياتها 286 آية",
+  "source": "المصحف الشريف",
+  "tags": [
+   "قرآن",
+   "سور"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0005",
+  "code": "q_0005"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما السورة الوحيدة التي لا تبدأ بالبسملة؟",
+  "answer": "سورة التوبة",
+  "type": "text",
+  "extra": {},
+  "source": "المصحف الشريف",
+  "tags": [
+   "قرآن",
+   "بسملة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0006",
+  "code": "q_0006"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كم كان عمر النبي ﷺ عندما نزل عليه الوحي؟",
+  "answer": "40 سنة",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري",
+  "reference": "صحيح البخاري، كتاب مناقب الأنصار، باب مبعث النبي ﷺ",
+  "tags": [
+   "سيرة",
+   "قبل البعثة",
+   "بداية الوحي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0007",
+  "code": "q_0007"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hajj",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي يوم من شهر ذي الحجة يكون يوم عرفة؟",
+  "answer": "اليوم التاسع",
+  "type": "text",
+  "extra": {},
+  "source": "كتب الفقه",
+  "tags": [
+   "حج"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0008",
+  "code": "q_0008"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "mosques",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما أول مسجد بُني في الإسلام؟",
+  "answer": "مسجد قباء",
+  "type": "text",
+  "extra": {},
+  "explanation": "بناه النبي ﷺ عند وصوله إلى قباء في الهجرة",
+  "source": "كتب السيرة: السيرة النبوية لابن هشام، الرحيق المختوم",
+  "tags": [
+   "مساجد",
+   "هجرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0009",
+  "code": "q_0009"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي وردت فيها البسملة مرتين؟",
+  "answer": "سورة النمل",
+  "type": "text",
+  "extra": {},
+  "explanation": "في أولها، وفي الآية 30: ﴿إِنَّهُ مِن سُلَيْمَانَ وَإِنَّهُ بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ﴾",
+  "source": "القرآن الكريم",
+  "reference": "النمل: 30",
+  "tags": [
+   "قرآن",
+   "بسملة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0010",
+  "code": "q_0010"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "ghazawat",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في أي شهر وقعت غزوة بدر الكبرى؟",
+  "answer": "شهر رمضان (السنة الثانية للهجرة)",
+  "type": "text",
+  "extra": {},
+  "source": "كتب السيرة: السيرة النبوية لابن هشام، الرحيق المختوم",
+  "tags": [
+   "غزوات",
+   "بدر",
+   "رمضان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0011",
+  "code": "q_0011"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من الصحابي الذي أشار على النبي ﷺ بحفر الخندق؟",
+  "answer": "سلمان الفارسي",
+  "type": "text",
+  "extra": {},
+  "source": "كتب السيرة: السيرة النبوية لابن هشام، الرحيق المختوم",
+  "tags": [
+   "صحابة",
+   "الخندق"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0012",
+  "code": "q_0012"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من راوي حديث «إنما الأعمال بالنيات»؟",
+  "answer": "عمر بن الخطاب رضي الله عنه",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري",
+  "reference": "صحيح البخاري، الحديث رقم 1؛ صحيح مسلم",
+  "tags": [
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0013",
+  "code": "q_0013"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "ramadan",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في أي سنة هجرية فُرض صيام شهر رمضان؟",
+  "answer": "السنة الثانية للهجرة",
+  "type": "text",
+  "extra": {},
+  "source": "كتب السيرة: السيرة النبوية لابن هشام، الرحيق المختوم",
+  "tags": [
+   "رمضان",
+   "فقه"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0014",
+  "code": "q_0014"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من العالم المسلم صاحب كتاب «القانون في الطب»؟",
+  "answer": "ابن سينا",
+  "type": "text",
+  "extra": {},
+  "source": "كتب التراجم",
+  "tags": [
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0015",
+  "code": "q_0015"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما أطول آية في القرآن الكريم؟",
+  "answer": "آية الدَّين",
+  "type": "text",
+  "extra": {},
+  "explanation": "الآية 282 من سورة البقرة",
+  "source": "القرآن الكريم",
+  "reference": "البقرة: 282",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0016",
+  "code": "q_0016"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اسم ناقة النبي ﷺ التي ورد ذكرها في قصة صلح الحديبية؟",
+  "answer": "القصواء",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري",
+  "reference": "صحيح البخاري، كتاب الشروط، باب الشروط في الجهاد",
+  "tags": [
+   "سيرة",
+   "الحديبية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0017",
+  "code": "q_0017"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من النبي الذي تكرر ذكر اسمه في القرآن الكريم أكثر من غيره؟",
+  "answer": "موسى عليه السلام",
+  "type": "text",
+  "extra": {},
+  "explanation": "ذُكر اسمه أكثر من 130 مرة",
+  "source": "القرآن الكريم",
+  "tags": [
+   "أنبياء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0018",
+  "code": "q_0018"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "ghazawat",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الغزوة التي تُسمى «غزوة العُسرة»؟",
+  "answer": "غزوة تبوك",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري",
+  "reference": "صحيح البخاري، كتاب المغازي، باب غزوة تبوك وهي غزوة العسرة؛ التوبة: 117",
+  "tags": [
+   "غزوات",
+   "تبوك"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0019",
+  "code": "q_0019"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "adhkar",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الذِّكر الذي وصفه النبي ﷺ بأنه «كنز من كنوز الجنة»؟",
+  "answer": "لا حول ولا قوة إلا بالله",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري",
+  "reference": "صحيح البخاري، كتاب الدعوات؛ صحيح مسلم، كتاب الذكر والدعاء",
+  "tags": [
+   "أذكار"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0020",
+  "code": "q_0020"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "mosques",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اسم المسجد الذي ارتبط اسمه بحادثة تحويل القبلة في المدينة؟",
+  "answer": "مسجد القبلتين",
+  "type": "text",
+  "extra": {},
+  "source": "كتب السيرة: السيرة النبوية لابن هشام، الرحيق المختوم",
+  "tags": [
+   "مساجد"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0021",
+  "code": "q_0021"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من الصحابي الوحيد الذي ذُكر اسمه صريحًا في القرآن الكريم؟",
+  "answer": "زيد بن حارثة رضي الله عنه",
+  "type": "text",
+  "extra": {},
+  "explanation": "﴿فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا﴾",
+  "source": "القرآن الكريم",
+  "reference": "الأحزاب: 37",
+  "tags": [
+   "قرآن",
+   "صحابة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0022",
+  "code": "q_0022"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من الصحابي الذي اهتز لموته عرش الرحمن؟",
+  "answer": "سعد بن معاذ رضي الله عنه",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري",
+  "reference": "صحيح البخاري، كتاب مناقب الأنصار، باب مناقب سعد بن معاذ؛ صحيح مسلم",
+  "tags": [
+   "صحابة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0023",
+  "code": "q_0023"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hajj",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما الميقات المكاني لأهل نجد؟",
+  "answer": "قَرْن المنازل",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري",
+  "reference": "صحيح البخاري، كتاب الحج، باب مهل أهل مكة للحج والعمرة (حديث ابن عباس)",
+  "tags": [
+   "حج",
+   "مواقيت"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0024",
+  "code": "q_0024"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "mothers-believers",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من أم المؤمنين التي كانت تُلقب بـ«أم المساكين»؟",
+  "answer": "زينب بنت خزيمة رضي الله عنها",
+  "type": "text",
+  "extra": {},
+  "source": "كتب التراجم: الإصابة لابن حجر",
+  "tags": [
+   "أمهات المؤمنين"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0025",
+  "code": "q_0025"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من الخليفة الراشد الذي جمع الناس على مصحف واحد وأرسل نسخه إلى الأمصار؟",
+  "answer": "عثمان بن عفان رضي الله عنه",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري",
+  "reference": "صحيح البخاري، كتاب فضائل القرآن، باب جمع القرآن",
+  "tags": [
+   "خلفاء",
+   "جمع القرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0026",
+  "code": "q_0026"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من الصحابي الذي جعل النبي ﷺ شهادته بشهادة رجلين، فلُقّب بـ«ذي الشهادتين»؟",
+  "answer": "خزيمة بن ثابت الأنصاري",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري؛ سنن أبي داود",
+  "reference": "صحيح البخاري، كتاب فضائل القرآن، باب جمع القرآن؛ سنن أبي داود، كتاب الأقضية",
+  "tags": [
+   "صحابة",
+   "ألقاب"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0027",
+  "code": "q_0027"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من الصحابي الذي كلّفه أبو بكر الصديق بجمع القرآن في الصحف؟",
+  "answer": "زيد بن ثابت رضي الله عنه",
+  "type": "text",
+  "extra": {},
+  "source": "صحيح البخاري",
+  "reference": "صحيح البخاري، كتاب فضائل القرآن، باب جمع القرآن",
+  "tags": [
+   "علوم القرآن",
+   "جمع القرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0028",
+  "code": "q_0028"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من آخر خلفاء الدولة العباسية في بغداد قبل سقوطها بيد المغول سنة 656هـ؟",
+  "answer": "المستعصم بالله",
+  "type": "text",
+  "extra": {},
+  "source": "كتب التاريخ: البداية والنهاية لابن كثير",
+  "tags": [
+   "تاريخ إسلامي",
+   "العباسيون"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0029",
+  "code": "q_0029"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما الاسم الكامل الذي سمّى به الإمام البخاري كتابه المعروف بـ«صحيح البخاري»؟",
+  "answer": "الجامع المسند الصحيح المختصر من أمور رسول الله ﷺ وسننه وأيامه",
+  "type": "text",
+  "extra": {},
+  "source": "مقدمة فتح الباري لابن حجر",
+  "tags": [
+   "علماء",
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0030",
+  "code": "q_0030"
+ },
+ {
+  "category": "sports",
+  "subcategory": "football",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "كم عدد لاعبي فريق كرة القدم داخل الملعب؟",
+  "answer": "11 لاعبًا",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "كرة قدم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0031",
+  "code": "q_0031"
+ },
+ {
+  "category": "sports",
+  "subcategory": "general-sports",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "كم نقطة تُحتسب للرمية الناجحة من خارج القوس في كرة السلة؟",
+  "answer": "3 نقاط",
+  "type": "multiple_choice",
+  "choices": [
+   "نقطة",
+   "نقطتان",
+   "3 نقاط",
+   "4 نقاط"
+  ],
+  "extra": {},
+  "tags": [
+   "سلة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0032",
+  "code": "q_0032"
+ },
+ {
+  "category": "sports",
+  "subcategory": "world-cup",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أي منتخب توّج بكأس العالم 2022 في قطر؟",
+  "answer": "الأرجنتين",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "كأس العالم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0033",
+  "code": "q_0033"
+ },
+ {
+  "category": "sports",
+  "subcategory": "national-teams",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما أول منتخب عربي وأفريقي يصل إلى نصف نهائي كأس العالم؟",
+  "answer": "المغرب (مونديال 2022)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "منتخبات",
+   "كأس العالم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0034",
+  "code": "q_0034"
+ },
+ {
+  "category": "sports",
+  "subcategory": "general-sports",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كم عدد لاعبي فريق الكرة الطائرة داخل الملعب؟",
+  "answer": "6 لاعبين",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "طائرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0035",
+  "code": "q_0035"
+ },
+ {
+  "category": "sports",
+  "subcategory": "world-cup",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في أي دولة أقيمت كأس العالم 2010؟",
+  "answer": "جنوب أفريقيا",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "كأس العالم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0036",
+  "code": "q_0036"
+ },
+ {
+  "category": "sports",
+  "subcategory": "national-teams",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أي منتخب توّج بلقب كأس العرب 2021 في قطر؟",
+  "answer": "الجزائر",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "منتخبات",
+   "كأس العرب"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0037",
+  "code": "q_0037"
+ },
+ {
+  "category": "sports",
+  "subcategory": "world-cup",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم مرة فاز منتخب البرازيل بكأس العالم؟",
+  "answer": "5 مرات",
+  "type": "multiple_choice",
+  "choices": [
+   "3 مرات",
+   "4 مرات",
+   "5 مرات",
+   "6 مرات"
+  ],
+  "extra": {},
+  "explanation": "1958، 1962، 1970، 1994، 2002",
+  "tags": [
+   "كأس العالم",
+   "البرازيل"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0038",
+  "code": "q_0038"
+ },
+ {
+  "category": "sports",
+  "subcategory": "world-cup",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من هدّاف كأس العالم 2014 في البرازيل؟",
+  "answer": "خاميس رودريغيز (6 أهداف)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "كأس العالم",
+   "هدافين"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0039",
+  "code": "q_0039"
+ },
+ {
+  "category": "sports",
+  "subcategory": "players",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من الهدّاف التاريخي لبطولات كأس العالم؟",
+  "answer": "ميروسلاف كلوزه (16 هدفًا)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "لاعبين",
+   "هدافين"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0040",
+  "code": "q_0040"
+ },
+ {
+  "category": "sports",
+  "subcategory": "ucl",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما النادي الذي خسر نهائي دوري أبطال أوروبا 2005 في إسطنبول أمام ليفربول رغم تقدمه 3-0؟",
+  "answer": "ميلان",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دوري الأبطال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0041",
+  "code": "q_0041"
+ },
+ {
+  "category": "sports",
+  "subcategory": "coaches",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من المدرب الذي قاد الأرجنتين للفوز بكأس العالم 2022؟",
+  "answer": "ليونيل سكالوني",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "مدربين"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0042",
+  "code": "q_0042"
+ },
+ {
+  "category": "sports",
+  "subcategory": "general-sports",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي رياضة يُستخدم مصطلح «ألباتروس»؟",
+  "answer": "الغولف",
+  "type": "text",
+  "extra": {},
+  "explanation": "يعني إنهاء الحفرة بثلاث ضربات أقل من المعدل",
+  "tags": [
+   "غولف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0043",
+  "code": "q_0043"
+ },
+ {
+  "category": "sports",
+  "subcategory": "national-teams",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما أول منتخب عربي يشارك في نهائيات كأس العالم؟",
+  "answer": "مصر (مونديال 1934 في إيطاليا)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "منتخبات",
+   "تاريخ"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0044",
+  "code": "q_0044"
+ },
+ {
+  "category": "sports",
+  "subcategory": "ucl",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أي نادٍ توّج بأول نسخة من كأس أوروبا للأندية الأبطال عام 1956؟",
+  "answer": "ريال مدريد",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دوري الأبطال",
+   "تاريخ"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0045",
+  "code": "q_0045"
+ },
+ {
+  "category": "sports",
+  "subcategory": "players",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من اللاعب الوحيد الذي فاز بكأس العالم ثلاث مرات كلاعب؟",
+  "answer": "بيليه (1958، 1962، 1970)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "لاعبين"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0046",
+  "code": "q_0046"
+ },
+ {
+  "category": "sports",
+  "subcategory": "world-cup",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما الدولة التي استضافت أول كأس عالم عام 1930 وفازت بها أيضًا؟",
+  "answer": "الأوروغواي",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "كأس العالم",
+   "تاريخ"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0047",
+  "code": "q_0047"
+ },
+ {
+  "category": "sports",
+  "subcategory": "national-teams",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أي منتخب فاز بأول نسخة من كأس آسيا عام 1956؟",
+  "answer": "كوريا الجنوبية",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "منتخبات",
+   "كأس آسيا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0048",
+  "code": "q_0048"
+ },
+ {
+  "category": "sports",
+  "subcategory": "coaches",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من المدرب الوحيد الذي فاز بكأس العالم مرتين؟",
+  "answer": "فيتوريو بوتسو (إيطاليا 1934 و1938)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "مدربين",
+   "كأس العالم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0049",
+  "code": "q_0049"
+ },
+ {
+  "category": "drama",
+  "subcategory": "syrian-drama",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من الممثل الذي جسّد شخصية «غوار الطوشة»؟",
+  "answer": "دريد لحام",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دراما سورية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0050",
+  "code": "q_0050"
+ },
+ {
+  "category": "drama",
+  "subcategory": "anime",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الاسم العربي لبطل الأنمي الياباني «Captain Tsubasa»؟",
+  "answer": "كابتن ماجد",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أنمي",
+   "كرتون زمان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0051",
+  "code": "q_0051"
+ },
+ {
+  "category": "drama",
+  "subcategory": "gulf-drama",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أي دولة المسلسل الكوميدي «طاش ما طاش»؟",
+  "answer": "السعودية",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دراما خليجية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0052",
+  "code": "q_0052"
+ },
+ {
+  "category": "drama",
+  "subcategory": "syrian-drama",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من صاحب سلسلة «مرايا» الكوميدية؟",
+  "answer": "ياسر العظمة",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دراما سورية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0053",
+  "code": "q_0053"
+ },
+ {
+  "category": "drama",
+  "subcategory": "egyptian-drama",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من بطل مسلسل «رأفت الهجان»؟",
+  "answer": "محمود عبد العزيز",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دراما مصرية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0054",
+  "code": "q_0054"
+ },
+ {
+  "category": "drama",
+  "subcategory": "syrian-drama",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما اسم الحارة في مسلسل «باب الحارة»؟",
+  "answer": "حارة الضبع",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دراما سورية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0055",
+  "code": "q_0055"
+ },
+ {
+  "category": "drama",
+  "subcategory": "movies",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من مخرج فيلم «الرسالة» (1976)؟",
+  "answer": "مصطفى العقاد",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أفلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0056",
+  "code": "q_0056"
+ },
+ {
+  "category": "drama",
+  "subcategory": "egyptian-drama",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من كاتب مسلسل «ليالي الحلمية»؟",
+  "answer": "أسامة أنور عكاشة",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دراما مصرية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0057",
+  "code": "q_0057"
+ },
+ {
+  "category": "drama",
+  "subcategory": "gulf-drama",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من بطلا المسلسل الكويتي الشهير «درب الزلق»؟",
+  "answer": "عبد الحسين عبد الرضا وسعد الفرج",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دراما خليجية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0058",
+  "code": "q_0058"
+ },
+ {
+  "category": "drama",
+  "subcategory": "syrian-drama",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما اسم القرية التي تدور فيها أحداث مسلسل «ضيعة ضايعة»؟",
+  "answer": "أم الطنافس",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دراما سورية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0059",
+  "code": "q_0059"
+ },
+ {
+  "category": "drama",
+  "subcategory": "movies",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من جسّد شخصية عمر المختار في فيلم «أسد الصحراء» (1981)؟",
+  "answer": "أنتوني كوين",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أفلام",
+   "ممثلين"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0060",
+  "code": "q_0060"
+ },
+ {
+  "category": "drama",
+  "subcategory": "egyptian-drama",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من كاتب سيناريو فيلم «الإرهاب والكباب» (1992)؟",
+  "answer": "وحيد حامد",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أفلام مصرية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0061",
+  "code": "q_0061"
+ },
+ {
+  "category": "drama",
+  "subcategory": "syrian-drama",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من مخرج مسلسل «ضيعة ضايعة»؟",
+  "answer": "الليث حجو",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دراما سورية",
+   "مخرجين"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0062",
+  "code": "q_0062"
+ },
+ {
+  "category": "drama",
+  "subcategory": "movies",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من جسّد شخصية حمزة بن عبد المطلب في النسخة العربية من فيلم «الرسالة»؟",
+  "answer": "عبد الله غيث",
+  "type": "text",
+  "extra": {},
+  "explanation": "وجسّدها أنتوني كوين في النسخة الإنجليزية",
+  "tags": [
+   "أفلام",
+   "ممثلين"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0063",
+  "code": "q_0063"
+ },
+ {
+  "category": "brands",
+  "subcategory": "cars",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما شركة السيارات التي يتكون شعارها من أربع حلقات متداخلة؟",
+  "answer": "أودي",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "سيارات",
+   "شعارات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0064",
+  "code": "q_0064"
+ },
+ {
+  "category": "brands",
+  "subcategory": "cars",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أي دولة شركة «تويوتا»؟",
+  "answer": "اليابان",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "سيارات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0065",
+  "code": "q_0065"
+ },
+ {
+  "category": "brands",
+  "subcategory": "tech-companies",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الشركة المصنعة لهواتف «Galaxy»؟",
+  "answer": "سامسونج",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "تقنية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0066",
+  "code": "q_0066"
+ },
+ {
+  "category": "brands",
+  "subcategory": "logos",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الحيوان الموجود في شعار شركة «فيراري»؟",
+  "answer": "حصان جامح",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "شعارات",
+   "سيارات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0067",
+  "code": "q_0067"
+ },
+ {
+  "category": "brands",
+  "subcategory": "watches",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أي دولة علامة الساعات «رولكس»؟",
+  "answer": "سويسرا",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "ساعات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0068",
+  "code": "q_0068"
+ },
+ {
+  "category": "brands",
+  "subcategory": "restaurants",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما سلسلة المطاعم التي أسسها «الكولونيل ساندرز»؟",
+  "answer": "كنتاكي (KFC)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "مطاعم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0069",
+  "code": "q_0069"
+ },
+ {
+  "category": "brands",
+  "subcategory": "tech-companies",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أسس شركة «مايكروسوفت» مع بول ألن؟",
+  "answer": "بيل غيتس",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "تقنية",
+   "مؤسسين"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0070",
+  "code": "q_0070"
+ },
+ {
+  "category": "brands",
+  "subcategory": "brands-general",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أي دولة علامة الأثاث «إيكيا»؟",
+  "answer": "السويد",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "براندات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0071",
+  "code": "q_0071"
+ },
+ {
+  "category": "brands",
+  "subcategory": "cars",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما معنى اسم «فولكس فاجن» بالألمانية؟",
+  "answer": "سيارة الشعب",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "سيارات",
+   "معاني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0072",
+  "code": "q_0072"
+ },
+ {
+  "category": "brands",
+  "subcategory": "watches",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما علامة الساعات التي ارتبط طراز «سبيدماستر» منها برحلات أبولو إلى القمر؟",
+  "answer": "أوميغا",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "ساعات",
+   "فضاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0073",
+  "code": "q_0073"
+ },
+ {
+  "category": "brands",
+  "subcategory": "fashion",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "إلى من يعود اسم علامة «نايكي»؟",
+  "answer": "إلهة النصر عند الإغريق",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أزياء",
+   "أصل الأسماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0074",
+  "code": "q_0074"
+ },
+ {
+  "category": "brands",
+  "subcategory": "restaurants",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من أي رواية أُخذ اسم سلسلة المقاهي «ستاربكس»؟",
+  "answer": "موبي ديك",
+  "type": "text",
+  "extra": {},
+  "explanation": "نسبة إلى شخصية «ستاربك» مساعد القبطان في الرواية",
+  "tags": [
+   "مطاعم",
+   "أصل الأسماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0075",
+  "code": "q_0075"
+ },
+ {
+  "category": "brands",
+  "subcategory": "tech-companies",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما الاسم الأول لمشروع محرك بحث «غوغل» عام 1996؟",
+  "answer": "BackRub",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "تقنية",
+   "تاريخ الشركات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0076",
+  "code": "q_0076"
+ },
+ {
+  "category": "brands",
+  "subcategory": "cars",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما شركة السيارات التي يعني اسمها باللاتينية «أنا أتدحرج»؟",
+  "answer": "فولفو",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "سيارات",
+   "أصل الأسماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0077",
+  "code": "q_0077"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما عاصمة الأردن؟",
+  "answer": "عمّان",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "عواصم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0078",
+  "code": "q_0078"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما أكبر محيط في العالم؟",
+  "answer": "المحيط الهادئ",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "محيطات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0079",
+  "code": "q_0079"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما عاصمة كندا؟",
+  "answer": "أوتاوا",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "عواصم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0080",
+  "code": "q_0080"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما أكبر دولة عربية من حيث المساحة؟",
+  "answer": "الجزائر",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دول"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0081",
+  "code": "q_0081"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما عاصمة أستراليا؟",
+  "answer": "كانبرا",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "عواصم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0082",
+  "code": "q_0082"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما البحر الذي تقع على شاطئه أخفض نقطة على سطح اليابسة؟",
+  "answer": "البحر الميت",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "بحار",
+   "الأردن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0083",
+  "code": "q_0083"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما أعلى جبل في قارة أفريقيا؟",
+  "answer": "كليمنجارو",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "جبال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0084",
+  "code": "q_0084"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما عاصمة كازاخستان؟",
+  "answer": "أستانا",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "عواصم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0085",
+  "code": "q_0085"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي دولة تقع صحراء «أتاكاما»؟",
+  "answer": "تشيلي",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "صحاري"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0086",
+  "code": "q_0086"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما الدولة التي تُعد الأكثر عددًا من الجزر في العالم؟",
+  "answer": "السويد",
+  "type": "text",
+  "extra": {},
+  "explanation": "أكثر من 260 ألف جزيرة بحسب الإحصاءات الشائعة",
+  "tags": [
+   "جزر"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0087",
+  "code": "q_0087"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما النهر الذي يمر بأكبر عدد من الدول في العالم؟",
+  "answer": "نهر الدانوب (10 دول)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أنهار"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0088",
+  "code": "q_0088"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما عاصمة مملكة بوتان؟",
+  "answer": "تيمفو",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "عواصم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0089",
+  "code": "q_0089"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما أصغر دولة أفريقية من حيث المساحة؟",
+  "answer": "سيشل",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "دول"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0090",
+  "code": "q_0090"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "اليابان",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/jp.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0091",
+  "code": "q_0091"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "لبنان",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/lb.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0092",
+  "code": "q_0092"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "كوريا الجنوبية",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/kr.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0093",
+  "code": "q_0093"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "قبرص",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/cy.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0094",
+  "code": "q_0094"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "نيبال",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/np.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0095",
+  "code": "q_0095"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "كازاخستان",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/kz.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0096",
+  "code": "q_0096"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "ألبانيا",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/al.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0097",
+  "code": "q_0097"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "سريلانكا",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/lk.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0098",
+  "code": "q_0098"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "بوتان",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/bt.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0099",
+  "code": "q_0099"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "كيريباتي",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/ki.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0100",
+  "code": "q_0100"
+ },
+ {
+  "category": "geography",
+  "subcategory": "flags",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "لأي دولة هذا العلم؟",
+  "answer": "موزمبيق",
+  "type": "identify_image",
+  "extra": {},
+  "image_url": "https://flagcdn.com/w640/mz.png",
+  "source": "flagcdn.com",
+  "tags": [
+   "أعلام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0101",
+  "code": "q_0101"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "في أي عام انتهت الحرب العالمية الثانية؟",
+  "answer": "1945",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "حروب"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0102",
+  "code": "q_0102"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من القائد الذي انتصر في معركة حطين؟",
+  "answer": "صلاح الدين الأيوبي",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "معارك",
+   "الحروب الصليبية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0103",
+  "code": "q_0103"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من السلطان العثماني الذي فتح القسطنطينية عام 1453؟",
+  "answer": "محمد الفاتح",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "العثمانيون"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0104",
+  "code": "q_0104"
+ },
+ {
+  "category": "history",
+  "subcategory": "jordan-history",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي عام نالت المملكة الأردنية الهاشمية استقلالها؟",
+  "answer": "1946",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "الأردن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0105",
+  "code": "q_0105"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في أي عام ميلادي كانت الهجرة النبوية؟",
+  "answer": "622م",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "سيرة",
+   "تاريخ"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0106",
+  "code": "q_0106"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما اسم الاتفاقية السرية عام 1916 التي قسّمت المشرق العربي بين بريطانيا وفرنسا؟",
+  "answer": "سايكس بيكو",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "تاريخ حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0107",
+  "code": "q_0107"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من مؤسس الدولة الأموية؟",
+  "answer": "معاوية بن أبي سفيان",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "الأمويون"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0108",
+  "code": "q_0108"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي عام سقطت غرناطة آخر معاقل المسلمين في الأندلس؟",
+  "answer": "1492م",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "الأندلس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0109",
+  "code": "q_0109"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "لأي فرعون يُنسب الهرم الأكبر في الجيزة؟",
+  "answer": "خوفو",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "حضارات",
+   "مصر القديمة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0110",
+  "code": "q_0110"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الحضارة التي ابتكرت الكتابة المسمارية؟",
+  "answer": "الحضارة السومرية",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "حضارات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0111",
+  "code": "q_0111"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما المعاهدة التي أنهت الحرب العالمية الأولى مع ألمانيا عام 1919؟",
+  "answer": "معاهدة فرساي",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "حروب"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0112",
+  "code": "q_0112"
+ },
+ {
+  "category": "history",
+  "subcategory": "jordan-history",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي عام تأسست إمارة شرق الأردن؟",
+  "answer": "1921",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "الأردن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0113",
+  "code": "q_0113"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما المعركة التي هزم فيها المماليك المغول عام 1260م؟",
+  "answer": "معركة عين جالوت",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "معارك",
+   "المماليك"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0114",
+  "code": "q_0114"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من السلطان المملوكي الذي قاد جيش المسلمين في معركة عين جالوت؟",
+  "answer": "سيف الدين قطز",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "معارك",
+   "المماليك"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0115",
+  "code": "q_0115"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما المدينة التي بناها أبو جعفر المنصور وسمّاها «مدينة السلام»؟",
+  "answer": "بغداد",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "العباسيون"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0116",
+  "code": "q_0116"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من آخر ملوك بني الأحمر في غرناطة؟",
+  "answer": "أبو عبد الله محمد الثاني عشر (أبو عبد الله الصغير)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "الأندلس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0117",
+  "code": "q_0117"
+ },
+ {
+  "category": "science",
+  "subcategory": "space",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما الكوكب الذي يُلقب بالكوكب الأحمر؟",
+  "answer": "المريخ",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "فضاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0118",
+  "code": "q_0118"
+ },
+ {
+  "category": "science",
+  "subcategory": "animals",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "كم عدد أرجل العنكبوت؟",
+  "answer": "8 أرجل",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "حيوانات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0119",
+  "code": "q_0119"
+ },
+ {
+  "category": "science",
+  "subcategory": "general-science",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الغاز الذي تمتصه النباتات في عملية البناء الضوئي؟",
+  "answer": "ثاني أكسيد الكربون",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "نبات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0120",
+  "code": "q_0120"
+ },
+ {
+  "category": "science",
+  "subcategory": "space",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما أكبر كواكب المجموعة الشمسية؟",
+  "answer": "المشتري",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "فضاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0121",
+  "code": "q_0121"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدد عظام جسم الإنسان البالغ؟",
+  "answer": "206 عظمة",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "جسم الإنسان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0122",
+  "code": "q_0122"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما العضو الذي يفرز هرمون الأنسولين؟",
+  "answer": "البنكرياس",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "جسم الإنسان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0123",
+  "code": "q_0123"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما الفلز الوحيد الذي يكون سائلًا في درجة حرارة الغرفة؟",
+  "answer": "الزئبق",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "كيمياء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0124",
+  "code": "q_0124"
+ },
+ {
+  "category": "science",
+  "subcategory": "animals",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما الحيوان الثديي الوحيد القادر على الطيران الحقيقي؟",
+  "answer": "الخفاش",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "حيوانات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0125",
+  "code": "q_0125"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما أصغر عظمة في جسم الإنسان؟",
+  "answer": "عظمة الرِّكاب في الأذن الوسطى",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "جسم الإنسان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0126",
+  "code": "q_0126"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم عدد الكروموسومات في الخلية الجسدية للإنسان؟",
+  "answer": "46 كروموسومًا (23 زوجًا)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "وراثة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0127",
+  "code": "q_0127"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم تبلغ سرعة الضوء في الفراغ تقريبًا؟",
+  "answer": "نحو 300 ألف كيلومتر في الثانية",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "فيزياء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0128",
+  "code": "q_0128"
+ },
+ {
+  "category": "science",
+  "subcategory": "space",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما الكوكب الذي يدور حول محوره بعكس اتجاه معظم كواكب المجموعة الشمسية؟",
+  "answer": "الزهرة",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "فضاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0129",
+  "code": "q_0129"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما العنصر الكيميائي الذي رمزه W؟",
+  "answer": "التنغستن",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "كيمياء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0130",
+  "code": "q_0130"
+ },
+ {
+  "category": "science",
+  "subcategory": "space",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما أقرب نجم إلى الشمس؟",
+  "answer": "بروكسيما سنتوري",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "فضاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0131",
+  "code": "q_0131"
+ },
+ {
+  "category": "science",
+  "subcategory": "technology",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي عام أُرسل أول بريد إلكتروني عبر شبكة «أربانت»؟",
+  "answer": "1971",
+  "type": "text",
+  "extra": {},
+  "explanation": "أرسله راي توملينسون",
+  "tags": [
+   "تكنولوجيا",
+   "إنترنت"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0132",
+  "code": "q_0132"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما جمع كلمة «كتاب»؟",
+  "answer": "كُتُب",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "جمع"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0133",
+  "code": "q_0133"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما ضد كلمة «الكرم»؟",
+  "answer": "البخل",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أضداد"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0134",
+  "code": "q_0134"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "proverbs",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أكمل المثل: «رجع بخُفَّي ...»",
+  "answer": "حُنَين",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أمثال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0135",
+  "code": "q_0135"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما معنى كلمة «الغيث»؟",
+  "answer": "المطر",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "معاني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0136",
+  "code": "q_0136"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما الحرف الذي يُكتب ولا يُنطق في اسم «عمرو»؟",
+  "answer": "الواو",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "إملاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0137",
+  "code": "q_0137"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "proverbs",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "أكمل المثل: «سبق السيفُ ...»",
+  "answer": "العَذَل",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أمثال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0138",
+  "code": "q_0138"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "poetry",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من صاحب المعلقة التي مطلعها «قفا نبكِ من ذكرى حبيبٍ ومنزلِ»؟",
+  "answer": "امرؤ القيس",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "شعر",
+   "معلقات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0139",
+  "code": "q_0139"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما معنى «المَسْغَبة» في قوله تعالى: ﴿أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ﴾؟",
+  "answer": "المجاعة والجوع الشديد",
+  "type": "text",
+  "extra": {},
+  "reference": "البلد: 14",
+  "tags": [
+   "معاني",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0140",
+  "code": "q_0140"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من مؤلف «الكتاب» أشهر مؤلفات النحو العربي؟",
+  "answer": "سيبويه",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "نحو",
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0141",
+  "code": "q_0141"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "poetry",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد بحور الشعر العربي؟",
+  "answer": "16 بحرًا",
+  "type": "text",
+  "extra": {},
+  "explanation": "وضع الخليل 15 بحرًا واستدرك الأخفش بحر المتدارك",
+  "tags": [
+   "عروض"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0142",
+  "code": "q_0142"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما اسم أول معجم في اللغة العربية؟",
+  "answer": "كتاب «العين» للخليل بن أحمد الفراهيدي",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "معاجم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0143",
+  "code": "q_0143"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما الشيء الذي كلما أخذت منه كَبُر؟",
+  "answer": "الحفرة",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "ألغاز"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0144",
+  "code": "q_0144"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما الشيء الذي له أسنان ولا يعض؟",
+  "answer": "المشط",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "ألغاز"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0145",
+  "code": "q_0145"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الشيء الذي يمشي بلا أرجل ويبكي بلا عيون؟",
+  "answer": "السحاب",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "ألغاز"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0146",
+  "code": "q_0146"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الرقم التالي: 2، 4، 8، 16، ...؟",
+  "answer": "32",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "متسلسلات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0147",
+  "code": "q_0147"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في سباق للجري تجاوزت صاحب المركز الثاني، ففي أي مركز أصبحت؟",
+  "answer": "المركز الثاني",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "ذكاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0148",
+  "code": "q_0148"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "رجل لديه 5 بنات، ولكل بنت أخ واحد. كم عدد أولاده؟",
+  "answer": "6 (5 بنات وولد واحد)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "ذكاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0149",
+  "code": "q_0149"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما الرقم التالي: 1، 4، 9، 16، 25، ...؟",
+  "answer": "36",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "متسلسلات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0150",
+  "code": "q_0150"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "أب وابنه مجموع عمريهما 36 سنة، والأب أكبر من ابنه بـ30 سنة. كم عمر الابن؟",
+  "answer": "3 سنوات",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "رياضيات ذهنية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0151",
+  "code": "q_0151"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الرقم التالي: 1، 1، 2، 3، 5، 8، 13، ...؟",
+  "answer": "21",
+  "type": "text",
+  "extra": {},
+  "explanation": "كل رقم هو مجموع الرقمين السابقين (متتالية فيبوناتشي)",
+  "tags": [
+   "متسلسلات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0152",
+  "code": "q_0152"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "3 قطط تصطاد 3 فئران في 3 دقائق. كم قطة نحتاج لاصطياد 100 فأر في 100 دقيقة؟",
+  "answer": "3 قطط",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "ذكاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0153",
+  "code": "q_0153"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "كم مرة يتطابق عقربا الساعات والدقائق خلال 12 ساعة؟",
+  "answer": "11 مرة",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "ذكاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0154",
+  "code": "q_0154"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ساعة تدق عند كل ساعة بعدد الساعات (مرة عند الواحدة ومرتين عند الثانية...). كم دقة تدق خلال يوم كامل؟",
+  "answer": "156 دقة",
+  "type": "text",
+  "extra": {},
+  "explanation": "(1+2+...+12) × 2 = 78 × 2",
+  "tags": [
+   "رياضيات ذهنية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0155",
+  "code": "q_0155"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "كم يومًا في السنة الكبيسة؟",
+  "answer": "366 يومًا",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "منوعات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0156",
+  "code": "q_0156"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "كم عدد ألوان قوس قزح؟",
+  "answer": "7 ألوان",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "منوعات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0157",
+  "code": "q_0157"
+ },
+ {
+  "category": "general",
+  "subcategory": "records",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما أسرع حيوان بري في العالم؟",
+  "answer": "الفهد",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أرقام قياسية",
+   "حيوانات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0158",
+  "code": "q_0158"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أول إنسان صعد إلى الفضاء؟",
+  "answer": "يوري غاغارين (1961)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "فضاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0159",
+  "code": "q_0159"
+ },
+ {
+  "category": "general",
+  "subcategory": "inventions",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من العالم المسلم الذي يُنسب إليه تأسيس علم الجبر؟",
+  "answer": "الخوارزمي",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "علماء",
+   "رياضيات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0160",
+  "code": "q_0160"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم دقيقة في اليوم الواحد؟",
+  "answer": "1440 دقيقة",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "منوعات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0161",
+  "code": "q_0161"
+ },
+ {
+  "category": "general",
+  "subcategory": "inventions",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من صاحب أول براءة اختراع للهاتف عام 1876؟",
+  "answer": "ألكسندر غراهام بيل",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "اختراعات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0162",
+  "code": "q_0162"
+ },
+ {
+  "category": "general",
+  "subcategory": "records",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اللغة الأكثر تحدثًا في العالم كلغة أم؟",
+  "answer": "الصينية (الماندرين)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "لغات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0163",
+  "code": "q_0163"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد مفاتيح البيانو القياسي؟",
+  "answer": "88 مفتاحًا",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "موسيقى"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0164",
+  "code": "q_0164"
+ },
+ {
+  "category": "general",
+  "subcategory": "records",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما أقدم جامعة ما زالت تعمل في العالم بحسب موسوعة غينيس؟",
+  "answer": "جامعة القرويين في فاس",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أرقام قياسية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0165",
+  "code": "q_0165"
+ },
+ {
+  "category": "general",
+  "subcategory": "records",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما الدولة التي تمتلك أكبر عدد من المناطق الزمنية عند احتساب أقاليمها ما وراء البحار؟",
+  "answer": "فرنسا (12 منطقة زمنية)",
+  "type": "text",
+  "extra": {},
+  "tags": [
+   "أرقام قياسية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0166",
+  "code": "q_0166"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "who-am-i",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "الجمل",
+  "type": "who_am_i",
+  "clues": [
+   "أنا حيوان صبور جدًا",
+   "يلقبونني بسفينة الصحراء",
+   "أخزّن الدهون في سنامي"
+  ],
+  "extra": {},
+  "tags": [
+   "من أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0167",
+  "code": "q_0167"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "who-am-i",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "نهر النيل",
+  "type": "who_am_i",
+  "clues": [
+   "أنا نهر عظيم",
+   "أجري من الجنوب إلى الشمال",
+   "أصبّ في البحر الأبيض المتوسط"
+  ],
+  "extra": {},
+  "tags": [
+   "من أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0168",
+  "code": "q_0168"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "who-am-i",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "ابن سينا",
+  "type": "who_am_i",
+  "clues": [
+   "أنا طبيب وفيلسوف مسلم",
+   "وُلدت قرب بخارى",
+   "ألّفت كتاب «القانون في الطب»"
+  ],
+  "extra": {},
+  "tags": [
+   "من أنا",
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0169",
+  "code": "q_0169"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "who-am-i",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "ابن بطوطة",
+  "type": "who_am_i",
+  "clues": [
+   "أنا رحّالة",
+   "وُلدت في طنجة",
+   "كتابي «تحفة النظار في غرائب الأمصار وعجائب الأسفار»"
+  ],
+  "extra": {},
+  "tags": [
+   "من أنا",
+   "رحالة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0170",
+  "code": "q_0170"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "who-am-i",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من أنا؟",
+  "answer": "الشريف الإدريسي",
+  "type": "who_am_i",
+  "clues": [
+   "أنا جغرافي عربي",
+   "رسمت خريطة للعالم لملك صقلية روجر الثاني",
+   "كتابي «نزهة المشتاق في اختراق الآفاق»"
+  ],
+  "extra": {},
+  "tags": [
+   "من أنا",
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0171",
+  "code": "q_0171"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "who-am-i",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من أنا؟",
+  "answer": "بديع الزمان الجزري",
+  "type": "who_am_i",
+  "clues": [
+   "أنا مهندس مسلم",
+   "صممت ساعات مائية وآلات ذاتية الحركة",
+   "كتابي «الجامع بين العلم والعمل النافع في صناعة الحيل»"
+  ],
+  "extra": {},
+  "tags": [
+   "من أنا",
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0172",
+  "code": "q_0172"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-acting",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "اختاروا شخصًا من الفريق ليمسح الرمز ويمثّل الكلمة 🎭",
+  "answer": "كنغر",
+  "type": "qr_acting",
+  "extra": {
+   "instructions": "مثّل هذه الكلمة لفريقك بدون كلام ولا أصوات 🤐"
+  },
+  "tags": [
+   "تمثيل"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0173",
+  "code": "q_0173"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-acting",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "اختاروا شخصًا من الفريق ليمسح الرمز ويمثّل الكلمة 🎭",
+  "answer": "طيّار",
+  "type": "qr_acting",
+  "extra": {
+   "instructions": "مثّل هذه الكلمة لفريقك بدون كلام ولا أصوات 🤐"
+  },
+  "tags": [
+   "تمثيل"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0174",
+  "code": "q_0174"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-acting",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "اختاروا شخصًا من الفريق ليمسح الرمز ويمثّل الكلمة 🎭",
+  "answer": "حلّاق",
+  "type": "qr_acting",
+  "extra": {
+   "instructions": "مثّل هذه الكلمة لفريقك بدون كلام ولا أصوات 🤐"
+  },
+  "tags": [
+   "تمثيل"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0175",
+  "code": "q_0175"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-acting",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "اختاروا شخصًا من الفريق ليمسح الرمز ويمثّل الكلمة 🎭",
+  "answer": "غوّاص",
+  "type": "qr_acting",
+  "extra": {
+   "instructions": "مثّل هذه الكلمة لفريقك بدون كلام ولا أصوات 🤐"
+  },
+  "tags": [
+   "تمثيل"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0176",
+  "code": "q_0176"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-acting",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "اختاروا شخصًا من الفريق ليمسح الرمز ويمثّل الكلمة 🎭",
+  "answer": "حارس مرمى يصد ركلة جزاء",
+  "type": "qr_acting",
+  "extra": {
+   "instructions": "مثّل هذه الكلمة لفريقك بدون كلام ولا أصوات 🤐"
+  },
+  "tags": [
+   "تمثيل"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0177",
+  "code": "q_0177"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-acting",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "اختاروا شخصًا من الفريق ليمسح الرمز ويمثّل الكلمة 🎭",
+  "answer": "رائد فضاء يمشي على القمر",
+  "type": "qr_acting",
+  "extra": {
+   "instructions": "مثّل هذه الكلمة لفريقك بدون كلام ولا أصوات 🤐"
+  },
+  "tags": [
+   "تمثيل"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0178",
+  "code": "q_0178"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-acting",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "اختاروا شخصًا من الفريق ليمسح الرمز ويمثّل الكلمة 🎭",
+  "answer": "مصوّر في حفل زفاف",
+  "type": "qr_acting",
+  "extra": {
+   "instructions": "مثّل هذه الكلمة لفريقك بدون كلام ولا أصوات 🤐"
+  },
+  "tags": [
+   "تمثيل"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0179",
+  "code": "q_0179"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-acting",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "اختاروا شخصًا من الفريق ليمسح الرمز ويمثّل الكلمة 🎭",
+  "answer": "عالم آثار يكتشف مومياء",
+  "type": "qr_acting",
+  "extra": {
+   "instructions": "مثّل هذه الكلمة لفريقك بدون كلام ولا أصوات 🤐"
+  },
+  "tags": [
+   "تمثيل"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0180",
+  "code": "q_0180"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-drawing",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "اختاروا رسّامًا من الفريق ليمسح الرمز ويرسم 🎨",
+  "answer": "جمل",
+  "type": "qr_drawing",
+  "extra": {
+   "instructions": "ارسم هذه الكلمة لفريقك — ممنوع كتابة الحروف والأرقام ✏️"
+  },
+  "tags": [
+   "رسم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0181",
+  "code": "q_0181"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-drawing",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "اختاروا رسّامًا من الفريق ليمسح الرمز ويرسم 🎨",
+  "answer": "مظلة",
+  "type": "qr_drawing",
+  "extra": {
+   "instructions": "ارسم هذه الكلمة لفريقك — ممنوع كتابة الحروف والأرقام ✏️"
+  },
+  "tags": [
+   "رسم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0182",
+  "code": "q_0182"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-drawing",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "اختاروا رسّامًا من الفريق ليمسح الرمز ويرسم 🎨",
+  "answer": "فانوس رمضان",
+  "type": "qr_drawing",
+  "extra": {
+   "instructions": "ارسم هذه الكلمة لفريقك — ممنوع كتابة الحروف والأرقام ✏️"
+  },
+  "tags": [
+   "رسم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0183",
+  "code": "q_0183"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-drawing",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "اختاروا رسّامًا من الفريق ليمسح الرمز ويرسم 🎨",
+  "answer": "إشارة مرور",
+  "type": "qr_drawing",
+  "extra": {
+   "instructions": "ارسم هذه الكلمة لفريقك — ممنوع كتابة الحروف والأرقام ✏️"
+  },
+  "tags": [
+   "رسم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0184",
+  "code": "q_0184"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-drawing",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "اختاروا رسّامًا من الفريق ليمسح الرمز ويرسم 🎨",
+  "answer": "برج إيفل",
+  "type": "qr_drawing",
+  "extra": {
+   "instructions": "ارسم هذه الكلمة لفريقك — ممنوع كتابة الحروف والأرقام ✏️"
+  },
+  "tags": [
+   "رسم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0185",
+  "code": "q_0185"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-drawing",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "اختاروا رسّامًا من الفريق ليمسح الرمز ويرسم 🎨",
+  "answer": "منارة",
+  "type": "qr_drawing",
+  "extra": {
+   "instructions": "ارسم هذه الكلمة لفريقك — ممنوع كتابة الحروف والأرقام ✏️"
+  },
+  "tags": [
+   "رسم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0186",
+  "code": "q_0186"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-drawing",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "اختاروا رسّامًا من الفريق ليمسح الرمز ويرسم 🎨",
+  "answer": "البتراء",
+  "type": "qr_drawing",
+  "extra": {
+   "instructions": "ارسم هذه الكلمة لفريقك — ممنوع كتابة الحروف والأرقام ✏️"
+  },
+  "tags": [
+   "رسم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0187",
+  "code": "q_0187"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-drawing",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "اختاروا رسّامًا من الفريق ليمسح الرمز ويرسم 🎨",
+  "answer": "ساعة رملية",
+  "type": "qr_drawing",
+  "extra": {
+   "instructions": "ارسم هذه الكلمة لفريقك — ممنوع كتابة الحروف والأرقام ✏️"
+  },
+  "tags": [
+   "رسم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0188",
+  "code": "q_0188"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-drawing",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "اختاروا رسّامًا من الفريق ليمسح الرمز ويرسم 🎨",
+  "answer": "كسوف الشمس",
+  "type": "qr_drawing",
+  "extra": {
+   "instructions": "ارسم هذه الكلمة لفريقك — ممنوع كتابة الحروف والأرقام ✏️"
+  },
+  "tags": [
+   "رسم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0189",
+  "code": "q_0189"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-describe",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "اختاروا شخصًا يمسح الرمز ويصف الكلمة بدون ذكرها 🗣️",
+  "answer": "مستشفى",
+  "type": "qr_describe",
+  "extra": {
+   "instructions": "صِف الكلمة لفريقك بدون ذكرها وبدون الكلمات الممنوعة",
+   "forbidden": [
+    "طبيب",
+    "مريض",
+    "علاج",
+    "ممرض"
+   ]
+  },
+  "tags": [
+   "وصف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0190",
+  "code": "q_0190"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-describe",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "اختاروا شخصًا يمسح الرمز ويصف الكلمة بدون ذكرها 🗣️",
+  "answer": "مطار",
+  "type": "qr_describe",
+  "extra": {
+   "instructions": "صِف الكلمة لفريقك بدون ذكرها وبدون الكلمات الممنوعة",
+   "forbidden": [
+    "طائرة",
+    "سفر",
+    "رحلة",
+    "حقيبة"
+   ]
+  },
+  "tags": [
+   "وصف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0191",
+  "code": "q_0191"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-describe",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "اختاروا شخصًا يمسح الرمز ويصف الكلمة بدون ذكرها 🗣️",
+  "answer": "مكتبة",
+  "type": "qr_describe",
+  "extra": {
+   "instructions": "صِف الكلمة لفريقك بدون ذكرها وبدون الكلمات الممنوعة",
+   "forbidden": [
+    "كتب",
+    "قراءة",
+    "هدوء",
+    "رفوف"
+   ]
+  },
+  "tags": [
+   "وصف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0192",
+  "code": "q_0192"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-describe",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "اختاروا شخصًا يمسح الرمز ويصف الكلمة بدون ذكرها 🗣️",
+  "answer": "منسف",
+  "type": "qr_describe",
+  "extra": {
+   "instructions": "صِف الكلمة لفريقك بدون ذكرها وبدون الكلمات الممنوعة",
+   "forbidden": [
+    "لحم",
+    "أرز",
+    "لبن",
+    "جميد"
+   ]
+  },
+  "tags": [
+   "وصف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0193",
+  "code": "q_0193"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-describe",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "اختاروا شخصًا يمسح الرمز ويصف الكلمة بدون ذكرها 🗣️",
+  "answer": "كأس العالم",
+  "type": "qr_describe",
+  "extra": {
+   "instructions": "صِف الكلمة لفريقك بدون ذكرها وبدون الكلمات الممنوعة",
+   "forbidden": [
+    "كأس",
+    "عالم",
+    "كرة",
+    "منتخب"
+   ]
+  },
+  "tags": [
+   "وصف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0194",
+  "code": "q_0194"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-describe",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "اختاروا شخصًا يمسح الرمز ويصف الكلمة بدون ذكرها 🗣️",
+  "answer": "كسوف",
+  "type": "qr_describe",
+  "extra": {
+   "instructions": "صِف الكلمة لفريقك بدون ذكرها وبدون الكلمات الممنوعة",
+   "forbidden": [
+    "شمس",
+    "قمر",
+    "ظل",
+    "ظلام"
+   ]
+  },
+  "tags": [
+   "وصف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0195",
+  "code": "q_0195"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-describe",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "اختاروا شخصًا يمسح الرمز ويصف الكلمة بدون ذكرها 🗣️",
+  "answer": "الجاذبية",
+  "type": "qr_describe",
+  "extra": {
+   "instructions": "صِف الكلمة لفريقك بدون ذكرها وبدون الكلمات الممنوعة",
+   "forbidden": [
+    "نيوتن",
+    "تفاحة",
+    "سقوط",
+    "أرض"
+   ]
+  },
+  "tags": [
+   "وصف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0196",
+  "code": "q_0196"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-secret",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كلمة سرية! أحد أفراد الفريق يمسح الرمز ويعطي تلميحات 🤫",
+  "answer": "قهوة",
+  "type": "qr_secret",
+  "extra": {
+   "instructions": "أعطِ فريقك تلميحًا من كلمة واحدة فقط في كل مرة حتى يخمّنوا الكلمة السرية 🤫"
+  },
+  "tags": [
+   "كلمة سرية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0197",
+  "code": "q_0197"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-secret",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كلمة سرية! أحد أفراد الفريق يمسح الرمز ويعطي تلميحات 🤫",
+  "answer": "بطريق",
+  "type": "qr_secret",
+  "extra": {
+   "instructions": "أعطِ فريقك تلميحًا من كلمة واحدة فقط في كل مرة حتى يخمّنوا الكلمة السرية 🤫"
+  },
+  "tags": [
+   "كلمة سرية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0198",
+  "code": "q_0198"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-secret",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كلمة سرية! أحد أفراد الفريق يمسح الرمز ويعطي تلميحات 🤫",
+  "answer": "شطرنج",
+  "type": "qr_secret",
+  "extra": {
+   "instructions": "أعطِ فريقك تلميحًا من كلمة واحدة فقط في كل مرة حتى يخمّنوا الكلمة السرية 🤫"
+  },
+  "tags": [
+   "كلمة سرية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0199",
+  "code": "q_0199"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-secret",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كلمة سرية! أحد أفراد الفريق يمسح الرمز ويعطي تلميحات 🤫",
+  "answer": "زلزال",
+  "type": "qr_secret",
+  "extra": {
+   "instructions": "أعطِ فريقك تلميحًا من كلمة واحدة فقط في كل مرة حتى يخمّنوا الكلمة السرية 🤫"
+  },
+  "tags": [
+   "كلمة سرية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0200",
+  "code": "q_0200"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-secret",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كلمة سرية! أحد أفراد الفريق يمسح الرمز ويعطي تلميحات 🤫",
+  "answer": "بوصلة",
+  "type": "qr_secret",
+  "extra": {
+   "instructions": "أعطِ فريقك تلميحًا من كلمة واحدة فقط في كل مرة حتى يخمّنوا الكلمة السرية 🤫"
+  },
+  "tags": [
+   "كلمة سرية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0201",
+  "code": "q_0201"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-secret",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "كلمة سرية! أحد أفراد الفريق يمسح الرمز ويعطي تلميحات 🤫",
+  "answer": "إسطرلاب",
+  "type": "qr_secret",
+  "extra": {
+   "instructions": "أعطِ فريقك تلميحًا من كلمة واحدة فقط في كل مرة حتى يخمّنوا الكلمة السرية 🤫"
+  },
+  "tags": [
+   "كلمة سرية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0202",
+  "code": "q_0202"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-sound",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "صوت فقط! أحد أفراد الفريق يمسح الرمز ويقلّد الصوت 🔊",
+  "answer": "ديك",
+  "type": "qr_sound",
+  "extra": {
+   "instructions": "قلّد الصوت فقط — بدون كلام أو حركات 🔊"
+  },
+  "tags": [
+   "أصوات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0203",
+  "code": "q_0203"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-sound",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "صوت فقط! أحد أفراد الفريق يمسح الرمز ويقلّد الصوت 🔊",
+  "answer": "أسد",
+  "type": "qr_sound",
+  "extra": {
+   "instructions": "قلّد الصوت فقط — بدون كلام أو حركات 🔊"
+  },
+  "tags": [
+   "أصوات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0204",
+  "code": "q_0204"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-sound",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "صوت فقط! أحد أفراد الفريق يمسح الرمز ويقلّد الصوت 🔊",
+  "answer": "قطار",
+  "type": "qr_sound",
+  "extra": {
+   "instructions": "قلّد الصوت فقط — بدون كلام أو حركات 🔊"
+  },
+  "tags": [
+   "أصوات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0205",
+  "code": "q_0205"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-sound",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "صوت فقط! أحد أفراد الفريق يمسح الرمز ويقلّد الصوت 🔊",
+  "answer": "سيارة إسعاف",
+  "type": "qr_sound",
+  "extra": {
+   "instructions": "قلّد الصوت فقط — بدون كلام أو حركات 🔊"
+  },
+  "tags": [
+   "أصوات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0206",
+  "code": "q_0206"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-sound",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "صوت فقط! أحد أفراد الفريق يمسح الرمز ويقلّد الصوت 🔊",
+  "answer": "ضفدع",
+  "type": "qr_sound",
+  "extra": {
+   "instructions": "قلّد الصوت فقط — بدون كلام أو حركات 🔊"
+  },
+  "tags": [
+   "أصوات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0207",
+  "code": "q_0207"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-sound",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "صوت فقط! أحد أفراد الفريق يمسح الرمز ويقلّد الصوت 🔊",
+  "answer": "مكنسة كهربائية",
+  "type": "qr_sound",
+  "extra": {
+   "instructions": "قلّد الصوت فقط — بدون كلام أو حركات 🔊"
+  },
+  "tags": [
+   "أصوات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0208",
+  "code": "q_0208"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-sound",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "صوت فقط! أحد أفراد الفريق يمسح الرمز ويقلّد الصوت 🔊",
+  "answer": "طائرة هليكوبتر",
+  "type": "qr_sound",
+  "extra": {
+   "instructions": "قلّد الصوت فقط — بدون كلام أو حركات 🔊"
+  },
+  "tags": [
+   "أصوات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0209",
+  "code": "q_0209"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-sound",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "صوت فقط! أحد أفراد الفريق يمسح الرمز ويقلّد الصوت 🔊",
+  "answer": "مودم إنترنت قديم",
+  "type": "qr_sound",
+  "extra": {
+   "instructions": "قلّد الصوت فقط — بدون كلام أو حركات 🔊"
+  },
+  "tags": [
+   "أصوات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0210",
+  "code": "q_0210"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-movement",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "تحدي حركة! أحد أفراد الفريق يمسح الرمز وينفّذ التحدي 🤸",
+  "answer": "قف على قدم واحدة وعيناك مغمضتان وعُدّ حتى 15",
+  "type": "qr_movement",
+  "extra": {
+   "instructions": "نفّذ هذا التحدي الآن أمام الجميع — المضيف يحكم 🤸"
+  },
+  "tags": [
+   "تحدي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0211",
+  "code": "q_0211"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-movement",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "تحدي حركة! أحد أفراد الفريق يمسح الرمز وينفّذ التحدي 🤸",
+  "answer": "اذكر 5 عواصم عربية خلال 10 ثوانٍ",
+  "type": "qr_movement",
+  "extra": {
+   "instructions": "نفّذ هذا التحدي الآن أمام الجميع — المضيف يحكم 🤸"
+  },
+  "tags": [
+   "تحدي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0212",
+  "code": "q_0212"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-movement",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "تحدي حركة! أحد أفراد الفريق يمسح الرمز وينفّذ التحدي 🤸",
+  "answer": "اذكر 5 سور من جزء عمّ خلال 15 ثانية",
+  "type": "qr_movement",
+  "extra": {
+   "instructions": "نفّذ هذا التحدي الآن أمام الجميع — المضيف يحكم 🤸"
+  },
+  "tags": [
+   "تحدي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0213",
+  "code": "q_0213"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-movement",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "تحدي حركة! أحد أفراد الفريق يمسح الرمز وينفّذ التحدي 🤸",
+  "answer": "قل «خيط حرير على حيط خليل» ثلاث مرات بسرعة بدون خطأ",
+  "type": "qr_movement",
+  "extra": {
+   "instructions": "نفّذ هذا التحدي الآن أمام الجميع — المضيف يحكم 🤸"
+  },
+  "tags": [
+   "تحدي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0214",
+  "code": "q_0214"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-movement",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "تحدي حركة! أحد أفراد الفريق يمسح الرمز وينفّذ التحدي 🤸",
+  "answer": "عُدّ تنازليًا من 20 إلى 1 خلال 12 ثانية",
+  "type": "qr_movement",
+  "extra": {
+   "instructions": "نفّذ هذا التحدي الآن أمام الجميع — المضيف يحكم 🤸"
+  },
+  "tags": [
+   "تحدي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0215",
+  "code": "q_0215"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-movement",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "تحدي حركة! أحد أفراد الفريق يمسح الرمز وينفّذ التحدي 🤸",
+  "answer": "اذكر 8 دول أفريقية خلال 20 ثانية",
+  "type": "qr_movement",
+  "extra": {
+   "instructions": "نفّذ هذا التحدي الآن أمام الجميع — المضيف يحكم 🤸"
+  },
+  "tags": [
+   "تحدي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0216",
+  "code": "q_0216"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-movement",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "تحدي حركة! أحد أفراد الفريق يمسح الرمز وينفّذ التحدي 🤸",
+  "answer": "اذكر 10 من أسماء الله الحسنى خلال 20 ثانية",
+  "type": "qr_movement",
+  "extra": {
+   "instructions": "نفّذ هذا التحدي الآن أمام الجميع — المضيف يحكم 🤸"
+  },
+  "tags": [
+   "تحدي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0217",
+  "code": "q_0217"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-who-am-i",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "مين أنا؟ أحد أفراد الفريق يمسح الرمز ويجيب بنعم أو لا 🎩",
+  "answer": "أسد",
+  "type": "qr_who_am_i",
+  "extra": {
+   "instructions": "أنت هذه الشخصية! فريقك يسألك أسئلة جوابها «نعم» أو «لا» فقط 🎩"
+  },
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0218",
+  "code": "q_0218"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-who-am-i",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "مين أنا؟ أحد أفراد الفريق يمسح الرمز ويجيب بنعم أو لا 🎩",
+  "answer": "طبيب أسنان",
+  "type": "qr_who_am_i",
+  "extra": {
+   "instructions": "أنت هذه الشخصية! فريقك يسألك أسئلة جوابها «نعم» أو «لا» فقط 🎩"
+  },
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0219",
+  "code": "q_0219"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-who-am-i",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "مين أنا؟ أحد أفراد الفريق يمسح الرمز ويجيب بنعم أو لا 🎩",
+  "answer": "صلاح الدين الأيوبي",
+  "type": "qr_who_am_i",
+  "extra": {
+   "instructions": "أنت هذه الشخصية! فريقك يسألك أسئلة جوابها «نعم» أو «لا» فقط 🎩"
+  },
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0220",
+  "code": "q_0220"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-who-am-i",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "مين أنا؟ أحد أفراد الفريق يمسح الرمز ويجيب بنعم أو لا 🎩",
+  "answer": "طارق بن زياد",
+  "type": "qr_who_am_i",
+  "extra": {
+   "instructions": "أنت هذه الشخصية! فريقك يسألك أسئلة جوابها «نعم» أو «لا» فقط 🎩"
+  },
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0221",
+  "code": "q_0221"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-who-am-i",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "مين أنا؟ أحد أفراد الفريق يمسح الرمز ويجيب بنعم أو لا 🎩",
+  "answer": "ابن بطوطة",
+  "type": "qr_who_am_i",
+  "extra": {
+   "instructions": "أنت هذه الشخصية! فريقك يسألك أسئلة جوابها «نعم» أو «لا» فقط 🎩"
+  },
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0222",
+  "code": "q_0222"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-who-am-i",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "مين أنا؟ أحد أفراد الفريق يمسح الرمز ويجيب بنعم أو لا 🎩",
+  "answer": "هارون الرشيد",
+  "type": "qr_who_am_i",
+  "extra": {
+   "instructions": "أنت هذه الشخصية! فريقك يسألك أسئلة جوابها «نعم» أو «لا» فقط 🎩"
+  },
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0223",
+  "code": "q_0223"
+ },
+ {
+  "category": "interactive",
+  "subcategory": "qr-who-am-i",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "مين أنا؟ أحد أفراد الفريق يمسح الرمز ويجيب بنعم أو لا 🎩",
+  "answer": "ابن الهيثم",
+  "type": "qr_who_am_i",
+  "extra": {
+   "instructions": "أنت هذه الشخصية! فريقك يسألك أسئلة جوابها «نعم» أو «لا» فقط 🎩"
+  },
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-0224",
+  "code": "q_0224"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة البروج",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة البروج",
+   "سورة الماعون",
+   "سورة الناس",
+   "سورة النصر"
+  ],
+  "extra": {
+   "quote": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "البروج: 10",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:85:10:mc",
+  "code": "q_0225"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة البينة",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة البينة",
+   "سورة الانشقاق",
+   "سورة الماعون",
+   "سورة العلق"
+  ],
+  "extra": {
+   "quote": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "البينة: 2",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:98:2:mc",
+  "code": "q_0226"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة النصر",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الشمس",
+   "سورة النصر",
+   "سورة العصر",
+   "سورة الشرح"
+  ],
+  "extra": {
+   "quote": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ إِنَّهُۥ كَانَ تَوَّابًۢا"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "النصر: 3",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:110:3:mc",
+  "code": "q_0227"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الانشقاق",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الانفطار",
+   "سورة الانشقاق",
+   "سورة العاديات",
+   "سورة المطففين"
+  ],
+  "extra": {
+   "quote": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الانشقاق: 25",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:84:25:mc",
+  "code": "q_0228"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الليل",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة البينة",
+   "سورة الليل",
+   "سورة النازعات",
+   "سورة التكاثر"
+  ],
+  "extra": {
+   "quote": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الليل: 11",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:92:11:mc",
+  "code": "q_0229"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة قريش",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة قريش",
+   "سورة النصر",
+   "سورة الناس",
+   "سورة العصر"
+  ],
+  "extra": {
+   "quote": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "قريش: 4",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:106:4:mc",
+  "code": "q_0230"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة القدر",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الشرح",
+   "سورة الإخلاص",
+   "سورة الفيل",
+   "سورة القدر"
+  ],
+  "extra": {
+   "quote": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "القدر: 4",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:97:4:mc",
+  "code": "q_0231"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة التين",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة التين",
+   "سورة التكوير",
+   "سورة الإخلاص",
+   "سورة الطارق"
+  ],
+  "extra": {
+   "quote": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "التين: 4",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:95:4:mc",
+  "code": "q_0232"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الأعلى",
+  "type": "text",
+  "extra": {
+   "quote": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الأعلى: 13",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:87:13",
+  "code": "q_0233"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الليل",
+  "type": "text",
+  "extra": {
+   "quote": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الليل: 19",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:92:19",
+  "code": "q_0234"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة البروج",
+  "type": "text",
+  "extra": {
+   "quote": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "البروج: 9",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:85:9",
+  "code": "q_0235"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الزلزلة",
+  "type": "text",
+  "extra": {
+   "quote": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الزلزلة: 8",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:99:8",
+  "code": "q_0236"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة العاديات",
+  "type": "text",
+  "extra": {
+   "quote": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "العاديات: 9",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:100:9",
+  "code": "q_0237"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة التين",
+  "type": "text",
+  "extra": {
+   "quote": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "التين: 6",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:95:6",
+  "code": "q_0238"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة المزمل",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة القيامة",
+   "سورة الطلاق",
+   "سورة المرسلات",
+   "سورة المزمل"
+  ],
+  "extra": {
+   "quote": "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "المزمل: 17",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:73:17:mc",
+  "code": "q_0239"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الطور",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الإنسان",
+   "سورة الرحمن",
+   "سورة النجم",
+   "سورة الطور"
+  ],
+  "extra": {
+   "quote": "إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الطور: 28",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:52:28:mc",
+  "code": "q_0240"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الرحمن",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الرحمن",
+   "سورة الإنسان",
+   "سورة القلم",
+   "سورة التغابن"
+  ],
+  "extra": {
+   "quote": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الرحمن: 74",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:55:74:mc",
+  "code": "q_0241"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الجن",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الإنسان",
+   "سورة نوح",
+   "سورة الحجرات",
+   "سورة الجن"
+  ],
+  "extra": {
+   "quote": "لِّنَفْتِنَهُمْ فِيهِ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِۦ يَسْلُكْهُ عَذَابًا صَعَدًا"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الجن: 17",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:72:17:mc",
+  "code": "q_0242"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة القمر",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الإنسان",
+   "سورة المرسلات",
+   "سورة الذاريات",
+   "سورة القمر"
+  ],
+  "extra": {
+   "quote": "أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "القمر: 25",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:54:25:mc",
+  "code": "q_0243"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الأحقاف",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة القيامة",
+   "سورة الملك",
+   "سورة الرحمن",
+   "سورة الأحقاف"
+  ],
+  "extra": {
+   "quote": "وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءً وَكَانُوا۟ بِعِبَادَتِهِمْ كَٰفِرِينَ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الأحقاف: 6",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:46:6:mc",
+  "code": "q_0244"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة محمد",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الممتحنة",
+   "سورة المعارج",
+   "سورة محمد",
+   "سورة المدثر"
+  ],
+  "extra": {
+   "quote": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَٰفِرِينَ لَا مَوْلَىٰ لَهُمْ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "محمد: 11",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:47:11:mc",
+  "code": "q_0245"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة ق",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الصف",
+   "سورة ق",
+   "سورة الطلاق",
+   "سورة الأحقاف"
+  ],
+  "extra": {
+   "quote": "وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "ق: 7",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:50:7:mc",
+  "code": "q_0246"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الصف",
+  "type": "text",
+  "extra": {
+   "quote": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ هَلْ أَدُلُّكُمْ عَلَىٰ تِجَٰرَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الصف: 10",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:61:10",
+  "code": "q_0247"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الحجرات",
+  "type": "text",
+  "extra": {
+   "quote": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الحجرات: 4",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:49:4",
+  "code": "q_0248"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الطلاق",
+  "type": "text",
+  "extra": {
+   "quote": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الطلاق: 3",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:65:3",
+  "code": "q_0249"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة محمد",
+  "type": "text",
+  "extra": {
+   "quote": "وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "محمد: 17",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:47:17",
+  "code": "q_0250"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة المعارج",
+  "type": "text",
+  "extra": {
+   "quote": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "المعارج: 43",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:70:43",
+  "code": "q_0251"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة المنافقون",
+  "type": "text",
+  "extra": {
+   "quote": "وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ قَٰتَلَهُمُ ٱللَّهُ أَنَّىٰ يُؤْفَكُونَ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "المنافقون: 4",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:63:4",
+  "code": "q_0252"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة القمر",
+  "type": "text",
+  "extra": {
+   "quote": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "القمر: 31",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:54:31",
+  "code": "q_0253"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الملك",
+  "type": "text",
+  "extra": {
+   "quote": "قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ كَبِيرٍ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الملك: 9",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:67:9",
+  "code": "q_0254"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة لقمان",
+  "type": "text",
+  "extra": {
+   "quote": "مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَٰحِدَةٍ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "لقمان: 28",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:31:28",
+  "code": "q_0255"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة ص",
+  "type": "text",
+  "extra": {
+   "quote": "إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "ص: 23",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:38:23",
+  "code": "q_0256"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة التوبة",
+  "type": "text",
+  "extra": {
+   "quote": "وَمِنَ ٱلْأَعْرَابِ مَن يَتَّخِذُ مَا يُنفِقُ مَغْرَمًا وَيَتَرَبَّصُ بِكُمُ ٱلدَّوَآئِرَ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ وَٱللَّهُ سَمِيعٌ عَلِيمٌ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "التوبة: 98",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:9:98",
+  "code": "q_0257"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الزمر",
+  "type": "text",
+  "extra": {
+   "quote": "مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الزمر: 40",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:39:40",
+  "code": "q_0258"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الأحزاب",
+  "type": "text",
+  "extra": {
+   "quote": "وَٱذْكُرْنَ مَا يُتْلَىٰ فِى بُيُوتِكُنَّ مِنْ ءَايَٰتِ ٱللَّهِ وَٱلْحِكْمَةِ إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الأحزاب: 34",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:33:34",
+  "code": "q_0259"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة مريم",
+  "type": "text",
+  "extra": {
+   "quote": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "مريم: 24",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:19:24",
+  "code": "q_0260"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الأنعام",
+  "type": "text",
+  "extra": {
+   "quote": "أُو۟لَٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ فَبِهُدَىٰهُمُ ٱقْتَدِهْ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَٰلَمِينَ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الأنعام: 90",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:6:90",
+  "code": "q_0261"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة النمل",
+  "type": "text",
+  "extra": {
+   "quote": "إِنَّهُۥ مِن سُلَيْمَٰنَ وَإِنَّهُۥ بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "النمل: 30",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:27:30",
+  "code": "q_0262"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة هود",
+  "type": "text",
+  "extra": {
+   "quote": "قَالُوا۟ يَٰصَٰلِحُ قَدْ كُنتَ فِينَا مَرْجُوًّا قَبْلَ هَٰذَآ أَتَنْهَىٰنَآ أَن نَّعْبُدَ مَا يَعْبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِى شَكٍّ مِّمَّا تَدْعُونَآ إِلَيْهِ مُرِيبٍ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "هود: 62",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:11:62",
+  "code": "q_0263"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي سورة وردت هذه الآية الكريمة؟",
+  "answer": "سورة الزخرف",
+  "type": "text",
+  "extra": {
+   "quote": "وَإِنَّهُۥ فِىٓ أُمِّ ٱلْكِتَٰبِ لَدَيْنَا لَعَلِىٌّ حَكِيمٌ"
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الزخرف: 4",
+  "tags": [
+   "قرآن",
+   "آيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "surah_of:43:4",
+  "code": "q_0264"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+  "type": "text",
+  "extra": {
+   "quote": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الانشقاق: 25",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:84:25",
+  "code": "q_0265"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "شَيْـًٔا وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+  "type": "text",
+  "extra": {
+   "quote": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الانفطار: 19",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:82:19",
+  "code": "q_0266"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+  "type": "text",
+  "extra": {
+   "quote": "وَمَا تَشَآءُونَ إِلَّآ أَن …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "التكوير: 29",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:81:29",
+  "code": "q_0267"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+  "type": "text",
+  "extra": {
+   "quote": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "النبأ: 40",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:78:40",
+  "code": "q_0268"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "مُسْلِمَٰتٍ مُّؤْمِنَٰتٍ قَٰنِتَٰتٍ تَٰٓئِبَٰتٍ عَٰبِدَٰتٍ سَٰٓئِحَٰتٍ ثَيِّبَٰتٍ وَأَبْكَارًا",
+  "type": "text",
+  "extra": {
+   "quote": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًا مِّنكُنَّ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "التحريم: 5",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:66:5",
+  "code": "q_0269"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
+  "type": "text",
+  "extra": {
+   "quote": "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الحجرات: 18",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:49:18",
+  "code": "q_0270"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "وَفَتْحٌ قَرِيبٌ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+  "type": "text",
+  "extra": {
+   "quote": "وَأُخْرَىٰ تُحِبُّونَهَا نَصْرٌ مِّنَ ٱللَّهِ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الصف: 13",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:61:13",
+  "code": "q_0271"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "يَفْصِلُ بَيْنَكُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+  "type": "text",
+  "extra": {
+   "quote": "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَٰدُكُمْ يَوْمَ ٱلْقِيَٰمَةِ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الممتحنة: 3",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:60:3",
+  "code": "q_0272"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+  "type": "text",
+  "extra": {
+   "quote": "فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِىٓ أَنزَلْنَا …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "التغابن: 8",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:64:8",
+  "code": "q_0273"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "ٱلَّذِينَ ءَامَنُوا۟ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًا",
+  "type": "text",
+  "extra": {
+   "quote": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا فَٱتَّقُوا۟ ٱللَّهَ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الطلاق: 10",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:65:10",
+  "code": "q_0274"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ",
+  "type": "text",
+  "extra": {
+   "quote": "وَقَوْمَ نُوحٍ مِّن قَبْلُ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الذاريات: 46",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:51:46",
+  "code": "q_0275"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ",
+  "type": "text",
+  "extra": {
+   "quote": "فَيَوْمَئِذٍ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُوا۟ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الروم: 57",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:30:57",
+  "code": "q_0276"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "مِنْ حَيْثُ لَا يَشْعُرُونَ",
+  "type": "text",
+  "extra": {
+   "quote": "كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَىٰهُمُ ٱلْعَذَابُ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الزمر: 25",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:39:25",
+  "code": "q_0277"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌ",
+  "type": "text",
+  "extra": {
+   "quote": "وَقَالُوا۟ يَٰٓأَيُّهَا ٱلَّذِى نُزِّلَ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الحجر: 6",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:15:6",
+  "code": "q_0278"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
+  "type": "text",
+  "extra": {
+   "quote": "وَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًا طَيِّبًا وَٱتَّقُوا۟ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "المائدة: 88",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:5:88",
+  "code": "q_0279"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "كَثِيرًا أَفَلَمْ تَكُونُوا۟ تَعْقِلُونَ",
+  "type": "text",
+  "extra": {
+   "quote": "وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "يس: 62",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:36:62",
+  "code": "q_0280"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+  "type": "text",
+  "extra": {
+   "quote": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلْأَرْضِ كَمْ أَنۢبَتْنَا …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الشعراء: 7",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:26:7",
+  "code": "q_0281"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "أُوتُوا۟ ٱلْكِتَٰبَ يَرُدُّوكُم بَعْدَ إِيمَٰنِكُمْ كَٰفِرِينَ",
+  "type": "text",
+  "extra": {
+   "quote": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًا مِّنَ ٱلَّذِينَ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "آل عمران: 100",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:3:100",
+  "code": "q_0282"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أكمل الآية الكريمة:",
+  "answer": "نَتَوَفَّيَنَّكَ فَإِنَّمَا عَلَيْكَ ٱلْبَلَٰغُ وَعَلَيْنَا ٱلْحِسَابُ",
+  "type": "text",
+  "extra": {
+   "quote": "وَإِن مَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ …",
+   "answer_is_quote": true
+  },
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "reference": "الرعد: 40",
+  "tags": [
+   "قرآن",
+   "حفظ"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "complete:13:40",
+  "code": "q_0283"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "كم عدد آيات سورة الفاتحة؟",
+  "answer": "7 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:1",
+  "code": "q_0284"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة البقرة؟",
+  "answer": "286 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:2",
+  "code": "q_0285"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة الكهف؟",
+  "answer": "110 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:18",
+  "code": "q_0286"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة يس؟",
+  "answer": "83 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:36",
+  "code": "q_0287"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة محمد؟",
+  "answer": "38 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:47",
+  "code": "q_0288"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة النجم؟",
+  "answer": "62 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:53",
+  "code": "q_0289"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة الرحمن؟",
+  "answer": "78 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:55",
+  "code": "q_0290"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة المجادلة؟",
+  "answer": "22 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:58",
+  "code": "q_0291"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة الحشر؟",
+  "answer": "24 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:59",
+  "code": "q_0292"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة الصف؟",
+  "answer": "14 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:61",
+  "code": "q_0293"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة الجمعة؟",
+  "answer": "11 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:62",
+  "code": "q_0294"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة التغابن؟",
+  "answer": "18 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:64",
+  "code": "q_0295"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة الطلاق؟",
+  "answer": "12 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:65",
+  "code": "q_0296"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة التحريم؟",
+  "answer": "12 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:66",
+  "code": "q_0297"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة الملك؟",
+  "answer": "30 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:67",
+  "code": "q_0298"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة القلم؟",
+  "answer": "52 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:68",
+  "code": "q_0299"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة الحاقة؟",
+  "answer": "52 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:69",
+  "code": "q_0300"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة نوح؟",
+  "answer": "28 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:71",
+  "code": "q_0301"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة المزمل؟",
+  "answer": "20 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:73",
+  "code": "q_0302"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد آيات سورة الإنسان؟",
+  "answer": "31 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:76",
+  "code": "q_0303"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة التين؟",
+  "answer": "8 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:95",
+  "code": "q_0304"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة القدر؟",
+  "answer": "5 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:97",
+  "code": "q_0305"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة العاديات؟",
+  "answer": "11 آية",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:100",
+  "code": "q_0306"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كم عدد آيات سورة العصر؟",
+  "answer": "3 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:103",
+  "code": "q_0307"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة الهمزة؟",
+  "answer": "9 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:104",
+  "code": "q_0308"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة الماعون؟",
+  "answer": "7 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:107",
+  "code": "q_0309"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كم عدد آيات سورة الكوثر؟",
+  "answer": "3 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:108",
+  "code": "q_0310"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة الكافرون؟",
+  "answer": "6 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:109",
+  "code": "q_0311"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة النصر؟",
+  "answer": "3 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:110",
+  "code": "q_0312"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدد آيات سورة المسد؟",
+  "answer": "5 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:111",
+  "code": "q_0313"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كم عدد آيات سورة الإخلاص؟",
+  "answer": "4 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:112",
+  "code": "q_0314"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كم عدد آيات سورة الفلق؟",
+  "answer": "5 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:113",
+  "code": "q_0315"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كم عدد آيات سورة الناس؟",
+  "answer": "6 آيات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "عدد الآيات"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "ayah_count:114",
+  "code": "q_0316"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي تأتي بعد سورة العلق مباشرة في ترتيب المصحف؟",
+  "answer": "سورة القدر",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:96",
+  "code": "q_0317"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي تأتي بعد سورة الماعون مباشرة في ترتيب المصحف؟",
+  "answer": "سورة الكوثر",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:107",
+  "code": "q_0318"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي تأتي بعد سورة الفجر مباشرة في ترتيب المصحف؟",
+  "answer": "سورة البلد",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:89",
+  "code": "q_0319"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي تأتي بعد سورة البينة مباشرة في ترتيب المصحف؟",
+  "answer": "سورة الزلزلة",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:98",
+  "code": "q_0320"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي تأتي بعد سورة الكوثر مباشرة في ترتيب المصحف؟",
+  "answer": "سورة الكافرون",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:108",
+  "code": "q_0321"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي تأتي بعد سورة الليل مباشرة في ترتيب المصحف؟",
+  "answer": "سورة الضحى",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:92",
+  "code": "q_0322"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي تأتي بعد سورة التكوير مباشرة في ترتيب المصحف؟",
+  "answer": "سورة الانفطار",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:81",
+  "code": "q_0323"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي تأتي بعد سورة الشرح مباشرة في ترتيب المصحف؟",
+  "answer": "سورة التين",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:94",
+  "code": "q_0324"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما السورة التي تأتي بعد سورة القلم مباشرة في ترتيب المصحف؟",
+  "answer": "سورة الحاقة",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:68",
+  "code": "q_0325"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما السورة التي تأتي بعد سورة يس مباشرة في ترتيب المصحف؟",
+  "answer": "سورة الصافات",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:36",
+  "code": "q_0326"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما السورة التي تأتي بعد سورة الرعد مباشرة في ترتيب المصحف؟",
+  "answer": "سورة إبراهيم",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:13",
+  "code": "q_0327"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما السورة التي تأتي بعد سورة القصص مباشرة في ترتيب المصحف؟",
+  "answer": "سورة العنكبوت",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:28",
+  "code": "q_0328"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما السورة التي تأتي بعد سورة الروم مباشرة في ترتيب المصحف؟",
+  "answer": "سورة لقمان",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:30",
+  "code": "q_0329"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما السورة التي تأتي بعد سورة الفاتحة مباشرة في ترتيب المصحف؟",
+  "answer": "سورة البقرة",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:1",
+  "code": "q_0330"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ما السورة التي تأتي بعد سورة يوسف مباشرة في ترتيب المصحف؟",
+  "answer": "سورة الرعد",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:12",
+  "code": "q_0331"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما السورة التي تأتي بعد سورة الحشر مباشرة في ترتيب المصحف؟",
+  "answer": "سورة الممتحنة",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:59",
+  "code": "q_0332"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما السورة التي تأتي بعد سورة الزخرف مباشرة في ترتيب المصحف؟",
+  "answer": "سورة الدخان",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:43",
+  "code": "q_0333"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما السورة التي تأتي بعد سورة النجم مباشرة في ترتيب المصحف؟",
+  "answer": "سورة القمر",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "ترتيب السور"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "next:53",
+  "code": "q_0334"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة الجن؟",
+  "answer": "الجزء 29",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:72",
+  "code": "q_0335"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة الشعراء؟",
+  "answer": "الجزء 19",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:26",
+  "code": "q_0336"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة الأنعام؟",
+  "answer": "الجزء 7",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:6",
+  "code": "q_0337"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة الفتح؟",
+  "answer": "الجزء 26",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:48",
+  "code": "q_0338"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة المؤمنون؟",
+  "answer": "الجزء 18",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:23",
+  "code": "q_0339"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة المدثر؟",
+  "answer": "الجزء 29",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:74",
+  "code": "q_0340"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة نوح؟",
+  "answer": "الجزء 29",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:71",
+  "code": "q_0341"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة الروم؟",
+  "answer": "الجزء 21",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:30",
+  "code": "q_0342"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة الإسراء؟",
+  "answer": "الجزء 15",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:17",
+  "code": "q_0343"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة ص؟",
+  "answer": "الجزء 23",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:38",
+  "code": "q_0344"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة المعارج؟",
+  "answer": "الجزء 29",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:70",
+  "code": "q_0345"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة غافر؟",
+  "answer": "الجزء 24",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:40",
+  "code": "q_0346"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة الزمر؟",
+  "answer": "الجزء 23",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:39",
+  "code": "q_0347"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "في أي جزء من أجزاء القرآن تبدأ سورة طه؟",
+  "answer": "الجزء 16",
+  "type": "text",
+  "extra": {},
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "أجزاء"
+  ],
+  "family_safe": true,
+  "verified": true,
+  "import_source": "quran-dataset",
+  "external_id": "juz:20",
+  "code": "q_0348"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "هل سورة الطارق مكية أم مدنية؟",
+  "answer": "مكية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:86",
+  "code": "q_0349"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "هل سورة الجن مكية أم مدنية؟",
+  "answer": "مكية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:72",
+  "code": "q_0350"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "هل سورة الإسراء مكية أم مدنية؟",
+  "answer": "مكية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:17",
+  "code": "q_0351"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "هل سورة الرعد مكية أم مدنية؟",
+  "answer": "مدنية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:13",
+  "code": "q_0352"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "هل سورة القارعة مكية أم مدنية؟",
+  "answer": "مكية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:101",
+  "code": "q_0353"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "هل سورة سبأ مكية أم مدنية؟",
+  "answer": "مكية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:34",
+  "code": "q_0354"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "هل سورة الواقعة مكية أم مدنية؟",
+  "answer": "مكية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:56",
+  "code": "q_0355"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "هل سورة الحج مكية أم مدنية؟",
+  "answer": "مدنية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:22",
+  "code": "q_0356"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "هل سورة إبراهيم مكية أم مدنية؟",
+  "answer": "مكية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:14",
+  "code": "q_0357"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "هل سورة الغاشية مكية أم مدنية؟",
+  "answer": "مكية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:88",
+  "code": "q_0358"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "هل سورة الأنفال مكية أم مدنية؟",
+  "answer": "مدنية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:8",
+  "code": "q_0359"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "هل سورة البينة مكية أم مدنية؟",
+  "answer": "مدنية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:98",
+  "code": "q_0360"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "هل سورة الأحقاف مكية أم مدنية؟",
+  "answer": "مكية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:46",
+  "code": "q_0361"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "هل سورة الضحى مكية أم مدنية؟",
+  "answer": "مكية",
+  "type": "multiple_choice",
+  "choices": [
+   "مكية",
+   "مدنية"
+  ],
+  "extra": {},
+  "explanation": "حسب التصنيف المعتمد في مصحف المدينة، وفي بعض السور خلاف بين العلماء",
+  "source": "Quran Core Dataset (mjmirza) — CC BY 4.0",
+  "tags": [
+   "قرآن",
+   "مكي ومدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "quran-dataset",
+  "external_id": "revelation:93",
+  "code": "q_0362"
+ }
+]
