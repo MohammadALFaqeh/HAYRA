@@ -8,7 +8,6 @@ import {
   Check,
   CloudOff,
   Eye,
-  EyeOff,
   Flag,
   Loader2,
   MonitorPlay,
@@ -139,7 +138,6 @@ export function HostPanel({ sessionId }: { sessionId: string }) {
             compact
             columns={pub.columns}
             cells={pub.cells}
-            hostMysteryKinds={Object.fromEntries(s.cells.map((c) => [c.key, c.mystery]))}
             onPick={(cell) => (cell.status === "available" ? act({ type: "OPEN_CELL", cellKey: cell.key }) : setReopenKey(cell.key))}
           />
         </section>
@@ -274,7 +272,6 @@ function QuestionControls({
   const q = s.questions[a.questionId];
   const remaining = useCountdown(s.timer);
   const [rated, setRated] = useState<string | null>(null);
-  const [peek, setPeek] = useState(false);
   const timeUpSent = useRef<number | null>(null);
 
   // إرسال «انتهى الوقت» تلقائيًا من جهاز المضيف
@@ -287,7 +284,6 @@ function QuestionControls({
 
   useEffect(() => {
     setRated(null);
-    setPeek(false);
   }, [a.questionId]);
 
   if (!q) return null;
@@ -296,7 +292,7 @@ function QuestionControls({
   const afterReveal = a.stage === "revealed" || a.stage === "failed";
   const prep = a.stage === "prep";
   // الإجابة مخفية أثناء السؤال (لمشاركة الشاشة) حتى ينتهي الوقت أو يُحسم السؤال
-  const answerVisible = settled || afterReveal || s.timer.expired || peek;
+  const answerVisible = settled || afterReveal || s.timer.expired;
   const points = a.basePoints * a.multiplier;
   const other: TeamId = a.pickedBy === "A" ? "B" : "A";
   const qr = isQrType(q.type);
@@ -322,6 +318,10 @@ function QuestionControls({
           {a.mystery && <span className="rounded-full bg-violet-500/25 px-2 py-0.5 text-xs text-violet-400">{MYSTERY[a.mystery].icon} {MYSTERY[a.mystery].name}</span>}
           {!q.verified && <span className="rounded-full bg-ember-500/20 px-2 py-0.5 text-xs text-ember-400">غير موثّق</span>}
         </div>
+        {prep ? (
+          <div className="rounded-2xl border border-dashed border-white/15 bg-white/[0.03] px-4 py-6 text-center text-white/50">🔒 السؤال مخفي حتى «اعرض السؤال»</div>
+        ) : (
+          <>
         <p className="font-display text-xl font-bold leading-relaxed">{q.text}</p>
         {q.type === "individual" && q.extra?.target && <p className="rounded-xl bg-volt-500/10 px-3 py-2 text-sm font-bold text-volt-400">🎯 موجّه إلى: {q.extra.target}</p>}
         {q.extra?.quote && <p className="quran rounded-2xl bg-gold-400/[0.07] px-4 py-2 text-xl text-gold-200">﴿ {q.extra.quote} ﴾</p>}
@@ -349,31 +349,22 @@ function QuestionControls({
           <p className="text-sm text-wine-400">🚫 كلمات ممنوعة: {q.extra.forbidden.join("، ")}</p>
         ) : null}
         {q.extra?.instructions && <p className="text-sm text-white/60">📋 {q.extra.instructions}</p>}
+          </>
+        )}
 
         {/* الإجابة — للمضيف فقط، ومخفية حتى ينتهي الوقت */}
         {answerVisible ? (
           <div className="rounded-2xl border border-leaf-400/40 bg-leaf-500/10 px-4 py-3">
             <div className="flex items-center justify-between text-xs text-leaf-400">
-              <span>الإجابة (تظهر لك فقط)</span>
-              {peek && !settled && !s.timer.expired && (
-                <button onClick={() => setPeek(false)} className="flex items-center gap-1 text-white/50 hover:text-white">
-                  <EyeOff className="h-3.5 w-3.5" /> إخفاء
-                </button>
-              )}
+              <span>الإجابة</span>
             </div>
             <div className={cn("text-lg font-bold", q.extra?.answer_is_quote && "quran text-xl font-normal")}>{q.answer}</div>
             {q.explanation && <div className="text-sm text-white/60">{q.explanation}</div>}
           </div>
         ) : (
-          <button
-            onClick={() => setPeek(true)}
-            className="flex w-full items-center justify-between rounded-2xl border border-dashed border-white/15 bg-white/[0.03] px-4 py-3 text-sm text-white/50 hover:text-white"
-          >
-            <span>🔒 الإجابة مخفية — تظهر عند انتهاء الوقت أو حسم السؤال</span>
-            <span className="flex items-center gap-1 text-xs">
-              <Eye className="h-4 w-4" /> إظهار لي
-            </span>
-          </button>
+          <div className="rounded-2xl border border-dashed border-white/15 bg-white/[0.03] px-4 py-3 text-sm text-white/50">
+            🔒 الإجابة مخفية — تظهر عند انتهاء الوقت أو «إظهار الإجابة»
+          </div>
         )}
 
       </div>
@@ -602,7 +593,7 @@ function FinalWagerControls({ state: s, act }: { state: GameState; act: Act }) {
             </div>
             {locked ? (
               <div className="flex items-center justify-between">
-                <span>🔒 الرهان: {formatPoints(f.wagers[t]!)}</span>
+                <span>🔒 تم تثبيت الرهان</span>
                 <Button size="sm" variant="ghost" onClick={() => act({ type: "FINAL_SET_WAGER", team: t, amount: values[t] })}>
                   تعديل
                 </Button>
@@ -646,9 +637,8 @@ function FinalQuestionControls({ state: s, act }: { state: GameState; act: Act }
   const f = s.final!;
   const q = f.questionId ? s.questions[f.questionId] : null;
   const remaining = useCountdown(s.timer);
-  const [peek, setPeek] = useState(false);
   if (!q) return null;
-  const answerVisible = f.revealed || s.timer.expired || (f.results.A !== null && f.results.B !== null) || peek;
+  const answerVisible = f.revealed || s.timer.expired || (f.results.A !== null && f.results.B !== null);
   return (
     <section className="space-y-3">
       <div className="panel space-y-3 p-4">
@@ -664,15 +654,9 @@ function FinalQuestionControls({ state: s, act }: { state: GameState; act: Act }
             <div className="text-lg font-bold">{q.answer}</div>
           </div>
         ) : (
-          <button
-            onClick={() => setPeek(true)}
-            className="flex w-full items-center justify-between rounded-2xl border border-dashed border-white/15 bg-white/[0.03] px-4 py-3 text-sm text-white/50 hover:text-white"
-          >
-            <span>🔒 الإجابة مخفية حتى ينتهي الوقت</span>
-            <span className="flex items-center gap-1 text-xs">
-              <Eye className="h-4 w-4" /> إظهار لي
-            </span>
-          </button>
+          <div className="rounded-2xl border border-dashed border-white/15 bg-white/[0.03] px-4 py-3 text-sm text-white/50">
+            🔒 الإجابة مخفية حتى ينتهي الوقت أو «إظهار الإجابة»
+          </div>
         )}
         <div className="flex gap-2">
           {s.timer.running ? (
@@ -694,7 +678,7 @@ function FinalQuestionControls({ state: s, act }: { state: GameState; act: Act }
           <div className="flex-1">
             <div className={cn("font-bold", TEAM_COLORS[t].text)}>{s.teams[t].name}</div>
             <div className="text-sm text-white/55">
-              الرهان {formatPoints(f.wagers[t] ?? 0)} — {f.results[t] === null ? "لم يُحكَم" : f.results[t] ? "✅ صح" : "❌ خطأ"}
+              {f.results[t] === null ? "🔒 الرهان مخفي — لم يُحكَم" : `الرهان ${formatPoints(f.wagers[t] ?? 0)} — ${f.results[t] ? "✅ صح" : "❌ خطأ"}`}
             </div>
           </div>
           <Button size="sm" variant="success" onClick={() => act({ type: "FINAL_JUDGE", team: t, correct: true })}>
