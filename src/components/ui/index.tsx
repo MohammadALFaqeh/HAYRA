@@ -1,6 +1,6 @@
 "use client";
-import { forwardRef, useEffect, type ButtonHTMLAttributes, type ReactNode } from "react";
-import { Loader2, X } from "lucide-react";
+import { forwardRef, useEffect, useState, type ButtonHTMLAttributes, type InputHTMLAttributes, type ReactNode } from "react";
+import { Eye, EyeOff, Loader2, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 type Variant = "gold" | "volt" | "ghost" | "danger" | "success" | "soft";
@@ -88,6 +88,24 @@ export function Field({ label, hint, children, className }: { label: ReactNode; 
       {children}
       {hint && <span className="block text-xs text-white/45">{hint}</span>}
     </label>
+  );
+}
+
+/** حقل كلمة مرور مع زر عين لإظهار/إخفاء النص */
+export function PasswordInput({ className, ...rest }: Omit<InputHTMLAttributes<HTMLInputElement>, "type">) {
+  const [show, setShow] = useState(false);
+  return (
+    <div className="relative">
+      <input {...rest} type={show ? "text" : "password"} dir="ltr" className={cn("w-full pl-11", className)} />
+      <button
+        type="button"
+        onClick={() => setShow((v) => !v)}
+        aria-label={show ? "إخفاء كلمة المرور" : "إظهار كلمة المرور"}
+        className="absolute inset-y-0 left-0 grid w-11 place-items-center text-white/45 transition hover:text-gold-300"
+      >
+        {show ? <EyeOff className="h-5 w-5" /> : <Eye className="h-5 w-5" />}
+      </button>
+    </div>
   );
 }
 

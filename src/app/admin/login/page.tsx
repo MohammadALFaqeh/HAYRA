@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { Logo } from "@/components/ui/Logo";
-import { Button, Field } from "@/components/ui";
+import { Button, Field, PasswordInput } from "@/components/ui";
 import { getBrowserSupabase } from "@/lib/supabase/browser";
 
 export default function AdminLogin() {
@@ -46,7 +46,7 @@ export default function AdminLogin() {
           <input type="text" value={email} onChange={(e) => setEmail(e.target.value)} required dir="ltr" className="w-full" autoComplete="username" autoCapitalize="none" />
         </Field>
         <Field label="كلمة المرور">
-          <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} required dir="ltr" className="w-full" autoComplete="current-password" />
+          <PasswordInput value={password} onChange={(e) => setPassword(e.target.value)} required autoComplete="current-password" />
         </Field>
         {error && <p className="rounded-xl bg-wine-500/20 px-3 py-2 text-sm text-wine-400">{error}</p>}
         <Button type="submit" className="w-full" size="lg" loading={loading}>

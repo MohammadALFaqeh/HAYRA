@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { KeyRound, Lock } from "lucide-react";
 import { Logo } from "@/components/ui/Logo";
-import { Button } from "@/components/ui";
+import { Button, PasswordInput } from "@/components/ui";
 
 export function LoginForm() {
   const router = useRouter();
@@ -52,15 +52,13 @@ export function LoginForm() {
           <label className="block space-y-1.5">
             <span className="text-sm font-semibold text-white/75">كلمة المرور</span>
             <div className="relative">
-              <Lock className="pointer-events-none absolute right-3 top-3 h-5 w-5 text-white/35" />
-              <input
-                type="password"
+              <Lock className="pointer-events-none absolute right-3 top-3 z-10 h-5 w-5 text-white/35" />
+              <PasswordInput
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 autoComplete="current-password"
                 required
-                className="w-full pr-10"
-                dir="ltr"
+                className="pr-10"
               />
             </div>
           </label>

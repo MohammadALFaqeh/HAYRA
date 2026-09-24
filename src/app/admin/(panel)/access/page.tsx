@@ -1,8 +1,8 @@
 "use client";
 import { useEffect, useState } from "react";
-import { KeyRound } from "lucide-react";
+import { KeyRound, ShieldCheck } from "lucide-react";
 import { getBrowserSupabase } from "@/lib/supabase/browser";
-import { Button, Field, Spinner } from "@/components/ui";
+import { Button, Field, PasswordInput, Spinner } from "@/components/ui";
 
 export default function AccessPage() {
   const [current, setCurrent] = useState<{ access_code: string; version: number; updated_at: string } | null>(null);
@@ -54,10 +54,10 @@ export default function AccessPage() {
           <input value={code} onChange={(e) => setCode(e.target.value)} className="w-full" dir="ltr" />
         </Field>
         <Field label="كلمة مرور جديدة" hint="اتركها فارغة للإبقاء على الحالية">
-          <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} className="w-full" dir="ltr" autoComplete="new-password" />
+          <PasswordInput value={password} onChange={(e) => setPassword(e.target.value)} autoComplete="new-password" />
         </Field>
         <Field label="تأكيد كلمة المرور">
-          <input type="password" value={confirmPw} onChange={(e) => setConfirmPw(e.target.value)} className="w-full" dir="ltr" autoComplete="new-password" />
+          <PasswordInput value={confirmPw} onChange={(e) => setConfirmPw(e.target.value)} autoComplete="new-password" />
         </Field>
         {msg && <p className={msg.ok ? "text-leaf-400" : "text-wine-400"}>{msg.text}</p>}
         <Button type="submit" className="w-full" size="lg" loading={saving} icon={<KeyRound className="h-5 w-5" />}>
@@ -65,6 +65,45 @@ export default function AccessPage() {
         </Button>
       </form>
       <p className="text-sm text-white/45">كلمة المرور تُحفظ مشفّرة (bcrypt) داخل قاعدة البيانات، ولا يمكن لأحد قراءتها.</p>
+      <AdminPasswordForm />
     </div>
+  );
+}
+
+/** تغيير كلمة مرور حساب المشرف نفسه (Supabase Auth) */
+function AdminPasswordForm() {
+  const [password, setPassword] = useState("");
+  const [confirmPw, setConfirmPw] = useState("");
+  const [saving, setSaving] = useState(false);
+  const [msg, setMsg] = useState<{ ok: boolean; text: string } | null>(null);
+
+  async function save(e: React.FormEvent) {
+    e.preventDefault();
+    setMsg(null);
+    if (password.length < 8) return setMsg({ ok: false, text: "كلمة المرور 8 أحرف على الأقل" });
+    if (password !== confirmPw) return setMsg({ ok: false, text: "كلمتا المرور غير متطابقتين" });
+    setSaving(true);
+    const { error } = await getBrowserSupabase().auth.updateUser({ password });
+    setSaving(false);
+    if (error) return setMsg({ ok: false, text: error.message });
+    setPassword("");
+    setConfirmPw("");
+    setMsg({ ok: true, text: "تم تغيير كلمة مرور لوحة الإدارة ✅" });
+  }
+
+  return (
+    <form onSubmit={save} className="panel space-y-4 p-5">
+      <h2 className="font-display text-xl font-extrabold">كلمة مرور لوحة الإدارة</h2>
+      <Field label="كلمة مرور جديدة">
+        <PasswordInput value={password} onChange={(e) => setPassword(e.target.value)} autoComplete="new-password" />
+      </Field>
+      <Field label="تأكيد كلمة المرور">
+        <PasswordInput value={confirmPw} onChange={(e) => setConfirmPw(e.target.value)} autoComplete="new-password" />
+      </Field>
+      {msg && <p className={msg.ok ? "text-leaf-400" : "text-wine-400"}>{msg.text}</p>}
+      <Button type="submit" variant="volt" className="w-full" size="lg" loading={saving} icon={<ShieldCheck className="h-5 w-5" />}>
+        تغيير كلمة مرور المشرف
+      </Button>
+    </form>
   );
 }
