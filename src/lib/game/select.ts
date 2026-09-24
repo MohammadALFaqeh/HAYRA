@@ -1,7 +1,7 @@
 import "server-only";
 import type { SupabaseClient } from "@supabase/supabase-js";
 import type { Category, Subcategory } from "@/lib/db/types";
-import { LEVELS, POINT_ROWS, QUESTION_TYPE_IDS, RECENT_QUESTIONS_HOURS, isQrType } from "./constants";
+import { BOARD_POINTS, LEVELS, QUESTION_TYPE_IDS, RECENT_QUESTIONS_HOURS, isQrType } from "./constants";
 import type {
   BoardCell,
   BoardColumn,
@@ -144,8 +144,9 @@ export async function buildBoard(
     pools.push(rows);
 
     let missing = 0;
-    POINT_ROWS.forEach((points, ri) => {
-      const pick = pickBest(rows, ri + 1, used, recent, settings.level, random);
+    BOARD_POINTS.forEach((points, ri) => {
+      const difficulty = points / 100 + (random() < 0.5 ? 0 : 1);
+      const pick = pickBest(rows, difficulty, used, recent, settings.level, random);
       if (pick) used.add(pick.id);
       else missing++;
       cells.push({

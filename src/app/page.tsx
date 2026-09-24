@@ -44,7 +44,7 @@ export default async function Home() {
               <span className="gold-text">وحيرة كبيرة.</span>
             </h1>
             <p className="mx-auto max-w-md text-lg text-white/70 lg:mx-0">
-              اعرضوا اللعبة على التلفزيون، وتحكّموا بكل شيء من الجوال. أسئلة من 100 إلى 600، سرقة، وسائل مساعدة، خانات غامضة، وتحديات QR.
+              اعرضوا اللعبة على التلفزيون، وتحكّموا بكل شيء من الجوال. أسئلة بقيم 100 و300 و500، سرقة، وسائل مساعدة، خانات غامضة، وتحديات QR.
             </p>
             <div className="flex flex-col gap-3 sm:flex-row sm:justify-center lg:justify-start">
               <Link href="/play/new" className="rounded-[1.4rem] bg-gradient-to-b from-gold-300 to-gold-500 px-8 py-4 text-center font-display text-xl font-extrabold text-night-950 shadow-gold transition hover:brightness-110">

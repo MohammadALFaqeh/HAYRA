@@ -9,6 +9,7 @@ import {
   Check,
   CloudOff,
   Eye,
+  EyeOff,
   Flag,
   Loader2,
   MonitorPlay,
@@ -270,6 +271,7 @@ function QuestionControls({
   const remaining = useCountdown(s.timer);
   const [showSource, setShowSource] = useState(false);
   const [rated, setRated] = useState<string | null>(null);
+  const [peek, setPeek] = useState(false);
   const timeUpSent = useRef<number | null>(null);
 
   // إرسال «انتهى الوقت» تلقائيًا من جهاز المضيف
@@ -280,10 +282,15 @@ function QuestionControls({
     }
   }, [remaining, s.timer.running, s.timer.endsAt, host]);
 
-  useEffect(() => setRated(null), [a.questionId]);
+  useEffect(() => {
+    setRated(null);
+    setPeek(false);
+  }, [a.questionId]);
 
   if (!q) return null;
   const settled = a.stage === "resolved" || a.stage === "revealed";
+  // الإجابة مخفية أثناء السؤال (لمشاركة الشاشة) حتى ينتهي الوقت أو يُحسم السؤال
+  const answerVisible = settled || a.stage === "failed" || s.timer.expired || peek;
   const points = a.basePoints * a.multiplier;
   const other: TeamId = a.pickedBy === "A" ? "B" : "A";
   const qr = isQrType(q.type);
@@ -322,7 +329,7 @@ function QuestionControls({
                 key={i}
                 className={cn(
                   "rounded-xl px-3 py-1.5",
-                  c === q.answer ? "bg-leaf-500/20 text-leaf-400" : "bg-white/[0.04]",
+                  answerVisible && c === q.answer ? "bg-leaf-500/20 text-leaf-400" : "bg-white/[0.04]",
                   a.removedChoices.includes(i) && "line-through opacity-30",
                 )}
               >
@@ -336,12 +343,31 @@ function QuestionControls({
         ) : null}
         {q.extra?.instructions && <p className="text-sm text-white/60">📋 {q.extra.instructions}</p>}
 
-        {/* الإجابة — للمضيف فقط */}
-        <div className="rounded-2xl border border-leaf-400/40 bg-leaf-500/10 px-4 py-3">
-          <div className="text-xs text-leaf-400">الإجابة (تظهر لك فقط)</div>
-          <div className={cn("text-lg font-bold", q.extra?.answer_is_quote && "quran text-xl font-normal")}>{q.answer}</div>
-          {q.explanation && <div className="text-sm text-white/60">{q.explanation}</div>}
-        </div>
+        {/* الإجابة — للمضيف فقط، ومخفية حتى ينتهي الوقت */}
+        {answerVisible ? (
+          <div className="rounded-2xl border border-leaf-400/40 bg-leaf-500/10 px-4 py-3">
+            <div className="flex items-center justify-between text-xs text-leaf-400">
+              <span>الإجابة (تظهر لك فقط)</span>
+              {peek && !settled && !s.timer.expired && (
+                <button onClick={() => setPeek(false)} className="flex items-center gap-1 text-white/50 hover:text-white">
+                  <EyeOff className="h-3.5 w-3.5" /> إخفاء
+                </button>
+              )}
+            </div>
+            <div className={cn("text-lg font-bold", q.extra?.answer_is_quote && "quran text-xl font-normal")}>{q.answer}</div>
+            {q.explanation && <div className="text-sm text-white/60">{q.explanation}</div>}
+          </div>
+        ) : (
+          <button
+            onClick={() => setPeek(true)}
+            className="flex w-full items-center justify-between rounded-2xl border border-dashed border-white/15 bg-white/[0.03] px-4 py-3 text-sm text-white/50 hover:text-white"
+          >
+            <span>🔒 الإجابة مخفية — تظهر عند انتهاء الوقت أو حسم السؤال</span>
+            <span className="flex items-center gap-1 text-xs">
+              <Eye className="h-4 w-4" /> إظهار لي
+            </span>
+          </button>
+        )}
 
         <button onClick={() => setShowSource((v) => !v)} className="flex items-center gap-1.5 text-sm text-volt-400">
           <BookOpen className="h-4 w-4" /> {showSource ? "إخفاء المصدر" : "عرض المصدر"}
@@ -603,7 +629,9 @@ function FinalQuestionControls({ state: s, act }: { state: GameState; act: Act }
   const f = s.final!;
   const q = f.questionId ? s.questions[f.questionId] : null;
   const remaining = useCountdown(s.timer);
+  const [peek, setPeek] = useState(false);
   if (!q) return null;
+  const answerVisible = f.revealed || s.timer.expired || (f.results.A !== null && f.results.B !== null) || peek;
   return (
     <section className="space-y-3">
       <div className="panel space-y-3 p-4">
@@ -613,10 +641,22 @@ function FinalQuestionControls({ state: s, act }: { state: GameState; act: Act }
         </div>
         <p className="font-display text-xl font-bold">{q.text}</p>
         {q.extra?.quote && <p className="quran text-xl text-gold-200">﴿ {q.extra.quote} ﴾</p>}
-        <div className="rounded-2xl border border-leaf-400/40 bg-leaf-500/10 px-4 py-3">
-          <div className="text-xs text-leaf-400">الإجابة</div>
-          <div className="text-lg font-bold">{q.answer}</div>
-        </div>
+        {answerVisible ? (
+          <div className="rounded-2xl border border-leaf-400/40 bg-leaf-500/10 px-4 py-3">
+            <div className="text-xs text-leaf-400">الإجابة</div>
+            <div className="text-lg font-bold">{q.answer}</div>
+          </div>
+        ) : (
+          <button
+            onClick={() => setPeek(true)}
+            className="flex w-full items-center justify-between rounded-2xl border border-dashed border-white/15 bg-white/[0.03] px-4 py-3 text-sm text-white/50 hover:text-white"
+          >
+            <span>🔒 الإجابة مخفية حتى ينتهي الوقت</span>
+            <span className="flex items-center gap-1 text-xs">
+              <Eye className="h-4 w-4" /> إظهار لي
+            </span>
+          </button>
+        )}
         <div className="flex gap-2">
           {s.timer.running ? (
             <Button size="sm" variant="soft" onClick={() => act({ type: "PAUSE" })}>
