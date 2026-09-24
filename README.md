@@ -54,7 +54,7 @@ hayra/
 
 1. أنشئ مشروعًا جديدًا على https://supabase.com
 2. افتح **SQL Editor** وشغّل الملفات **بالترتيب**، كل ملف بشكل منفصل:
-   `001_schema.sql` ← `002_security.sql` ← `003_functions.sql` ← `004_seed_taxonomy.sql` ← `005_seed_questions.sql`
+   `001_schema.sql` ← `002_security.sql` ← `003_functions.sql` ← `004_seed_taxonomy.sql` ← `005_seed_questions.sql` ← `006_question_modes.sql` ← `007_grants.sql`
 3. **إنشاء حساب المشرف:** من **Authentication → Users → Add user**، أضف بريدك وكلمة مرور وفعّل Auto Confirm.
 4. ثم شغّل في SQL Editor (غيّر البريد):
    ```sql
