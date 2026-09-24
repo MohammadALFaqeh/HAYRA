@@ -29,7 +29,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Amiri:wght@400;700&family=Baloo+Bhaijaan+2:wght@500;700;800&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap"
         />
       </head>
-      <body>{children}</body>
+      <body>
+        {children}
+        <div
+          className="pointer-events-none fixed bottom-[max(0.75rem,env(safe-area-inset-bottom))] right-3 z-40 rounded-full border border-gold-400/30 bg-night-950/80 px-3.5 py-1.5 font-display text-xs font-bold text-gold-300 shadow-lg backdrop-blur-sm sm:text-sm"
+        >
+          تصميم وتطوير: م. محمد عادل الفقيه
+        </div>
+      </body>
     </html>
   );
 }
