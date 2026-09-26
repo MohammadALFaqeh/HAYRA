@@ -4,6 +4,7 @@ import { applyAction, rebaseTimerForUndo } from "../src/lib/game/engine";
 import { createInitialState } from "../src/lib/game/factory";
 import { toPublicState } from "../src/lib/game/public";
 import { DEFAULT_SETTINGS, POINT_ROWS } from "../src/lib/game/constants";
+import { SECONDS_LEAD_MS, parseSecondsInput, randomSecondsTarget } from "../src/lib/game/seconds";
 import type { BoardCell, BoardColumn, GameAction, GameState, QuestionSnapshot } from "../src/lib/game/types";
 
 let now = 1_000_000;
@@ -154,6 +155,51 @@ s = run(s, { type: "SKIP" });
   t = step(t, { type: "REVEAL_ANSWER" });
   t = step(t, { type: "BACK_TO_BOARD" }); // لا أحد
   assert.equal(t.teams.B.score, 0);
+}
+
+// 7.5) ملك الثواني
+{
+  let t = s;
+  const before = { A: t.teams.A.score, B: t.teams.B.score };
+  t = step(t, { type: "SECONDS_OPEN", team: "A", level: 3, points: 500 });
+  assert.equal(t.phase, "seconds");
+  assert.throws(() => step(t, { type: "OPEN_CELL", cellKey: "c1-r1" }), "اللوحة مقفلة أثناء الفقرة");
+  t = step(t, { type: "SECONDS_START", targetMs: 12_345 });
+  assert.equal(toPublicState(t).seconds?.targetMs, null, "الوقت الحقيقي سري على التلفزيون");
+  assert.throws(() => step(t, { type: "SECONDS_GUESS", guessMs: 12_000 }), "لا تخمين قبل توقف العداد");
+  now += SECONDS_LEAD_MS + 12_345;
+  t = step(t, { type: "SECONDS_GUESS", guessMs: 12_500 }); // فرق 0.155 > 0.1
+  assert.equal(t.seconds?.stage, "missed");
+  assert.equal(t.teams.A.score, before.A);
+  assert.equal(toPublicState(t).seconds?.targetMs, null, "لا يُكشف الوقت قبل السرقة");
+  assert.equal(t.lastEvent?.meta?.targetMs, undefined, "حدث الخطأ لا يكشف الوقت");
+  t = step(t, { type: "SECONDS_TRANSFER" });
+  t = step(t, { type: "SECONDS_GUESS", guessMs: 12_300 }); // فرق 0.045
+  assert.equal(t.seconds?.stage, "done");
+  assert.equal(t.seconds?.winner, "B");
+  assert.equal(t.teams.B.score, before.B + 500);
+  assert.equal(toPublicState(t).seconds?.targetMs, 12_345);
+
+  // جولة جديدة سهلة: الحد ±0.3 شامل
+  t = step(t, { type: "SECONDS_OPEN", team: "B", level: 1, points: 100 });
+  t = step(t, { type: "SECONDS_START", targetMs: 5_000 });
+  now += SECONDS_LEAD_MS + 5_000;
+  t = step(t, { type: "SECONDS_GUESS", guessMs: 5_300 });
+  assert.equal(t.seconds?.winner, "B", "±0.3 على الحد يُحتسب");
+  t = step(t, { type: "SECONDS_CLOSE" });
+  assert.equal(t.phase, "board");
+  assert.equal(t.seconds, null);
+
+  assert.equal(parseSecondsInput("٧٫٤٥"), 7_450);
+  assert.equal(parseSecondsInput("12,3"), 12_300);
+  assert.equal(parseSecondsInput("abc"), null);
+  for (const lv of [1, 2, 3] as const) {
+    for (const r of [0, 0.37, 0.999]) {
+      const ms = randomSecondsTarget(lv, () => r);
+      assert.ok(ms >= 3_000 && ms <= 25_000);
+      assert.equal(ms % [100, 10, 1][lv - 1], 0, "الدقة حسب المستوى");
+    }
+  }
 }
 
 // 8) السؤال النهائي

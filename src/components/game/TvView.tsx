@@ -18,6 +18,7 @@ import { PrepStage } from "./PrepStage";
 import { QuestionStage } from "./QuestionStage";
 import { ResultsView } from "./ResultsView";
 import { Scoreboard } from "./Scoreboard";
+import { SecondsStage } from "./SecondsStage";
 import { TvHostControls } from "./TvHostControls";
 
 /** شاشة التلفزيون + وضع المتفرج. على جهاز المضيف تصبح تفاعلية (فتح الخانات والتحكيم) */
@@ -106,7 +107,7 @@ export function TvView({ sessionId, spectator = false }: { sessionId: string; sp
       <header className="flex items-center gap-4">
         <Logo size={spectator ? 70 : 110} glow={false} className="mx-0" />
         <div className="flex-1">
-          <Scoreboard teams={state.teams} turn={state.turn} answering={state.active?.answeringTeam} size={spectator ? "md" : "lg"} />
+          <Scoreboard teams={state.teams} turn={state.turn} answering={state.active?.answeringTeam ?? state.seconds?.answeringTeam} size={spectator ? "md" : "lg"} />
         </div>
         <div className="flex flex-col gap-2">
           <span className="live-mark self-end">{spectator ? "مباشر" : "حيرة الآن"}</span>
@@ -141,6 +142,7 @@ export function TvView({ sessionId, spectator = false }: { sessionId: string; sp
         )}
         {inQuestion && state.active!.stage === "prep" && <PrepStage state={state} />}
         {inQuestion && state.active!.stage !== "prep" && <QuestionStage active={state.active!} teams={state.teams} timer={state.timer} origin={origin} sound={sound} />}
+        {state.phase === "seconds" && state.seconds && <SecondsStage round={state.seconds} teams={state.teams} sound={sound} />}
         {(state.phase === "final_wager" || state.phase === "final_question") && <FinalStage state={state} origin={origin} sound={sound} />}
         {state.phase === "finished" && (
           <div className="grid h-full place-items-center">

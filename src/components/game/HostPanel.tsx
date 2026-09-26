@@ -35,6 +35,7 @@ import { SoundToggle } from "@/components/ui/SoundToggle";
 import { Board } from "./Board";
 import { ResultsView } from "./ResultsView";
 import { Scoreboard } from "./Scoreboard";
+import { SecondsControls, openSeconds } from "./SecondsControls";
 
 export function HostPanel({ sessionId }: { sessionId: string }) {
   useClockSync();
@@ -120,7 +121,7 @@ export function HostPanel({ sessionId }: { sessionId: string }) {
         <SoundToggle />
       </header>
 
-      <Scoreboard teams={s.teams} turn={s.turn} answering={s.active?.answeringTeam} size="sm" onTeamClick={setScoreTeam} />
+      <Scoreboard teams={s.teams} turn={s.turn} answering={s.active?.answeringTeam ?? s.seconds?.answeringTeam} size="sm" onTeamClick={setScoreTeam} />
       <p className="-mt-2 text-center text-xs text-white/40">اضغط على الفريق لتعديل النقاط أو الدور</p>
 
       {s.phase === "board" && (
@@ -140,8 +141,13 @@ export function HostPanel({ sessionId }: { sessionId: string }) {
             cells={pub.cells}
             onPick={(cell) => (cell.status === "available" ? act({ type: "OPEN_CELL", cellKey: cell.key }) : setReopenKey(cell.key))}
           />
+          <Button variant="soft" className="w-full" onClick={() => openSeconds(act, s.turn)}>
+            👑 فقرة ملك الثواني
+          </Button>
         </section>
       )}
+
+      {s.phase === "seconds" && s.seconds && <SecondsControls state={s} act={act} />}
 
       {s.phase === "question" && s.active && <QuestionControls state={s} act={act} host={h} onInfo={setInfo} />}
 

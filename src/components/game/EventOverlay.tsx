@@ -5,6 +5,7 @@ import confetti from "canvas-confetti";
 import type { LastEvent, TeamId, TeamState } from "@/lib/game/types";
 import { MYSTERY, POWERUPS } from "@/lib/game/constants";
 import { play } from "@/lib/client/sound";
+import { formatSecondsDiff, formatSecondsMs } from "@/lib/game/seconds";
 import { cn, formatPoints, TEAM_COLORS } from "@/lib/utils";
 
 interface Shown {
@@ -15,6 +16,14 @@ interface Shown {
   sub?: string | null;
   tone: "good" | "bad" | "info" | "mystery";
   team: TeamId | null;
+}
+
+/** سطر إضافي لأحداث «ملك الثواني»: التخمين والفرق (الفرق يظهر فقط عند انتهاء الجولة) */
+function secondsLine(meta: LastEvent["meta"]): string | null {
+  if (!meta?.seconds || typeof meta.guessMs !== "number") return null;
+  const d = typeof meta.decimals === "number" ? meta.decimals : 3;
+  const guess = `التخمين ${formatSecondsMs(meta.guessMs, d)} ث`;
+  return typeof meta.diffMs === "number" ? `${guess} (${formatSecondsDiff(meta.diffMs, d)})` : guess;
 }
 
 function burst(team: TeamId | null, big = false) {
@@ -54,7 +63,7 @@ export function EventOverlay({ event, teams, sound = true }: { event: LastEvent 
           emoji: event.kind === "steal_correct" ? "🦊" : "✅",
           title: `${team?.name ?? ""} +${formatPoints(event.points)}`,
           comment: event.comment,
-          sub: streakLine ? `${streakLine} (+${event.meta?.streakBonus})` : null,
+          sub: streakLine ? `${streakLine} (+${event.meta?.streakBonus})` : secondsLine(event.meta),
           tone: "good",
           team: event.team,
         };
@@ -63,7 +72,7 @@ export function EventOverlay({ event, teams, sound = true }: { event: LastEvent 
         break;
       }
       case "wrong":
-        s = { id: event.id, emoji: "❌", title: event.meta?.transfer ? "خطأ! السؤال يتحول 🔄" : "خطأ!", comment: event.comment, tone: "bad", team: event.team };
+        s = { id: event.id, emoji: "❌", title: event.meta?.transfer ? "خطأ! السؤال يتحول 🔄" : "خطأ!", comment: event.comment, sub: secondsLine(event.meta), tone: "bad", team: event.team };
         snd("wrong");
         break;
       case "transfer":
@@ -75,7 +84,9 @@ export function EventOverlay({ event, teams, sound = true }: { event: LastEvent 
         snd("timeup");
         break;
       case "reveal":
-        s = { id: event.id, emoji: "👀", title: "الإجابة الصحيحة", comment: event.comment, tone: "info", team: null };
+        s = event.meta?.seconds
+          ? { id: event.id, emoji: "⏱️", title: "الوقت الحقيقي", comment: typeof event.meta.targetMs === "number" ? `${formatSecondsMs(event.meta.targetMs, Number(event.meta.decimals ?? 3))} ثانية` : null, tone: "info", team: null }
+          : { id: event.id, emoji: "👀", title: "الإجابة الصحيحة", comment: event.comment, tone: "info", team: null };
         snd("reveal");
         break;
       case "mystery": {

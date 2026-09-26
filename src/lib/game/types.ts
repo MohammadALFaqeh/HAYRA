@@ -25,7 +25,7 @@ export type QuestionType =
   | "qr_sound"
   | "qr_movement";
 
-export type Phase = "board" | "question" | "final_wager" | "final_question" | "finished" | "closed";
+export type Phase = "board" | "question" | "seconds" | "final_wager" | "final_question" | "finished" | "closed";
 
 /** مرحلة السؤال المفتوح */
 export type Stage =
@@ -190,6 +190,34 @@ export interface LastEvent {
   at: number;
 }
 
+// ------------------------------------------------------------
+// فقرة «ملك الثواني»: عداد يظهر لحظة ثم يختفي، والفريق يقدّر المدة
+// ------------------------------------------------------------
+export type SecondsLevel = 1 | 2 | 3;
+
+export interface SecondsGuess {
+  team: TeamId;
+  guessMs: number;
+  diffMs: number; // التخمين − الوقت الحقيقي
+  correct: boolean;
+}
+
+export interface SecondsRound {
+  pickedBy: TeamId;
+  answeringTeam: TeamId;
+  level: SecondsLevel;
+  points: number;
+  /**
+   * ready: شرح الفقرة على الشاشة · running: العد جارٍ ثم انتظار التخمين
+   * missed: أخطأ الفريق الأول · done: ظهرت النتيجة
+   */
+  stage: "ready" | "running" | "missed" | "done";
+  targetMs: number | null; // المدة الحقيقية (سرية حتى النتيجة)
+  startsAt: number | null; // لحظة بدء العد بعد العد التنازلي 3-2-1
+  guesses: SecondsGuess[];
+  winner: TeamId | null;
+}
+
 export interface GameState {
   v: 1;
   sessionId: string;
@@ -203,6 +231,8 @@ export interface GameState {
   active: ActiveQuestion | null;
   timer: TimerState;
   final: FinalState | null;
+  /** اختياري لتوافق الجلسات المحفوظة قبل إضافة الفقرة */
+  seconds?: SecondsRound | null;
   lastEvent: LastEvent | null;
   eventSeq: number;
   packName: string | null;
@@ -241,7 +271,13 @@ export type GameAction =
   | { type: "FINAL_START" }
   | { type: "FINAL_JUDGE"; team: TeamId; correct: boolean }
   | { type: "FINAL_REVEAL" }
-  | { type: "FINISH" };
+  | { type: "FINISH" }
+  | { type: "SECONDS_OPEN"; team: TeamId; level: SecondsLevel; points: number }
+  | { type: "SECONDS_START"; targetMs: number }
+  | { type: "SECONDS_GUESS"; guessMs: number }
+  | { type: "SECONDS_TRANSFER" }
+  | { type: "SECONDS_REVEAL" }
+  | { type: "SECONDS_CLOSE" };
 
 /** سياق خارجي يُمرر للمحرك (الوقت + العشوائية + رمز QR من السيرفر) */
 export interface EngineContext {

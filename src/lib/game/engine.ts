@@ -4,6 +4,7 @@
 // ============================================================
 import { commentFor } from "./comments";
 import { EXTRA_TIME_SECONDS, MYSTERY_BONUS_POINTS, isQrType } from "./constants";
+import { SECONDS_LEAD_MS, SECONDS_LEVELS, SECONDS_MAX_MS, SECONDS_MIN_MS } from "./seconds";
 import {
   GameRuleError,
   type ActiveQuestion,
@@ -12,6 +13,7 @@ import {
   type GameAction,
   type GameState,
   type LastEvent,
+  type SecondsRound,
   type TeamId,
   type TimerState,
 } from "./types";
@@ -93,6 +95,7 @@ function enterEndOfBoard(s: GameState, ctx: EngineContext) {
 function finish(s: GameState, ctx: EngineContext) {
   s.phase = "finished";
   s.active = null;
+  s.seconds = null;
   clearTimer(s);
   const a = s.teams.A.score;
   const b = s.teams.B.score;
@@ -183,6 +186,46 @@ function awardRank(s: GameState, team: TeamId, rank: number, ctx: EngineContext)
   a.awarded += points;
   const comment = commentFor("correct", { team: t.name, points }, ctx.random);
   emit(s, ctx, isSteal ? "steal_correct" : "correct", team, points, comment, { rank, rankTotal: q.choices.length, attempt: a.rankClaims[team].length });
+}
+
+export const SECONDS_CATEGORY = "ملك الثواني";
+
+function requireSeconds(s: GameState): SecondsRound {
+  if (s.phase !== "seconds" || !s.seconds) fail("فقرة ملك الثواني غير مفتوحة");
+  return s.seconds;
+}
+
+/** هل توقف العداد؟ (مع هامش بسيط لاختلاف ساعة الجهاز) */
+function secondsStopped(r: SecondsRound, now: number) {
+  return r.startsAt !== null && r.targetMs !== null && now >= r.startsAt + r.targetMs - 750;
+}
+
+function judgeSeconds(s: GameState, r: SecondsRound, guessMs: number, ctx: EngineContext) {
+  const team = r.answeringTeam;
+  const t = s.teams[team];
+  const diffMs = guessMs - r.targetMs!;
+  const correct = Math.abs(diffMs) <= SECONDS_LEVELS[r.level].toleranceMs;
+  const isSteal = team !== r.pickedBy;
+  r.guesses.push({ team, guessMs, diffMs, correct });
+  const decimals = SECONDS_LEVELS[r.level].decimals;
+  // الوقت الحقيقي والفرق يظهران فقط عند انتهاء الجولة (حتى لا يستفيد الخصم في السرقة)
+  const reveal = { seconds: true, guessMs, diffMs, targetMs: r.targetMs, decimals };
+
+  if (correct) {
+    t.score += r.points;
+    t.stats.correct += 1;
+    if (isSteal) t.stats.steals += 1;
+    t.stats.byCategory[SECONDS_CATEGORY] = (t.stats.byCategory[SECONDS_CATEGORY] ?? 0) + 1;
+    r.winner = team;
+    r.stage = "done";
+    const comment = commentFor(isSteal ? "steal" : "correct", { team: t.name, points: r.points }, ctx.random);
+    emit(s, ctx, isSteal ? "steal_correct" : "correct", team, r.points, comment, reveal);
+    return;
+  }
+  t.stats.wrong += 1;
+  // خطأ الفريق الأول: يقرر المضيف تحويلها للخصم أو كشف النتيجة
+  r.stage = isSteal ? "done" : "missed";
+  emit(s, ctx, "wrong", team, 0, commentFor("wrong", {}, ctx.random), r.stage === "done" ? reveal : { seconds: true, guessMs, decimals });
 }
 
 /**
@@ -585,6 +628,75 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
     case "FINISH": {
       if (s.phase === "finished" || s.phase === "closed") break;
       finish(s, ctx);
+      break;
+    }
+
+    // ---------------------------------------------------- ملك الثواني
+    case "SECONDS_OPEN": {
+      // يُفتح من اللوحة، ويمكن تعديل إعداداته قبل بدء العد أو بدء جولة جديدة بعد النتيجة
+      const cur = s.phase === "seconds" ? s.seconds : null;
+      if (s.phase !== "board" && !(cur && (cur.stage === "ready" || cur.stage === "done"))) fail("افتح ملك الثواني من اللوحة");
+      if (!SECONDS_LEVELS[action.level]) fail("مستوى غير صالح");
+      const points = Math.trunc(action.points);
+      if (!Number.isFinite(points) || points < 0 || points > 5000) fail("قيمة النقاط غير صالحة");
+      s.phase = "seconds";
+      s.active = null;
+      clearTimer(s);
+      s.seconds = {
+        pickedBy: action.team,
+        answeringTeam: action.team,
+        level: action.level,
+        points,
+        stage: "ready",
+        targetMs: null,
+        startsAt: null,
+        guesses: [],
+        winner: null,
+      };
+      if (!cur || cur.stage === "done") emit(s, ctx, "open", action.team, points, null, { seconds: true });
+      break;
+    }
+    case "SECONDS_START": {
+      const r = requireSeconds(s);
+      // إعادة العد مسموحة قبل أي تخمين (مثلًا إذا لم ينتبه الفريق)
+      if (r.stage !== "ready" && !(r.stage === "running" && r.guesses.length === 0)) fail("لا يمكن بدء العد الآن");
+      const targetMs = Math.round(action.targetMs);
+      if (!Number.isFinite(targetMs) || targetMs < SECONDS_MIN_MS || targetMs > SECONDS_MAX_MS) fail("مدة غير صالحة");
+      r.targetMs = targetMs;
+      r.startsAt = now + SECONDS_LEAD_MS;
+      r.stage = "running";
+      r.answeringTeam = r.pickedBy;
+      break;
+    }
+    case "SECONDS_GUESS": {
+      const r = requireSeconds(s);
+      if (r.stage !== "running") fail("لا يوجد فريق يجيب الآن");
+      if (!secondsStopped(r, now)) fail("انتظر حتى يتوقف العداد ⏱️");
+      const guessMs = Math.round(action.guessMs);
+      if (!Number.isFinite(guessMs) || guessMs <= 0 || guessMs > SECONDS_MAX_MS) fail("تخمين غير صالح");
+      judgeSeconds(s, r, guessMs, ctx);
+      break;
+    }
+    case "SECONDS_TRANSFER": {
+      const r = requireSeconds(s);
+      if (r.stage !== "missed") fail("التحويل متاح بعد خطأ الفريق الأول");
+      r.answeringTeam = otherTeam(r.pickedBy);
+      r.stage = "running";
+      emit(s, ctx, "transfer", r.answeringTeam, 0, null, { seconds: true });
+      break;
+    }
+    case "SECONDS_REVEAL": {
+      const r = requireSeconds(s);
+      if (r.stage === "done") break;
+      if (r.stage === "ready" || (r.stage === "running" && !secondsStopped(r, now))) fail("انتظر حتى يتوقف العداد ⏱️");
+      r.stage = "done";
+      emit(s, ctx, "reveal", null, 0, null, { seconds: true, targetMs: r.targetMs, decimals: SECONDS_LEVELS[r.level].decimals });
+      break;
+    }
+    case "SECONDS_CLOSE": {
+      requireSeconds(s);
+      s.seconds = null;
+      s.phase = "board";
       break;
     }
 

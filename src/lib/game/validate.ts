@@ -27,6 +27,9 @@ export function parseAction(raw: unknown): GameAction | { type: "UNDO" } | null 
     case "FINAL_REVEAL":
     case "FINISH_RANKING":
     case "FINISH":
+    case "SECONDS_TRANSFER":
+    case "SECONDS_REVEAL":
+    case "SECONDS_CLOSE":
       return { type: a.type } as GameAction;
     case "START_QUESTION":
       return { type: "START_QUESTION" };
@@ -54,6 +57,14 @@ export function parseAction(raw: unknown): GameAction | { type: "UNDO" } | null 
       return isTeam(a.team) && isNum(a.amount) ? { type: "FINAL_SET_WAGER", team: a.team, amount: a.amount } : null;
     case "FINAL_JUDGE":
       return isTeam(a.team) && typeof a.correct === "boolean" ? { type: "FINAL_JUDGE", team: a.team, correct: a.correct } : null;
+    case "SECONDS_OPEN":
+      return isTeam(a.team) && (a.level === 1 || a.level === 2 || a.level === 3) && isNum(a.points)
+        ? { type: "SECONDS_OPEN", team: a.team, level: a.level, points: a.points }
+        : null;
+    case "SECONDS_START":
+      return isNum(a.targetMs) ? { type: "SECONDS_START", targetMs: a.targetMs } : null;
+    case "SECONDS_GUESS":
+      return isNum(a.guessMs) ? { type: "SECONDS_GUESS", guessMs: a.guessMs } : null;
     default:
       return null;
   }

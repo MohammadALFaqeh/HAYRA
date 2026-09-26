@@ -22,6 +22,8 @@ interface PoolRow {
   depth_level: number;
   type: QuestionType;
   subcategory_id: string | null;
+  times_used: number | null;
+  last_used_at: string | null;
 }
 
 export interface BuiltBoard {
@@ -32,7 +34,7 @@ export interface BuiltBoard {
   warnings: string[];
 }
 
-const LIGHT_COLUMNS = "id,difficulty,depth_level,type,subcategory_id";
+const LIGHT_COLUMNS = "id,difficulty,depth_level,type,subcategory_id,times_used,last_used_at";
 const FULL_COLUMNS =
   "id,type,question_text,answer,choices,clues,extra,image_url,audio_url,video_url,explanation,source,reference,verified,difficulty,category:categories(name),subcategory:subcategories(name)";
 
@@ -60,6 +62,23 @@ function applyCommonFilters<T>(query: T, settings: GameSettings, types: Question
   return q as T;
 }
 
+const DAY_MS = 86_400_000;
+
+/**
+ * درجة «القِدم» لتقليل التكرار: 0 = لم يُستخدم أبدًا، وكلما استُخدم حديثًا زادت العقوبة.
+ * تعتمد على last_used_at الدائم (وليس فقط آخر 24 ساعة)، فالأسئلة تدور على البنك كله قبل أن تتكرر.
+ */
+function freshnessPenalty(p: PoolRow, recent: Set<string>, now: number): number {
+  if (recent.has(p.id)) return 5;
+  if (!p.last_used_at) return 0;
+  const days = (now - new Date(p.last_used_at).getTime()) / DAY_MS;
+  if (days < 1) return 5;
+  if (days < 7) return 4;
+  if (days < 30) return 3;
+  if (days < 90) return 2;
+  return 1;
+}
+
 function pickBest(
   pool: PoolRow[],
   difficulty: number,
@@ -67,22 +86,31 @@ function pickBest(
   recent: Set<string>,
   level: GameSettings["level"],
   random: () => number,
+  now: number,
 ): PoolRow | null {
-  for (const spread of [0, 1, 2, 3, 4, 5]) {
-    const candidates = pool.filter(
-      (p) => !used.has(p.id) && Math.abs(p.difficulty - difficulty) === spread,
-    );
-    if (!candidates.length) continue;
-    // الأفضلية: عمق مناسب للمستوى، ثم غير مستخدم مؤخرًا، ثم عشوائي
-    const scored = shuffle(candidates, random).map((p) => ({
-      p,
-      score: depthRank(level, p.depth_level) * 2 + (recent.has(p.id) ? 3 : 0),
-    }));
-    const best = Math.min(...scored.map((x) => x.score));
-    const top = scored.filter((x) => x.score === best);
-    return top[Math.floor(random() * top.length)].p;
-  }
-  return null;
+  const candidates = pool.filter((p) => !used.has(p.id));
+  if (!candidates.length) return null;
+  // الأفضلية: صعوبة مطابقة، ثم سؤال لم يظهر (أو ظهر من زمن بعيد)، ثم عمق مناسب للمستوى.
+  // سؤال جديد بفارق درجة واحدة (3) يتقدّم على سؤال مكرر اليوم بالصعوبة نفسها (5)،
+  // لكن لا نبتعد درجتين (6) إلا إذا لم يبقَ غير ذلك.
+  const scored = shuffle(candidates, random).map((p) => ({
+    p,
+    score:
+      Math.abs(p.difficulty - difficulty) * 3 +
+      freshnessPenalty(p, recent, now) +
+      depthRank(level, p.depth_level) * 2 +
+      Math.min(p.times_used ?? 0, 10) * 0.05,
+  }));
+  const best = Math.min(...scored.map((x) => x.score));
+  // هامش صغير حتى لا يُحسم الاختيار بفرق عدد مرات الاستخدام وحده (تنويع أكبر)
+  const top = scored.filter((x) => x.score <= best + 0.15);
+  return top[Math.floor(random() * top.length)].p;
+}
+
+/** يرتّب المرشحين عشوائيًا مع تقديم الأقل استخدامًا مؤخرًا */
+function freshFirst<T extends { id: string; last_used_at?: string | null }>(rows: T[], recent: Set<string>, random: () => number, now: number): T[] {
+  const penalty = (r: T) => freshnessPenalty({ id: r.id, last_used_at: r.last_used_at ?? null } as PoolRow, recent, now);
+  return shuffle(rows, random).sort((a, b) => penalty(a) - penalty(b));
 }
 
 export async function buildBoard(
@@ -111,6 +139,7 @@ export async function buildBoard(
   const { data: recentRows } = await sb.from("recent_questions").select("question_id").gte("used_at", since).limit(5000);
   const recent = new Set((recentRows ?? []).map((r: { question_id: string }) => r.question_id));
 
+  const now = Date.now();
   const used = new Set<string>();
   const columns: BoardColumn[] = [];
   const cells: BoardCell[] = [];
@@ -146,7 +175,7 @@ export async function buildBoard(
     let missing = 0;
     BOARD_POINTS.forEach((points, ri) => {
       const difficulty = points / 100 + (BOARD_POINTS.indexOf(points) === ri ? 0 : 1);
-      const pick = pickBest(rows, difficulty, used, recent, settings.level, random);
+      const pick = pickBest(rows, difficulty, used, recent, settings.level, random, now);
       if (pick) used.add(pick.id);
       else missing++;
       cells.push({
@@ -178,10 +207,12 @@ export async function buildBoard(
       let kind = kinds[Math.floor(random() * kinds.length)];
       if (kind === "challenge") {
         if (qrPool === null) {
-          let q = sb.from("questions").select("id,type").in("type", QUESTION_TYPE_IDS.filter(isQrType));
+          let q = sb.from("questions").select("id,type,last_used_at").in("type", QUESTION_TYPE_IDS.filter(isQrType));
           q = applyCommonFilters(q, { ...settings, verifiedOnly: false }, null);
-          const { data } = await q.limit(500);
-          qrPool = shuffle(((data ?? []) as { id: string }[]).map((d) => d.id).filter((id) => !used.has(id)), random);
+          const { data } = await q.order("last_used_at", { ascending: true, nullsFirst: true }).limit(500);
+          const rows = ((data ?? []) as { id: string; last_used_at: string | null }[]).filter((d) => !used.has(d.id));
+          // pop() يأخذ من النهاية، لذا نعكس ليأتي الأحدث استخدامًا أولًا والأقدم آخرًا
+          qrPool = freshFirst(rows, recent, random, now).reverse().map((d) => d.id);
         }
         const replacement = qrPool.pop();
         if (replacement) {
@@ -200,17 +231,19 @@ export async function buildBoard(
   let finalQuestionId: string | null = null;
   if (settings.finalEnabled) {
     const finalTypes: QuestionType[] = ["text", "multiple_choice", "identify_image"];
-    const candidates = shuffle(
+    const candidates = freshFirst(
       pools.flat().filter((p) => !used.has(p.id) && p.difficulty >= 5 && finalTypes.includes(p.type)),
+      recent,
       random,
+      now,
     );
     finalQuestionId = candidates[0]?.id ?? null;
     if (!finalQuestionId) {
-      let q = sb.from("questions").select("id").gte("difficulty", 5).in("type", finalTypes);
+      let q = sb.from("questions").select("id,last_used_at").gte("difficulty", 5).in("type", finalTypes);
       q = applyCommonFilters(q, settings, null);
-      const { data } = await q.limit(300);
-      const ids = ((data ?? []) as { id: string }[]).map((d) => d.id).filter((id) => !used.has(id));
-      finalQuestionId = ids.length ? ids[Math.floor(random() * ids.length)] : null;
+      const { data } = await q.order("last_used_at", { ascending: true, nullsFirst: true }).limit(300);
+      const rows = ((data ?? []) as { id: string; last_used_at: string | null }[]).filter((d) => !used.has(d.id));
+      finalQuestionId = freshFirst(rows, recent, random, now)[0]?.id ?? null;
     }
     if (finalQuestionId) used.add(finalQuestionId);
     else warnings.push("لا يوجد سؤال مناسب للسؤال النهائي — سيتم تخطيه");

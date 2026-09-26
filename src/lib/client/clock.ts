@@ -58,3 +58,46 @@ function calc(t: TimerState | null | undefined): number {
   if (!t.running || t.endsAt === null) return Math.max(0, t.remainingMs);
   return Math.max(0, t.endsAt - serverNow());
 }
+
+export type SecondsPhase = "idle" | "countdown" | "flash" | "hidden" | "stopped";
+
+/**
+ * حالة عداد «ملك الثواني» بتوقيت السيرفر، تتحدث مع كل إطار للعرض الدقيق:
+ * countdown (3-2-1) → flash (العداد ظاهر) → hidden (مخفي) → stopped
+ */
+export function useSecondsClock(startsAt: number | null, stopsAt: number | null, flashMs: number) {
+  const [now, setNow] = useState(() => serverNow());
+  const stopped = startsAt !== null && stopsAt !== null && now >= stopsAt;
+  useEffect(() => {
+    setNow(serverNow());
+    if (startsAt === null || stopsAt === null || serverNow() >= stopsAt) return;
+    let raf = 0;
+    let timeout: ReturnType<typeof setTimeout> | undefined;
+    const loop = () => {
+      const n = serverNow();
+      setNow(n);
+      if (n >= stopsAt) return;
+      // أثناء الإخفاء لا حاجة للتحديث كل إطار: ننتظر لحظة التوقف مباشرة
+      if (n >= startsAt + flashMs) timeout = setTimeout(() => (raf = requestAnimationFrame(loop)), Math.max(0, stopsAt - n - 30));
+      else raf = requestAnimationFrame(loop);
+    };
+    raf = requestAnimationFrame(loop);
+    return () => {
+      cancelAnimationFrame(raf);
+      clearTimeout(timeout);
+    };
+  }, [startsAt, stopsAt, flashMs]);
+
+  let phase: SecondsPhase = "idle";
+  if (startsAt !== null && stopsAt !== null) {
+    if (now < startsAt) phase = "countdown";
+    else if (stopped) phase = "stopped";
+    else if (now < startsAt + flashMs) phase = "flash";
+    else phase = "hidden";
+  }
+  return {
+    phase,
+    countdown: startsAt !== null ? Math.max(0, Math.ceil((startsAt - now) / 1000)) : 0,
+    elapsedMs: startsAt !== null ? Math.max(0, Math.min(now, stopsAt ?? now) - startsAt) : 0,
+  };
+}

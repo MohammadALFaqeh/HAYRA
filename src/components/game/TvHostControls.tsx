@@ -2,10 +2,11 @@
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { ArrowRight, Check, ChevronDown, ChevronUp, Eye, Pause, Play, Plus, SkipForward, X } from "lucide-react";
-import { useCountdown } from "@/lib/client/clock";
+import { useCountdown, useSecondsClock } from "@/lib/client/clock";
 import { play, unlockAudio } from "@/lib/client/sound";
 import type { useHostSession } from "@/lib/client/use-host-session";
-import type { PublicState } from "@/lib/game/public";
+import type { PublicSeconds, PublicState } from "@/lib/game/public";
+import { SECONDS_FLASH_MS, SECONDS_LEVELS, parseSecondsInput, randomSecondsTarget } from "@/lib/game/seconds";
 import type { TeamId } from "@/lib/game/types";
 import { POWERUPS } from "@/lib/game/constants";
 import { cn, TEAM_COLORS } from "@/lib/utils";
@@ -151,6 +152,8 @@ export function TvHostControls({ host, state }: { host: Host; state: PublicState
         </Btn>
       </>
     );
+  } else if (state.phase === "seconds" && state.seconds) {
+    buttons = <SecondsButtons round={state.seconds} state={state} act={act} />;
   } else if (state.phase === "final_wager") {
     buttons = <span className="px-2 text-sm text-white/60">سجّل رهانات الفريقين من لوحة المضيف 👑</span>;
   }
@@ -169,7 +172,10 @@ export function TvHostControls({ host, state }: { host: Host; state: PublicState
       {open && (
         <div className="flex w-full max-w-5xl flex-wrap items-center justify-center gap-2 rounded-2xl border border-white/10 bg-night-950/90 p-2 shadow-2xl backdrop-blur">
           {state.phase === "board" ? (
-            <span className="px-2 text-sm text-white/60">🖱️ اضغط على أي خانة في اللوحة لفتح السؤال</span>
+            <>
+              <span className="px-2 text-sm text-white/60">🖱️ اضغط على أي خانة في اللوحة لفتح السؤال</span>
+              <Btn onClick={() => act({ type: "SECONDS_OPEN", team: state.turn, level: 1, points: SECONDS_LEVELS[1].points })}>👑 ملك الثواني</Btn>
+            </>
           ) : (
             buttons
           )}
@@ -180,6 +186,96 @@ export function TvHostControls({ host, state }: { host: Host; state: PublicState
         </div>
       )}
     </div>
+  );
+}
+
+type Act = (a: Parameters<Host["dispatch"]>[0]) => void;
+
+/** أزرار «ملك الثواني» على شاشة العرض — لا تكشف الوقت الحقيقي */
+function SecondsButtons({ round: r, state, act }: { round: PublicSeconds; state: PublicState; act: Act }) {
+  const clock = useSecondsClock(r.startsAt, r.stopsAt, SECONDS_FLASH_MS);
+  const stopped = clock.phase === "stopped";
+  const [guess, setGuess] = useState("");
+  useEffect(() => setGuess(""), [r.answeringTeam, r.startsAt]);
+  const guessMs = parseSecondsInput(guess);
+  const otherTeam: TeamId = r.pickedBy === "A" ? "B" : "A";
+  const start = () => act({ type: "SECONDS_START", targetMs: randomSecondsTarget(r.level) });
+
+  if (r.stage === "ready") {
+    return (
+      <>
+        {([1, 2, 3] as const).map((l) => (
+          <Btn key={l} tone={r.level === l ? "gold" : "soft"} onClick={() => act({ type: "SECONDS_OPEN", team: r.pickedBy, level: l, points: SECONDS_LEVELS[l].points })}>
+            {SECONDS_LEVELS[l].name}
+          </Btn>
+        ))}
+        <Btn onClick={() => act({ type: "SECONDS_OPEN", team: otherTeam, level: r.level, points: r.points })}>
+          🔁 الدور لـ {state.teams[otherTeam].name}
+        </Btn>
+        <Btn tone="gold" onClick={start}>
+          <Play className="h-5 w-5" /> ابدأ العد
+        </Btn>
+        <Btn tone="wine" onClick={() => act({ type: "SECONDS_CLOSE" })}>
+          <X className="h-5 w-5" /> إلغاء
+        </Btn>
+      </>
+    );
+  }
+  if (r.stage === "running") {
+    return (
+      <>
+        <form
+          className="flex items-center gap-2"
+          onSubmit={(e) => {
+            e.preventDefault();
+            if (guessMs !== null && stopped) act({ type: "SECONDS_GUESS", guessMs });
+          }}
+        >
+          <input
+            inputMode="decimal"
+            dir="ltr"
+            placeholder={stopped ? `تخمين ${state.teams[r.answeringTeam].name}` : "انتظر التوقف…"}
+            value={guess}
+            onChange={(e) => setGuess(e.target.value)}
+            disabled={!stopped}
+            className="h-11 w-44 text-center tabular-nums"
+          />
+          <Btn tone="leaf" disabled={!stopped || guessMs === null} onClick={() => guessMs !== null && act({ type: "SECONDS_GUESS", guessMs })}>
+            <Check className="h-5 w-5" /> احكم
+          </Btn>
+        </form>
+        {r.guesses.length === 0 && (
+          <Btn onClick={start} label="إعادة العد بمدة جديدة">
+            🔁 إعادة العد
+          </Btn>
+        )}
+        <Btn disabled={!stopped} onClick={() => act({ type: "SECONDS_REVEAL" })}>
+          <Eye className="h-5 w-5" /> كشف النتيجة
+        </Btn>
+      </>
+    );
+  }
+  if (r.stage === "missed") {
+    return (
+      <>
+        <Btn tone="volt" onClick={() => act({ type: "SECONDS_TRANSFER" })}>
+          <ArrowRight className="h-5 w-5" /> تحويل لـ {state.teams[otherTeam].name}
+        </Btn>
+        <Btn onClick={() => act({ type: "SECONDS_REVEAL" })}>
+          <Eye className="h-5 w-5" /> كشف النتيجة
+        </Btn>
+      </>
+    );
+  }
+  return (
+    <>
+      <Btn onClick={() => act({ type: "SECONDS_OPEN", team: otherTeam, level: r.level, points: SECONDS_LEVELS[r.level].points })}>
+        🔁 جولة لـ {state.teams[otherTeam].name}
+      </Btn>
+      <Btn tone="gold" onClick={() => act({ type: "SECONDS_CLOSE" })}>
+        العودة للوحة ↩
+      </Btn>
+    </>
   );
 }
 
@@ -208,6 +304,7 @@ function Btn({
 }) {
   return (
     <button
+      type="button"
       onClick={onClick}
       disabled={disabled}
       aria-label={label}

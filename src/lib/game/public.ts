@@ -11,6 +11,7 @@ import type {
   MysteryKind,
   Phase,
   QuestionType,
+  SecondsRound,
   TeamId,
   TeamState,
   TimerState,
@@ -76,6 +77,15 @@ export interface PublicFinal {
   revealed: boolean;
 }
 
+export interface PublicSeconds
+  extends Pick<SecondsRound, "pickedBy" | "answeringTeam" | "level" | "points" | "stage" | "startsAt" | "winner"> {
+  /** لحظة توقف العداد — يحتاجها التلفزيون ليتوقف بدقة دون انتظار الشبكة */
+  stopsAt: number | null;
+  /** الوقت الحقيقي يظهر فقط بعد النتيجة */
+  targetMs: number | null;
+  guesses: { team: TeamId; guessMs: number; correct: boolean; diffMs: number | null }[];
+}
+
 export interface PublicState {
   v: 1;
   sessionId: string;
@@ -88,6 +98,7 @@ export interface PublicState {
   active: PublicActive | null;
   timer: TimerState;
   final: PublicFinal | null;
+  seconds: PublicSeconds | null;
   lastEvent: LastEvent | null;
   packName: string | null;
   updatedAt: number;
@@ -155,6 +166,24 @@ export function toPublicState(s: GameState, serverTime = Date.now()): PublicStat
     };
   }
 
+  let seconds: PublicSeconds | null = null;
+  const r = s.phase === "seconds" ? s.seconds : null;
+  if (r) {
+    const done = r.stage === "done";
+    seconds = {
+      pickedBy: r.pickedBy,
+      answeringTeam: r.answeringTeam,
+      level: r.level,
+      points: r.points,
+      stage: r.stage,
+      startsAt: r.startsAt,
+      winner: r.winner,
+      stopsAt: r.startsAt !== null && r.targetMs !== null ? r.startsAt + r.targetMs : null,
+      targetMs: done ? r.targetMs : null,
+      guesses: r.guesses.map((g) => ({ team: g.team, guessMs: g.guessMs, correct: g.correct, diffMs: done ? g.diffMs : null })),
+    };
+  }
+
   return {
     v: 1,
     sessionId: s.sessionId,
@@ -186,6 +215,7 @@ export function toPublicState(s: GameState, serverTime = Date.now()): PublicStat
     active,
     timer: s.timer,
     final,
+    seconds,
     lastEvent: s.lastEvent,
     packName: s.packName,
     updatedAt: s.updatedAt,
