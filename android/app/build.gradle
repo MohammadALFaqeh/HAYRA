@@ -1,0 +1,50 @@
+plugins {
+    id 'com.android.application'
+}
+
+// بيانات التوقيع خارج الكود (keystore.properties) — لا ترفعها لأي مكان
+def keyProps = new Properties()
+def keyFile = rootProject.file('keystore.properties')
+if (keyFile.exists()) keyFile.withInputStream { keyProps.load(it) }
+
+android {
+    namespace 'com.hayra.game'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.hayra.game'
+        minSdk 21
+        targetSdk 35
+        versionCode 1
+        versionName '1.0'
+        // لغات الواجهة: العربية والإنجليزية فقط (يقلّل الحجم)
+        resourceConfigurations += ['ar', 'en']
+    }
+
+    signingConfigs {
+        release {
+            storeFile rootProject.file(keyProps['storeFile'] ?: 'hayra-release.jks')
+            storePassword keyProps['storePassword']
+            keyAlias keyProps['keyAlias']
+            keyPassword keyProps['keyPassword']
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt')
+            signingConfig signingConfigs.release
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.5.0'
+}

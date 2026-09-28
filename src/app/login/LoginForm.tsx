@@ -4,6 +4,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { KeyRound, Lock } from "lucide-react";
 import { Logo } from "@/components/ui/Logo";
 import { Button, PasswordInput } from "@/components/ui";
+import { AppDownloadLink } from "@/components/site/AppDownloadLink";
 
 export function LoginForm() {
   const router = useRouter();
@@ -67,6 +68,7 @@ export function LoginForm() {
             دخول
           </Button>
         </form>
+        <AppDownloadLink className="w-full" />
       </div>
     </main>
   );

@@ -62,5 +62,6 @@ export async function middleware(req: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/((?!_next/static|_next/image|brand/|sounds/|icon.png|apple-icon.png|favicon.ico|robots.txt).*)"],
+  // manifest و .well-known يجب أن تكون عامة ليتحقق Chrome من تطبيق الأندرويد (TWA)
+  matcher: ["/((?!_next/static|_next/image|brand/|sounds/|icon.png|apple-icon.png|favicon.ico|robots.txt|manifest.webmanifest|hayra.apk|\\.well-known/).*)"],
 };

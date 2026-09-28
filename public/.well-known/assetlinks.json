@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hayra.game",
+      "sha256_cert_fingerprints": [
+        "71:4B:0E:39:98:51:A1:FD:1D:7A:51:C8:DC:94:1A:C3:EF:8E:A9:EB:3F:0A:48:B3:52:09:4D:9E:11:B8:B4:62"
+      ]
+    }
+  }
+]

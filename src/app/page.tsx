@@ -5,6 +5,7 @@ import type { Category } from "@/lib/db/types";
 import { colorOf } from "@/lib/utils";
 import { SiteHeader } from "@/components/site/SiteHeader";
 import { ResumeBanner } from "@/components/site/ResumeBanner";
+import { AppDownloadLink } from "@/components/site/AppDownloadLink";
 
 export const revalidate = 300;
 
@@ -57,6 +58,9 @@ export default async function Home() {
             <Link href="/how-to-play" className="inline-block text-sm text-volt-400 hover:underline">
               أول مرة؟ شوف طريقة اللعب
             </Link>
+            <div>
+              <AppDownloadLink />
+            </div>
           </div>
         </section>
 
