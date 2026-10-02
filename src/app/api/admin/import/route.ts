@@ -6,21 +6,12 @@ import { importQuran, type QuranKind } from "@/lib/importers/quran";
 import { importWikidata, type WikidataTemplate } from "@/lib/importers/wikidata";
 import { importTmdb, type TmdbMode } from "@/lib/importers/tmdb";
 import { importFootball } from "@/lib/importers/football";
-import { normalizeRow, parseFileContent } from "@/lib/importers/file";
-import type { ImportSource, QuestionDraft } from "@/lib/importers/types";
-import type { Category, Subcategory } from "@/lib/db/types";
+import { parseFileContent } from "@/lib/importers/file";
+import type { ImportSource } from "@/lib/importers/types";
+import { SOURCE_TAG, promoteToQuestions } from "@/lib/questions/promote";
 
 export const runtime = "nodejs";
 export const maxDuration = 60;
-
-const SOURCE_TAG: Record<ImportSource, string> = {
-  opentdb: "opentdb",
-  quran: "quran-dataset",
-  wikidata: "wikidata",
-  tmdb: "tmdb",
-  football: "football-data",
-  file: "file",
-};
 
 interface Body {
   source?: ImportSource;
@@ -77,72 +68,6 @@ export async function POST(req: NextRequest) {
   if (!rows.length) return errorJson("لا توجد أسئلة للحفظ");
 
   const sb = await getServerSupabase();
-  const [{ data: cats }, { data: subs }] = await Promise.all([
-    sb.from("categories").select("*"),
-    sb.from("subcategories").select("*"),
-  ]);
-  const categories = (cats ?? []) as Category[];
-  const subcategories = (subs ?? []) as Subcategory[];
-  const findCat = (v: string) => categories.find((c) => c.slug === v || c.name === v);
-  const findSub = (catId: string, v: string | null | undefined) =>
-    v ? subcategories.find((s) => s.category_id === catId && (s.slug === v || s.name === v)) ?? null : null;
-
-  const isExternal = source !== "file";
-  const batch = `${SOURCE_TAG[source]}-${new Date().toISOString().slice(0, 16).replace(/[:T]/g, "-")}`;
-  const errors: string[] = [];
-  const inserts: Record<string, unknown>[] = [];
-
-  rows.forEach((raw, i) => {
-    const { draft, error } = normalizeRow(raw, i);
-    if (!draft) return void errors.push(error!);
-    const d = draft as QuestionDraft;
-    const cat = findCat(d.category);
-    if (!cat) return void errors.push(`صف ${i + 1}: الفئة «${d.category}» غير موجودة`);
-    const sub = findSub(cat.id, d.subcategory);
-    if (d.subcategory && !sub) errors.push(`صف ${i + 1}: الفئة الفرعية «${d.subcategory}» غير موجودة — حُفظ بدونها`);
-    inserts.push({
-      code: d.code ?? null,
-      category_id: cat.id,
-      subcategory_id: sub?.id ?? null,
-      type: d.type,
-      question_text: d.question_text,
-      answer: d.answer,
-      choices: d.choices ?? null,
-      clues: d.clues ?? null,
-      extra: d.extra ?? {},
-      difficulty: d.difficulty,
-      depth_level: d.depth_level ?? 2,
-      image_url: d.image_url ?? null,
-      audio_url: d.audio_url ?? null,
-      video_url: d.video_url ?? null,
-      explanation: d.explanation ?? null,
-      source: d.source ?? null,
-      reference: d.reference ?? null,
-      tags: d.tags ?? [],
-      family_safe: d.family_safe ?? true,
-      // المصادر الخارجية: تدخل دائمًا غير مفعّلة وغير موثّقة لتتم مراجعتها
-      verified: isExternal ? false : !!body.trustVerified && !!d.verified,
-      is_active: isExternal ? false : !!body.activate && d.is_active !== false,
-      language: d.language ?? "ar",
-      import_source: SOURCE_TAG[source],
-      import_batch: batch,
-      external_id: d.external_id ?? null,
-    });
-  });
-
-  let inserted = 0;
-  for (let i = 0; i < inserts.length; i += 200) {
-    const chunk = inserts.slice(i, i + 200);
-    const { data, error } = await sb
-      .from("questions")
-      .upsert(chunk, { onConflict: "import_source,external_id", ignoreDuplicates: true })
-      .select("id");
-    if (error) {
-      errors.push(`دفعة ${i / 200 + 1}: ${error.message}`);
-      continue;
-    }
-    inserted += data?.length ?? 0;
-  }
-
-  return json({ inserted, skipped: inserts.length - inserted, errors: errors.slice(0, 100), batch });
+  const result = await promoteToQuestions(sb, { source, rows, activate: body.activate, trustVerified: body.trustVerified });
+  return json(result);
 }

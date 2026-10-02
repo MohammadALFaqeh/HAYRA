@@ -2,8 +2,7 @@
 import Papa from "papaparse";
 import { QUESTION_TYPE_IDS } from "@/lib/game/constants";
 import type { QuestionType } from "@/lib/game/types";
-import { hash } from "./opentdb";
-import { clampDifficulty, depthFor, type QuestionDraft } from "./types";
+import { clampDifficulty, depthFor, hash, type QuestionDraft } from "./types";
 
 const list = (v: unknown): string[] | null => {
   if (Array.isArray(v)) return v.map(String).map((s) => s.trim()).filter(Boolean);

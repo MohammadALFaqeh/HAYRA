@@ -1,0 +1,50 @@
+# مصنع الأسئلة اليومي: Wikidata → فحوص → كشف تكرار → مراجعة Claude → نشر مفعّل في بنك الأسئلة
+# الأسرار المطلوبة (Settings → Secrets and variables → Actions):
+#   NEXT_PUBLIC_SUPABASE_URL، SUPABASE_SERVICE_ROLE_KEY، ANTHROPIC_API_KEY
+# متغيرات اختيارية (Variables): FACTORY_PER_RECIPE (افتراضي 25)، FACTORY_AUTO_PUBLISH=false لإيقاف النشر
+name: Question Factory
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # يوميًا 03:00 UTC = 06:00 بتوقيت عمّان
+  workflow_dispatch:
+    inputs:
+      recipes:
+        description: "وصفات محددة (مفصولة بفواصل) — فارغ = الكل"
+        required: false
+        default: ""
+      per_recipe:
+        description: "عدد المواضيع الجديدة لكل وصفة"
+        required: false
+        default: ""
+
+concurrency:
+  group: question-factory
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Run factory
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FACTORY_PER_RECIPE: ${{ inputs.per_recipe || vars.FACTORY_PER_RECIPE || '25' }}
+          FACTORY_AUTO_PUBLISH: ${{ vars.FACTORY_AUTO_PUBLISH || 'true' }}
+          RECIPES: ${{ inputs.recipes }}
+        # المدخلات تمر عبر متغير بيئة (وليس داخل السكربت مباشرة) لمنع حقن الأوامر
+        run: |
+          if [ -n "$RECIPES" ]; then
+            npm run factory:daily -- "--recipes=$RECIPES"
+          else
+            npm run factory:daily
+          fi
