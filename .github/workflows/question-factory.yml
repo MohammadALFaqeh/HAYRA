@@ -1,7 +1,10 @@
-# مصنع الأسئلة اليومي: Wikidata → فحوص → كشف تكرار → مراجعة Claude → نشر مفعّل في بنك الأسئلة
+# مصنع الأسئلة اليومي: Wikidata → فحوص → كشف تكرار → مراجعة → نشر مفعّل في بنك الأسئلة
 # الأسرار المطلوبة (Settings → Secrets and variables → Actions):
-#   NEXT_PUBLIC_SUPABASE_URL، SUPABASE_SERVICE_ROLE_KEY، ANTHROPIC_API_KEY
-# متغيرات اختيارية (Variables): FACTORY_PER_RECIPE (افتراضي 25)، FACTORY_AUTO_PUBLISH=false لإيقاف النشر
+#   NEXT_PUBLIC_SUPABASE_URL، SUPABASE_SERVICE_ROLE_KEY
+#   ANTHROPIC_API_KEY — اختياري، فقط إذا FACTORY_REVIEW_MODE=claude
+# متغيرات اختيارية (Variables):
+#   FACTORY_REVIEW_MODE: deterministic (افتراضي، مجاني، الأنواع المسموحة فقط) أو claude
+#   FACTORY_PER_RECIPE (افتراضي 25)، FACTORY_AUTO_PUBLISH=false لإيقاف النشر
 name: Question Factory
 
 on:
@@ -37,7 +40,9 @@ jobs:
         env:
           NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          # فارغ إن لم يُضبط السر — لا يُطلب إلا في وضع claude
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FACTORY_REVIEW_MODE: ${{ vars.FACTORY_REVIEW_MODE || 'deterministic' }}
           FACTORY_PER_RECIPE: ${{ inputs.per_recipe || vars.FACTORY_PER_RECIPE || '25' }}
           FACTORY_AUTO_PUBLISH: ${{ vars.FACTORY_AUTO_PUBLISH || 'true' }}
           RECIPES: ${{ inputs.recipes }}

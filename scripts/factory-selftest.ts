@@ -1,5 +1,6 @@
 // اختبار سريع لمصنع الأسئلة (بدون قاعدة بيانات أو شبكة): npm run test:factory
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import { normalizeArabicForComparison as norm } from "../src/lib/factory/normalize-ar";
 import { DEDUPE_THRESHOLDS, matchFromRaw, pickVerdict, trigramSimilarity, type DedupeSubject } from "../src/lib/factory/dedupe";
 import { runCandidateChecks, hasHardFailure, type CheckContext } from "../src/lib/factory/checks";
@@ -8,7 +9,10 @@ import { FACTORY_WIKIDATA_SOURCE, generateWikidataCandidate } from "../src/lib/f
 import type { CandidatePayload, SourceFact } from "../src/lib/factory/types";
 import { commonsThumbUrl, groupBindings, resolveAnimalClass, subjectsToFacts, takeNewSubjects } from "../src/lib/factory/providers/wikidata-recipes";
 import { withAl } from "../src/lib/factory/generators/wikidata-templates";
-import { decideAfterReview, type AiReview } from "../src/lib/factory/ai/review";
+import { decideAfterReview, isFatalAiError, needsAiReview, type AiReview } from "../src/lib/factory/ai/review";
+import { DETERMINISTIC_ALLOWLIST, dedupeLevelFromChecks, deterministicDecision, resolveRunConfig } from "../src/lib/factory/review-modes";
+import { ENTITY_AUTO_PUBLISH_BLOCKLIST, RELATION_REVIEW_RULES, autoPublishPolicyHolds } from "../src/lib/factory/policy/auto-publish-policy";
+import { WIKIDATA_ARABIC_OVERRIDES, arabicOverrideFor } from "../src/lib/factory/policy/wikidata-arabic-overrides";
 import type { WikidataCountry } from "../src/lib/importers/wikidata";
 
 let passed = 0;
@@ -402,6 +406,220 @@ test("ai: MC fix keeps the answer inside the choices", () => {
   const mc: CandidatePayload = { ...validPayload(), type: "multiple_choice", question_text: "إلى أي طائفة ينتمي «الحوت الأزرق»؟", answer: "ثدييات", choices: ["ثدييات", "أسماك", "طيور", "زواحف"] };
   const d = decideAfterReview(mc, review({ verdict: "fix", fixed_answer: "الثدييات" }), CTX);
   assert.ok(d.action === "publish" && d.payload.choices!.includes("الثدييات") && !d.payload.choices!.includes("ثدييات"));
+});
+
+// =====================================================================
+// 8) تقوية إعادة المحاولة
+// =====================================================================
+test("isFatalAiError: credit/auth/permission/not-found are fatal; rate limit and 5xx are not", () => {
+  for (const s of [400, 401, 403, 404]) assert.equal(isFatalAiError({ status: s }), true, String(s));
+  for (const s of [429, 500, 529]) assert.equal(isFatalAiError({ status: s }), false, String(s));
+  assert.equal(isFatalAiError(new Error("network")), false);
+});
+
+const chk = (check_name: string, status: string, details: Record<string, unknown> | null = {}) => ({ check_name, status, details });
+test("needsAiReview: held after Claude failure → pending", () => {
+  assert.equal(needsAiReview([chk("schema_valid", "pass"), chk("arabic_language", "warning"), chk("duplicate", "pass"), chk("ai_review", "warning", { reason: "لا توجد مراجعة" })]), true);
+  assert.equal(needsAiReview([chk("schema_valid", "pass"), chk("duplicate", "pass")]), true);
+});
+test("needsAiReview: real verdict, failure, or suspicious → not pending", () => {
+  assert.equal(needsAiReview([chk("duplicate", "pass"), chk("ai_review", "warning", { verdict: "fix" })]), false);
+  assert.equal(needsAiReview([chk("duplicate", "pass"), chk("ai_review", "pass", { verdict: "approve" })]), false);
+  assert.equal(needsAiReview([chk("duplicate", "fail")]), false);
+  assert.equal(needsAiReview([chk("duplicate", "warning")]), false);
+  assert.equal(needsAiReview([chk("duplicate", "pass"), chk("answer_not_leaked", "fail")]), false);
+});
+
+// =====================================================================
+// 9) المراجعة الثابتة المجانية (FACTORY_REVIEW_MODE=deterministic)
+// =====================================================================
+const CTX_ALL: CheckContext = {
+  ...CTX,
+  categories: [...CTX.categories, { id: "cat-sci", slug: "science", name: "علوم" }, { id: "cat-isl", slug: "islamic", name: "الإسلاميات" }],
+  subcategories: [
+    ...CTX.subcategories,
+    { category_id: "cat-sci", slug: "chemistry", name: "كيمياء" },
+    { category_id: "cat-sci", slug: "animals", name: "حيوانات" },
+    { category_id: "cat-geo", slug: "flags", name: "أعلام" },
+    { category_id: "cat-isl", slug: "quran", name: "القرآن" },
+  ],
+};
+
+/** المسار الحقيقي: حقيقة → قالب → فحوص ثابتة → قرار */
+function decide(fact: SourceFact, dedupe: "none" | "suspicious" | "duplicate" = "none", tweak: (p: CandidatePayload) => CandidatePayload = (p) => p) {
+  const r = generateWikidataCandidate(fact);
+  assert.ok("payload" in r, "template skipped: " + JSON.stringify(r));
+  const payload = tweak(r.payload);
+  const checks = runCandidateChecks(payload, { ...CTX_ALL, fact });
+  const dupStatus = dedupe === "duplicate" ? "fail" : dedupe === "suspicious" ? "warning" : "pass";
+  return deterministicDecision({ payload, fact, checks: [...checks, { check_name: "duplicate", status: dupStatus }], dedupe });
+}
+const capitalJo = () => asFact(countriesToFacts(COUNTRIES, "capital", 10, NOW).find((f) => f.external_id === "Q810")!);
+const currencyJo = () => asFact(countriesToFacts(COUNTRIES, "currency", 10, NOW).find((f) => f.external_id === "Q810")!);
+const elementFact = (recipe: "element_symbol" | "atomic_number", value: string) =>
+  asFact(subjectsToFacts(groupBindings([B("Q897", "ذهب", 277, value)], true), { id: recipe, categorySlug: "science", subcategorySlug: "chemistry" }, recipe === "element_symbol" ? "P246" : "P1086", NOW)[0]);
+
+test("deterministic: capital auto-approves", () => assert.equal(decide(capitalJo()).action, "publish"));
+test("deterministic: currency auto-approves", () => assert.equal(decide(currencyJo()).action, "publish"));
+test("deterministic: element_symbol auto-approves (Latin symbol allowed)", () => assert.equal(decide(elementFact("element_symbol", "Au")).action, "publish"));
+test("deterministic: atomic_number auto-approves", () => assert.equal(decide(elementFact("atomic_number", "79")).action, "publish"));
+
+test("deterministic: duplicate never publishes (auto_rejected)", () => {
+  const d = decide(capitalJo(), "duplicate");
+  assert.equal(d.action, "reject");
+  assert.equal(d.check.status, "fail");
+});
+test("deterministic: suspicious never publishes (stays needs_review)", () => assert.equal(decide(capitalJo(), "suspicious").action, "hold"));
+test("deterministic: ambiguous fact never publishes", () => {
+  const multi: SourceFact = { ...capitalJo(), raw_payload: { ...capitalJo().raw_payload, value_count: 2 } };
+  const payload = (generateWikidataCandidate(capitalJo()) as { payload: CandidatePayload }).payload;
+  const checks = [...runCandidateChecks(payload, { ...CTX_ALL, fact: multi }), { check_name: "duplicate", status: "pass" as const }];
+  assert.equal(deterministicDecision({ payload, fact: multi, checks, dedupe: "none" }).action, "hold");
+  assert.equal(decide(capitalJo(), "none", (p) => ({ ...p, answer: "تبليسي (تفليس)" })).action, "hold");
+  assert.equal(decide(capitalJo(), "none", (p) => ({ ...p, answer: "لاباز أو سوكري" })).action, "hold");
+});
+test("deterministic: non-allowlisted fact types stay needs_review", () => {
+  const lion = asFact(subjectsToFacts([{ id: "Q140", name: "أسد", links: 274, values: [{ id: "Q7377", label: "الثدييات" }] }], { id: "animal_class", categorySlug: "science", subcategorySlug: "animals" }, "P171", NOW)[0]);
+  const d = decide(lion);
+  assert.equal(d.action, "hold");
+  assert.ok(d.reasons.some((r) => r.includes("animal_class")));
+  const img = commonsThumbUrl("Flag of Jordan.svg");
+  const flag = asFact(subjectsToFacts([{ id: "Q810", name: "الأردن", links: 250, image: img, values: [{ id: img, label: img }] }], { id: "flag", categorySlug: "geography", subcategorySlug: "flags" }, "P41", NOW)[0]);
+  assert.equal(decide(flag).action, "hold");
+});
+test("deterministic: hard check failure → auto_rejected (Djibouti leak)", () => {
+  const dj = asFact(countriesToFacts(COUNTRIES, "capital", 10, NOW).find((f) => f.external_id === "Q977")!);
+  assert.equal(decide(dj).action, "reject");
+});
+test("deterministic: partial leak, family_safe=false, islamic, wrong license → hold", () => {
+  assert.equal(decide(capitalJo(), "none", (p) => ({ ...p, question_text: "ما عاصمة الولايات المتحدة؟", answer: "واشنطن العاصمة" })).action, "hold");
+  assert.equal(decide(capitalJo(), "none", (p) => ({ ...p, family_safe: false })).action, "hold");
+  assert.equal(decide(capitalJo(), "none", (p) => ({ ...p, category: "islamic", subcategory: "quran" })).action, "hold");
+  assert.equal(decide({ ...capitalJo(), source_license: "CC BY-SA" }).action, "hold");
+});
+test("deterministic: dedupe level is read from saved checks", () => {
+  assert.equal(dedupeLevelFromChecks([{ check_name: "duplicate", status: "pass" }]), "none");
+  assert.equal(dedupeLevelFromChecks([{ check_name: "duplicate", status: "warning" }]), "suspicious");
+  assert.equal(dedupeLevelFromChecks([{ check_name: "duplicate", status: "fail" }]), "duplicate");
+  assert.equal(dedupeLevelFromChecks([]), null);
+});
+
+// ---------------------------------------------------------------- الإعدادات
+test("config: deterministic is the default and needs no ANTHROPIC_API_KEY", () => {
+  const c = resolveRunConfig({ env: {} });
+  assert.ok(c.ok);
+  if (c.ok) {
+    assert.equal(c.mode, "deterministic");
+    assert.deepEqual(c.recipeIds, [...DETERMINISTIC_ALLOWLIST]);
+  }
+});
+test("config: deterministic refuses non-allowlisted recipes", () => {
+  const c = resolveRunConfig({ env: {}, recipesArg: "capital,animal_image" });
+  assert.ok(!c.ok && c.error.includes("animal_image"));
+});
+test("config: claude mode requires ANTHROPIC_API_KEY", () => {
+  assert.ok(!resolveRunConfig({ env: { FACTORY_REVIEW_MODE: "claude" } }).ok);
+  assert.ok(!resolveRunConfig({ env: { ANTHROPIC_API_KEY: "" }, modeArg: "claude" }).ok);
+  const c = resolveRunConfig({ env: { FACTORY_REVIEW_MODE: "claude", ANTHROPIC_API_KEY: "sk-ant-x" } });
+  assert.ok(c.ok && c.mode === "claude" && c.recipeIds.includes("animal_image"));
+});
+test("config: invalid mode is rejected", () => assert.ok(!resolveRunConfig({ env: { FACTORY_REVIEW_MODE: "yolo" } }).ok));
+test("config: allowlist excludes animals, landmarks, flags", () => {
+  for (const r of ["animal_class", "animal_image", "heritage_country", "flag"]) assert.ok(!DETERMINISTIC_ALLOWLIST.includes(r), r);
+});
+
+test("workflow: daily run defaults to deterministic and works without the Anthropic secret", () => {
+  const wf = readFileSync(".github/workflows/question-factory.yml", "utf8");
+  assert.match(wf, /FACTORY_REVIEW_MODE: \$\{\{ vars\.FACTORY_REVIEW_MODE \|\| 'deterministic' \}\}/);
+  assert.match(wf, /npm run factory:daily/);
+  assert.match(wf, /schedule:/);
+  // ما يراه السكربت في GitHub عند غياب السر: مفتاح فارغ + الوضع الافتراضي
+  const c = resolveRunConfig({ env: { FACTORY_REVIEW_MODE: "deterministic", ANTHROPIC_API_KEY: "" } });
+  assert.ok(c.ok && c.mode === "deterministic");
+});
+
+// =====================================================================
+// 10) سياسة النشر المركزية + تصحيح الأسماء حسب QID
+// =====================================================================
+const POLICY_COUNTRIES: WikidataCountry[] = [
+  { id: "Q233", name: "مالطا", links: 200, capitals: [{ id: "Q23800", label: "البلد" }], currencies: [{ id: "Q4916", label: "يورو" }] },
+  { id: "Q215", name: "سلوفينيا", links: 190, capitals: [{ id: "Q437", label: "لبلانة" }], currencies: [] },
+  { id: "Q1008", name: "ساحل العاج", links: 180, capitals: [{ id: "Q3768", label: "ياموسوكرو" }], currencies: [{ id: "Q861690", label: "فرنك غرب أفريقي" }] },
+  { id: "Q801", name: "إسرائيل", links: 170, capitals: [{ id: "Q1218", label: "القدس" }], currencies: [{ id: "Q131309", label: "شيكل إسرائيلي جديد" }] },
+  { id: "Q31", name: "بلجيكا", links: 160, capitals: [{ id: "Q239", label: "بروكسل" }], currencies: [{ id: "Q4916", label: "يورو" }] },
+  // كيان آخر يحمل نفس النص «البلد» صدفةً — يجب ألا يتأثر بتصحيح Q23800
+  { id: "Q99001", name: "دولة اختبار", links: 10, capitals: [{ id: "Q99002", label: "البلد" }], currencies: [] },
+];
+const pf = (type: "capital" | "currency", subject: string) =>
+  asFact(countriesToFacts(POLICY_COUNTRIES, type, 10, NOW).find((f) => f.external_id === subject)!);
+const CTX_POLICY: CheckContext = { ...CTX_ALL };
+
+test("policy: blocked entity (subject) cannot deterministic auto-publish", () => {
+  const d = decide(pf("currency", "Q801"));
+  assert.equal(d.action, "hold");
+  assert.ok(d.reasons.some((r) => r.includes("Q801")));
+  assert.ok(autoPublishPolicyHolds(pf("currency", "Q801")).length > 0);
+});
+test("policy: blocked entity as the ANSWER also holds (Q1218 as capital)", () => {
+  const reasons = autoPublishPolicyHolds(pf("capital", "Q801"));
+  assert.ok(reasons.some((r) => r.includes("Q1218")));
+});
+test("policy: relation-specific hold — Ivory Coast capital held, its currency is not blocked by policy", () => {
+  const cap = decide(pf("capital", "Q1008"));
+  assert.equal(cap.action, "hold");
+  assert.ok(cap.reasons.some((r) => r.includes("Q1008")));
+  assert.deepEqual(autoPublishPolicyHolds(pf("currency", "Q1008")), []);
+});
+test("policy: ambiguous capitals from the audit stay held", () => {
+  for (const qid of ["Q1008", "Q962", "Q924", "Q836", "Q967"]) {
+    assert.ok(autoPublishPolicyHolds({ predicate: "capital", raw_payload: { subject_id: qid, object_id: "Qx" } }).length > 0, qid);
+  }
+  assert.ok(autoPublishPolicyHolds({ predicate: "currency", raw_payload: { subject_id: "Q717", object_id: "Q56349362" } }).length > 0);
+});
+test("policy: normal safe country still auto-publishes", () => {
+  assert.deepEqual(autoPublishPolicyHolds(pf("capital", "Q31")), []);
+  assert.equal(decide(pf("capital", "Q31")).action, "publish");
+  assert.equal(decide(pf("currency", "Q31")).action, "publish");
+});
+test("policy: matching is by QID only, never by text", () => {
+  assert.deepEqual(autoPublishPolicyHolds({ predicate: "capital", raw_payload: { subject_id: "Q99001", object_id: "Q99002" } }), []);
+  assert.deepEqual(autoPublishPolicyHolds({ predicate: "capital", raw_payload: {} }), []);
+  assert.deepEqual(autoPublishPolicyHolds(null), []);
+});
+
+test("override: QID override changes the generated answer (Valletta)", () => {
+  const r = generateWikidataCandidate(pf("capital", "Q233"));
+  assert.ok("payload" in r);
+  assert.equal(r.payload.answer, "فاليتا");
+  assert.deepEqual(r.payload.extra?.label_overrides, ["Q23800"]);
+  assert.equal(r.payload.external_id, "wikidata:capital:Q233:Q23800"); // المعرّف ثابت لا يتغير بالتصحيح
+  assert.equal(decide(pf("capital", "Q233")).action, "publish");
+});
+test("override: aliases are preserved in extra.answer_aliases", () => {
+  const r = generateWikidataCandidate(pf("capital", "Q215"));
+  assert.ok("payload" in r);
+  assert.equal(r.payload.answer, "ليوبليانا");
+  assert.deepEqual(r.payload.extra?.answer_aliases, ["لبلانة"]);
+});
+test("override: raw string coincidence does not trigger an unrelated override", () => {
+  const r = generateWikidataCandidate(pf("capital", "Q99001"));
+  assert.ok("payload" in r);
+  assert.equal(r.payload.answer, "البلد"); // نفس النص لكن QID مختلف ← بلا تصحيح
+  assert.equal(r.payload.extra, undefined);
+  assert.equal(arabicOverrideFor("Q99002"), null);
+  assert.equal(arabicOverrideFor("البلد"), null);
+});
+test("override: every override and policy entry uses a QID key", () => {
+  for (const o of WIKIDATA_ARABIC_OVERRIDES) assert.match(o.qid, /^Q\d+$/);
+  for (const e of [...ENTITY_AUTO_PUBLISH_BLOCKLIST, ...RELATION_REVIEW_RULES]) assert.match(e.qid, /^Q\d+$/);
+  assert.equal(new Set(WIKIDATA_ARABIC_OVERRIDES.map((o) => o.qid)).size, WIKIDATA_ARABIC_OVERRIDES.length);
+});
+test("existing deterministic types keep working with the policy layer", () => {
+  assert.equal(decide(capitalJo()).action, "publish");
+  assert.equal(decide(currencyJo()).action, "publish");
+  assert.equal(decide(elementFact("element_symbol", "Au")).action, "publish");
+  assert.equal(decide(elementFact("atomic_number", "79")).action, "publish");
+  void CTX_POLICY;
 });
 
 console.log(`✅ كل اختبارات المصنع نجحت (${passed} اختبار)`);

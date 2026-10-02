@@ -89,26 +89,56 @@ async function reviewBatch(client: Anthropic, items: ReviewItem[]): Promise<AiRe
   return res.parsed_output.reviews.filter((r) => ids.has(r.id));
 }
 
-/** يراجع كل العناصر على دفعات. فشل دفعة لا يوقف الباقي (تبقى بلا مراجعة = لا نشر) */
-export async function reviewWithClaude(
-  client: Anthropic,
-  items: ReviewItem[],
-  log: (msg: string) => void = () => {},
-): Promise<Map<string, AiReview>> {
-  const out = new Map<string, AiReview>();
+/**
+ * أخطاء لن تُحل بإعادة المحاولة داخل نفس التشغيل: رصيد منتهٍ/طلب خاطئ (400)، مفتاح خاطئ (401)،
+ * لا صلاحية (403)، نموذج غير موجود (404). 429 و5xx والشبكة يعيدها الـSDK تلقائيًا (maxRetries).
+ */
+export function isFatalAiError(e: unknown): boolean {
+  const status = (e as { status?: unknown })?.status;
+  return typeof status === "number" && [400, 401, 403, 404].includes(status);
+}
+
+export interface ReviewRunResult {
+  reviews: Map<string, AiReview>;
+  /** عناصر لم تحصل على مراجعة (خطأ، رفض، انقطاع، أو توقف بعد خطأ قاتل) */
+  failed: number;
+  /** أول خطأ قاتل — توقفت بعده كل الدفعات */
+  fatalError: string | null;
+}
+
+/**
+ * يراجع كل العناصر على دفعات. خطأ عابر في دفعة لا يوقف الباقي،
+ * أما الخطأ القاتل فيوقف كل شيء فورًا. العنصر بلا مراجعة لا يُنشر أبدًا.
+ */
+export async function reviewWithClaude(client: Anthropic, items: ReviewItem[], log: (msg: string) => void = () => {}): Promise<ReviewRunResult> {
+  const reviews = new Map<string, AiReview>();
   const withImg = items.filter((i) => i.payload.image_url);
   const textOnly = items.filter((i) => !i.payload.image_url);
   const batches: ReviewItem[][] = [];
   for (let i = 0; i < textOnly.length; i += TEXT_BATCH) batches.push(textOnly.slice(i, i + TEXT_BATCH));
   for (let i = 0; i < withImg.length; i += IMAGE_BATCH) batches.push(withImg.slice(i, i + IMAGE_BATCH));
+  let fatalError: string | null = null;
   for (const b of batches) {
     try {
-      for (const r of await reviewBatch(client, b)) out.set(r.id, r);
+      const got = await reviewBatch(client, b);
+      if (got.length < b.length) log(`ai_review: ${b.length - got.length}/${b.length} items without a review (refusal/truncation/missing ids)`);
+      for (const r of got) reviews.set(r.id, r);
     } catch (e) {
       log(`ai_review batch failed (${b.length} items): ${(e as Error).message}`);
+      if (isFatalAiError(e)) {
+        fatalError = (e as Error).message;
+        break;
+      }
     }
   }
-  return out;
+  return { reviews, failed: items.length - reviews.size, fatalError };
+}
+
+/** هل ما زال المرشّح ينتظر مراجعة Claude؟ (لا يوجد حكم فعلي approve/fix/reject في أي سطر ai_review) */
+export function needsAiReview(checks: { check_name: string; status: string; details?: Record<string, unknown> | null }[]): boolean {
+  if (checks.some((k) => k.status === "fail")) return false;
+  if (!checks.some((k) => k.check_name === "duplicate" && k.status === "pass")) return false;
+  return !checks.some((k) => k.check_name === "ai_review" && typeof k.details?.verdict === "string");
 }
 
 // ------------------------------------------------------------------ القرار (دوال نقية)

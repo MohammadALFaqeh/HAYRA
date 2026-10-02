@@ -5,6 +5,7 @@ import { popularityDifficulty } from "@/lib/importers/wikidata";
 import type { QuestionType } from "@/lib/game/types";
 import type { CandidatePayload, SourceFact } from "../types";
 import { ANIMAL_CLASSES } from "../providers/wikidata-recipes";
+import { arabicOverrideFor } from "../policy/wikidata-arabic-overrides";
 
 /** يميّز أسئلة المصنع عن المستورد القديم (import_source = "wikidata") */
 export const FACTORY_WIKIDATA_SOURCE = "factory-wikidata";
@@ -107,8 +108,18 @@ export function generateWikidataCandidate(fact: TemplateFact): TemplateResult {
   if (rank === null || total === null) return { skip: "لا توجد بيانات شهرة لحساب الصعوبة" };
   const difficulty = Math.max(1, Math.min(6, popularityDifficulty(rank, total) + tpl.difficultyOffset));
 
-  const built = tpl.build(fact);
+  // تصحيح الأسماء العربية حسب QID (لا حسب النص) قبل بناء السؤال
+  const subjOv = arabicOverrideFor(raw.subject_id);
+  const objOv = arabicOverrideFor(raw.object_id);
+  const display = { ...fact, subject: subjOv?.canonical ?? fact.subject, object_value: objOv?.canonical ?? fact.object_value };
+  const built = tpl.build(display);
   if (typeof built === "string") return { skip: built };
+  const answerOv = built.answer === display.object_value ? objOv : built.answer === display.subject ? subjOv : null;
+  const overridden = [subjOv, objOv].filter(Boolean).map((o) => o!.qid);
+  const extra =
+    answerOv?.aliases?.length || overridden.length
+      ? { ...(answerOv?.aliases?.length ? { answer_aliases: answerOv.aliases } : {}), ...(overridden.length ? { label_overrides: overridden } : {}) }
+      : null;
 
   const subjectId = str(raw.subject_id) ?? fact.external_id;
   const objectId = str(raw.object_id) ?? fact.object_value;
@@ -123,6 +134,8 @@ export function generateWikidataCandidate(fact: TemplateFact): TemplateResult {
       ...(built.choices ? { choices: built.choices } : {}),
       ...(built.image_url ? { image_url: built.image_url } : {}),
       ...(built.explanation ? { explanation: built.explanation } : {}),
+      // إجابات بديلة مقبولة للمضيف (لا تصل لشاشة التلفزيون: public.ts يقرأ حقولًا محددة من extra فقط)
+      ...(extra ? { extra } : {}),
       difficulty,
       depth_level: depthFor(difficulty),
       source: SOURCE_LABEL,
