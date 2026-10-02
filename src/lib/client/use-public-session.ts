@@ -8,7 +8,7 @@ export type PublicStatus = "loading" | "live" | "polling" | "closed" | "missing"
 
 /**
  * يقرأ الحالة العامة للجلسة (بدون إجابات) ويستمع للتحديثات عبر Supabase Realtime،
- * مع استطلاع احتياطي كل 4 ثوانٍ إذا انقطع الاتصال اللحظي.
+ * مع استطلاع احتياطي كل 1.5 ثانية إذا انقطع الاتصال اللحظي.
  */
 export function usePublicSession(sessionId: string) {
   const [state, setState] = useState<PublicState | null>(null);
@@ -20,7 +20,7 @@ export function usePublicSession(sessionId: string) {
     let alive = true;
     let live = false;
 
-    const accept = (s: PublicState | null | undefined) => {
+    const accept = (s: PublicState | null | undefined, fresh = false) => {
       if (!alive) return;
       if (!s) {
         setStatus((cur) => (cur === "loading" ? "missing" : "closed"));
@@ -32,7 +32,8 @@ export function usePublicSession(sessionId: string) {
       }
       if (s.updatedAt < lastUpdated.current) return; // تحديث قديم
       lastUpdated.current = s.updatedAt;
-      hintServerTime(s.serverTime);
+      // serverTime هو وقت كتابة الحالة: لا يصلح تقديرًا للساعة إلا إذا وصل لحظيًا (Realtime)
+      if (fresh) hintServerTime(s.serverTime);
       setState(s);
       setStatus(live ? "live" : "polling");
     };
@@ -51,7 +52,7 @@ export function usePublicSession(sessionId: string) {
         { event: "*", schema: "public", table: "session_public", filter: `session_id=eq.${sessionId}` },
         (payload) => {
           if (payload.eventType === "DELETE") return accept(null);
-          accept((payload.new as { state: PublicState }).state);
+          accept((payload.new as { state: PublicState }).state, true);
         },
       )
       .subscribe((s) => {
@@ -62,7 +63,7 @@ export function usePublicSession(sessionId: string) {
 
     const poll = setInterval(() => {
       if (!live) void fetchOnce();
-    }, 4000);
+    }, 1500);
     const safety = setInterval(fetchOnce, 30000);
 
     return () => {

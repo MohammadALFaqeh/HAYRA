@@ -6,36 +6,56 @@ import type { TimerState } from "@/lib/game/types";
 let offset = 0;
 let synced = false;
 
-export const serverNow = () => Date.now() + offset;
+/** ساعة الجهاز الرتيبة (لا تقفز مع تعديلات ساعة النظام مثل Date.now) */
+const localNow = () =>
+  typeof performance !== "undefined" && performance.timeOrigin ? performance.timeOrigin + performance.now() : Date.now();
 
+export const serverNow = () => localNow() + offset;
+
+/**
+ * مزامنة على طريقة NTP: عدة عينات، ونعتمد العينة ذات أقل زمن ذهاب وإياب
+ * (أدقها)، ونتجاهل العينات الفاشلة بدل إلغاء المزامنة كلها.
+ */
 export async function syncClock(): Promise<void> {
-  try {
-    const samples: number[] = [];
-    for (let i = 0; i < 3; i++) {
-      const t0 = Date.now();
+  let best: { rtt: number; offset: number } | null = null;
+  for (let i = 0; i < 5; i++) {
+    try {
+      const t0 = localNow();
       const res = await fetch("/api/time", { cache: "no-store" });
       const { now } = (await res.json()) as { now: number };
-      const t1 = Date.now();
-      samples.push(now - (t0 + t1) / 2);
+      const t1 = localNow();
+      if (!Number.isFinite(now)) continue;
+      const rtt = t1 - t0;
+      if (!best || rtt < best.rtt) best = { rtt, offset: now - (t0 + t1) / 2 };
+    } catch {
+      /* عينة فاشلة — نكمل */
     }
-    samples.sort((a, b) => a - b);
-    offset = samples[1];
+  }
+  if (best) {
+    offset = best.offset;
     synced = true;
-  } catch {
-    /* نبقى على توقيت الجهاز */
   }
 }
 
-/** تحديث تقريبي للفرق من حقل serverTime المرسل مع الحالة (إذا لم تتم المزامنة) */
+/** تقدير مؤقت للفرق من وقت رد السيرفر — فقط قبل نجاح أول مزامنة، ومن قيمة «طازجة» */
 export function hintServerTime(serverTime: number | undefined) {
-  if (!synced && serverTime) offset = serverTime - Date.now();
+  if (!synced && serverTime) offset = serverTime - localNow();
 }
 
 export function useClockSync() {
   useEffect(() => {
-    void syncClock();
-    const i = setInterval(syncClock, 5 * 60_000);
-    return () => clearInterval(i);
+    let alive = true;
+    let timer: ReturnType<typeof setTimeout>;
+    const run = async () => {
+      await syncClock();
+      // إعادة سريعة إذا فشلت المزامنة، وإلا تحديث دوري
+      if (alive) timer = setTimeout(run, synced ? 2 * 60_000 : 5_000);
+    };
+    void run();
+    return () => {
+      alive = false;
+      clearTimeout(timer);
+    };
   }, []);
 }
 
@@ -64,17 +84,24 @@ export type SecondsPhase = "idle" | "countdown" | "flash" | "hidden" | "stopped"
 /**
  * حالة عداد «ملك الثواني» بتوقيت السيرفر، تتحدث مع كل إطار للعرض الدقيق:
  * countdown (3-2-1) → flash (العداد ظاهر) → hidden (مخفي) → stopped
+ *
+ * فرق الساعة يُثبَّت لحظة بدء الجولة: لو تغيّرت المزامنة في منتصف العد
+ * لتغيّرت المدة التي يراها اللاعبون — وهي جوهر اللعبة.
  */
 export function useSecondsClock(startsAt: number | null, stopsAt: number | null, flashMs: number) {
-  const [now, setNow] = useState(() => serverNow());
+  const frozen = useRef<{ startsAt: number | null; offset: number }>({ startsAt: null, offset });
+  if (frozen.current.startsAt !== startsAt) frozen.current = { startsAt, offset };
+  const roundNow = () => localNow() + frozen.current.offset;
+
+  const [now, setNow] = useState(roundNow);
   const stopped = startsAt !== null && stopsAt !== null && now >= stopsAt;
   useEffect(() => {
-    setNow(serverNow());
-    if (startsAt === null || stopsAt === null || serverNow() >= stopsAt) return;
+    setNow(roundNow());
+    if (startsAt === null || stopsAt === null || roundNow() >= stopsAt) return;
     let raf = 0;
     let timeout: ReturnType<typeof setTimeout> | undefined;
     const loop = () => {
-      const n = serverNow();
+      const n = roundNow();
       setNow(n);
       if (n >= stopsAt) return;
       // أثناء الإخفاء لا حاجة للتحديث كل إطار: ننتظر لحظة التوقف مباشرة
@@ -86,6 +113,8 @@ export function useSecondsClock(startsAt: number | null, stopsAt: number | null,
       cancelAnimationFrame(raf);
       clearTimeout(timeout);
     };
+    // roundNow يعتمد على ref ثابت
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [startsAt, stopsAt, flashMs]);
 
   let phase: SecondsPhase = "idle";

@@ -663,7 +663,13 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
       const targetMs = Math.round(action.targetMs);
       if (!Number.isFinite(targetMs) || targetMs < SECONDS_MIN_MS || targetMs > SECONDS_MAX_MS) fail("مدة غير صالحة");
       r.targetMs = targetMs;
-      r.startsAt = now + SECONDS_LEAD_MS;
+      // المضيف يقترح لحظة البدء (نفس القيمة في حالته المحلية والسيرفر، فلا يقفز العد عنده)؛
+      // تُقبل فقط ضمن نافذة معقولة حول الآن، وإلا نحسبها هنا
+      const proposed = action.startsAt;
+      r.startsAt =
+        proposed !== undefined && Number.isFinite(proposed) && proposed >= now + 1_000 && proposed <= now + SECONDS_LEAD_MS + 2_000
+          ? Math.round(proposed)
+          : now + SECONDS_LEAD_MS;
       r.stage = "running";
       r.answeringTeam = r.pickedBy;
       break;

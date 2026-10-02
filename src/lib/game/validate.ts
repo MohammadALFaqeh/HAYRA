@@ -62,7 +62,7 @@ export function parseAction(raw: unknown): GameAction | { type: "UNDO" } | null 
         ? { type: "SECONDS_OPEN", team: a.team, level: a.level, points: a.points }
         : null;
     case "SECONDS_START":
-      return isNum(a.targetMs) ? { type: "SECONDS_START", targetMs: a.targetMs } : null;
+      return isNum(a.targetMs) ? { type: "SECONDS_START", targetMs: a.targetMs, ...(isNum(a.startsAt) ? { startsAt: a.startsAt } : {}) } : null;
     case "SECONDS_GUESS":
       return isNum(a.guessMs) ? { type: "SECONDS_GUESS", guessMs: a.guessMs } : null;
     default:

@@ -186,6 +186,15 @@ s = run(s, { type: "SKIP" });
   now += SECONDS_LEAD_MS + 5_000;
   t = step(t, { type: "SECONDS_GUESS", guessMs: 5_300 });
   assert.equal(t.seconds?.winner, "B", "±0.3 على الحد يُحتسب");
+
+  // لحظة البدء المقترحة من المضيف تُقبل ضمن النافذة، وتُستبدل إذا كانت قديمة أو بعيدة
+  t = step(t, { type: "SECONDS_OPEN", team: "A", level: 1, points: 100 });
+  t = step(t, { type: "SECONDS_START", targetMs: 5_000, startsAt: now + SECONDS_LEAD_MS - 400 });
+  assert.equal(t.seconds?.startsAt, now + SECONDS_LEAD_MS - 400, "تُعتمد لحظة البدء المقترحة");
+  t = step(t, { type: "SECONDS_START", targetMs: 5_000, startsAt: now - 10_000 });
+  assert.equal(t.seconds?.startsAt, now + SECONDS_LEAD_MS, "لحظة قديمة (طابور أوفلاين) تُستبدل");
+  t = step(t, { type: "SECONDS_START", targetMs: 5_000, startsAt: now + 60_000 });
+  assert.equal(t.seconds?.startsAt, now + SECONDS_LEAD_MS, "لحظة بعيدة تُستبدل");
   t = step(t, { type: "SECONDS_CLOSE" });
   assert.equal(t.phase, "board");
   assert.equal(t.seconds, null);

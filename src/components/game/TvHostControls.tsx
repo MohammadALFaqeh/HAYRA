@@ -2,11 +2,11 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { ArrowRight, Check, ChevronDown, ChevronUp, Eye, Pause, Play, Plus, SkipForward, X } from "lucide-react";
-import { useSecondsClock } from "@/lib/client/clock";
+import { serverNow, useSecondsClock } from "@/lib/client/clock";
 import { play, unlockAudio } from "@/lib/client/sound";
 import type { useHostSession } from "@/lib/client/use-host-session";
 import type { PublicSeconds, PublicState } from "@/lib/game/public";
-import { SECONDS_FLASH_MS, SECONDS_LEVELS, parseSecondsInput, randomSecondsTarget } from "@/lib/game/seconds";
+import { SECONDS_FLASH_MS, SECONDS_LEAD_MS, SECONDS_LEVELS, parseSecondsInput, randomSecondsTarget } from "@/lib/game/seconds";
 import type { TeamId } from "@/lib/game/types";
 import { POWERUPS } from "@/lib/game/constants";
 import { cn, TEAM_COLORS } from "@/lib/utils";
@@ -189,7 +189,7 @@ function SecondsButtons({ round: r, state, act }: { round: PublicSeconds; state:
   useEffect(() => setGuess(""), [r.answeringTeam, r.startsAt]);
   const guessMs = parseSecondsInput(guess);
   const otherTeam: TeamId = r.pickedBy === "A" ? "B" : "A";
-  const start = () => act({ type: "SECONDS_START", targetMs: randomSecondsTarget(r.level) });
+  const start = () => act({ type: "SECONDS_START", targetMs: randomSecondsTarget(r.level), startsAt: serverNow() + SECONDS_LEAD_MS });
 
   if (r.stage === "ready") {
     return (

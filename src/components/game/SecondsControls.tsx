@@ -1,10 +1,11 @@
 "use client";
 import { useEffect, useState } from "react";
 import { ArrowRight, Check, Eye, Play, RotateCcw, X } from "lucide-react";
-import { useSecondsClock } from "@/lib/client/clock";
+import { serverNow, useSecondsClock } from "@/lib/client/clock";
 import type { useHostSession } from "@/lib/client/use-host-session";
 import {
   SECONDS_FLASH_MS,
+  SECONDS_LEAD_MS,
   SECONDS_LEVEL_IDS,
   SECONDS_LEVELS,
   formatSecondsDiff,
@@ -25,9 +26,9 @@ export function openSeconds(act: Act, team: TeamId, level: SecondsLevel = 1) {
   act({ type: "SECONDS_OPEN", team, level, points: SECONDS_LEVELS[level].points });
 }
 
-/** بدء العد بمدة عشوائية يولّدها جهاز المضيف (نفس القيمة محليًا وعلى السيرفر) */
+/** بدء العد بمدة عشوائية ولحظة بدء يحددهما جهاز المضيف (نفس القيمتين محليًا وعلى السيرفر) */
 export function startSeconds(act: Act, level: SecondsLevel) {
-  act({ type: "SECONDS_START", targetMs: randomSecondsTarget(level) });
+  act({ type: "SECONDS_START", targetMs: randomSecondsTarget(level), startsAt: serverNow() + SECONDS_LEAD_MS });
 }
 
 /** لوحة تحكم المضيف لفقرة «ملك الثواني» */

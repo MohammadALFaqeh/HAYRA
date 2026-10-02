@@ -273,7 +273,7 @@ export type GameAction =
   | { type: "FINAL_REVEAL" }
   | { type: "FINISH" }
   | { type: "SECONDS_OPEN"; team: TeamId; level: SecondsLevel; points: number }
-  | { type: "SECONDS_START"; targetMs: number }
+  | { type: "SECONDS_START"; targetMs: number; startsAt?: number }
   | { type: "SECONDS_GUESS"; guessMs: number }
   | { type: "SECONDS_TRANSFER" }
   | { type: "SECONDS_REVEAL" }
