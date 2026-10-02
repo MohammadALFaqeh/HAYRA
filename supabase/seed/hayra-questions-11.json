@@ -1,0 +1,2973 @@
+[
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "خالد بن الوليد",
+  "type": "who_am_i",
+  "clues": [
+   "قاتلتُ المسلمين يوم أحد ثم أسلمت قبل فتح مكة",
+   "قُدت المسلمين في معركة اليرموك",
+   "لقّبني النبي ﷺ بـ«سيف الله المسلول»"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2007",
+  "code": "q_2007"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "بلال بن رباح",
+  "type": "who_am_i",
+  "clues": [
+   "كنت عبدًا أُعذَّب في رمضاء مكة وأنا أقول: أحدٌ أحد",
+   "أعتقني أبو بكر الصديق",
+   "أنا أول مؤذن في الإسلام"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2008",
+  "code": "q_2008"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "أبو عبيدة بن الجراح",
+  "type": "who_am_i",
+  "clues": [
+   "أنا من العشرة المبشرين بالجنة",
+   "توفيت في طاعون عمواس بالشام",
+   "قال عني النبي ﷺ: «أمين هذه الأمة»"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2009",
+  "code": "q_2009"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "عبد الرحمن بن عوف",
+  "type": "who_am_i",
+  "clues": [
+   "آخى النبي ﷺ بيني وبين سعد بن الربيع الأنصاري",
+   "قلت لأخي الأنصاري: «دلّني على السوق»",
+   "تاجر ثري من العشرة المبشرين، وأحد الستة أهل الشورى"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2010",
+  "code": "q_2010"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "سعد بن معاذ",
+  "type": "who_am_i",
+  "clues": [
+   "أنا سيد قبيلة الأوس",
+   "حكمتُ في بني قريظة",
+   "اهتز لموتي عرش الرحمن"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2011",
+  "code": "q_2011"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "حمزة بن عبد المطلب",
+  "type": "who_am_i",
+  "clues": [
+   "أنا عمّ النبي ﷺ وأخوه من الرضاعة",
+   "لقبي «أسد الله»",
+   "استُشهدت في غزوة أحد ولُقّبت بسيد الشهداء"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2012",
+  "code": "q_2012"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "أبو ذر الغفاري",
+  "type": "who_am_i",
+  "clues": [
+   "جئت من قبيلة غفار أبحث عن النبي ﷺ",
+   "جهرت بإسلامي عند الكعبة فضربني المشركون",
+   "مِتُّ وحيدًا في الرَّبَذة"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2013",
+  "code": "q_2013"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "زيد بن حارثة",
+  "type": "who_am_i",
+  "clues": [
+   "كنت أُدعى «ابن محمد» قبل تحريم التبنّي",
+   "استُشهدت أميرًا للجيش في مؤتة",
+   "أنا الصحابي الوحيد المذكور باسمه في القرآن"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2014",
+  "code": "q_2014"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "عمار بن ياسر",
+  "type": "who_am_i",
+  "clues": [
+   "عُذّبت مع أبي وأمي في مكة",
+   "قال لنا النبي ﷺ: «صبرًا آل ياسر فإن موعدكم الجنة»",
+   "أمي سمية أول شهيدة في الإسلام"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2015",
+  "code": "q_2015"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "حذيفة بن اليمان",
+  "type": "who_am_i",
+  "clues": [
+   "أرسلني النبي ﷺ ليلة الأحزاب لآتيه بخبر القوم",
+   "أعرف أسماء المنافقين",
+   "لقبي «صاحب سرّ رسول الله ﷺ»"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2016",
+  "code": "q_2016"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "سلمان الفارسي",
+  "type": "who_am_i",
+  "clues": [
+   "تنقّلت بين البلاد أبحث عن الدين الحق",
+   "بِيعتُ عبدًا ثم كاتبتُ سيدي على حريتي",
+   "أشرت على النبي ﷺ بحفر الخندق"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2017",
+  "code": "q_2017"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "أبو أيوب الأنصاري",
+  "type": "who_am_i",
+  "clues": [
+   "دُفنت قرب أسوار القسطنطينية",
+   "شهدت بدرًا والمشاهد كلها",
+   "نزل النبي ﷺ في بيتي أول قدومه المدينة"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2018",
+  "code": "q_2018"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "مصعب بن عمير",
+  "type": "who_am_i",
+  "clues": [
+   "كنت فتى مكة المدلّل صاحب أجمل الثياب",
+   "حملت اللواء يوم أحد حتى استُشهدت",
+   "أنا أول سفير في الإسلام، أُرسلت إلى المدينة"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2019",
+  "code": "q_2019"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "mothers-believers",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "خديجة بنت خويلد",
+  "type": "who_am_i",
+  "clues": [
+   "كنت تاجرة شريفة في قريش",
+   "أنا أم فاطمة الزهراء",
+   "أنا أول من آمن بالنبي ﷺ"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2020",
+  "code": "q_2020"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "mothers-believers",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "عائشة بنت أبي بكر",
+  "type": "who_am_i",
+  "clues": [
+   "أنا من أكثر الصحابة رواية للحديث",
+   "أبي أول الخلفاء الراشدين",
+   "أنزل الله براءتي في سورة النور"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2021",
+  "code": "q_2021"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahabiyat",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "فاطمة الزهراء",
+  "type": "who_am_i",
+  "clues": [
+   "زوجي علي بن أبي طالب",
+   "أنا أم الحسن والحسين",
+   "أنا بنت رسول الله ﷺ وقال عني: «بَضعة مني»"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2022",
+  "code": "q_2022"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahabiyat",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "سمية بنت خياط",
+  "type": "who_am_i",
+  "clues": [
+   "زوجي ياسر وابني عمار",
+   "عذّبني أبو جهل في مكة",
+   "أنا أول شهيدة في الإسلام"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2023",
+  "code": "q_2023"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahabiyat",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "نسيبة بنت كعب (أم عمارة)",
+  "type": "who_am_i",
+  "clues": [
+   "شهدت بيعة العقبة الثانية",
+   "جُرحت في يوم أحد جراحًا كثيرة",
+   "قاتلتُ دفاعًا عن النبي ﷺ يوم أحد"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2024",
+  "code": "q_2024"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "mothers-believers",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "حفصة بنت عمر",
+  "type": "who_am_i",
+  "clues": [
+   "أبي ثاني الخلفاء الراشدين",
+   "أنا من أمهات المؤمنين",
+   "حُفظت عندي صحف القرآن التي جُمعت في عهد أبي بكر"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2025",
+  "code": "q_2025"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "يونس عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "غضبت وخرجت من قومي قبل أن يؤذن لي",
+   "دعوت: «لا إله إلا أنت سبحانك إني كنت من الظالمين»",
+   "التقمني الحوت، ولقبي ذو النون"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2026",
+  "code": "q_2026"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "يوسف عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "فسّرت رؤيا الملك عن سبع بقرات",
+   "سُجنت ظلمًا بضع سنين",
+   "ألقاني إخوتي في البئر"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2027",
+  "code": "q_2027"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "سليمان عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "ورثت الملك عن أبي داود",
+   "جاءني الهدهد بخبر ملكة سبأ",
+   "سُخّرت لي الريح والجن وفهمت كلام النمل"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2028",
+  "code": "q_2028"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "إبراهيم عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "رفعت قواعد الكعبة مع ابني",
+   "حطّمت أصنام قومي",
+   "أُلقيت في النار فكانت بردًا وسلامًا"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2029",
+  "code": "q_2029"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "نوح عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "دعوت قومي ليلًا ونهارًا",
+   "رفض ابني أن يركب معي فكان من المغرقين",
+   "صنعت السفينة بأمر الله"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2030",
+  "code": "q_2030"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "أيوب عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "ابتُليت في مالي وولدي وجسدي سنين طويلة",
+   "ضربت الأرض برجلي فنبع ماء اغتسلت منه وشربت",
+   "صرت مضرب المثل في الصبر"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2031",
+  "code": "q_2031"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "موسى عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "ضربت البحر بعصاي فانفلق",
+   "تربّيت في قصر فرعون",
+   "ألقتني أمي في اليمّ رضيعًا"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2032",
+  "code": "q_2032"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "صالح عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "كان قومي ينحتون الجبال بيوتًا",
+   "أُرسلت إلى قوم ثمود",
+   "معجزتي ناقة عقرها قومي"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2033",
+  "code": "q_2033"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "هود عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "قومي بنوا «إرم ذات العماد»",
+   "أُرسلت إلى قوم عاد",
+   "أهلك الله قومي بريح صرصر عاتية"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2034",
+  "code": "q_2034"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "شعيب عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "أُرسلت إلى مدين وأصحاب الأيكة",
+   "نهيت قومي عن تطفيف الكيل والميزان",
+   "يلقّبني بعض العلماء «خطيب الأنبياء»"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2035",
+  "code": "q_2035"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "زكريا عليه السلام",
+  "type": "who_am_i",
+  "clues": [
+   "كفلتُ مريم وكنت أجد عندها رزقًا",
+   "دعوت ربي نداءً خفيًا",
+   "رُزقت بيحيى على الكِبَر"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2036",
+  "code": "q_2036"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "الإمام البخاري",
+  "type": "who_am_i",
+  "clues": [
+   "اسمي محمد بن إسماعيل",
+   "وُلدت في بخارى سنة 194 هـ",
+   "جمعت أصح كتاب بعد كتاب الله"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2037",
+  "code": "q_2037"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "الإمام أحمد بن حنبل",
+  "type": "who_am_i",
+  "clues": [
+   "سُجنت وجُلدت في محنة خلق القرآن",
+   "ألّفت «المسند»",
+   "أنا إمام رابع المذاهب الفقهية"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2038",
+  "code": "q_2038"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "الإمام الشافعي",
+  "type": "who_am_i",
+  "clues": [
+   "وُلدت في غزة سنة 150 هـ",
+   "تتلمذت على الإمام مالك",
+   "ألّفت «الرسالة» ودُفنت في مصر"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2039",
+  "code": "q_2039"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "فاطمة الفهرية",
+  "type": "who_am_i",
+  "clues": [
+   "هاجرت مع أسرتي من القيروان إلى فاس",
+   "أنفقت ميراثي على بناء مسجد",
+   "أسست جامع القرويين الذي صار أقدم جامعة قائمة"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2040",
+  "code": "q_2040"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "mosques",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "المسجد الأقصى",
+  "type": "who_am_i",
+  "clues": [
+   "أنا في مدينة القدس",
+   "أنا ثالث الحرمين الشريفين",
+   "أنا أولى القبلتين ومسرى النبي ﷺ"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2041",
+  "code": "q_2041"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "المدينة المنورة",
+  "type": "who_am_i",
+  "clues": [
+   "هاجر إليّ النبي ﷺ",
+   "فيّ المسجد النبوي",
+   "كان اسمي القديم «يثرب»"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2042",
+  "code": "q_2042"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "جبل أحد",
+  "type": "who_am_i",
+  "clues": [
+   "وقعت عند سفحي غزوة في السنة الثالثة للهجرة",
+   "دُفن عندي سيد الشهداء حمزة",
+   "قال عني النبي ﷺ: «جبل يحبنا ونحبه»"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2043",
+  "code": "q_2043"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hajj",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "بئر زمزم",
+  "type": "who_am_i",
+  "clues": [
+   "أنا قريبة من الكعبة المشرفة",
+   "ماء يشربه الحجاج والمعتمرون",
+   "نبعتُ لهاجر وابنها إسماعيل"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2044",
+  "code": "q_2044"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hajj",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "عرفة",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ جبل الرحمة",
+   "يقف عليّ الحجاج يوم التاسع من ذي الحجة",
+   "قال النبي ﷺ: «الحج ...»"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2045",
+  "code": "q_2045"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "سورة يوسف",
+  "type": "who_am_i",
+  "clues": [
+   "ترتيبي 12 في المصحف",
+   "وصفني الله بأني «أحسن القصص»",
+   "أحكي قصة نبي واحد من أولها إلى آخرها"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2046",
+  "code": "q_2046"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "سورة الكهف",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ قصة موسى والخضر",
+   "يُستحب قراءتي يوم الجمعة",
+   "فيّ قصة فتية ناموا في الكهف سنين عددًا"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2047",
+  "code": "q_2047"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "سورة مريم",
+  "type": "who_am_i",
+  "clues": [
+   "أبدأ بـ«كهيعص»",
+   "فيّ قصة ميلاد عيسى عليه السلام",
+   "أنا السورة الوحيدة المسمّاة باسم امرأة"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2048",
+  "code": "q_2048"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "سورة النمل",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ قصة الهدهد وملكة سبأ",
+   "تكررت فيّ البسملة مرتين",
+   "اسمي اسم حشرة تكلّمت أمام سليمان"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2049",
+  "code": "q_2049"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "سورة الإسراء",
+  "type": "who_am_i",
+  "clues": [
+   "من أسمائي «بني إسرائيل»",
+   "أبدأ بكلمة «سبحان»",
+   "أحكي رحلة النبي ﷺ ليلًا إلى المسجد الأقصى"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2050",
+  "code": "q_2050"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "سورة التوبة",
+  "type": "who_am_i",
+  "clues": [
+   "نزل كثير من آياتي في غزوة تبوك",
+   "من أسمائي «براءة»",
+   "أنا السورة الوحيدة التي لا تبدأ بالبسملة"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2051",
+  "code": "q_2051"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "سورة الفاتحة",
+  "type": "who_am_i",
+  "clues": [
+   "من أسمائي «السبع المثاني»",
+   "يقرؤني المسلم في كل ركعة",
+   "أنا «أم الكتاب» وأول سورة في المصحف"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2052",
+  "code": "q_2052"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "ghazawat",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من أنا؟",
+  "answer": "غزوة الأحزاب (الخندق)",
+  "type": "who_am_i",
+  "clues": [
+   "تحالفت فيّ قريش وغطفان واليهود ضد المدينة",
+   "نصر الله المسلمين فيّ بريح وجنود لم يروها",
+   "حفر المسلمون فيّ خندقًا حول المدينة"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2053",
+  "code": "q_2053"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "ghazawat",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "غزوة حنين",
+  "type": "who_am_i",
+  "clues": [
+   "وقعت بعد فتح مكة مباشرة",
+   "قاتل فيّ المسلمون قبيلة هوازن",
+   "أعجبت المسلمين فيّ كثرتهم فلم تُغنِ عنهم شيئًا"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2054",
+  "code": "q_2054"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "ghazawat",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أنا؟",
+  "answer": "معركة مؤتة",
+  "type": "who_am_i",
+  "clues": [
+   "وقعت في السنة الثامنة للهجرة ضد الروم",
+   "استُشهد فيّ ثلاثة أمراء على التوالي: زيد وجعفر وابن رواحة",
+   "انسحب فيّ خالد بن الوليد بالجيش انسحابًا ذكيًا"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين أنا"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2055",
+  "code": "q_2055"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "«الزهراوان» هما سورة البقرة وسورة ...؟",
+  "answer": "آل عمران",
+  "type": "multiple_choice",
+  "choices": [
+   "آل عمران",
+   "النساء",
+   "المائدة",
+   "الأنعام"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2056",
+  "code": "q_2056"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم مرة ورد اسم «محمد» ﷺ صريحًا في القرآن الكريم؟",
+  "answer": "4 مرات",
+  "type": "multiple_choice",
+  "choices": [
+   "مرتان",
+   "5 مرات",
+   "7 مرات",
+   "4 مرات"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2057",
+  "code": "q_2057"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أيّ هؤلاء ليس من العشرة المبشرين بالجنة؟",
+  "answer": "خالد بن الوليد",
+  "type": "multiple_choice",
+  "choices": [
+   "أبو عبيدة بن الجراح",
+   "خالد بن الوليد",
+   "طلحة بن عبيد الله",
+   "الزبير بن العوام"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الصحابة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2058",
+  "code": "q_2058"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "ghazawat",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أيّ هذه الغزوات وقعت آخرًا؟",
+  "answer": "تبوك",
+  "type": "multiple_choice",
+  "choices": [
+   "تبوك",
+   "بدر",
+   "الخندق",
+   "خيبر"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "غزوات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2059",
+  "code": "q_2059"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أيّ هؤلاء الصحابة كان من كتّاب الوحي؟",
+  "answer": "زيد بن ثابت",
+  "type": "multiple_choice",
+  "choices": [
+   "أبو هريرة",
+   "بلال بن رباح",
+   "سلمان الفارسي",
+   "زيد بن ثابت"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الصحابة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2060",
+  "code": "q_2060"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "mothers-believers",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أيّ أمهات المؤمنين لُقّبت بـ«أم المساكين»؟",
+  "answer": "زينب بنت خزيمة",
+  "type": "multiple_choice",
+  "choices": [
+   "سودة بنت زمعة",
+   "ميمونة بنت الحارث",
+   "زينب بنت خزيمة",
+   "حفصة بنت عمر"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أمهات المؤمنين"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2061",
+  "code": "q_2061"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "أيّ هذه الكتب ليس من الكتب الستة؟",
+  "answer": "موطأ مالك",
+  "type": "multiple_choice",
+  "choices": [
+   "سنن ابن ماجه",
+   "موطأ مالك",
+   "سنن الترمذي",
+   "سنن النسائي"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2062",
+  "code": "q_2062"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hajj",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "أيّ مما يلي ليس من أركان الحج؟",
+  "answer": "المبيت بمنى",
+  "type": "multiple_choice",
+  "choices": [
+   "المبيت بمنى",
+   "الإحرام",
+   "الوقوف بعرفة",
+   "طواف الإفاضة"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الحج"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2063",
+  "code": "q_2063"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الصلاة التي ليس فيها ركوع ولا سجود؟",
+  "answer": "صلاة الجنازة",
+  "type": "multiple_choice",
+  "choices": [
+   "صلاة الكسوف",
+   "صلاة الاستسقاء",
+   "صلاة العيد",
+   "صلاة الجنازة"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه",
+   "صلاة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2064",
+  "code": "q_2064"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كم عدد التكبيرات في صلاة الجنازة؟",
+  "answer": "4 تكبيرات",
+  "type": "multiple_choice",
+  "choices": [
+   "5 تكبيرات",
+   "7 تكبيرات",
+   "4 تكبيرات",
+   "3 تكبيرات"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه",
+   "صلاة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2065",
+  "code": "q_2065"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم يبلغ نصاب زكاة الذهب تقريبًا؟",
+  "answer": "85 غرامًا",
+  "type": "multiple_choice",
+  "choices": [
+   "595 غرامًا",
+   "85 غرامًا",
+   "50 غرامًا",
+   "200 غرام"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه",
+   "زكاة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2066",
+  "code": "q_2066"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما نسبة الزكاة الواجبة في المال (النقود) إذا بلغ النصاب وحال عليه الحول؟",
+  "answer": "2.5%",
+  "type": "multiple_choice",
+  "choices": [
+   "2.5%",
+   "5%",
+   "10%",
+   "20%"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه",
+   "زكاة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2067",
+  "code": "q_2067"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أيّ مما يلي ليس من الضروريات الخمس في مقاصد الشريعة؟",
+  "answer": "حفظ الجمال",
+  "type": "multiple_choice",
+  "choices": [
+   "حفظ الدين",
+   "حفظ العقل",
+   "حفظ المال",
+   "حفظ الجمال"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مقاصد الشريعة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2068",
+  "code": "q_2068"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم سورة في القرآن سُمّيت بأسماء أنبياء؟",
+  "answer": "6 سور",
+  "type": "multiple_choice",
+  "choices": [
+   "8 سور",
+   "6 سور",
+   "4 سور",
+   "5 سور"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2069",
+  "code": "q_2069"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أيّ سورة تبدأ بالحروف «كهيعص»؟",
+  "answer": "سورة مريم",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة مريم",
+   "سورة طه",
+   "سورة يس",
+   "سورة الشورى"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "قرآن",
+   "الحروف المقطعة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2070",
+  "code": "q_2070"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "أيّ سورة تبدأ بـ«حم ۝ عسق»؟",
+  "answer": "سورة الشورى",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الدخان",
+   "سورة غافر",
+   "سورة فصلت",
+   "سورة الشورى"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "قرآن",
+   "الحروف المقطعة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2071",
+  "code": "q_2071"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أيّ سورة خُتمت بقوله تعالى: ﴿وَاسْجُدْ وَاقْتَرِبْ﴾؟",
+  "answer": "سورة العلق",
+  "type": "multiple_choice",
+  "choices": [
+   "سورة الانشقاق",
+   "سورة القدر",
+   "سورة العلق",
+   "سورة النجم"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2072",
+  "code": "q_2072"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "كم سورة في القرآن تبدأ بالتسبيح (سبحان/سبّح/يسبّح)؟",
+  "answer": "7 سور",
+  "type": "multiple_choice",
+  "choices": [
+   "9 سور",
+   "7 سور",
+   "5 سور",
+   "6 سور"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2073",
+  "code": "q_2073"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "أيّ هذه أسماء سورة في القرآن الكريم؟",
+  "answer": "الحديد",
+  "type": "multiple_choice",
+  "choices": [
+   "الحديد",
+   "الذهب",
+   "الفضة",
+   "النحاس"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2074",
+  "code": "q_2074"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أكمل الحديث: «والكلمة الطيبة ...»",
+  "answer": "صدقة",
+  "type": "multiple_choice",
+  "choices": [
+   "نور",
+   "شفاء",
+   "صدقة",
+   "عبادة"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2075",
+  "code": "q_2075"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أيّ هذه العبارات المشهورة ليست حديثًا صحيحًا بهذا اللفظ؟",
+  "answer": "«النظافة من الإيمان»",
+  "type": "multiple_choice",
+  "choices": [
+   "«إنما الأعمال بالنيات»",
+   "«النظافة من الإيمان»",
+   "«الحياء من الإيمان»",
+   "«الدين النصيحة»"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث",
+   "أحاديث مشتهرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2076",
+  "code": "q_2076"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من الخليفة الذي بنى قبة الصخرة في القدس؟",
+  "answer": "عبد الملك بن مروان",
+  "type": "multiple_choice",
+  "choices": [
+   "عبد الملك بن مروان",
+   "عمر بن الخطاب",
+   "صلاح الدين الأيوبي",
+   "هارون الرشيد"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "تاريخ إسلامي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2077",
+  "code": "q_2077"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في أي مدينة كان «بيت الحكمة» الشهير؟",
+  "answer": "بغداد",
+  "type": "multiple_choice",
+  "choices": [
+   "دمشق",
+   "القاهرة",
+   "قرطبة",
+   "بغداد"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "تاريخ إسلامي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2078",
+  "code": "q_2078"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من أول من ضرب الدينار الإسلامي الخالص بالكتابة العربية؟",
+  "answer": "عبد الملك بن مروان",
+  "type": "multiple_choice",
+  "choices": [
+   "هارون الرشيد",
+   "عبد الملك بن مروان",
+   "عمر بن الخطاب",
+   "معاوية بن أبي سفيان"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "تاريخ إسلامي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2079",
+  "code": "q_2079"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من صاحب «تجربة سجن ستانفورد» الشهيرة في علم النفس؟",
+  "answer": "فيليب زيمباردو",
+  "type": "multiple_choice",
+  "choices": [
+   "فيليب زيمباردو",
+   "ستانلي ميلغرام",
+   "إيفان بافلوف",
+   "سيغموند فرويد"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2080",
+  "code": "q_2080"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من صاحب تجربة «الطاعة للسلطة» التي طُلب فيها من المشاركين توجيه صدمات كهربائية لغيرهم؟",
+  "answer": "ستانلي ميلغرام",
+  "type": "multiple_choice",
+  "choices": [
+   "فيليب زيمباردو",
+   "جان بياجيه",
+   "بي. إف. سكينر",
+   "ستانلي ميلغرام"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2081",
+  "code": "q_2081"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما اسم الرهاب (الخوف المرضي) من الأماكن المغلقة؟",
+  "answer": "الكلوستروفوبيا",
+  "type": "multiple_choice",
+  "choices": [
+   "الأراكنوفوبيا",
+   "الهيدروفوبيا",
+   "الكلوستروفوبيا",
+   "الأكروفوبيا"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2082",
+  "code": "q_2082"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "«الأكروفوبيا» هي الخوف المرضي من ماذا؟",
+  "answer": "المرتفعات",
+  "type": "multiple_choice",
+  "choices": [
+   "الظلام",
+   "المرتفعات",
+   "العناكب",
+   "الماء"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2083",
+  "code": "q_2083"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما اسم الشعور بأنك عشت الموقف الجديد نفسه من قبل؟",
+  "answer": "ديجا فو",
+  "type": "multiple_choice",
+  "choices": [
+   "ديجا فو",
+   "فومو",
+   "بلاسيبو",
+   "جامي فو"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2084",
+  "code": "q_2084"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما الهرمون المعروف بـ«هرمون التوتر»؟",
+  "answer": "الكورتيزول",
+  "type": "multiple_choice",
+  "choices": [
+   "الأنسولين",
+   "الميلاتونين",
+   "الأوكسيتوسين",
+   "الكورتيزول"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "جسم الإنسان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2085",
+  "code": "q_2085"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما الهرمون الذي ينظّم النوم ويزداد إفرازه في الظلام؟",
+  "answer": "الميلاتونين",
+  "type": "multiple_choice",
+  "choices": [
+   "الكورتيزول",
+   "الإنسولين",
+   "الميلاتونين",
+   "الأدرينالين"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "جسم الإنسان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2086",
+  "code": "q_2086"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "حسب «قاعدة ميلر» الشهيرة، كم عنصرًا تقريبًا تتسع له الذاكرة قصيرة المدى؟",
+  "answer": "7 ± 2",
+  "type": "multiple_choice",
+  "choices": [
+   "20 ± 5",
+   "7 ± 2",
+   "3 ± 1",
+   "12 ± 3"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2087",
+  "code": "q_2087"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "حسب ابن خلدون في «المقدمة»، كم يبلغ عمر الدولة في الغالب؟",
+  "answer": "ثلاثة أجيال",
+  "type": "multiple_choice",
+  "choices": [
+   "ثلاثة أجيال",
+   "جيلان",
+   "خمسة أجيال",
+   "عشرة أجيال"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم الاجتماع",
+   "ابن خلدون"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2088",
+  "code": "q_2088"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما أعلى مستوى في تصنيف بلوم المعدَّل (2001)؟",
+  "answer": "الإبداع (الابتكار)",
+  "type": "multiple_choice",
+  "choices": [
+   "التذكر",
+   "التطبيق",
+   "التحليل",
+   "الإبداع (الابتكار)"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2089",
+  "code": "q_2089"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اللغة التي كُتب بها أغلب «العهد القديم» في الأصل؟",
+  "answer": "العبرية",
+  "type": "multiple_choice",
+  "choices": [
+   "اللاتينية",
+   "السريانية",
+   "العبرية",
+   "اليونانية"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مقارنة الأديان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2090",
+  "code": "q_2090"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اللغة التي وصلنا بها «العهد الجديد» في أقدم مخطوطاته؟",
+  "answer": "اليونانية",
+  "type": "multiple_choice",
+  "choices": [
+   "العربية",
+   "اليونانية",
+   "العبرية",
+   "اللاتينية"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مقارنة الأديان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2091",
+  "code": "q_2091"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من الفيلسوف اليوناني الذي يُنسب إليه أصل عبارة «الإنسان كائن مدني بطبعه»؟",
+  "answer": "أرسطو",
+  "type": "multiple_choice",
+  "choices": [
+   "أرسطو",
+   "أفلاطون",
+   "سقراط",
+   "فيثاغورس"
+  ],
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم الاجتماع"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2092",
+  "code": "q_2092"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من صاحب العبارة الشهيرة في «المقدمة»: «المغلوب مولعٌ أبدًا بالاقتداء بالغالب»؟",
+  "answer": "ابن خلدون",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين قال",
+   "علم الاجتماع"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2093",
+  "code": "q_2093"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من القائل: «متى استعبدتم الناس وقد ولدتهم أمهاتهم أحرارًا؟»",
+  "answer": "عمر بن الخطاب",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين قال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2094",
+  "code": "q_2094"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من القائل حين أخبروه بخبر الإسراء: «إن كان قاله فقد صدق»؟",
+  "answer": "أبو بكر الصديق",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين قال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2095",
+  "code": "q_2095"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من القائل يوم وفاة النبي ﷺ: «من كان يعبد محمدًا فإن محمدًا قد مات، ومن كان يعبد الله فإن الله حيّ لا يموت»؟",
+  "answer": "أبو بكر الصديق",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين قال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2096",
+  "code": "q_2096"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من الإمام صاحب العبارة المشهورة: «إذا صحّ الحديث فهو مذهبي»؟",
+  "answer": "الإمام الشافعي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين قال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2097",
+  "code": "q_2097"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من الإمام الذي قال وهو يشير إلى قبر النبي ﷺ: «كلٌّ يؤخذ من قوله ويُردّ إلا صاحب هذا القبر»؟",
+  "answer": "الإمام مالك",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين قال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2098",
+  "code": "q_2098"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من الإمام الذي تُنسب إليه عبارة: «رأيي صواب يحتمل الخطأ، ورأي غيري خطأ يحتمل الصواب»؟",
+  "answer": "الإمام الشافعي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين قال",
+   "آداب الخلاف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2099",
+  "code": "q_2099"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "لمن قال النبي ﷺ معاتبًا: «أفلا شققتَ عن قلبه حتى تعلم أقالها أم لا؟»",
+  "answer": "أسامة بن زيد",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين قال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2100",
+  "code": "q_2100"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "لمن قال النبي ﷺ يوم أحد: «ارمِ فداك أبي وأمي»؟",
+  "answer": "سعد بن أبي وقاص",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مين قال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2101",
+  "code": "q_2101"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أكمل الحديث: «... وأعلمهم بالحلال والحرام ...»",
+  "answer": "معاذ بن جبل",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث",
+   "الصحابة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2102",
+  "code": "q_2102"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أكمل الحديث: «... وأفرضُهم (أعلمهم بالفرائض) ...»",
+  "answer": "زيد بن ثابت",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث",
+   "الصحابة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2103",
+  "code": "q_2103"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "أكمل الحديث: «... وأقرؤهم لكتاب الله ...»",
+  "answer": "أُبيّ بن كعب",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث",
+   "الصحابة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2104",
+  "code": "q_2104"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الرابط بين سور: الفاتحة، الأنعام، الكهف، سبأ، فاطر؟",
+  "answer": "كلها تبدأ بـ«الحمد لله»",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "ما الرابط",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2105",
+  "code": "q_2105"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الرابط بين سور: البقرة، آل عمران، العنكبوت، الروم، لقمان، السجدة؟",
+  "answer": "كلها تبدأ بـ«الم»",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "ما الرابط",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2106",
+  "code": "q_2106"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الرابط بين سور: الكافرون، الإخلاص، الفلق، الناس؟",
+  "answer": "كلها تبدأ بكلمة «قُل»",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "ما الرابط",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2107",
+  "code": "q_2107"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الرابط بين: إبراهيم، إسحاق، يعقوب، يوسف عليهم السلام؟",
+  "answer": "أب وابنه وحفيده وابن حفيده — «الكريم ابن الكريم ابن الكريم ابن الكريم»",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "ما الرابط",
+   "الأنبياء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2108",
+  "code": "q_2108"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما صلة القرابة بين يحيى وعيسى عليهما السلام؟",
+  "answer": "ابنا خالة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "ما الرابط",
+   "الأنبياء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2109",
+  "code": "q_2109"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما الرابط بين الألقاب: الصدّيق، الفاروق، ذو النورين، أبو تراب؟",
+  "answer": "ألقاب الخلفاء الراشدين الأربعة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "ما الرابط"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2110",
+  "code": "q_2110"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما الرابط بين المدن: بخارى، ترمذ، نسا؟",
+  "answer": "نُسب إليها أئمة حديث من أصحاب الكتب الستة (البخاري، الترمذي، النسائي)",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "ما الرابط",
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2111",
+  "code": "q_2111"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الرابط بين المدن: قرطبة، غرناطة، إشبيلية، طليطلة؟",
+  "answer": "مدن أندلسية كانت تحت الحكم الإسلامي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "ما الرابط",
+   "الأندلس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2112",
+  "code": "q_2112"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما الرابط بين: بافلوف، واطسون، سكينر؟",
+  "answer": "من رواد المدرسة السلوكية في علم النفس",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "ما الرابط",
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2113",
+  "code": "q_2113"
+ },
+ {
+  "category": "islamic",
+  "subcategory": null,
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كم عدد أبواب الجنة؟",
+  "answer": "ثمانية",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أرقام"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2114",
+  "code": "q_2114"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "ghazawat",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم كان عدد شهداء المسلمين في غزوة أحد تقريبًا؟",
+  "answer": "سبعون",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أرقام",
+   "غزوات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2115",
+  "code": "q_2115"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم كان عدد الصحابة في بيعة الرضوان تقريبًا؟",
+  "answer": "نحو 1400",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أرقام",
+   "صلح الحديبية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2116",
+  "code": "q_2116"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سنة هجرية توفي النبي ﷺ؟",
+  "answer": "السنة 11 للهجرة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أرقام",
+   "سيرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2117",
+  "code": "q_2117"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما اسم الظاهرة التي يتحسّن فيها أداء الناس لمجرد شعورهم بأنهم مراقَبون؟",
+  "answer": "تأثير هوثورن",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2118",
+  "code": "q_2118"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما اسم الظاهرة التي يقلّ فيها احتمال مساعدة شخص في خطر كلما زاد عدد الحاضرين؟",
+  "answer": "تأثير المتفرّج",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "علم الاجتماع"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2119",
+  "code": "q_2119"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ماذا يُسمّى ميل الفرد لبذل جهد أقل حين يعمل ضمن مجموعة؟",
+  "answer": "التكاسل الاجتماعي (التراخي الاجتماعي)",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2120",
+  "code": "q_2120"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اسم الانحياز المعرفي الذي يجعلنا نبحث عمّا يؤكد آراءنا ونتجاهل ما يخالفها؟",
+  "answer": "الانحياز التأكيدي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "التفكير"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2121",
+  "code": "q_2121"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما اسم الظاهرة التي يبالغ فيها قليلو الخبرة في تقدير كفاءتهم؟",
+  "answer": "تأثير دانينغ-كروغر",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "التفكير"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2122",
+  "code": "q_2122"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ماذا يُسمّى تحسّن حالة المريض لاعتقاده بفعالية دواء وهمي؟",
+  "answer": "أثر البلاسيبو (الدواء الوهمي)",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2123",
+  "code": "q_2123"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اسم الاستراتيجية التي يفكّر فيها الطالب وحده، ثم يناقش زميله، ثم يعرض على الصف؟",
+  "answer": "فكّر – زاوِج – شارِك",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "التعلم النشط"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2124",
+  "code": "q_2124"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اسم نموذج التعليم الذي يشاهد فيه الطالب الشرح في البيت ويطبّق في الصف؟",
+  "answer": "الصف المقلوب",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "التعلم النشط"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2125",
+  "code": "q_2125"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ماذا يُسمّى تعليم الطلاب بعضهم بعضًا تحت إشراف المعلم؟",
+  "answer": "تعليم الأقران",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2126",
+  "code": "q_2126"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من الخليفة الذي أنشأ الدواوين في الدولة الإسلامية؟",
+  "answer": "عمر بن الخطاب",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "السياسة الشرعية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2127",
+  "code": "q_2127"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما اليوم المقدّس الأسبوعي عند اليهود؟",
+  "answer": "السبت",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مقارنة الأديان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2128",
+  "code": "q_2128"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما اسم امرأة فرعون التي ربّت موسى عليه السلام؟",
+  "answer": "آسية بنت مزاحم",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الأنبياء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2129",
+  "code": "q_2129"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما السورة التي تحمل اسم كائن وصف الله بيته بأنه «أوهن البيوت»؟",
+  "answer": "سورة العنكبوت",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2130",
+  "code": "q_2130"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أكمل الحديث: «ليس الشديد بالصُّرَعة، إنما الشديد الذي ...»",
+  "answer": "يملك نفسه عند الغضب",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق",
+   "الحلم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2131",
+  "code": "q_2131"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "أكمل الحديث: «المسلم من سلم المسلمون من ...»",
+  "answer": "لسانه ويده",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2132",
+  "code": "q_2132"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أكمل الحديث: «إن الله رفيق يحب ...»",
+  "answer": "الرفق",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2133",
+  "code": "q_2133"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الوصية التي كرّرها النبي ﷺ لرجل قال له: «أوصني»؟",
+  "answer": "«لا تغضب»",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق",
+   "الحلم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2134",
+  "code": "q_2134"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أكمل الحديث: «اتقِ الله حيثما كنت، وأتبع السيئة الحسنة تمحها، وخالق الناس ...»",
+  "answer": "بخلق حسن",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2135",
+  "code": "q_2135"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أكمل الآية: ﴿وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ۚ ادْفَعْ بِالَّتِي ...﴾",
+  "answer": "هِيَ أَحْسَنُ",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2136",
+  "code": "q_2136"
+ }
+]

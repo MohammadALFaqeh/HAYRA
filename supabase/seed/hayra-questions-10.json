@@ -1,0 +1,3158 @@
+[
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "كم عدد أركان الإيمان؟",
+  "answer": "ستة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "عقيدة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1846",
+  "code": "q_1846"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما اسم الحديث المشهور الذي بيّن أركان الإسلام والإيمان والإحسان؟",
+  "answer": "حديث جبريل",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "عقيدة",
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1847",
+  "code": "q_1847"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما الركن السادس من أركان الإيمان؟",
+  "answer": "الإيمان بالقدر خيره وشره",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "عقيدة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1848",
+  "code": "q_1848"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما أعظم آية في كتاب الله؟",
+  "answer": "آية الكرسي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "عقيدة",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1849",
+  "code": "q_1849"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "كم عدد أسماء الله الحسنى الواردة في حديث «إن لله ... اسمًا من أحصاها دخل الجنة»؟",
+  "answer": "تسعة وتسعون",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "عقيدة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1850",
+  "code": "q_1850"
+ },
+ {
+  "category": "islamic",
+  "subcategory": null,
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما اسم الملك الموكَّل بالنفخ في الصور؟",
+  "answer": "إسرافيل",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "عقيدة",
+   "الملائكة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1851",
+  "code": "q_1851"
+ },
+ {
+  "category": "islamic",
+  "subcategory": null,
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما اسم الملك الموكَّل بالوحي إلى الأنبياء؟",
+  "answer": "جبريل عليه السلام",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "عقيدة",
+   "الملائكة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1852",
+  "code": "q_1852"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من هم أولو العزم من الرسل؟",
+  "answer": "نوح وإبراهيم وموسى وعيسى ومحمد ﷺ",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "عقيدة",
+   "الأنبياء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1853",
+  "code": "q_1853"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما اسم الكتاب الذي أُنزل على داود عليه السلام؟",
+  "answer": "الزبور",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الأنبياء",
+   "الكتب السماوية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1854",
+  "code": "q_1854"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "على أي نبي أُنزل الإنجيل؟",
+  "answer": "عيسى عليه السلام",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الأنبياء",
+   "الكتب السماوية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1855",
+  "code": "q_1855"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما آخر آية نزلت من القرآن على القول الراجح؟",
+  "answer": "﴿وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ﴾ — البقرة 281",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "النزول"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1856",
+  "code": "q_1856"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من الخليفة الذي جُمع القرآن في عهده في مصحف واحد أول مرة؟",
+  "answer": "أبو بكر الصديق",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "رسم المصحف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1857",
+  "code": "q_1857"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في عهد أي خليفة نُسخت المصاحف ووُزّعت على الأمصار؟",
+  "answer": "عثمان بن عفان",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "رسم المصحف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1858",
+  "code": "q_1858"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما اسم الرسم الذي كُتبت به المصاحف في عهد عثمان بن عفان؟",
+  "answer": "الرسم العثماني",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "رسم المصحف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1859",
+  "code": "q_1859"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم عدد القراءات القرآنية المتواترة؟",
+  "answer": "عشر قراءات",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "القراءات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1860",
+  "code": "q_1860"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما الرواية القرآنية الأكثر انتشارًا في العالم الإسلامي اليوم؟",
+  "answer": "حفص عن عاصم",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "القراءات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1861",
+  "code": "q_1861"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الرواية القرآنية المنتشرة في أغلب بلاد المغرب العربي؟",
+  "answer": "ورش عن نافع",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "القراءات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1862",
+  "code": "q_1862"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما اسم العلم الذي يدرس الأحكام التي رُفعت بأحكام نزلت بعدها؟",
+  "answer": "الناسخ والمنسوخ",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1863",
+  "code": "q_1863"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما اسم العلم الذي يدرس الحوادث والوقائع التي نزلت الآيات بسببها؟",
+  "answer": "أسباب النزول",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1864",
+  "code": "q_1864"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي نزلت فيها براءة أم المؤمنين عائشة في حادثة الإفك؟",
+  "answer": "سورة النور",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "أسباب النزول"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1865",
+  "code": "q_1865"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "بعد أي غزوة نزلت سورة الأنفال؟",
+  "answer": "غزوة بدر",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "أسباب النزول"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1866",
+  "code": "q_1866"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "هل سورة الفاتحة مكية أم مدنية على القول الراجح؟",
+  "answer": "مكية",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "المكي والمدني"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1867",
+  "code": "q_1867"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اسم تفسير ابن جرير الطبري الذي يُعد أشهر كتب التفسير بالمأثور؟",
+  "answer": "جامع البيان عن تأويل آي القرآن",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "التفسير"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1868",
+  "code": "q_1868"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من مؤلف «تفسير القرآن العظيم» المشهور بالتفسير بالمأثور؟",
+  "answer": "ابن كثير",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "التفسير"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1869",
+  "code": "q_1869"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من مؤلف كتاب «الإتقان في علوم القرآن»؟",
+  "answer": "جلال الدين السيوطي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1870",
+  "code": "q_1870"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من مؤلف كتاب «البرهان في علوم القرآن»؟",
+  "answer": "بدر الدين الزركشي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1871",
+  "code": "q_1871"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من صاحب كتاب «دلائل الإعجاز»؟",
+  "answer": "عبد القاهر الجرجاني",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "إعجاز القرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1872",
+  "code": "q_1872"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما أقل ما تحدّى الله به العرب أن يأتوا بمثله من القرآن؟",
+  "answer": "سورة واحدة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم القرآن",
+   "إعجاز القرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1873",
+  "code": "q_1873"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من هم أصحاب الكتب الستة في الحديث؟",
+  "answer": "البخاري ومسلم وأبو داود والترمذي والنسائي وابن ماجه",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1874",
+  "code": "q_1874"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم عدد شروط الحديث الصحيح عند المحدّثين؟",
+  "answer": "خمسة: اتصال السند وعدالة الرواة وضبطهم وعدم الشذوذ وعدم العلة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1875",
+  "code": "q_1875"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما الشرط الذي يخفّ في الحديث الحسن مقارنة بالحديث الصحيح؟",
+  "answer": "ضبط الراوي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1876",
+  "code": "q_1876"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ماذا يُسمّى الحديث الذي يرفعه التابعي إلى النبي ﷺ دون ذكر الصحابي؟",
+  "answer": "المرسل",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1877",
+  "code": "q_1877"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ماذا يُسمّى الحديث المكذوب على النبي ﷺ؟",
+  "answer": "الموضوع",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1878",
+  "code": "q_1878"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ماذا يُسمّى إخفاء عيب في الإسناد وتحسين ظاهره، كأن يروي الراوي عمّن لقيه ما لم يسمعه منه؟",
+  "answer": "التدليس",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1879",
+  "code": "q_1879"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ماذا يعني المحدّثون بـ«الإسناد العالي»؟",
+  "answer": "قلة عدد الرواة بين المحدّث والنبي ﷺ",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1880",
+  "code": "q_1880"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ماذا تُسمّى الأحاديث التي ليس بين الإمام البخاري والنبي ﷺ فيها إلا ثلاثة رواة؟",
+  "answer": "الثلاثيات",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1881",
+  "code": "q_1881"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد الأحاديث في كتاب «الأربعون النووية» فعليًا؟",
+  "answer": "42 حديثًا",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1882",
+  "code": "q_1882"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما أول حديث في صحيح البخاري؟",
+  "answer": "«إنما الأعمال بالنيات»",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1883",
+  "code": "q_1883"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أيّ الأئمة الأربعة صاحب «المسند» المشهور في الحديث؟",
+  "answer": "أحمد بن حنبل",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1884",
+  "code": "q_1884"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ماذا يُسمّى الحديث الذي يخالف فيه الراوي الثقة من هو أوثق منه؟",
+  "answer": "الشاذ",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1885",
+  "code": "q_1885"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ماذا يُسمّى السبب الخفي القادح في حديث ظاهره السلامة؟",
+  "answer": "العلة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1886",
+  "code": "q_1886"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "ماذا يُسمّى الحديث الذي يوافق فيه راوٍ غيرَه في روايته عن الشيخ نفسه أو من فوقه؟",
+  "answer": "المتابعة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1887",
+  "code": "q_1887"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من مؤلف متن «نخبة الفكر» في مصطلح الحديث؟",
+  "answer": "ابن حجر العسقلاني",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علوم الحديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1888",
+  "code": "q_1888"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما اسم شرح ابن حجر العسقلاني على صحيح البخاري؟",
+  "answer": "فتح الباري",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "حديث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1889",
+  "code": "q_1889"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما مصادر التشريع الأربعة المتفق عليها عند جمهور العلماء؟",
+  "answer": "القرآن والسنة والإجماع والقياس",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أصول الفقه"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1890",
+  "code": "q_1890"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ماذا يُسمّى اتفاق مجتهدي الأمة بعد وفاة النبي ﷺ في عصر من العصور على حكم شرعي؟",
+  "answer": "الإجماع",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أصول الفقه"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1891",
+  "code": "q_1891"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم عدد أركان القياس عند الأصوليين؟",
+  "answer": "أربعة: الأصل والفرع وحكم الأصل والعلة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أصول الفقه"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1892",
+  "code": "q_1892"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من مؤلف كتاب «المستصفى من علم الأصول»؟",
+  "answer": "أبو حامد الغزالي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أصول الفقه",
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1893",
+  "code": "q_1893"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من مؤلف كتاب «الموافقات» في مقاصد الشريعة؟",
+  "answer": "أبو إسحاق الشاطبي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مقاصد الشريعة",
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1894",
+  "code": "q_1894"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما الضروريات الخمس التي جاءت الشريعة بحفظها؟",
+  "answer": "الدين والنفس والعقل والنسل والمال",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مقاصد الشريعة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1895",
+  "code": "q_1895"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما الدليل الأصولي القائم على بقاء ما كان على ما كان حتى يقوم دليل على تغييره؟",
+  "answer": "الاستصحاب",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أصول الفقه"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1896",
+  "code": "q_1896"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الأصل الفقهي القائم على منع الوسائل المباحة إذا أفضت إلى محرَّم؟",
+  "answer": "سد الذرائع",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أصول الفقه"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1897",
+  "code": "q_1897"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ماذا تُسمّى المصلحة التي لم يرد نص خاص باعتبارها ولا بإلغائها؟",
+  "answer": "المصلحة المرسلة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أصول الفقه"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1898",
+  "code": "q_1898"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ماذا يُسمّى عند الأصوليين اللفظ المستغرق لجميع ما يصلح له دون حصر؟",
+  "answer": "العام",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أصول الفقه",
+   "دلالات الألفاظ"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1899",
+  "code": "q_1899"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من هم أئمة المذاهب الفقهية الأربعة؟",
+  "answer": "أبو حنيفة ومالك والشافعي وأحمد بن حنبل",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه",
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1900",
+  "code": "q_1900"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أيّ الأئمة الأربعة أقدمهم مولدًا؟",
+  "answer": "أبو حنيفة النعمان",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1901",
+  "code": "q_1901"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "أيّ الأئمة الأربعة كان تلميذًا للإمام مالك؟",
+  "answer": "الإمام الشافعي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1902",
+  "code": "q_1902"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من الإمام الملقّب بـ«إمام دار الهجرة»؟",
+  "answer": "مالك بن أنس",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علماء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1903",
+  "code": "q_1903"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أكمل القاعدة الفقهية الكبرى: «الأمور ...»",
+  "answer": "بمقاصدها",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "القواعد الفقهية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1904",
+  "code": "q_1904"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أكمل القاعدة الفقهية الكبرى: «اليقين لا يزول ...»",
+  "answer": "بالشك",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "القواعد الفقهية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1905",
+  "code": "q_1905"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "أكمل القاعدة الفقهية الكبرى: «المشقة تجلب ...»",
+  "answer": "التيسير",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "القواعد الفقهية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1906",
+  "code": "q_1906"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما القاعدة الفقهية الكبرى التي تجعل العُرف مرجعًا في الأحكام؟",
+  "answer": "العادة مُحكَّمة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "القواعد الفقهية",
+   "العرف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1907",
+  "code": "q_1907"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم عدة المتوفى عنها زوجها إذا لم تكن حاملًا؟",
+  "answer": "أربعة أشهر وعشرة أيام",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة",
+   "العدة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1908",
+  "code": "q_1908"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "متى تنتهي عدة المرأة الحامل؟",
+  "answer": "بوضع الحمل",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة",
+   "العدة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1909",
+  "code": "q_1909"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ماذا يُسمّى فراق الزوجة لزوجها مقابل عِوَض تدفعه له؟",
+  "answer": "الخلع",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1910",
+  "code": "q_1910"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما مدة الرضاعة الكاملة كما ذكرها القرآن الكريم؟",
+  "answer": "حولان كاملان",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة",
+   "الرضاع"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1911",
+  "code": "q_1911"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "ما اسم المال الذي يقدّمه الزوج لزوجته عند عقد الزواج؟",
+  "answer": "المهر (الصداق)",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة",
+   "النكاح"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1912",
+  "code": "q_1912"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم نصيب الزوج من ميراث زوجته إذا لم يكن لها ولد؟",
+  "answer": "النصف",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة",
+   "الميراث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1913",
+  "code": "q_1913"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم نصيب الزوجة من ميراث زوجها إذا لم يكن له ولد؟",
+  "answer": "الربع",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة",
+   "الميراث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1914",
+  "code": "q_1914"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "كم نصيب الأم من ميراث ابنها المتوفى إذا كان له ولد؟",
+  "answer": "السدس",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة",
+   "الميراث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1915",
+  "code": "q_1915"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت آيات المواريث؟",
+  "answer": "سورة النساء",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة",
+   "الميراث"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1916",
+  "code": "q_1916"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "بعد كم طلقة تبين المرأة من زوجها بينونة كبرى؟",
+  "answer": "ثلاث طلقات",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة",
+   "الطلاق"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1917",
+  "code": "q_1917"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "fiqh",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ماذا يُسمّى حق رعاية الطفل الصغير وتربيته بعد افتراق والديه؟",
+  "answer": "الحضانة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1918",
+  "code": "q_1918"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أي سورة تُسمّى «سورة النساء الصغرى»؟",
+  "answer": "سورة الطلاق",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "فقه الأسرة",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1919",
+  "code": "q_1919"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أكمل الحديث: «إنما بُعثتُ لأتمم ...»",
+  "answer": "صالح الأخلاق (مكارم الأخلاق)",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1920",
+  "code": "q_1920"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أكمل الحديث: «الحياء شعبة من ...»",
+  "answer": "الإيمان",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق",
+   "الحياء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1921",
+  "code": "q_1921"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أكمل الحديث: «آية المنافق ثلاث: إذا حدّث كذب، وإذا وعد أخلف، وإذا ...»",
+  "answer": "اؤتمن خان",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق",
+   "الأمانة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1922",
+  "code": "q_1922"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من الصحابي الذي قال له النبي ﷺ: «إن فيك خصلتين يحبهما الله: الحلم والأناة»؟",
+  "answer": "أشج عبد القيس",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق",
+   "الحلم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1923",
+  "code": "q_1923"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أكمل الحديث: «من سلك طريقًا يلتمس فيه علمًا سهّل الله له به طريقًا إلى ...»",
+  "answer": "الجنة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "طلب العلم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1924",
+  "code": "q_1924"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت الآية: ﴿قَدْ أَفْلَحَ مَن زَكَّاهَا﴾؟",
+  "answer": "سورة الشمس",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "تزكية النفس",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1925",
+  "code": "q_1925"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت الآية: ﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ﴾؟",
+  "answer": "سورة القلم",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1926",
+  "code": "q_1926"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "أكمل الحديث: «من كان يؤمن بالله واليوم الآخر فليقل خيرًا أو ...»",
+  "answer": "ليصمت",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "أخلاق"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1927",
+  "code": "q_1927"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت الآية: ﴿ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ﴾؟",
+  "answer": "سورة النحل",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "دعوة",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1928",
+  "code": "q_1928"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما مراتب تغيير المنكر في حديث «من رأى منكم منكرًا»؟",
+  "answer": "باليد ثم باللسان ثم بالقلب",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "دعوة",
+   "الأمر بالمعروف"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1929",
+  "code": "q_1929"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من الصحابي الذي بعثه النبي ﷺ إلى اليمن وقال له: «إنك تأتي قومًا من أهل الكتاب»؟",
+  "answer": "معاذ بن جبل",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "دعوة",
+   "الصحابة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1930",
+  "code": "q_1930"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من أول سفير في الإسلام، بعثه النبي ﷺ إلى المدينة ليعلّم أهلها؟",
+  "answer": "مصعب بن عمير",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "دعوة",
+   "الصحابة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1931",
+  "code": "q_1931"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من النبي الذي لبث في قومه ألف سنة إلا خمسين عامًا يدعوهم؟",
+  "answer": "نوح عليه السلام",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "دعوة",
+   "الأنبياء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1932",
+  "code": "q_1932"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي سورة نزل التحريم القاطع للخمر بعد تدرّج تشريعه؟",
+  "answer": "سورة المائدة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التدرج",
+   "علوم القرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1933",
+  "code": "q_1933"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "hadith",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "أكمل الحديث: «يسّروا ولا تعسّروا، وبشّروا ولا ...»",
+  "answer": "تنفّروا",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "دعوة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1934",
+  "code": "q_1934"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ماذا يُسمّى الكتاب المقدس العبري عند اليهود؟",
+  "answer": "التناخ",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مقارنة الأديان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1935",
+  "code": "q_1935"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ماذا تُسمّى المخطوطات القديمة التي اكتُشفت عام 1947 في كهوف قرب البحر الميت؟",
+  "answer": "مخطوطات البحر الميت (قمران)",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مقارنة الأديان",
+   "المخطوطات"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1936",
+  "code": "q_1936"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما أسماء الأناجيل الأربعة المعتمدة عند المسيحيين؟",
+  "answer": "متّى ومرقس ولوقا ويوحنا",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "مقارنة الأديان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1937",
+  "code": "q_1937"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من المستشرق الألماني صاحب كتاب «تاريخ القرآن»؟",
+  "answer": "تيودور نولدكه",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الاستشراق"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1938",
+  "code": "q_1938"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من المستشرق الهولندي الذي أشرف على «المعجم المفهرس لألفاظ الحديث النبوي»؟",
+  "answer": "أرنت يان فنسنك",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الاستشراق"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1939",
+  "code": "q_1939"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في أي سورة وردت الآية: ﴿قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ﴾؟",
+  "answer": "سورة آل عمران",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الحوار الديني",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1940",
+  "code": "q_1940"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما لقب ملك الحبشة الذي آوى المسلمين المهاجرين إليه؟",
+  "answer": "النجاشي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "الهجرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1941",
+  "code": "q_1941"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "prophets",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "أي نبي تنتسب إليه الديانات التي تُسمّى «الإبراهيمية»؟",
+  "answer": "إبراهيم عليه السلام",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الأنبياء",
+   "مقارنة الأديان"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1942",
+  "code": "q_1942"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من العالم صاحب «هرم الحاجات» في تفسير الدافعية؟",
+  "answer": "أبراهام ماسلو",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "الدافعية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1943",
+  "code": "q_1943"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الحاجات التي تقع في قاعدة هرم ماسلو؟",
+  "answer": "الحاجات الفسيولوجية",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "الدافعية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1944",
+  "code": "q_1944"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما الحاجة التي تقع في قمة هرم ماسلو؟",
+  "answer": "تحقيق الذات",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "الدافعية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1945",
+  "code": "q_1945"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من العالم الروسي الذي اشتهر بتجربة الإشراط الكلاسيكي على الكلاب؟",
+  "answer": "إيفان بافلوف",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "التعلم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1946",
+  "code": "q_1946"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من العالم الأمريكي صاحب نظرية الإشراط الإجرائي؟",
+  "answer": "بي. إف. سكينر",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "السلوك"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1947",
+  "code": "q_1947"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من مؤسس مدرسة التحليل النفسي؟",
+  "answer": "سيغموند فرويد",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "الشخصية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1948",
+  "code": "q_1948"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما الأقسام الثلاثة لبنية الشخصية عند فرويد؟",
+  "answer": "الهو والأنا والأنا الأعلى",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "الشخصية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1949",
+  "code": "q_1949"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من العالم السويسري صاحب نظرية مراحل النمو المعرفي عند الأطفال؟",
+  "answer": "جان بياجيه",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "التفكير"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1950",
+  "code": "q_1950"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ماذا تُسمّى استجابة الجسم للتهديد حين يستعد للمواجهة أو الهرب؟",
+  "answer": "استجابة الكرّ أو الفرّ",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "الانفعال"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1951",
+  "code": "q_1951"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من العالم الذي أسس أول مختبر لعلم النفس التجريبي في لايبزيغ عام 1879؟",
+  "answer": "فيلهلم فونت",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1952",
+  "code": "q_1952"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من العالم المسلم صاحب كتاب «مصالح الأبدان والأنفس» الذي تناول الصحة النفسية مبكرًا؟",
+  "answer": "أبو زيد البلخي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "الصحة النفسية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1953",
+  "code": "q_1953"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ماذا يُسمّى وعي الإنسان بطريقة تفكيره ومراقبته لها؟",
+  "answer": "ما وراء المعرفة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم النفس",
+   "التفكير"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1954",
+  "code": "q_1954"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من يُعدّ مؤسس علم الاجتماع (علم العمران) في التراث العربي؟",
+  "answer": "ابن خلدون",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم الاجتماع"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1955",
+  "code": "q_1955"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما اسم الكتاب الذي عرض فيه ابن خلدون نظرياته في العمران البشري؟",
+  "answer": "المقدمة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم الاجتماع"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1956",
+  "code": "q_1956"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما المفهوم الذي جعله ابن خلدون محور قيام الدول وسقوطها؟",
+  "answer": "العصبية",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم الاجتماع"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1957",
+  "code": "q_1957"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من الفيلسوف الفرنسي الذي صاغ مصطلح «علم الاجتماع»؟",
+  "answer": "أوغست كونت",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم الاجتماع"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1958",
+  "code": "q_1958"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من عالم الاجتماع الفرنسي صاحب كتاب «الانتحار»؟",
+  "answer": "إميل دوركايم",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم الاجتماع"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1959",
+  "code": "q_1959"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ماذا تُسمّى العملية التي يكتسب بها الفرد قيم مجتمعه وعاداته ولغته؟",
+  "answer": "التنشئة الاجتماعية",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "علم الاجتماع",
+   "التنشئة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1960",
+  "code": "q_1960"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من صاحب التصنيف الشهير للأهداف التعليمية في المجال المعرفي؟",
+  "answer": "بنيامين بلوم",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "الأهداف التربوية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1961",
+  "code": "q_1961"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "ما أدنى مستوى في تصنيف بلوم الأصلي للأهداف المعرفية؟",
+  "answer": "التذكّر (المعرفة)",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "الأهداف التربوية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1962",
+  "code": "q_1962"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ماذا يُسمّى التقويم الذي يجري أثناء عملية التعلم بهدف تحسينها؟",
+  "answer": "التقويم التكويني (البنائي)",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "التقويم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1963",
+  "code": "q_1963"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ماذا يُسمّى التقويم الذي يجري في نهاية الوحدة أو الفصل للحكم على التحصيل؟",
+  "answer": "التقويم الختامي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "التقويم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1964",
+  "code": "q_1964"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من صاحب نظرية الذكاءات المتعددة؟",
+  "answer": "هوارد غاردنر",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "الفروق الفردية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1965",
+  "code": "q_1965"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من الفيلسوف الأمريكي المرتبط بمبدأ «التعلم بالعمل»؟",
+  "answer": "جون ديوي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "التعلم النشط"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1966",
+  "code": "q_1966"
+ },
+ {
+  "category": "general",
+  "subcategory": "trivia",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اسم طريقة التعليم القائمة على النشاط الذاتي للطفل التي أسستها طبيبة إيطالية؟",
+  "answer": "طريقة مونتيسوري",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "التعلم النشط"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1967",
+  "code": "q_1967"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 6,
+  "depth_level": 3,
+  "question_text": "من مؤلف كتاب «تذكرة السامع والمتكلم في أدب العالم والمتعلم»؟",
+  "answer": "ابن جماعة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "آداب طلب العلم"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1968",
+  "code": "q_1968"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من مؤلف رسالة «أيها الولد» في التربية والنصيحة؟",
+  "answer": "أبو حامد الغزالي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1969",
+  "code": "q_1969"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من مؤلف كتاب «تحفة المودود بأحكام المولود»؟",
+  "answer": "ابن قيم الجوزية",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1970",
+  "code": "q_1970"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت وصايا لقمان لابنه؟",
+  "answer": "سورة لقمان",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1971",
+  "code": "q_1971"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما أول وصية أوصى بها لقمان ابنه في القرآن؟",
+  "answer": "ألا يشرك بالله",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "التربية",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1972",
+  "code": "q_1972"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "كم سنة استمرت الدعوة في مكة قبل الهجرة؟",
+  "answer": "13 سنة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "العهد المكي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1973",
+  "code": "q_1973"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "كم سنة استمرت الدعوة السرية في مكة؟",
+  "answer": "ثلاث سنوات",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "العهد المكي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1974",
+  "code": "q_1974"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في دار من كان المسلمون الأوائل يجتمعون سرًا بمكة؟",
+  "answer": "دار الأرقم بن أبي الأرقم",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "العهد المكي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1975",
+  "code": "q_1975"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "إلى أي مدينة خرج النبي ﷺ يدعو أهلها فردّوه وآذوه؟",
+  "answer": "الطائف",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "العهد المكي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1976",
+  "code": "q_1976"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما اسم البيعة الأولى التي بايع فيها أهل يثرب النبي ﷺ؟",
+  "answer": "بيعة العقبة الأولى",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "البيعة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1977",
+  "code": "q_1977"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "إلى أين كانت أول هجرة في الإسلام؟",
+  "answer": "الحبشة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "الهجرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1978",
+  "code": "q_1978"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من رافق النبي ﷺ في هجرته إلى المدينة؟",
+  "answer": "أبو بكر الصديق",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "الهجرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1979",
+  "code": "q_1979"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahabiyat",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من الصحابية الملقّبة بـ«ذات النطاقين»؟",
+  "answer": "أسماء بنت أبي بكر",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "الهجرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1980",
+  "code": "q_1980"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اسم الوثيقة التي نظّم بها النبي ﷺ العلاقات بين سكان المدينة بعد الهجرة؟",
+  "answer": "وثيقة المدينة (الصحيفة)",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "السيرة المدنية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1981",
+  "code": "q_1981"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "من الذي فاوض عن قريش وعقد معها صلح الحديبية؟",
+  "answer": "سهيل بن عمرو",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "صلح الحديبية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1982",
+  "code": "q_1982"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم كانت مدة الهدنة المتفق عليها في صلح الحديبية؟",
+  "answer": "عشر سنوات",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "صلح الحديبية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1983",
+  "code": "q_1983"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran-sciences",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "ما السورة التي نزلت بعد صلح الحديبية وسمّته فتحًا مبينًا؟",
+  "answer": "سورة الفتح",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "صلح الحديبية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1984",
+  "code": "q_1984"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "في أي سنة هجرية كان «عام الوفود»؟",
+  "answer": "السنة التاسعة للهجرة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "الوفود"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1985",
+  "code": "q_1985"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اسم الوفد النصراني الذي قدم من اليمن وناظر النبي ﷺ ونزلت بسببه آية المباهلة؟",
+  "answer": "وفد نجران",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "الوفود"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1986",
+  "code": "q_1986"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "إلى أي ملك حمل دحية الكلبي رسالة النبي ﷺ؟",
+  "answer": "هرقل ملك الروم",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "رسائل النبي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1987",
+  "code": "q_1987"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "إلى أي ملك حمل عبد الله بن حذافة السهمي رسالة النبي ﷺ؟",
+  "answer": "كسرى ملك الفرس",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "رسائل النبي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1988",
+  "code": "q_1988"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "إلى من أُرسل حاطب بن أبي بلتعة برسالة النبي ﷺ؟",
+  "answer": "المقوقس عظيم القبط في مصر",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة",
+   "رسائل النبي"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1989",
+  "code": "q_1989"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "seerah",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما العبارة التي نُقشت على خاتم النبي ﷺ؟",
+  "answer": "محمد رسول الله",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "سيرة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1990",
+  "code": "q_1990"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من أول الخلفاء الراشدين؟",
+  "answer": "أبو بكر الصديق",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الخلافة الراشدة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1991",
+  "code": "q_1991"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "في أي مكان بويع أبو بكر الصديق بالخلافة؟",
+  "answer": "سقيفة بني ساعدة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الخلافة الراشدة",
+   "البيعة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1992",
+  "code": "q_1992"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "ما اسم الحروب التي خاضها أبو بكر الصديق ضد المرتدين؟",
+  "answer": "حروب الردة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الخلافة الراشدة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1993",
+  "code": "q_1993"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في عهد أي خليفة بدأ العمل بالتقويم الهجري؟",
+  "answer": "عمر بن الخطاب",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الخلافة الراشدة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1994",
+  "code": "q_1994"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من هم الستة الذين جعل عمر بن الخطاب أمر الخلافة شورى بينهم؟",
+  "answer": "عثمان وعلي وطلحة والزبير وعبد الرحمن بن عوف وسعد بن أبي وقاص",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الخلافة الراشدة",
+   "الشورى"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1995",
+  "code": "q_1995"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "quran",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في أي سورة وردت الآية: ﴿وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ﴾؟",
+  "answer": "سورة الشورى",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الشورى",
+   "قرآن"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1996",
+  "code": "q_1996"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "كم سنة استمرت الخلافة الراشدة تقريبًا؟",
+  "answer": "نحو ثلاثين سنة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الخلافة الراشدة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1997",
+  "code": "q_1997"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "rashidun",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "في عهد أي خليفة فُتح بيت المقدس؟",
+  "answer": "عمر بن الخطاب",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الخلافة الراشدة",
+   "الفتوح"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1998",
+  "code": "q_1998"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من قائد المسلمين في معركة اليرموك؟",
+  "answer": "خالد بن الوليد",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الفتوح"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-1999",
+  "code": "q_1999"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 2,
+  "depth_level": 1,
+  "question_text": "من الصحابي الذي فتح مصر؟",
+  "answer": "عمرو بن العاص",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الفتوح"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2000",
+  "code": "q_2000"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 1,
+  "depth_level": 1,
+  "question_text": "من القائد الذي عبر بالجيش الإسلامي إلى الأندلس سنة 92 هـ؟",
+  "answer": "طارق بن زياد",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الفتوح"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2001",
+  "code": "q_2001"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "أي معركة لُقّبت بـ«فتح الفتوح»؟",
+  "answer": "معركة نهاوند",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الفتوح"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2002",
+  "code": "q_2002"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "sahaba",
+  "difficulty": 3,
+  "depth_level": 2,
+  "question_text": "من الصحابي الشاب الذي أنفذ أبو بكر جيشه بعد وفاة النبي ﷺ؟",
+  "answer": "أسامة بن زيد",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "الصحابة",
+   "الخلافة الراشدة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2003",
+  "code": "q_2003"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 4,
+  "depth_level": 2,
+  "question_text": "ما اسم الولاية المختصة بمراقبة الأسواق والآداب العامة في الدولة الإسلامية؟",
+  "answer": "الحسبة",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "السياسة الشرعية",
+   "الحسبة"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2004",
+  "code": "q_2004"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "islamic-history",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من القاضي الذي ولّاه عمر بن الخطاب قضاء الكوفة واشتهر بعدله؟",
+  "answer": "شريح القاضي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "السياسة الشرعية",
+   "القضاء"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2005",
+  "code": "q_2005"
+ },
+ {
+  "category": "islamic",
+  "subcategory": "muslim-scholars",
+  "difficulty": 5,
+  "depth_level": 3,
+  "question_text": "من مؤلف كتاب «الأحكام السلطانية»؟",
+  "answer": "أبو الحسن الماوردي",
+  "type": "text",
+  "extra": {},
+  "source": "أُعدّت من مواضيع ملف أسئلة أرسله المستخدم (questions.json)",
+  "tags": [
+   "السياسة الشرعية"
+  ],
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2006",
+  "code": "q_2006"
+ }
+]
