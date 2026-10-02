@@ -1,8 +1,8 @@
 "use client";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { ArrowRight, Check, ChevronDown, ChevronUp, Eye, Pause, Play, Plus, SkipForward, X } from "lucide-react";
-import { useCountdown, useSecondsClock } from "@/lib/client/clock";
+import { useSecondsClock } from "@/lib/client/clock";
 import { play, unlockAudio } from "@/lib/client/sound";
 import type { useHostSession } from "@/lib/client/use-host-session";
 import type { PublicSeconds, PublicState } from "@/lib/game/public";
@@ -19,22 +19,12 @@ type Host = ReturnType<typeof useHostSession>;
  */
 export function TvHostControls({ host, state }: { host: Host; state: PublicState }) {
   const [open, setOpen] = useState(true);
-  const remaining = useCountdown(state.timer);
-  const timeUpSent = useRef<number | null>(null);
   const act = (a: Parameters<Host["dispatch"]>[0]) => {
     unlockAudio();
     play("click");
     void host.dispatch(a);
   };
-
-  // انتهاء الوقت يُرسل من هنا أيضًا إن لم تكن لوحة المضيف مفتوحة
-  useEffect(() => {
-    const t = state.timer;
-    if (t.running && t.endsAt && remaining <= 0 && timeUpSent.current !== t.endsAt) {
-      timeUpSent.current = t.endsAt;
-      void host.dispatch({ type: "TIME_UP" });
-    }
-  }, [remaining, state.timer, host]);
+  // «انتهى الوقت» يُرسل تلقائيًا من useHostSession (مع إعادة المحاولة)
 
   const a = state.active;
   const f = state.final;

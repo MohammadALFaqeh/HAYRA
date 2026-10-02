@@ -159,6 +159,22 @@ export function useHostSession(sessionId: string) {
     };
   }, [load, flush]);
 
+  // ------- «انتهى الوقت» تلقائيًا لكل المؤقتات (سؤال، سرقة، نهائي)
+  // يُعاد الإرسال كل ثانيتين ما دام المؤقت يعمل بعد نهايته: السيرفر يتجاهل الطلب
+  // إذا وصل مبكرًا (فرق ساعة الجهاز)، فلا يجوز الإرسال مرة واحدة فقط.
+  const timeUpSentAt = useRef(0);
+  const dispatchRef = useRef<((a: HostAction) => Promise<boolean>) | null>(null);
+  useEffect(() => {
+    const i = setInterval(() => {
+      const t = stateRef.current?.timer;
+      if (!t?.running || t.endsAt === null || serverNow() < t.endsAt) return;
+      if (Date.now() - timeUpSentAt.current < 2000) return;
+      timeUpSentAt.current = Date.now();
+      void dispatchRef.current?.({ type: "TIME_UP" });
+    }, 250);
+    return () => clearInterval(i);
+  }, []);
+
   const dispatch = useCallback(
     async (action: HostAction) => {
       setError(null);
@@ -207,6 +223,7 @@ export function useHostSession(sessionId: string) {
     },
     [sessionId, headers, adopt, flush],
   );
+  dispatchRef.current = dispatch;
 
   const endSession = useCallback(async () => {
     try {

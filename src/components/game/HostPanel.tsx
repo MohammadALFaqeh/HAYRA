@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { QRCodeSVG } from "qrcode.react";
@@ -278,15 +278,7 @@ function QuestionControls({
   const q = s.questions[a.questionId];
   const remaining = useCountdown(s.timer);
   const [rated, setRated] = useState<string | null>(null);
-  const timeUpSent = useRef<number | null>(null);
-
-  // إرسال «انتهى الوقت» تلقائيًا من جهاز المضيف
-  useEffect(() => {
-    if (s.timer.running && s.timer.endsAt && remaining <= 0 && timeUpSent.current !== s.timer.endsAt) {
-      timeUpSent.current = s.timer.endsAt;
-      void host.dispatch({ type: "TIME_UP" });
-    }
-  }, [remaining, s.timer.running, s.timer.endsAt, host]);
+  // «انتهى الوقت» يُرسل تلقائيًا من useHostSession (مع إعادة المحاولة)
 
   useEffect(() => {
     setRated(null);
