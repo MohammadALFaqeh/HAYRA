@@ -1,5 +1,5 @@
 // Open Trivia DB — مجاني بدون مفتاح. الأسئلة بالإنجليزية → تُحفظ غير مفعّلة مع وسم «يحتاج ترجمة»
-import { fetchJson, seededRandom, shuffleWith, type ImportResult, type QuestionDraft } from "./types";
+import { fetchJson, hash, seededRandom, shuffleWith, type ImportResult, type QuestionDraft } from "./types";
 
 /** ربط تصنيفات OpenTDB بفئات حيرة */
 export const OPENTDB_CATEGORIES: Record<number, { name: string; category: string; subcategory: string | null }> = {
@@ -70,18 +70,4 @@ export async function importOpenTdb(opts: { category: number; amount?: number; d
     drafts,
     notes: ["الأسئلة بالإنجليزية: ترجمها وعدّلها من محرر الأسئلة قبل التفعيل (فلتر: وسم «يحتاج ترجمة»)."],
   };
-}
-
-/** بصمة قصيرة ثابتة للنص لمنع التكرار عند إعادة الاستيراد */
-export function hash(s: string): string {
-  let h1 = 0xdeadbeef ^ s.length;
-  let h2 = 0x41c6ce57 ^ s.length;
-  for (let i = 0; i < s.length; i++) {
-    const c = s.charCodeAt(i);
-    h1 = Math.imul(h1 ^ c, 2654435761);
-    h2 = Math.imul(h2 ^ c, 1597334677);
-  }
-  h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507) ^ Math.imul(h2 ^ (h2 >>> 13), 3266489909);
-  h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507) ^ Math.imul(h1 ^ (h1 >>> 13), 3266489909);
-  return (4294967296 * (2097151 & h2) + (h1 >>> 0)).toString(36);
 }

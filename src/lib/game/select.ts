@@ -56,6 +56,8 @@ function depthRank(level: GameSettings["level"], depth: number): number {
 function applyCommonFilters<T>(query: T, settings: GameSettings, types: QuestionType[] | null): T {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   let q = (query as any).eq("is_active", true).eq("is_blacklisted", false);
+  // اللعب بالعربية فقط — الأسئلة المستوردة بلغة أخرى (OpenTDB، football-data) لا تظهر حتى لو فُعّلت
+  q = q.eq("language", "ar");
   if (settings.familyMode) q = q.eq("family_safe", true);
   if (settings.verifiedOnly) q = q.eq("verified", true);
   if (types && types.length) q = q.in("type", types);

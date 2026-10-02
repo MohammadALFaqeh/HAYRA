@@ -61,6 +61,20 @@ export function sampleWith<T>(arr: T[], n: number, random: () => number): T[] {
 export const clampDifficulty = (d: number) => Math.max(1, Math.min(6, Math.round(d)));
 export const depthFor = (d: number) => (d <= 2 ? 1 : d <= 4 ? 2 : 3);
 
+/** بصمة قصيرة ثابتة للنص لمنع التكرار عند إعادة الاستيراد */
+export function hash(s: string): string {
+  let h1 = 0xdeadbeef ^ s.length;
+  let h2 = 0x41c6ce57 ^ s.length;
+  for (let i = 0; i < s.length; i++) {
+    const c = s.charCodeAt(i);
+    h1 = Math.imul(h1 ^ c, 2654435761);
+    h2 = Math.imul(h2 ^ c, 1597334677);
+  }
+  h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507) ^ Math.imul(h2 ^ (h2 >>> 13), 3266489909);
+  h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507) ^ Math.imul(h1 ^ (h1 >>> 13), 3266489909);
+  return (4294967296 * (2097151 & h2) + (h1 >>> 0)).toString(36);
+}
+
 export async function fetchJson<T>(url: string, init?: RequestInit, timeoutMs = 25000): Promise<T> {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeoutMs);
