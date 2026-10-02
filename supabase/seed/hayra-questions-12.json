@@ -1,0 +1,2380 @@
+[
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "الإدعشري",
+  "type": "who_am_i",
+  "clues": [
+   "كنت بائع مخلل قبل أن أصير سارقًا محترفًا",
+   "قتلت الحارس أبو سمعو ودفنته في بيتي",
+   "سرقت ليرات أبو إبراهيم الذهبية في الجزء الأول"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2137",
+  "code": "q_2137"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "العقيد أبو شهاب",
+  "type": "who_am_i",
+  "clues": [
+   "تزوجت شريفة ابنة أبو حاتم",
+   "أنا أخو سعاد أم عصام",
+   "عقيد حارة الضبع، وأدّى دوري سامر المصري"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2138",
+  "code": "q_2138"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو عصام",
+  "type": "who_am_i",
+  "clues": [
+   "ظنّ أهل الحارة أنني استُشهدت",
+   "سُجنت في سجن أرواد ثم عدت في الجزء السادس",
+   "حكيم حارة الضبع، وأدّى دوري عباس النوري"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2139",
+  "code": "q_2139"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "صطيف الأعمى",
+  "type": "who_am_i",
+  "clues": [
+   "كنت جاسوسًا للدرك الفرنسي",
+   "قتلت الزعيم أبو صالح",
+   "كنت ضريرًا، وقتلني العقيد أبو شهاب"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2140",
+  "code": "q_2140"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "مأمون بيك",
+  "type": "who_am_i",
+  "clues": [
+   "عذّبت أبو عصام في سجن أرواد",
+   "تزوجت فريال وادّعيت أنني ابن عمها الغائب",
+   "جاسوس للفرنسيين أعدمني أهل الحارة في الجزء الخامس"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2141",
+  "code": "q_2141"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "النمس",
+  "type": "who_am_i",
+  "clues": [
+   "من حارة أبو النار، خرجت من السجن",
+   "عملت مع مأمون بيك ثم كشفت حقيقته",
+   "أدّى دوري مصطفى الخاني"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2142",
+  "code": "q_2142"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "الواوي",
+  "type": "who_am_i",
+  "clues": [
+   "جئت لأنتقم لأخي من حارة الضبع",
+   "قتلت فياض والشيخ فهمي وعزيز حتى لا يفضحوني",
+   "قتلني العقيد معتز في نهاية الجزء السادس"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2143",
+  "code": "q_2143"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أم جوزيف",
+  "type": "who_am_i",
+  "clues": [
+   "سيدة مسيحية أعمل داية في حارة المسكي",
+   "قاومت المحتل الفرنسي وحُكم عليّ بالإعدام",
+   "أدّت دوري منى واصف"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2144",
+  "code": "q_2144"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو دياب (أبو قاعود)",
+  "type": "who_am_i",
+  "clues": [
+   "سُجنت مع أبو عصام في سجن أرواد",
+   "هربت من السجن وحملت رسالة منه إلى أهله",
+   "دخلت حارة الضبع متنكرًا بهيئة زبّال"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2145",
+  "code": "q_2145"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "فريال (أم توفيق)",
+  "type": "who_am_i",
+  "clues": [
+   "أنا ابنة أخ الزعيم أبو صالح",
+   "أحيك المشاكل بين نساء الحارة",
+   "تزوجت مأمون بيك ثم أبو النار ثم أبو ظافر"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2146",
+  "code": "q_2146"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو بدر",
+  "type": "who_am_i",
+  "clues": [
+   "أنا جار أبو عصام",
+   "لا أشارك في الدفاع عن الحارة لأني جبان",
+   "زوجتي فوزية تتحكم بي وأخاف منها"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2147",
+  "code": "q_2147"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أم زكي",
+  "type": "who_am_i",
+  "clues": [
+   "أعرف أسرار نساء الحارة كلها",
+   "ظهرت في أغلب أجزاء المسلسل",
+   "أنا داية حارة الضبع، وأدّت دوري هدى شعراوي"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2148",
+  "code": "q_2148"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو جودت",
+  "type": "who_am_i",
+  "clues": [
+   "أحب الرشوة وأحاول فرض سيطرتي على الحارة",
+   "سرقت سلاح معاوني العريف نوري",
+   "رئيس مخفر الدرك، وأدّى دوري زهير رمضان"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2149",
+  "code": "q_2149"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو النار",
+  "type": "who_am_i",
+  "clues": [
+   "طيب القلب لكنني سريع الغضب",
+   "كنت عدوًا لحارة الضبع في الأجزاء الأولى ثم صرت حليفها",
+   "ابنتي فايزة تزوجت عصام الحلاق"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2150",
+  "code": "q_2150"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو غالب",
+  "type": "who_am_i",
+  "clues": [
+   "أكره أبو عصام وأحمّله ذنب وفاة زوجتي وابني",
+   "أحاول إشعال الفتنة بين حارة الضبع وحارة أبو النار",
+   "أبيع البليلة"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2151",
+  "code": "q_2151"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو حاتم",
+  "type": "who_am_i",
+  "clues": [
+   "صهري العقيد أبو شهاب",
+   "تولّيت أمور الحارة مؤقتًا بعد هروب أبو شهاب",
+   "صاحب قهوة الحارة، وأدّى دوري وفيق الزعيم"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2152",
+  "code": "q_2152"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو بشير",
+  "type": "who_am_i",
+  "clues": [
+   "ابني بشير تزوج جميلة ابنة أبو عصام",
+   "أنا الصديق المقرّب لأبو عصام",
+   "صاحب فرن الحارة"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2153",
+  "code": "q_2153"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "عصام",
+  "type": "who_am_i",
+  "clues": [
+   "تزوجت ثلاث نساء: لطفية وهدى وفايزة",
+   "أنا الابن الأكبر للحكيم",
+   "حلّاق الحارة، وأدّى دوري ميلاد يوسف"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2154",
+  "code": "q_2154"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "معتز",
+  "type": "who_am_i",
+  "clues": [
+   "أحببت سارة ابنة الحكيم موسى",
+   "صرت عقيد حارة الضبع بعد اختفاء أبو شهاب",
+   "ابن أبو عصام، وأدّى دوري وائل شرف"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2155",
+  "code": "q_2155"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "سعاد (أم عصام)",
+  "type": "who_am_i",
+  "clues": [
+   "أخي العقيد أبو شهاب",
+   "طلّقني زوجي بسبب وشايات نساء الحارة",
+   "أدّت دوري صباح الجزائري"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2156",
+  "code": "q_2156"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "سمعو",
+  "type": "who_am_i",
+  "clues": [
+   "اشتغلت مع الدرك لأعرف من قتل أبي",
+   "عفوت عن صبحي ابن قاتل أبي وصرنا كالأخوين",
+   "أنا ابن الحارس أبو سمعو"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2157",
+  "code": "q_2157"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "الزعيم أبو صالح",
+  "type": "who_am_i",
+  "clues": [
+   "تستّرت على الإدعشري بعد توبته وموته",
+   "قتلني صطيف الأعمى",
+   "زعيم حارة الضبع، وأدّى دوري عبد الرحمن آل رشي"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2158",
+  "code": "q_2158"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو دراع",
+  "type": "who_am_i",
+  "clues": [
+   "قتلت زوجتي شفيقة في لحظة غضب وهربت",
+   "أنا صهر الإدعشري",
+   "قتلت العقيد أبو شهاب"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2159",
+  "code": "q_2159"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو حسن",
+  "type": "who_am_i",
+  "clues": [
+   "حررت أبو شهاب ورجاله من الأسر",
+   "استُشهدت في معركة مع الفرنسيين في الجزء الخامس",
+   "زعيم ثوار الغوطة"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2160",
+  "code": "q_2160"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "ناديا",
+  "type": "who_am_i",
+  "clues": [
+   "دخلت الحارة أبحث عن بيت أبو عصام",
+   "تزوجني أبو عصام سرًا ثم انكشف الأمر",
+   "اعترفت بتخابري مع الفرنسيين ومتّ بمرض السل"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2161",
+  "code": "q_2161"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو ظافر",
+  "type": "who_am_i",
+  "clues": [
+   "سافرت فقيرًا إلى حلب وعدت غنيًا",
+   "طمعت في زعامة حارة الضبع ونافست أبو عصام",
+   "صاحب بايكة الغنم"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2162",
+  "code": "q_2162"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "سارة",
+  "type": "who_am_i",
+  "clues": [
+   "ماهرة في النحت والحياكة",
+   "هربت من بيت أهلي ولجأت إلى بيت أبو عصام",
+   "ابنة الحكيم موسى، وتزوجت معتز"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2163",
+  "code": "q_2163"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو قاسم",
+  "type": "who_am_i",
+  "clues": [
+   "لا أُحسن التصرف في المواقف الصعبة",
+   "أنا الأخ الأكبر للعقيد أبو شهاب",
+   "صاحب حمّام الحارة"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2164",
+  "code": "q_2164"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "سعيد (أبو سليم)",
+  "type": "who_am_i",
+  "clues": [
+   "زوجتي بوران ابنة أبو عصام",
+   "كنت أهوى تربية الحمام",
+   "صرت أبيع الفول والحمص"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2165",
+  "code": "q_2165"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "الشيخ عبد العليم",
+  "type": "who_am_i",
+  "clues": [
+   "صديق حاخام حارة اليهود",
+   "أصلح بين المتخاصمين وأفتي في أمور الشرع",
+   "شيخ حارة الضبع"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2166",
+  "code": "q_2166"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "زهرة",
+  "type": "who_am_i",
+  "clues": [
+   "زوجي رياض",
+   "رجع إليّ السمع والنطق بعد ولادة ابني الأول",
+   "ابنة أبو خاطر، وكنت صمّاء بكماء"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2167",
+  "code": "q_2167"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "من أنا؟ (باب الحارة)",
+  "answer": "أبو عرب",
+  "type": "who_am_i",
+  "clues": [
+   "قبض عليّ الفرنسيون وأودعوني سجن القلعة",
+   "أردت الثأر من حارة الضبع لمقتل ابني الوحيد فيها",
+   "عقيد حارة الماوي، وأدّى دوري أيمن رضا"
+  ],
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2168",
+  "code": "q_2168"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "ماذا سرق الإدعشري في الجزء الأول؟",
+  "answer": "ليرات أبو إبراهيم الذهبية",
+  "type": "multiple_choice",
+  "choices": [
+   "سلاح العريف نوري",
+   "مجوهرات فريال",
+   "صندوق الزعيم أبو صالح",
+   "ليرات أبو إبراهيم الذهبية"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2169",
+  "code": "q_2169"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من الحارس الذي قتله الإدعشري؟",
+  "answer": "أبو سمعو",
+  "type": "multiple_choice",
+  "choices": [
+   "أبو فارس",
+   "أبو أحمد",
+   "أبو سمعو",
+   "أبو ماجد"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2170",
+  "code": "q_2170"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "أين دفن الإدعشري جثة الحارس الذي قتله؟",
+  "answer": "في بيته",
+  "type": "multiple_choice",
+  "choices": [
+   "في المقبرة",
+   "في بيته",
+   "تحت الفرن",
+   "في الغوطة"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2171",
+  "code": "q_2171"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من قتل الزعيم أبو صالح؟",
+  "answer": "صطيف الأعمى",
+  "type": "multiple_choice",
+  "choices": [
+   "صطيف الأعمى",
+   "الإدعشري",
+   "أبو دراع",
+   "حمدي"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2172",
+  "code": "q_2172"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من قتل صطيف الأعمى؟",
+  "answer": "العقيد أبو شهاب",
+  "type": "multiple_choice",
+  "choices": [
+   "معتز",
+   "أبو حاتم",
+   "عصام",
+   "العقيد أبو شهاب"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2173",
+  "code": "q_2173"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من قتل العقيد أبو شهاب؟",
+  "answer": "أبو دراع",
+  "type": "multiple_choice",
+  "choices": [
+   "مأمون بيك",
+   "أبو غالب",
+   "أبو دراع",
+   "النمس"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2174",
+  "code": "q_2174"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "في أي سجن كان أبو عصام مسجونًا حين ظنّوه شهيدًا؟",
+  "answer": "سجن أرواد",
+  "type": "multiple_choice",
+  "choices": [
+   "سجن تدمر",
+   "سجن أرواد",
+   "سجن القلعة",
+   "سجن المزة"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2175",
+  "code": "q_2175"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "ما مهنة أبو عصام؟",
+  "answer": "حكيم (طبيب)",
+  "type": "multiple_choice",
+  "choices": [
+   "حكيم (طبيب)",
+   "حلّاق",
+   "عطّار",
+   "خيّاط"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2176",
+  "code": "q_2176"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "ما مهنة عصام ابن أبو عصام؟",
+  "answer": "حلّاق",
+  "type": "multiple_choice",
+  "choices": [
+   "فرّان",
+   "قهوجي",
+   "نحّاس",
+   "حلّاق"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2177",
+  "code": "q_2177"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "ما مهنة أبو بشير؟",
+  "answer": "فرّان",
+  "type": "multiple_choice",
+  "choices": [
+   "حمّامي",
+   "نحّاس",
+   "فرّان",
+   "خضرجي"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2178",
+  "code": "q_2178"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "ما مهنة أبو خاطر؟",
+  "answer": "نحّاس",
+  "type": "multiple_choice",
+  "choices": [
+   "خيّاط",
+   "نحّاس",
+   "عطّار",
+   "فرّان"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2179",
+  "code": "q_2179"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "ماذا يملك أبو قاسم أخو أبو شهاب؟",
+  "answer": "حمّام",
+  "type": "multiple_choice",
+  "choices": [
+   "حمّام",
+   "قهوة",
+   "فرن",
+   "مخزن"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2180",
+  "code": "q_2180"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "ماذا يبيع أبو غالب؟",
+  "answer": "البليلة",
+  "type": "multiple_choice",
+  "choices": [
+   "الفول",
+   "العرقسوس",
+   "التمر هندي",
+   "البليلة"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2181",
+  "code": "q_2181"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "ماذا يملك أبو ظافر؟",
+  "answer": "بايكة غنم",
+  "type": "multiple_choice",
+  "choices": [
+   "خان للتجار",
+   "حمّام",
+   "بايكة غنم",
+   "معصرة زيتون"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2182",
+  "code": "q_2182"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "كم زوجة تزوّج عصام في المسلسل؟",
+  "answer": "3",
+  "type": "multiple_choice",
+  "choices": [
+   "4",
+   "3",
+   "1",
+   "2"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2183",
+  "code": "q_2183"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من زوجة عصام الأولى؟",
+  "answer": "لطفية",
+  "type": "multiple_choice",
+  "choices": [
+   "لطفية",
+   "هدى",
+   "فايزة",
+   "خيرية"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2184",
+  "code": "q_2184"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "فايزة زوجة عصام الثالثة هي ابنة من؟",
+  "answer": "أبو النار",
+  "type": "multiple_choice",
+  "choices": [
+   "أبو حاتم",
+   "أبو بشير",
+   "أبو خاطر",
+   "أبو النار"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2185",
+  "code": "q_2185"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من الممثل الذي أدّى دور معتز في الجزأين الثامن والتاسع بدلًا من وائل شرف؟",
+  "answer": "مصطفى سعد الدين",
+  "type": "multiple_choice",
+  "choices": [
+   "معتصم النهار",
+   "جهاد عبدو",
+   "مصطفى سعد الدين",
+   "قيس الشيخ نجيب"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2186",
+  "code": "q_2186"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من الممثلة التي أدّت دور فوزية (أم بدر) بعد ليلى سمور؟",
+  "answer": "شكران مرتجى",
+  "type": "multiple_choice",
+  "choices": [
+   "وفاء موصللي",
+   "شكران مرتجى",
+   "أمية ملص",
+   "سحر فوزي"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2187",
+  "code": "q_2187"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من كتب الجزء الأول من «باب الحارة» مع كمال مرة؟",
+  "answer": "مروان قاووق",
+  "type": "multiple_choice",
+  "choices": [
+   "ممدوح حمادة",
+   "سامر رضوان",
+   "فؤاد حميرة",
+   "مروان قاووق"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2188",
+  "code": "q_2188"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "في أي سنة عُرض الجزء الأول من «باب الحارة»؟",
+  "answer": "2006",
+  "type": "multiple_choice",
+  "choices": [
+   "2008",
+   "2010",
+   "2006",
+   "2004"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2189",
+  "code": "q_2189"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "كم جزءًا بلغ مسلسل «باب الحارة» حتى عام 2023؟",
+  "answer": "13 جزءًا",
+  "type": "multiple_choice",
+  "choices": [
+   "15 جزءًا",
+   "13 جزءًا",
+   "10 أجزاء",
+   "11 جزءًا"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2190",
+  "code": "q_2190"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "بعد كم سنة من التوقف عاد «باب الحارة» بجزئه السادس عام 2014؟",
+  "answer": "أربع سنوات",
+  "type": "multiple_choice",
+  "choices": [
+   "أربع سنوات",
+   "سنتان",
+   "ثلاث سنوات",
+   "ست سنوات"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2191",
+  "code": "q_2191"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "إلى أي حارة انتقل أهل حارة الضبع في الجزء العاشر بعد قصفها؟",
+  "answer": "حارة الصالحية",
+  "type": "multiple_choice",
+  "choices": [
+   "حارة الماوي",
+   "حارة المسكي",
+   "حارة أبو النار",
+   "حارة الصالحية"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2192",
+  "code": "q_2192"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "بأي مرض ماتت ناديا زوجة أبو عصام؟",
+  "answer": "السل",
+  "type": "multiple_choice",
+  "choices": [
+   "الكوليرا",
+   "التيفوئيد",
+   "السل",
+   "الطاعون"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2193",
+  "code": "q_2193"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "سارة التي تزوّجها معتز هي ابنة من؟",
+  "answer": "الحكيم موسى",
+  "type": "multiple_choice",
+  "choices": [
+   "أبو طوني",
+   "الحكيم موسى",
+   "الحاخام نعوم",
+   "الخواجة آفو"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2194",
+  "code": "q_2194"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "ما القضية السياسية التي تناولها الجزء الثامن؟",
+  "answer": "سلخ لواء إسكندرون",
+  "type": "multiple_choice",
+  "choices": [
+   "سلخ لواء إسكندرون",
+   "وعد بلفور",
+   "معركة ميسلون",
+   "الثورة السورية الكبرى"
+  ],
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2195",
+  "code": "q_2195"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "مرّت أحداث الجزء السابع بمعاهدة مهّدت لاستقلال سوريا. في أي سنة كانت؟",
+  "answer": "1936",
+  "type": "multiple_choice",
+  "choices": [
+   "1920",
+   "1925",
+   "1946",
+   "1936"
+  ],
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2196",
+  "code": "q_2196"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من قتل الكومندان الفرنسي في الجزء التاسع؟",
+  "answer": "معتز",
+  "type": "multiple_choice",
+  "choices": [
+   "أبو حاتم",
+   "نبيل",
+   "معتز",
+   "سمعو"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2197",
+  "code": "q_2197"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "من القاتل الحقيقي لظافر ابن أبو ظافر في الجزء التاسع؟",
+  "answer": "سمعو",
+  "type": "multiple_choice",
+  "choices": [
+   "قاعود",
+   "سمعو",
+   "معتز",
+   "تنكة"
+  ],
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2198",
+  "code": "q_2198"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من تزوّج شريفة ابنة أبو حاتم؟",
+  "answer": "العقيد أبو شهاب",
+  "type": "multiple_choice",
+  "choices": [
+   "العقيد أبو شهاب",
+   "معتز",
+   "الحكيم حمزة",
+   "خاطر"
+  ],
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2199",
+  "code": "q_2199"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "ما الشخصية التي أدّتها منى واصف في الجزء الثاني؟",
+  "answer": "المشعوذة أم عبد الله",
+  "type": "multiple_choice",
+  "choices": [
+   "أم جوزيف",
+   "أم منصور",
+   "أم عربي",
+   "المشعوذة أم عبد الله"
+  ],
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2200",
+  "code": "q_2200"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "تحت حكم أي دولة كانت الشام في زمن أحداث «باب الحارة»؟",
+  "answer": "فرنسا",
+  "type": "multiple_choice",
+  "choices": [
+   "الدولة العثمانية",
+   "إيطاليا",
+   "فرنسا",
+   "بريطانيا"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2201",
+  "code": "q_2201"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 1,
+  "question_text": "من زعيم حارة الضبع في الجزء الأول من «باب الحارة»؟",
+  "answer": "الزعيم أبو صالح",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2202",
+  "code": "q_2202"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من تولّى أمر حارة الضبع بعد مقتل الزعيم أبو صالح؟",
+  "answer": "العقيد أبو شهاب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2203",
+  "code": "q_2203"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أصبح عقيد حارة الضبع بعد اختفاء أبو شهاب؟",
+  "answer": "معتز",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2204",
+  "code": "q_2204"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "ماذا كان يعمل الإدعشري قبل أن يصير سارقًا؟",
+  "answer": "بائع مخلل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2205",
+  "code": "q_2205"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "كيف انتهت قصة الإدعشري في الجزء الأول؟",
+  "answer": "تاب واعترف ثم مات، فتستّر عليه الزعيم أبو صالح",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2206",
+  "code": "q_2206"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "ماذا أصاب «أم معروف» زوجة الإدعشري بعد أن رأته يدفن الحارس؟",
+  "answer": "اكتئاب حاد لازمها حتى وفاتها",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2207",
+  "code": "q_2207"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "ما سبب طلاق سعاد من أبو عصام في الجزء الثاني؟",
+  "answer": "وشايات نساء الحارة ومكائدهن (فريال وفوزية)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2208",
+  "code": "q_2208"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "ما الذي ظنّه أهل الحارة عن أبو عصام في بداية الجزء الثالث؟",
+  "answer": "أنه استُشهد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2209",
+  "code": "q_2209"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "كيف عرفت عائلة أبو عصام أنه ما زال حيًا؟",
+  "answer": "برسالة منه حملها أبو دياب الهارب من سجن أرواد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2210",
+  "code": "q_2210"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "بأي هيئة دخل أبو دياب حارة الضبع متخفيًا؟",
+  "answer": "زبّال الحارة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2211",
+  "code": "q_2211"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "كيف انتهى مأمون بيك في نهاية الجزء الخامس؟",
+  "answer": "قُتل على يد أهل الحارة بعد كشف عمالته للفرنسيين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2212",
+  "code": "q_2212"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "ما الحقيقة التي اكتشفتها فريال عن زوجها مأمون بيك؟",
+  "answer": "أنه ليس ابن عمها بل جاسوس للفرنسيين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2213",
+  "code": "q_2213"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "ماذا فعل الجيش الفرنسي بحارة الضبع في الجزء الرابع؟",
+  "answer": "حاصرها وتأهّب لقصفها واقتحامها",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2214",
+  "code": "q_2214"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "ما الذي أراد الفرنسيون إزالته من حارة الضبع في الجزء الخامس؟",
+  "answer": "باب الحارة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2215",
+  "code": "q_2215"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "لماذا هرب معتز إلى الغوطة في الجزء الخامس؟",
+  "answer": "أطلق النار على دركي حين أرادوا إزالة باب الحارة",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2216",
+  "code": "q_2216"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "كيف مات معروف ابن الإدعشري؟",
+  "answer": "لدغته أفعى في بيته",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2217",
+  "code": "q_2217"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من زوج دلال ابنة أبو عصام الذي استُشهد في معركة الحارة مع الفرنسيين؟",
+  "answer": "إبراهيم ابن أبو إبراهيم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2218",
+  "code": "q_2218"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "من زوج جميلة ابنة أبو عصام؟",
+  "answer": "بشير ابن أبو بشير",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2219",
+  "code": "q_2219"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "ما اسم طبيب الحارة الذي ظهر في الجزء الثالث وكان عضوًا في الكتلة الوطنية؟",
+  "answer": "الحكيم حمزة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2220",
+  "code": "q_2220"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "من تزوّج الحكيم حمزة؟",
+  "answer": "حميدة ابنة أبو حاتم",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2221",
+  "code": "q_2221"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "ماذا كانت تعلّم شريفة ابنة أبو حاتم في الحارة؟",
+  "answer": "القراءة والكتابة والحساب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2222",
+  "code": "q_2222"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "من قتل الجاسوس حمدي في آخر الجزء الثالث؟",
+  "answer": "المختار أبو صياح",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2223",
+  "code": "q_2223"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "ما اسم مختار حارة الماوي؟",
+  "answer": "أبو صياح",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2224",
+  "code": "q_2224"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من قتل فياض في الجزء السادس؟",
+  "answer": "الواوي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2225",
+  "code": "q_2225"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "ما اسم الحارس الثالث لحارة الضبع بعد أبو سمعو وأبو ماجد؟",
+  "answer": "أبو فارس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2226",
+  "code": "q_2226"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أدّى دور الإدعشري؟",
+  "answer": "بسام كوسا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2227",
+  "code": "q_2227"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 2,
+  "question_text": "من أدّى دور سعاد (أم عصام)؟",
+  "answer": "صباح الجزائري",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2228",
+  "code": "q_2228"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "ما الشخصيتان الأخوان اللتان أدّاهما مصطفى الخاني؟",
+  "answer": "النمس وأخوه الواوي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2229",
+  "code": "q_2229"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "أين صُوّرت الأجزاء الخمسة الأولى من «باب الحارة»؟",
+  "answer": "القرية الشامية في ريف دمشق",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2230",
+  "code": "q_2230"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 3,
+  "question_text": "في أي عقد تبدأ أحداث «باب الحارة»؟",
+  "answer": "عشرينيات القرن العشرين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2231",
+  "code": "q_2231"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 6,
+  "question_text": "ما اسما الثائرين الفلسطينيين اللذين جاءا إلى الشام لجلب السلاح لفلسطين في الجزء الرابع؟",
+  "answer": "أبو يوسف (إلياس) وأبو أحمد (ياسر)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2232",
+  "code": "q_2232"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "ما اسم الشيخ الضرير الذي كان يعلّم أطفال الحارة في الجزء السادس وقتله الواوي؟",
+  "answer": "الشيخ فهمي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2233",
+  "code": "q_2233"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "من اتُّهم بقتل ظافر وحُكم عليه بالإعدام في الجزء التاسع؟",
+  "answer": "معتز",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2234",
+  "code": "q_2234"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "ما اسم المحامية التي أدّت دورها سلاف فواخرجي في الجزء الثامن؟",
+  "answer": "المحامية جولي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2235",
+  "code": "q_2235"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 5,
+  "question_text": "ماذا قدّم الزعيم أبو صالح لأبي أحمد الزبّال بعد موت حماره؟",
+  "answer": "حمارًا جديدًا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2236",
+  "code": "q_2236"
+ },
+ {
+  "category": "drama",
+  "subcategory": "bab-al-hara",
+  "tags": [
+   "باب الحارة",
+   "دراما سورية"
+  ],
+  "source": "ويكيبيديا العربية — صفحات أجزاء باب الحارة وقائمة شخصياته",
+  "difficulty": 4,
+  "question_text": "كيف مات عصام في الجزء العاشر؟",
+  "answer": "في القصف الفرنسي على دمشق",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2237",
+  "code": "q_2237"
+ }
+]
