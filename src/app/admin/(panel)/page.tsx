@@ -2,7 +2,7 @@ import Link from "next/link";
 import { getServerSupabase } from "@/lib/supabase/server";
 import type { Category } from "@/lib/db/types";
 import { FEEDBACK_LABELS, type FeedbackRating } from "@/lib/db/types";
-import { DIFFICULTY_LABELS, POINT_ROWS } from "@/lib/game/constants";
+import { TIERS } from "@/lib/game/constants";
 import { FeedbackActions } from "@/components/admin/FeedbackActions";
 import { cn } from "@/lib/utils";
 
@@ -34,7 +34,11 @@ export default async function AdminDashboard() {
 
   const categories = (cats.data ?? []) as Category[];
   const cov = (coverage.data ?? []) as CoverageRow[];
-  const cell = (catId: string, d: number) => cov.find((r) => r.category_id === catId && Number(r.difficulty) === d);
+  // مجموع درجتي الصعوبة في كل مستوى (سهل/متوسط/صعب)
+  const cell = (catId: string, diffs: readonly number[]) => {
+    const rows = cov.filter((r) => r.category_id === catId && diffs.includes(Number(r.difficulty)));
+    return { active: rows.reduce((s, r) => s + Number(r.active), 0), inactive: rows.reduce((s, r) => s + Number(r.inactive), 0) };
+  };
 
   const stats = [
     { label: "كل الأسئلة", value: total.count ?? 0, href: "/admin/questions" },
@@ -64,13 +68,13 @@ export default async function AdminDashboard() {
         <h2 className="font-display text-xl font-bold">تغطية البنك (أسئلة مفعّلة لكل مستوى)</h2>
         <p className="text-sm text-white/50">كل لعبة تحتاج سؤالًا واحدًا على الأقل لكل خانة. الأحمر = لا يوجد، البرتقالي = أقل من 5. الرقم الصغير = غير المفعّل.</p>
         <div className="overflow-x-auto">
-          <table className="w-full min-w-[640px] text-center text-sm">
+          <table className="w-full min-w-[480px] text-center text-sm">
             <thead>
               <tr className="text-white/50">
                 <th className="p-2 text-right">الفئة</th>
-                {POINT_ROWS.map((p, i) => (
-                  <th key={p} className="p-2" title={DIFFICULTY_LABELS[i + 1]}>
-                    {p}
+                {TIERS.map((t) => (
+                  <th key={t.id} className="p-2">
+                    {t.points} — {t.name}
                   </th>
                 ))}
               </tr>
@@ -81,20 +85,20 @@ export default async function AdminDashboard() {
                   <td className="p-2 text-right font-semibold">
                     {c.icon} {c.name}
                   </td>
-                  {POINT_ROWS.map((_, i) => {
-                    const r = cell(c.id, i + 1);
-                    const n = Number(r?.active ?? 0);
+                  {TIERS.map((t) => {
+                    const r = cell(c.id, t.difficulties);
+                    const n = r.active;
                     return (
-                      <td key={i} className="p-1">
+                      <td key={t.id} className="p-1">
                         <Link
-                          href={`/admin/questions?category=${c.id}&difficulty=${i + 1}`}
+                          href={`/admin/questions?category=${c.id}&tier=${t.id}`}
                           className={cn(
                             "block rounded-lg py-1.5 font-bold",
                             n === 0 ? "bg-wine-500/30 text-wine-400" : n < 5 ? "bg-ember-500/20 text-ember-400" : "bg-leaf-500/15 text-leaf-400",
                           )}
                         >
                           {n}
-                          {Number(r?.inactive ?? 0) > 0 && <sub className="ms-1 text-white/40">{r!.inactive}</sub>}
+                          {r.inactive > 0 && <sub className="ms-1 text-white/40">{r.inactive}</sub>}
                         </Link>
                       </td>
                     );

@@ -6,13 +6,13 @@ import { Ban, CheckCircle2, ChevronLeft, ChevronRight, Plus, Power, PowerOff, Se
 import { getBrowserSupabase } from "@/lib/supabase/browser";
 import { useTaxonomy } from "@/lib/client/admin-data";
 import type { QuestionRow } from "@/lib/db/types";
-import { DIFFICULTY_LABELS, QUESTION_TYPES, QUESTION_TYPE_IDS } from "@/lib/game/constants";
+import { QUESTION_TYPES, QUESTION_TYPE_IDS, TIERS, tierPoints } from "@/lib/game/constants";
 import { Badge, Button, Spinner, Toast } from "@/components/ui";
 import { cn } from "@/lib/utils";
 
 const PAGE = 50;
-type Filters = Record<"q" | "category" | "subcategory" | "difficulty" | "type" | "verified" | "active" | "blacklisted" | "family" | "batch" | "tag", string>;
-const KEYS: (keyof Filters)[] = ["q", "category", "subcategory", "difficulty", "type", "verified", "active", "blacklisted", "family", "batch", "tag"];
+type Filters = Record<"q" | "category" | "subcategory" | "tier" | "type" | "verified" | "active" | "blacklisted" | "family" | "batch" | "tag", string>;
+const KEYS: (keyof Filters)[] = ["q", "category", "subcategory", "tier", "type", "verified", "active", "blacklisted", "family", "batch", "tag"];
 
 export function QuestionList() {
   const router = useRouter();
@@ -24,6 +24,9 @@ export function QuestionList() {
   const [count, setCount] = useState(0);
   const [loading, setLoading] = useState(true);
   const [selected, setSelected] = useState<Set<string>>(new Set());
+  // تحديد كل الأسئلة المطابقة للفلاتر (كل الصفحات) لا الصفحة الحالية فقط
+  const [allMatching, setAllMatching] = useState(false);
+  const [busy, setBusy] = useState(false);
   const [search, setSearch] = useState(filters.q);
   const [msg, setMsg] = useState<string | null>(null);
 
@@ -34,48 +37,76 @@ export function QuestionList() {
     router.replace(`/admin/questions?${sp}`);
   };
 
+  const query = useCallback(
+    (columns: string) => {
+      let q = getBrowserSupabase().from("questions").select(columns, { count: "exact" });
+      if (filters.q) q = q.or(`question_text.ilike.%${filters.q.replace(/[%,()]/g, " ")}%,answer.ilike.%${filters.q.replace(/[%,()]/g, " ")}%`);
+      if (filters.category) q = q.eq("category_id", filters.category);
+      if (filters.subcategory) q = q.eq("subcategory_id", filters.subcategory);
+      const tier = TIERS.find((t) => String(t.id) === filters.tier);
+      if (tier) q = q.in("difficulty", [...tier.difficulties]);
+      if (filters.type) q = q.eq("type", filters.type);
+      if (filters.verified) q = q.eq("verified", filters.verified === "true");
+      if (filters.active) q = q.eq("is_active", filters.active === "true");
+      if (filters.blacklisted) q = q.eq("is_blacklisted", filters.blacklisted === "true");
+      if (filters.family) q = q.eq("family_safe", filters.family === "true");
+      if (filters.batch) q = q.eq("import_batch", filters.batch);
+      if (filters.tag) q = q.contains("tags", [filters.tag]);
+      return q;
+    },
+    [filters],
+  );
+
   const load = useCallback(async () => {
     setLoading(true);
-    let q = getBrowserSupabase()
-      .from("questions")
-      .select("*", { count: "exact" })
+    const { data, count: c, error } = await query("*")
       .order("updated_at", { ascending: false })
       .range(page * PAGE, page * PAGE + PAGE - 1);
-    if (filters.q) q = q.or(`question_text.ilike.%${filters.q.replace(/[%,()]/g, " ")}%,answer.ilike.%${filters.q.replace(/[%,()]/g, " ")}%`);
-    if (filters.category) q = q.eq("category_id", filters.category);
-    if (filters.subcategory) q = q.eq("subcategory_id", filters.subcategory);
-    if (filters.difficulty) q = q.eq("difficulty", Number(filters.difficulty));
-    if (filters.type) q = q.eq("type", filters.type);
-    if (filters.verified) q = q.eq("verified", filters.verified === "true");
-    if (filters.active) q = q.eq("is_active", filters.active === "true");
-    if (filters.blacklisted) q = q.eq("is_blacklisted", filters.blacklisted === "true");
-    if (filters.family) q = q.eq("family_safe", filters.family === "true");
-    if (filters.batch) q = q.eq("import_batch", filters.batch);
-    if (filters.tag) q = q.contains("tags", [filters.tag]);
-    const { data, count: c, error } = await q;
     if (error) setMsg(error.message);
-    setRows((data ?? []) as QuestionRow[]);
+    setRows((data ?? []) as unknown as QuestionRow[]);
     setCount(c ?? 0);
     setSelected(new Set());
+    setAllMatching(false);
     setLoading(false);
-  }, [filters, page]);
+  }, [query, page]);
+
+  // معرّفات كل الأسئلة المطابقة للفلاتر، على دفعات (حد PostgREST ألف صف للطلب)
+  const matchingIds = async () => {
+    const ids: string[] = [];
+    for (let from = 0; ; from += 1000) {
+      const { data, error } = await query("id").order("id").range(from, from + 999);
+      if (error) throw error;
+      const chunk = (data ?? []) as unknown as { id: string }[];
+      ids.push(...chunk.map((r) => r.id));
+      if (chunk.length < 1000) return ids;
+    }
+  };
 
   useEffect(() => {
     void load();
   }, [load]);
 
   const bulk = async (patch: Partial<QuestionRow> | "delete") => {
-    const ids = [...selected];
-    if (!ids.length) return;
-    const sb = getBrowserSupabase();
-    if (patch === "delete") {
-      if (!confirm(`حذف ${ids.length} سؤال نهائيًا؟`)) return;
-      const { error } = await sb.from("questions").delete().in("id", ids);
-      setMsg(error ? error.message : `تم حذف ${ids.length}`);
-    } else {
-      const { error } = await sb.from("questions").update(patch).in("id", ids);
-      setMsg(error ? error.message : `تم تحديث ${ids.length}`);
+    const n = allMatching ? count : selected.size;
+    if (!n) return;
+    if (patch === "delete" && !confirm(`حذف ${n} سؤال نهائيًا؟`)) return;
+    if (patch !== "delete" && allMatching && !confirm(`تطبيق الإجراء على كل الأسئلة المطابقة (${n})؟`)) return;
+    setBusy(true);
+    try {
+      const ids = allMatching ? await matchingIds() : [...selected];
+      const sb = getBrowserSupabase();
+      // دفعات صغيرة حتى لا يتجاوز رابط الطلب الحد المسموح
+      for (let i = 0; i < ids.length; i += 200) {
+        const part = ids.slice(i, i + 200);
+        const { error } =
+          patch === "delete" ? await sb.from("questions").delete().in("id", part) : await sb.from("questions").update(patch).in("id", part);
+        if (error) throw error;
+      }
+      setMsg(patch === "delete" ? `تم حذف ${ids.length}` : `تم تحديث ${ids.length}`);
+    } catch (err) {
+      setMsg((err as Error).message);
     }
+    setBusy(false);
     await load();
   };
 
@@ -122,11 +153,11 @@ export function QuestionList() {
               </option>
             ))}
         </select>
-        <select value={filters.difficulty} onChange={(e) => setFilter({ difficulty: e.target.value })}>
+        <select value={filters.tier} onChange={(e) => setFilter({ tier: e.target.value })}>
           <option value="">كل المستويات</option>
-          {[1, 2, 3, 4, 5, 6].map((d) => (
-            <option key={d} value={d}>
-              {d * 100} — {DIFFICULTY_LABELS[d]}
+          {TIERS.map((t) => (
+            <option key={t.id} value={t.id}>
+              {t.points} — {t.name}
             </option>
           ))}
         </select>
@@ -149,9 +180,27 @@ export function QuestionList() {
       {/* إجراءات جماعية */}
       <div className="flex flex-wrap items-center gap-2 text-sm">
         <span className="text-white/60">
-          {count} سؤال {selected.size > 0 && `— محدد ${selected.size}`}
+          {count} سؤال {(allMatching || selected.size > 0) && `— محدد ${allMatching ? count : selected.size}`}
         </span>
-        {selected.size > 0 && (
+        {!allMatching && rows.length > 0 && selected.size === rows.length && count > rows.length && (
+          <button type="button" className="font-semibold text-gold-300 hover:underline" onClick={() => setAllMatching(true)}>
+            تحديد كل الـ{count} المطابقة
+          </button>
+        )}
+        {allMatching && (
+          <button
+            type="button"
+            className="font-semibold text-white/60 hover:underline"
+            onClick={() => {
+              setAllMatching(false);
+              setSelected(new Set());
+            }}
+          >
+            إلغاء التحديد
+          </button>
+        )}
+        {busy && <Spinner />}
+        {(allMatching || selected.size > 0) && !busy && (
           <>
             <Button size="sm" variant="success" icon={<CheckCircle2 className="h-4 w-4" />} onClick={() => bulk({ verified: true })}>
               توثيق
@@ -189,7 +238,10 @@ export function QuestionList() {
                   <input
                     type="checkbox"
                     checked={rows.length > 0 && selected.size === rows.length}
-                    onChange={(e) => setSelected(e.target.checked ? new Set(rows.map((r) => r.id)) : new Set())}
+                    onChange={(e) => {
+                      setSelected(e.target.checked ? new Set(rows.map((r) => r.id)) : new Set());
+                      setAllMatching(false);
+                    }}
                   />
                 </th>
                 <th className="p-3 text-right">السؤال</th>
@@ -212,6 +264,7 @@ export function QuestionList() {
                           const n = new Set(selected);
                           e.target.checked ? n.add(r.id) : n.delete(r.id);
                           setSelected(n);
+                          setAllMatching(false);
                         }}
                       />
                     </td>
@@ -230,7 +283,7 @@ export function QuestionList() {
                       {c?.icon} {c?.name}
                       {r.subcategory_id && <div className="text-white/45">{subName(r.subcategory_id)}</div>}
                     </td>
-                    <td className="p-3 text-center font-bold text-gold-300">{r.points}</td>
+                    <td className="p-3 text-center font-bold text-gold-300">{tierPoints(r.difficulty)}</td>
                     <td className="p-3 text-center text-xs">
                       <div className="flex flex-wrap justify-center gap-1">
                         {r.verified ? <Badge className="bg-leaf-500/20">موثّق</Badge> : <Badge className="bg-ember-500/20">غير موثّق</Badge>}

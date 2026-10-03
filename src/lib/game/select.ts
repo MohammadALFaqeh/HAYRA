@@ -1,7 +1,7 @@
 import "server-only";
 import type { SupabaseClient } from "@supabase/supabase-js";
 import type { Category, Subcategory } from "@/lib/db/types";
-import { BOARD_POINTS, LEVELS, QUESTION_TYPE_IDS, RECENT_QUESTIONS_HOURS, isQrType } from "./constants";
+import { BOARD_POINTS, LEVELS, QUESTION_TYPE_IDS, RECENT_QUESTIONS_HOURS, isQrType, tierOf } from "./constants";
 import type {
   BoardCell,
   BoardColumn,
@@ -83,7 +83,7 @@ function freshnessPenalty(p: PoolRow, recent: Set<string>, now: number): number 
 
 function pickBest(
   pool: PoolRow[],
-  difficulty: number,
+  tier: number,
   used: Set<string>,
   recent: Set<string>,
   level: GameSettings["level"],
@@ -92,13 +92,13 @@ function pickBest(
 ): PoolRow | null {
   const candidates = pool.filter((p) => !used.has(p.id));
   if (!candidates.length) return null;
-  // الأفضلية: صعوبة مطابقة، ثم سؤال لم يظهر (أو ظهر من زمن بعيد)، ثم عمق مناسب للمستوى.
-  // سؤال جديد بفارق درجة واحدة (3) يتقدّم على سؤال مكرر اليوم بالصعوبة نفسها (5)،
-  // لكن لا نبتعد درجتين (6) إلا إذا لم يبقَ غير ذلك.
+  // الأفضلية: مستوى مطابق (سهل/متوسط/صعب — درجتا الصعوبة داخل المستوى متساويتان)،
+  // ثم سؤال لم يظهر (أو ظهر من زمن بعيد)، ثم عمق مناسب للمستوى.
+  // لا نأخذ من مستوى مجاور (6) إلا إذا لم يبقَ في المستوى نفسه إلا أسئلة مكررة اليوم (5).
   const scored = shuffle(candidates, random).map((p) => ({
     p,
     score:
-      Math.abs(p.difficulty - difficulty) * 3 +
+      Math.abs(tierOf(p.difficulty) - tier) * 6 +
       freshnessPenalty(p, recent, now) +
       depthRank(level, p.depth_level) * 2 +
       Math.min(p.times_used ?? 0, 10) * 0.05,
@@ -176,8 +176,7 @@ export async function buildBoard(
 
     let missing = 0;
     BOARD_POINTS.forEach((points, ri) => {
-      const difficulty = points / 100 + (BOARD_POINTS.indexOf(points) === ri ? 0 : 1);
-      const pick = pickBest(rows, difficulty, used, recent, settings.level, random, now);
+      const pick = pickBest(rows, tierOf(points / 100), used, recent, settings.level, random, now);
       if (pick) used.add(pick.id);
       else missing++;
       cells.push({

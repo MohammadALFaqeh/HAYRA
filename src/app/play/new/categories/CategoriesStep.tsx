@@ -7,6 +7,7 @@ import { WizardSteps } from "@/components/site/WizardSteps";
 import { createGame, loadDraft, saveDraft, type GameDraft } from "@/lib/client/draft";
 import { getBrowserSupabase } from "@/lib/supabase/browser";
 import type { AvailabilityRow, Category, Subcategory } from "@/lib/db/types";
+import { tierOf } from "@/lib/game/constants";
 import { cn, colorOf } from "@/lib/utils";
 
 type Pick = { categoryId: string; subcategoryId: string | null };
@@ -49,7 +50,7 @@ export function CategoriesStep() {
     return (p: Pick) => {
       const rows = avail.filter((r) => r.category_id === p.categoryId && (!p.subcategoryId || r.subcategory_id === p.subcategoryId));
       const n = (r: AvailabilityRow) => Number(ver && fam ? Math.min(r.verified, r.family_safe) : ver ? r.verified : fam ? r.family_safe : r.total);
-      const levels = new Set(rows.filter((r) => n(r) > 0).map((r) => r.difficulty)).size;
+      const levels = new Set(rows.filter((r) => n(r) > 0).map((r) => tierOf(r.difficulty))).size;
       return { total: rows.reduce((s, r) => s + n(r), 0), levels };
     };
   }, [avail, draft?.settings.familyMode, draft?.settings.verifiedOnly]);
@@ -82,7 +83,7 @@ export function CategoriesStep() {
     }
     const usedCats = new Set(picks.map((p) => p.categoryId));
     const good = options
-      .filter((o) => !selected.has(keyOf(o)) && countFor(o).levels >= 5 && !usedCats.has(o.categoryId))
+      .filter((o) => !selected.has(keyOf(o)) && countFor(o).levels >= 3 && !usedCats.has(o.categoryId))
       .sort(() => Math.random() - 0.5);
     const next = [...picks];
     for (const o of good) {
@@ -148,7 +149,7 @@ export function CategoriesStep() {
             {[{ categoryId: openCat, subcategoryId: null as string | null }, ...subs.filter((s) => s.category_id === openCat).map((s) => ({ categoryId: openCat, subcategoryId: s.id }))].map((p) => {
               const { total, levels } = countFor(p);
               const on = selected.has(keyOf(p));
-              const weak = levels < 6;
+              const weak = levels < 3;
               return (
                 <button
                   key={keyOf(p)}
@@ -158,7 +159,7 @@ export function CategoriesStep() {
                     "rounded-xl border px-3 py-2 text-sm disabled:opacity-30",
                     on ? "border-gold-400 bg-gold-400 font-bold text-night-950" : "border-white/10 bg-white/[0.05]",
                   )}
-                  title={weak ? `متوفر ${levels} من 6 مستويات — بعض الخانات قد تكون فارغة أو بصعوبة قريبة` : undefined}
+                  title={weak ? `متوفر ${levels} من 3 مستويات — بعض الخانات قد تكون فارغة أو بصعوبة قريبة` : undefined}
                 >
                   {p.subcategoryId ? `${nameOf(p).icon} ${nameOf(p).title}` : "✨ الفئة كاملة"}
                   <span className={cn("ms-1.5 text-xs", on ? "text-night-950/60" : weak ? "text-ember-400" : "text-white/40")}>{total}</span>

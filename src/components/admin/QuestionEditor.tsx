@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { ArrowRight, Copy, Plus, Save, Star, Trash2, Upload, X } from "lucide-react";
 import { getBrowserSupabase } from "@/lib/supabase/browser";
 import { uploadMedia, useTaxonomy } from "@/lib/client/admin-data";
-import { DEPTH_LABELS, DIFFICULTY_LABELS, QUESTION_TYPES, QUESTION_TYPE_IDS, isQrType } from "@/lib/game/constants";
+import { DEPTH_LABELS, QUESTION_TYPES, QUESTION_TYPE_IDS, TIERS, isQrType, tierOf } from "@/lib/game/constants";
 import type { QuestionType } from "@/lib/game/types";
 import { FEEDBACK_LABELS, type FeedbackRating, type QuestionRow } from "@/lib/db/types";
 import { Button, Field, Spinner, Toast, Toggle } from "@/components/ui";
@@ -282,16 +282,17 @@ export function QuestionEditor({ id }: { id: string | null }) {
         </Field>
         <div className="space-y-1.5 sm:col-span-2">
           <span className="text-sm font-semibold text-white/80">الصعوبة والنقاط</span>
-          <div className="grid grid-cols-6 gap-1.5">
-            {[1, 2, 3, 4, 5, 6].map((d) => (
+          <div className="grid grid-cols-3 gap-1.5">
+            {TIERS.map((t) => (
               <button
-                key={d}
+                key={t.id}
                 type="button"
-                onClick={() => set("difficulty", d)}
-                className={cn("rounded-xl py-2 text-center", form.difficulty === d ? "bg-gold-400 text-night-950" : "bg-white/[0.06]")}
+                // نُبقي الدرجة الحالية إن كانت ضمن المستوى نفسه
+                onClick={() => tierOf(form.difficulty) !== t.id && set("difficulty", t.difficulties[0])}
+                className={cn("rounded-xl py-2 text-center", tierOf(form.difficulty) === t.id ? "bg-gold-400 text-night-950" : "bg-white/[0.06]")}
               >
-                <div className="font-display text-lg font-extrabold">{d * 100}</div>
-                <div className="text-[10px] opacity-70">{DIFFICULTY_LABELS[d]}</div>
+                <div className="font-display text-lg font-extrabold">{t.points}</div>
+                <div className="text-[10px] opacity-70">{t.name}</div>
               </button>
             ))}
           </div>

@@ -5,7 +5,7 @@ import { OPENTDB_CATEGORIES } from "@/lib/importers/opentdb";
 import { QURAN_KINDS, type QuranKind } from "@/lib/importers/quran";
 import { WIKIDATA_TEMPLATES, type WikidataTemplate } from "@/lib/importers/wikidata";
 import type { ImportSource, QuestionDraft } from "@/lib/importers/types";
-import { QUESTION_TYPES } from "@/lib/game/constants";
+import { QUESTION_TYPES, TIERS, tierOf } from "@/lib/game/constants";
 import { Badge, Button, Field, Toggle } from "@/components/ui";
 import { cn } from "@/lib/utils";
 
@@ -323,13 +323,13 @@ export default function ImportCenter() {
                     </td>
                     <td className="p-2">
                       <select
-                        value={d.difficulty}
-                        onChange={(e) => setDrafts(drafts.map((x, j) => (j === i ? { ...x, difficulty: Number(e.target.value) } : x)))}
+                        value={tierOf(d.difficulty)}
+                        onChange={(e) => setDrafts(drafts.map((x, j) => (j === i ? { ...x, difficulty: TIERS[Number(e.target.value) - 1].difficulties[0] } : x)))}
                         className="py-1"
                       >
-                        {[1, 2, 3, 4, 5, 6].map((n) => (
-                          <option key={n} value={n}>
-                            {n * 100}
+                        {TIERS.map((t) => (
+                          <option key={t.id} value={t.id}>
+                            {t.points} — {t.name}
                           </option>
                         ))}
                       </select>

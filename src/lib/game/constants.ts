@@ -1,8 +1,20 @@
 import type { GameSettings, Level, MysteryKind, PowerupId, QuestionType } from "./types";
 
 export const POINT_ROWS = [100, 200, 300, 400, 500, 600] as const;
-/** قيم خانات اللوحة — كل قيمة مرتين (سؤال لكل فريق): الأولى بصعوبة 1/3/5 والثانية 2/4/6 */
+/** قيم خانات اللوحة — كل قيمة مرتين (سؤال لكل فريق)، وكل قيمة تقابل مستوى من المستويات الثلاثة */
 export const BOARD_POINTS = [100, 100, 300, 300, 500, 500] as const;
+
+/**
+ * المستويات الثلاثة في اللعب والإدارة. الصعوبة المخزّنة تبقى 1..6 لكن كل درجتين مستوى واحد:
+ * 1-2 سهل (100)، 3-4 متوسط (300)، 5-6 صعب (500).
+ */
+export const TIERS = [
+  { id: 1, name: "سهل", points: 100, difficulties: [1, 2] },
+  { id: 2, name: "متوسط", points: 300, difficulties: [3, 4] },
+  { id: 3, name: "صعب", points: 500, difficulties: [5, 6] },
+] as const;
+export const tierOf = (difficulty: number) => Math.min(3, Math.max(1, Math.ceil(difficulty / 2)));
+export const tierPoints = (difficulty: number) => TIERS[tierOf(difficulty) - 1].points;
 
 export const DIFFICULTY_LABELS: Record<number, string> = {
   1: "سهل جدًا",
