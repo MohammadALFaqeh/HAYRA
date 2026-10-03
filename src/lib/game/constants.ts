@@ -16,6 +16,17 @@ export const TIERS = [
 export const tierOf = (difficulty: number) => Math.min(3, Math.max(1, Math.ceil(difficulty / 2)));
 export const tierPoints = (difficulty: number) => TIERS[tierOf(difficulty) - 1].points;
 
+/**
+ * فقرة «التلميحات»: سؤال «من أنا؟» بثلاثة تلميحات من الأصعب للأسهل،
+ * وقيمته تنزل مع كل تلميح جديد (التلميح الأول 500، الثاني 300، الثالث 150).
+ * يُعلَّم السؤال بـ extra.hint_round = true ولا يحتاج نوعًا جديدًا في قاعدة البيانات.
+ */
+export const HINT_POINTS = [500, 300, 150] as const;
+export const isHintRound = (q: { type: QuestionType; extra?: { hint_round?: boolean } | null; clues?: string[] | null } | null | undefined) =>
+  !!q && q.type === "who_am_i" && q.extra?.hint_round === true && (q.clues?.length ?? 0) >= HINT_POINTS.length;
+/** قيمة السؤال بعد ظهور عدد معيّن من التلميحات (1..3) */
+export const hintPointsAt = (shown: number) => HINT_POINTS[Math.min(HINT_POINTS.length, Math.max(1, shown)) - 1];
+
 export const DIFFICULTY_LABELS: Record<number, string> = {
   1: "سهل جدًا",
   2: "سهل",

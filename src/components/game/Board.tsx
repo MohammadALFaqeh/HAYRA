@@ -93,7 +93,7 @@ function Tile({
         cell.status === "empty" && "opacity-30",
         clickable && "cursor-pointer hover:-translate-y-1",
       )}
-      aria-label={`${cell.points} نقطة`}
+      aria-label={cell.hint ? `تلميحات: حتى ${cell.points} نقطة` : `${cell.points} نقطة`}
     >
       {cell.status === "empty" ? "—" : available ? <><span className="text-[0.42em] opacity-50">+</span>{cell.points}</> : won ? (
         <span className={cn("h-3 w-3 rounded-full", TEAM_COLORS[won].bg)} />
@@ -109,6 +109,11 @@ function Tile({
           title={hostKind ? MYSTERY[hostKind as keyof typeof MYSTERY]?.name : "خانة غامضة"}
         >
           {hostKind ? MYSTERY[hostKind as keyof typeof MYSTERY]?.icon : "؟"}
+        </span>
+      )}
+      {available && cell.hint && (
+        <span className={cn("absolute right-1.5 top-1 font-sans", compact ? "text-[10px]" : "text-sm")} title="فقرة التلميحات: 500 ← 300 ← 150">
+          💡
         </span>
       )}
       {!available && cell.mysteryKind && (

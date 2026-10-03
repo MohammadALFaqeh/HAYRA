@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { ArrowRight, Copy, Plus, Save, Star, Trash2, Upload, X } from "lucide-react";
 import { getBrowserSupabase } from "@/lib/supabase/browser";
 import { uploadMedia, useTaxonomy } from "@/lib/client/admin-data";
-import { DEPTH_LABELS, QUESTION_TYPES, QUESTION_TYPE_IDS, TIERS, isQrType, tierOf } from "@/lib/game/constants";
+import { DEPTH_LABELS, HINT_POINTS, QUESTION_TYPES, QUESTION_TYPE_IDS, TIERS, isQrType, tierOf } from "@/lib/game/constants";
 import type { QuestionType } from "@/lib/game/types";
 import { FEEDBACK_LABELS, type FeedbackRating, type QuestionRow } from "@/lib/db/types";
 import { Button, Field, Spinner, Toast, Toggle } from "@/components/ui";
@@ -39,6 +39,7 @@ interface Form {
   forbidden: string;
   hint: string;
   target: string;
+  hint_round: boolean;
 }
 
 const EMPTY: Form = {
@@ -69,6 +70,7 @@ const EMPTY: Form = {
   forbidden: "",
   hint: "",
   target: "",
+  hint_round: false,
 };
 
 const IMAGE_TYPES: QuestionType[] = ["image", "logo", "identify_image", "multiple_choice", "reverse_points", "individual", "text", "who_am_i", "qr_drawing", "qr_who_am_i"];
@@ -105,6 +107,7 @@ function fromRow(r: QuestionRow): Form {
     forbidden: Array.isArray(e.forbidden) ? (e.forbidden as string[]).join("، ") : "",
     hint: String(e.hint ?? ""),
     target: String(e.target ?? ""),
+    hint_round: e.hint_round === true,
   };
 }
 
@@ -122,6 +125,7 @@ function toPayload(f: Form) {
   if (splitList(f.forbidden).length) extra.forbidden = splitList(f.forbidden);
   if (f.hint.trim()) extra.hint = f.hint.trim();
   if (f.target.trim()) extra.target = f.target.trim();
+  if (f.type === "who_am_i" && f.hint_round) extra.hint_round = true;
   const choices = f.type === "multiple_choice" || f.type === "reverse_points" ? f.choices.map((c) => c.trim()).filter(Boolean) : null;
   const clues = CLUE_TYPES.includes(f.type) ? f.clues.map((c) => c.trim()).filter(Boolean) : null;
   return {
@@ -166,6 +170,8 @@ function validate(f: Form): string | null {
   if (f.type === "audio" && !f.audio_url.trim()) return "هذا النوع يحتاج ملف صوت";
   if (f.type === "video" && !f.video_url.trim()) return "هذا النوع يحتاج فيديو";
   if (CLUE_TYPES.includes(f.type) && f.type === "who_am_i" && f.clues.filter((c) => c.trim()).length < 2) return "أضف تلميحين على الأقل";
+  if (f.type === "who_am_i" && f.hint_round && f.clues.filter((c) => c.trim()).length !== HINT_POINTS.length)
+    return `سؤال فقرة التلميحات يحتاج ${HINT_POINTS.length} تلميحات بالضبط (من الأصعب للأسهل)`;
   return null;
 }
 
@@ -392,6 +398,17 @@ export function QuestionEditor({ id }: { id: string | null }) {
         {CLUE_TYPES.includes(t) && (
           <div className="space-y-2">
             <span className="text-sm font-semibold text-white/80">التلميحات (بالترتيب من الأصعب للأسهل)</span>
+            {t === "who_am_i" && (
+              <label className="flex items-start gap-2 rounded-xl bg-gold-400/[0.07] px-3 py-2 text-sm">
+                <input type="checkbox" checked={form.hint_round} onChange={(e) => set("hint_round", e.target.checked)} className="mt-1" />
+                <span>
+                  <b className="text-gold-200">سؤال من فقرة التلميحات 💡</b>
+                  <span className="block text-white/55">
+                    ثلاث تلميحات بالضبط، والقيمة تنزل مع كل تلميح: {HINT_POINTS.join(" ← ")} (بغض النظر عن صعوبة الخانة)
+                  </span>
+                </span>
+              </label>
+            )}
             {form.clues.map((c, i) => (
               <div key={i} className="flex gap-2">
                 <span className="grid w-8 place-items-center text-white/50">{i + 1}</span>

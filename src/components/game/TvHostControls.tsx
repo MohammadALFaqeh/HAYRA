@@ -33,6 +33,8 @@ export function TvHostControls({ host, state }: { host: Host; state: PublicState
   if (state.phase === "question" && a) {
     const other: TeamId = a.pickedBy === "A" ? "B" : "A";
     const ranking = a.question?.type === "reverse_points";
+    const hp = a.question?.hintPoints;
+    const hintsLeft = !!hp && (a.question?.clues.length ?? hp.length) < hp.length;
     const award = (
       <>
         <Btn tone="leaf" className="border-2 border-gold-400/70" onClick={() => act({ type: "MARK_CORRECT", team: "A" })}>
@@ -90,7 +92,12 @@ export function TvHostControls({ host, state }: { host: Host; state: PublicState
           {!ranking && award}
           {!ranking && (
             <Btn tone="wine" onClick={() => act({ type: "MARK_WRONG" })}>
-              <X className="h-5 w-5" /> خطأ
+              <X className="h-5 w-5" /> {hintsLeft && a.stage === "answering" ? "خطأ ← تلميح جديد" : "خطأ"}
+            </Btn>
+          )}
+          {hintsLeft && (
+            <Btn onClick={() => act({ type: "NEXT_CLUE" })} label="يكشف التلميح التالي وتنزل قيمة السؤال">
+              💡 التلميح التالي
             </Btn>
           )}
           {!ranking && a.stage === "answering" && !a.noSteal && (

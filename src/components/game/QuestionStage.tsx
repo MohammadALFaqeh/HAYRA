@@ -128,7 +128,9 @@ export function QuestionStage({
             <video ref={videoRef} src={q.videoUrl} controls className="max-h-[45vh] w-full rounded-3xl" preload="auto" />
           )}
 
-          {q.clues.length > 0 && (
+          {q.hintPoints ? (
+            <HintLadder clues={q.clues} points={q.hintPoints} settled={showAnswer || active.stage === "resolved"} />
+          ) : q.clues.length > 0 && (
             <ol className="space-y-2">
               {q.clues.map((c, i) => (
                 <motion.li
@@ -215,5 +217,62 @@ export function QuestionStage({
         )}
       </AnimatePresence>
     </motion.div>
+  );
+}
+
+const HINT_ORDINALS = ["التلميح الأول", "التلميح الثاني", "التلميح الثالث"];
+
+/** فقرة التلميحات: ثلاث درجات، كل تلميح جديد يُنزل قيمة السؤال */
+function HintLadder({ clues, points, settled }: { clues: string[]; points: number[]; settled: boolean }) {
+  const current = clues.length - 1;
+  return (
+    <ol className="space-y-2.5">
+      {points.map((p, i) => {
+        const shown = i < clues.length;
+        const live = i === current && !settled;
+        return (
+          <motion.li
+            key={i}
+            layout
+            initial={false}
+            animate={{ opacity: shown ? 1 : 0.55, scale: live ? 1 : 0.985 }}
+            className={cn(
+              "flex items-center gap-3 rounded-2xl border px-3 py-3 lg:gap-4 lg:px-4",
+              live
+                ? "border-gold-400/70 bg-gold-400/[0.12] shadow-[0_0_40px_-16px_rgba(255,203,61,.9)]"
+                : shown
+                  ? "border-white/10 bg-white/[0.06]"
+                  : "border-dashed border-white/10 bg-white/[0.02]",
+            )}
+          >
+            <span
+              className={cn(
+                "grid h-12 w-16 shrink-0 place-items-center rounded-xl font-display text-xl font-extrabold lg:h-14 lg:w-20 lg:text-2xl",
+                live ? "bg-gold-400 text-night-950" : i < current ? "bg-white/10 text-white/50 line-through decoration-2" : shown ? "bg-gold-400/30 text-gold-200" : "bg-white/[0.05] text-white/40",
+              )}
+            >
+              {p}
+            </span>
+            <div className="min-w-0 flex-1">
+              <div className={cn("text-xs font-bold lg:text-sm", live ? "text-gold-300" : "text-white/45")}>
+                💡 {HINT_ORDINALS[i] ?? `التلميح ${i + 1}`}
+              </div>
+              {shown ? (
+                <motion.div
+                  key={clues[i]}
+                  initial={{ opacity: 0, x: -16 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  className="text-[clamp(1.05rem,2vw,1.8rem)] font-semibold leading-snug"
+                >
+                  {clues[i]}
+                </motion.div>
+              ) : (
+                <div className="text-[clamp(.95rem,1.6vw,1.3rem)] text-white/35">🔒 يُكشف إذا لم تعرفوا الإجابة</div>
+              )}
+            </div>
+          </motion.li>
+        );
+      })}
+    </ol>
   );
 }

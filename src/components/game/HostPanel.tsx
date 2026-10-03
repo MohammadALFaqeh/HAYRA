@@ -25,7 +25,7 @@ import { useHostSession } from "@/lib/client/use-host-session";
 import { usePublicSession } from "@/lib/client/use-public-session";
 import { play, unlockAudio } from "@/lib/client/sound";
 import { toPublicState } from "@/lib/game/public";
-import { MYSTERY, POWERUPS, QUESTION_TYPES, isQrType } from "@/lib/game/constants";
+import { HINT_POINTS, MYSTERY, POWERUPS, QUESTION_TYPES, hintPointsAt, isHintRound, isQrType } from "@/lib/game/constants";
 import type { GameState, PowerupId, TeamId } from "@/lib/game/types";
 import { FEEDBACK_LABELS, type FeedbackRating } from "@/lib/db/types";
 import { cn, formatPoints, seconds, TEAM_COLORS } from "@/lib/utils";
@@ -292,6 +292,9 @@ function QuestionControls({
   // الإجابة مخفية أثناء السؤال (لمشاركة الشاشة) حتى ينتهي الوقت أو يُحسم السؤال
   const answerVisible = settled || afterReveal || s.timer.expired;
   const points = a.basePoints * a.multiplier;
+  const hintRound = isHintRound(q);
+  const hintsLeft = hintRound && a.cluesShown < (q.clues?.length ?? 0);
+  const nextHintPoints = hintPointsAt(a.cluesShown + 1);
   const other: TeamId = a.pickedBy === "A" ? "B" : "A";
   const qr = isQrType(q.type);
   const stageLabel: Record<string, string> = {
@@ -347,6 +350,22 @@ function QuestionControls({
           <p className="text-sm text-wine-400">🚫 كلمات ممنوعة: {q.extra.forbidden.join("، ")}</p>
         ) : null}
         {q.extra?.instructions && <p className="text-sm text-white/60">📋 {q.extra.instructions}</p>}
+        {hintRound && q.clues && (
+          <ol className="space-y-1.5 text-sm">
+            {q.clues.map((c, i) => (
+              <li
+                key={i}
+                className={cn(
+                  "flex gap-2 rounded-xl px-3 py-2",
+                  i === a.cluesShown - 1 ? "bg-gold-400/15 text-gold-100" : i < a.cluesShown ? "bg-white/[0.05] text-white/60" : "bg-white/[0.02] text-white/35",
+                )}
+              >
+                <span className="shrink-0 font-display font-bold">{HINT_POINTS[i]}</span>
+                <span>{i < a.cluesShown ? "" : "🔒 "}{c}</span>
+              </li>
+            ))}
+          </ol>
+        )}
           </>
         )}
 
@@ -484,7 +503,7 @@ function QuestionControls({
           </Button>
           {(a.stage === "answering" || a.stage === "stealing") && (
             <Button size="lg" variant="danger" icon={<X className="h-5 w-5" />} onClick={() => act({ type: "MARK_WRONG" })}>
-              خطأ
+              {hintsLeft && a.stage === "answering" ? `خطأ ← تلميح جديد (${nextHintPoints})` : "خطأ"}
             </Button>
           )}
           {a.stage === "answering" && !a.noSteal && (
@@ -505,8 +524,10 @@ function QuestionControls({
       {!settled && !afterReveal && !prep && (
         <div className="flex flex-wrap gap-2">
           {q.clues && a.cluesShown < q.clues.length && (
-            <Button size="sm" variant="soft" onClick={() => act({ type: "NEXT_CLUE" })}>
-              💡 تلميح التالي ({a.cluesShown}/{q.clues.length})
+            <Button size="sm" variant={hintRound ? "gold" : "soft"} onClick={() => act({ type: "NEXT_CLUE" })}>
+              {hintRound
+                ? `💡 التلميح التالي — تنزل إلى ${nextHintPoints}`
+                : `💡 تلميح التالي (${a.cluesShown}/${q.clues.length})`}
             </Button>
           )}
           {(q.audioUrl || q.videoUrl) && (

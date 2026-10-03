@@ -3,7 +3,7 @@
 // يعمل على السيرفر كمرجع نهائي، وعلى جهاز المضيف للتحديث الفوري/أوفلاين
 // ============================================================
 import { commentFor } from "./comments";
-import { EXTRA_TIME_SECONDS, MYSTERY_BONUS_POINTS, isQrType } from "./constants";
+import { EXTRA_TIME_SECONDS, HINT_POINTS, MYSTERY_BONUS_POINTS, hintPointsAt, isHintRound, isQrType } from "./constants";
 import { SECONDS_LEAD_MS, SECONDS_LEVELS, SECONDS_MAX_MS, SECONDS_MIN_MS } from "./seconds";
 import {
   GameRuleError,
@@ -67,6 +67,16 @@ function requireStarted(a: ActiveQuestion) {
 /** هل لدى الفريق وسيلة مساعدة متاحة؟ (لتحديد مرحلة ما قبل السؤال) */
 function hasPowerups(s: GameState, team: TeamId) {
   return s.settings.powerupsEnabled && s.settings.enabledPowerups.some((p) => s.teams[team].powerups[p] === "available");
+}
+
+/** يكشف التلميح التالي في فقرة التلميحات: تنزل القيمة ويبدأ وقت الفريق من جديد */
+function revealNextHint(s: GameState, a: ActiveQuestion, ctx: EngineContext, afterWrong: boolean) {
+  a.cluesShown += 1;
+  a.basePoints = hintPointsAt(a.cluesShown);
+  a.stageStartedAt = ctx.now;
+  if (a.stage === "answering") startTimer(s, s.settings.questionSeconds, "answer", ctx.now);
+  else if (a.stage === "stealing") startTimer(s, s.settings.stealSeconds, "steal", ctx.now);
+  emit(s, ctx, "clue", a.answeringTeam, a.basePoints, null, { clue: a.cluesShown, afterWrong });
 }
 
 function columnTitleForCell(s: GameState, cellKey: string): string {
@@ -246,6 +256,7 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
       if (!q) fail("السؤال غير موجود");
 
       const team = s.turn;
+      const hintRound = isHintRound(q);
       let multiplier = 1;
       let noSteal = false;
       if (cell.mystery) {
@@ -267,7 +278,7 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
         pickedBy: team,
         answeringTeam: team,
         stage: hasPowerups(s, team) ? "prep" : "answering",
-        basePoints: cell.points,
+        basePoints: hintRound ? HINT_POINTS[0] : cell.points,
         multiplier,
         doubleFor: null,
         noSteal,
@@ -288,7 +299,7 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
       if (cell.mystery) {
         emit(s, ctx, "mystery", team, cell.mystery === "bonus" ? MYSTERY_BONUS_POINTS : 0, null, { mystery: cell.mystery });
       } else {
-        emit(s, ctx, "open", team, cell.points);
+        emit(s, ctx, "open", team, s.active.basePoints);
       }
       break;
     }
@@ -340,6 +351,12 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
     case "MARK_WRONG": {
       const a = requireActive(s);
       if (a.cellKey === "final") fail("استخدم تحكيم السؤال النهائي");
+      // فقرة التلميحات: الإجابة الخاطئة تكشف التلميح التالي لنفس الفريق (بقيمة أقل)
+      const hq = s.questions[a.questionId];
+      if (a.stage === "answering" && isHintRound(hq) && a.cluesShown < (hq?.clues?.length ?? 0)) {
+        revealNextHint(s, a, ctx, true);
+        break;
+      }
       if (a.stage === "answering") {
         const t = s.teams[a.answeringTeam];
         t.stats.wrong += 1;
@@ -416,6 +433,10 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
       a.stageStartedAt = now;
       a.openedAt = now;
       a.winner = null;
+      if (isHintRound(s.questions[a.questionId])) {
+        a.cluesShown = 1;
+        a.basePoints = HINT_POINTS[0];
+      }
       startTimer(s, a.cellKey === "final" ? s.settings.finalSeconds : s.settings.questionSeconds, a.cellKey === "final" ? "final" : "answer", now);
       emit(s, ctx, "open", a.pickedBy, a.basePoints, null, { restart: true });
       break;
@@ -543,7 +564,14 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
       const a = requireActive(s);
       const q = s.questions[a.questionId];
       const total = q?.clues?.length ?? 0;
-      if (a.cluesShown < total) a.cluesShown += 1;
+      if (a.cluesShown >= total) break;
+      if (isHintRound(q)) {
+        requireStarted(a);
+        if (a.stage !== "answering" && a.stage !== "stealing") fail("التلميحات متاحة أثناء الإجابة فقط");
+        revealNextHint(s, a, ctx, false);
+      } else {
+        a.cluesShown += 1;
+      }
       break;
     }
 
@@ -717,7 +745,8 @@ export function applyAction(prev: GameState, action: GameAction, ctx: EngineCont
 }
 
 /** الإجراءات التي لا تُسجل في سجل التراجع */
-export const NON_UNDOABLE: GameAction["type"][] = ["TIME_UP", "PLAY_MEDIA", "PAUSE", "RESUME", "NEXT_CLUE"];
+// NEXT_CLUE قابل للتراجع: في فقرة التلميحات يغيّر قيمة السؤال ويعيد المؤقت
+export const NON_UNDOABLE: GameAction["type"][] = ["TIME_UP", "PLAY_MEDIA", "PAUSE", "RESUME"];
 
 /**
  * عند التراجع نعيد الحالة السابقة، مع إزاحة المؤقت ليبقى الوقت المتبقي كما كان لحظة الإجراء.

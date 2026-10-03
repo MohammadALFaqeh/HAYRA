@@ -92,6 +92,8 @@ export interface BoardCell {
   mystery: MysteryKind | null; // سري — لا يُرسل للتلفزيون قبل الفتح
   mysteryRevealed: boolean;
   wonBy: TeamId | null;
+  /** خانة من فقرة التلميحات — قيمتها تنزل مع كل تلميح */
+  hint?: boolean;
 }
 
 export interface QuestionSnapshot {
@@ -109,6 +111,8 @@ export interface QuestionSnapshot {
     hint?: string;
     target?: string;
     rank_limit?: number;
+    /** سؤال من فقرة التلميحات (500 ← 300 ← 150) */
+    hint_round?: boolean;
   };
   imageUrl: string | null;
   audioUrl: string | null;
@@ -171,6 +175,7 @@ export type EventKind =
   | "reveal"
   | "timeup"
   | "powerup"
+  | "clue"
   | "streak"
   | "mystery"
   | "skip"

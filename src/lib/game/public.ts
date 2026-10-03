@@ -2,6 +2,7 @@
 // حيرة — النسخة العامة من الحالة (للتلفزيون والجمهور)
 // لا تحتوي الإجابة إلا بعد السماح بعرضها، ولا تكشف نوع الخانة الغامضة
 // ============================================================
+import { HINT_POINTS, isHintRound } from "./constants";
 import type {
   ActiveQuestion,
   BoardColumn,
@@ -26,6 +27,7 @@ export interface PublicCell {
   mystery: boolean;
   mysteryKind: MysteryKind | null;
   wonBy: TeamId | null;
+  hint: boolean;
 }
 
 export interface PublicQuestion {
@@ -37,6 +39,8 @@ export interface PublicQuestion {
   removedChoices: number[];
   clues: string[];
   cluesTotal: number;
+  /** فقرة التلميحات: قيمة السؤال عند كل تلميح (500، 300، 150) */
+  hintPoints: number[] | null;
   imageUrl: string | null;
   audioUrl: string | null;
   videoUrl: string | null;
@@ -139,6 +143,7 @@ export function toPublicState(s: GameState, serverTime = Date.now()): PublicStat
             removedChoices: a.removedChoices,
             clues: (q.clues ?? []).slice(0, a.cluesShown),
             cluesTotal: q.clues?.length ?? 0,
+            hintPoints: isHintRound(q) ? [...HINT_POINTS] : null,
             imageUrl: q.imageUrl,
             audioUrl: q.audioUrl,
             videoUrl: q.videoUrl,
@@ -211,6 +216,7 @@ export function toPublicState(s: GameState, serverTime = Date.now()): PublicStat
       mystery: !!c.mystery && c.mysteryRevealed,
       mysteryKind: c.mysteryRevealed ? c.mystery : null,
       wonBy: c.wonBy,
+      hint: !!c.hint,
     })),
     active,
     timer: s.timer,

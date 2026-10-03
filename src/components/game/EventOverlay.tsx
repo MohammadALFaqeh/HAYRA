@@ -75,6 +75,20 @@ export function EventOverlay({ event, teams, sound = true }: { event: LastEvent 
         s = { id: event.id, emoji: "❌", title: event.meta?.transfer ? "خطأ! السؤال يتحول 🔄" : "خطأ!", comment: event.comment, sub: secondsLine(event.meta), tone: "bad", team: event.team };
         snd("wrong");
         break;
+      case "clue": {
+        const n = Number(event.meta?.clue ?? 0);
+        const ordinal = ["", "الأول", "الثاني", "الثالث"][n] ?? String(n);
+        s = {
+          id: event.id,
+          emoji: event.meta?.afterWrong ? "❌" : "💡",
+          title: event.meta?.afterWrong ? "خطأ! تلميح جديد 💡" : `التلميح ${ordinal}`,
+          comment: `السؤال الآن بـ ${formatPoints(event.points)} نقطة`,
+          tone: event.meta?.afterWrong ? "bad" : "info",
+          team: event.team,
+        };
+        snd(event.meta?.afterWrong ? "wrong" : "reveal");
+        break;
+      }
       case "transfer":
         s = { id: event.id, emoji: "🔄", title: `فرصة سرقة لـ ${team?.name ?? ""}`, comment: null, tone: "info", team: event.team };
         snd("steal");

@@ -1,0 +1,4429 @@
+[
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة مصر؟",
+  "answer": "القاهرة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2972",
+  "code": "q_2972"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة العراق؟",
+  "answer": "بغداد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2973",
+  "code": "q_2973"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة الإمارات؟",
+  "answer": "أبوظبي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2974",
+  "code": "q_2974"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة الكويت؟",
+  "answer": "مدينة الكويت",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2975",
+  "code": "q_2975"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة اليمن؟",
+  "answer": "صنعاء",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2976",
+  "code": "q_2976"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة الجزائر؟",
+  "answer": "الجزائر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2977",
+  "code": "q_2977"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة تونس؟",
+  "answer": "تونس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2978",
+  "code": "q_2978"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة نيجيريا؟",
+  "answer": "أبوجا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2979",
+  "code": "q_2979"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة فرنسا؟",
+  "answer": "باريس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2980",
+  "code": "q_2980"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة ألمانيا؟",
+  "answer": "برلين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2981",
+  "code": "q_2981"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة إيطاليا؟",
+  "answer": "روما",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2982",
+  "code": "q_2982"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة إسبانيا؟",
+  "answer": "مدريد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2983",
+  "code": "q_2983"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة المملكة المتحدة؟",
+  "answer": "لندن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2984",
+  "code": "q_2984"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة اليونان؟",
+  "answer": "أثينا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2985",
+  "code": "q_2985"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة بلجيكا؟",
+  "answer": "بروكسل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2986",
+  "code": "q_2986"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة هولندا؟",
+  "answer": "أمستردام",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2987",
+  "code": "q_2987"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة النرويج؟",
+  "answer": "أوسلو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2988",
+  "code": "q_2988"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة السويد؟",
+  "answer": "ستوكهولم",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2989",
+  "code": "q_2989"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة فنلندا؟",
+  "answer": "هلسنكي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2990",
+  "code": "q_2990"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة الدنمارك؟",
+  "answer": "كوبنهاغن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2991",
+  "code": "q_2991"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة بولندا؟",
+  "answer": "وارسو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2992",
+  "code": "q_2992"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة روسيا؟",
+  "answer": "موسكو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2993",
+  "code": "q_2993"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة أوكرانيا؟",
+  "answer": "كييف",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2994",
+  "code": "q_2994"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة تركيا؟",
+  "answer": "أنقرة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2995",
+  "code": "q_2995"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة الصين؟",
+  "answer": "بكين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2996",
+  "code": "q_2996"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة اليابان؟",
+  "answer": "طوكيو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2997",
+  "code": "q_2997"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة كوريا الجنوبية؟",
+  "answer": "سيول",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2998",
+  "code": "q_2998"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة الهند؟",
+  "answer": "نيودلهي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2999",
+  "code": "q_2999"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة باكستان؟",
+  "answer": "إسلام آباد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3000",
+  "code": "q_3000"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة إيران؟",
+  "answer": "طهران",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3001",
+  "code": "q_3001"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة أفغانستان؟",
+  "answer": "كابول",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3002",
+  "code": "q_3002"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما عاصمة نيوزيلندا؟",
+  "answer": "ويلينغتون",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3003",
+  "code": "q_3003"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة الولايات المتحدة؟",
+  "answer": "واشنطن العاصمة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3004",
+  "code": "q_3004"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة المكسيك؟",
+  "answer": "مكسيكو سيتي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3005",
+  "code": "q_3005"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما عاصمة ألبانيا؟",
+  "answer": "تيرانا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3006",
+  "code": "q_3006"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما عاصمة أندورا؟",
+  "answer": "أندورا لا فيلا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3007",
+  "code": "q_3007"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما عاصمة أرمينيا؟",
+  "answer": "يريفان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3008",
+  "code": "q_3008"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما عاصمة أذربيجان؟",
+  "answer": "باكو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3009",
+  "code": "q_3009"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما عاصمة بيلاروسيا؟",
+  "answer": "مينسك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3010",
+  "code": "q_3010"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما عاصمة كرواتيا؟",
+  "answer": "زغرب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3011",
+  "code": "q_3011"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما عاصمة إستونيا؟",
+  "answer": "تالين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3012",
+  "code": "q_3012"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما عاصمة آيسلندا؟",
+  "answer": "ريكيافيك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3013",
+  "code": "q_3013"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما عاصمة ليتوانيا؟",
+  "answer": "فيلنيوس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3014",
+  "code": "q_3014"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما عاصمة لوكسمبورغ؟",
+  "answer": "لوكسمبورغ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3015",
+  "code": "q_3015"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما عاصمة موناكو؟",
+  "answer": "موناكو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3016",
+  "code": "q_3016"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما عاصمة بنغلاديش؟",
+  "answer": "دكا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3017",
+  "code": "q_3017"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة تايلاند؟",
+  "answer": "بانكوك",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3018",
+  "code": "q_3018"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما عاصمة فيتنام؟",
+  "answer": "هانوي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3019",
+  "code": "q_3019"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما عاصمة سنغافورة؟",
+  "answer": "سنغافورة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3020",
+  "code": "q_3020"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما عاصمة سريلانكا (العاصمة الرسمية)؟",
+  "answer": "سري جاياواردنابورا كوتي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3021",
+  "code": "q_3021"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما عاصمة جيبوتي؟",
+  "answer": "جيبوتي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3022",
+  "code": "q_3022"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما عاصمة غينيا بيساو؟",
+  "answer": "بيساو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3023",
+  "code": "q_3023"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما عاصمة ساو تومي وبرينسيب؟",
+  "answer": "ساو تومي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3024",
+  "code": "q_3024"
+ },
+ {
+  "category": "geography",
+  "subcategory": "capitals",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما عاصمة إسواتيني (العاصمة الإدارية)؟",
+  "answer": "مبابان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3025",
+  "code": "q_3025"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أصغر محيطات العالم؟",
+  "answer": "المحيط المتجمد الشمالي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3026",
+  "code": "q_3026"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما أعلى جبل في العالم؟",
+  "answer": "جبل إيفرست",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3027",
+  "code": "q_3027"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي سلسلة جبلية يقع جبل إيفرست؟",
+  "answer": "جبال الهيمالايا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3028",
+  "code": "q_3028"
+ },
+ {
+  "category": "geography",
+  "subcategory": "deserts",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما أكبر صحراء حارة في العالم؟",
+  "answer": "الصحراء الكبرى",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3029",
+  "code": "q_3029"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أكبر مسطح مائي مغلق في العالم؟",
+  "answer": "بحر قزوين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3030",
+  "code": "q_3030"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما أطول نهر في إفريقيا؟",
+  "answer": "نهر النيل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3031",
+  "code": "q_3031"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي قارة يجري نهر الأمازون؟",
+  "answer": "أمريكا الجنوبية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3032",
+  "code": "q_3032"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما البحر الذي يفصل بين إفريقيا وأوروبا؟",
+  "answer": "البحر المتوسط",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3033",
+  "code": "q_3033"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما البحر الذي يفصل بين إفريقيا وشبه الجزيرة العربية؟",
+  "answer": "البحر الأحمر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3034",
+  "code": "q_3034"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما القناة التي تربط البحر الأحمر بالبحر المتوسط؟",
+  "answer": "قناة السويس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3035",
+  "code": "q_3035"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما القناة التي تربط المحيط الأطلسي بالمحيط الهادئ عبر أمريكا الوسطى؟",
+  "answer": "قناة بنما",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3036",
+  "code": "q_3036"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما المضيق الذي يفصل المغرب عن إسبانيا؟",
+  "answer": "مضيق جبل طارق",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3037",
+  "code": "q_3037"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الجبل البركاني الذي يُعد رمز اليابان؟",
+  "answer": "جبل فوجي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3038",
+  "code": "q_3038"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي دولة تقع مدينة البتراء الأثرية؟",
+  "answer": "الأردن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3039",
+  "code": "q_3039"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي دولة يقع تاج محل؟",
+  "answer": "الهند",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3040",
+  "code": "q_3040"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي دولة يقع سور الصين العظيم؟",
+  "answer": "الصين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3041",
+  "code": "q_3041"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي دولة يقع الكولوسيوم؟",
+  "answer": "إيطاليا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3042",
+  "code": "q_3042"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي دولة يقع برج إيفل؟",
+  "answer": "فرنسا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3043",
+  "code": "q_3043"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي دولة تقع مدينة ماتشو بيتشو الأثرية؟",
+  "answer": "بيرو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3044",
+  "code": "q_3044"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما خط العرض الذي يقسم الأرض إلى نصف شمالي ونصف جنوبي؟",
+  "answer": "خط الاستواء",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3045",
+  "code": "q_3045"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما خط الطول الرئيسي (صفر) الذي تُحسب منه خطوط الطول؟",
+  "answer": "خط غرينتش",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3046",
+  "code": "q_3046"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "كم عدد المحيطات الرئيسية في العالم؟",
+  "answer": "خمسة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3047",
+  "code": "q_3047"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المحيط الواقع شرق إفريقيا؟",
+  "answer": "المحيط الهندي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3048",
+  "code": "q_3048"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المحيط الواقع غرب أمريكا الجنوبية؟",
+  "answer": "المحيط الهادئ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3049",
+  "code": "q_3049"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما المحيط الذي يفصل أوروبا وإفريقيا عن الأمريكتين؟",
+  "answer": "المحيط الأطلسي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3050",
+  "code": "q_3050"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الدولة التي تشغل معظم مساحة شبه الجزيرة العربية؟",
+  "answer": "السعودية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3051",
+  "code": "q_3051"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما النهر الذي يمر بمدينة القاهرة؟",
+  "answer": "نهر النيل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3052",
+  "code": "q_3052"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما النهر الذي يمر بمدينة بغداد؟",
+  "answer": "نهر دجلة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3053",
+  "code": "q_3053"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما النهر الذي يمر بمدينة باريس؟",
+  "answer": "نهر السين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3054",
+  "code": "q_3054"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما النهر الذي يمر بمدينة لندن؟",
+  "answer": "نهر التايمز",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3055",
+  "code": "q_3055"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أكبر بحيرة في إفريقيا؟",
+  "answer": "بحيرة فيكتوريا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3056",
+  "code": "q_3056"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المضيق الذي يقسم مدينة إسطنبول بين أوروبا وآسيا؟",
+  "answer": "مضيق البوسفور",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3057",
+  "code": "q_3057"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي دولة يقع جبل كليمنجارو؟",
+  "answer": "تنزانيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3058",
+  "code": "q_3058"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما السلسلة الجبلية الممتدة على طول غرب أمريكا الجنوبية؟",
+  "answer": "جبال الأنديز",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3059",
+  "code": "q_3059"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أكبر جزيرة في البحر المتوسط؟",
+  "answer": "صقلية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3060",
+  "code": "q_3060"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما السلسلة الجبلية الشهيرة في شمال غرب إفريقيا (المغرب والجزائر وتونس)؟",
+  "answer": "جبال الأطلس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3061",
+  "code": "q_3061"
+ },
+ {
+  "category": "geography",
+  "subcategory": "deserts",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أكبر صحراء رملية متصلة في العالم؟",
+  "answer": "الربع الخالي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3062",
+  "code": "q_3062"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الدولة التي تُعد أكبر أرخبيل في العالم بآلاف الجزر؟",
+  "answer": "إندونيسيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3063",
+  "code": "q_3063"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الدولة التي تمر عبرها القناة التي تصل المحيطين الأطلسي والهادئ؟",
+  "answer": "بنما",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3064",
+  "code": "q_3064"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الدولة في أمريكا الجنوبية التي سُميت باسم خط الاستواء؟",
+  "answer": "الإكوادور",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3065",
+  "code": "q_3065"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أبرد وأجف قارات العالم؟",
+  "answer": "القارة القطبية الجنوبية (أنتاركتيكا)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3066",
+  "code": "q_3066"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما القارة الوحيدة التي لا توجد فيها دولة ذات سيادة؟",
+  "answer": "القارة القطبية الجنوبية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3067",
+  "code": "q_3067"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما القارة التي تضم أكبر عدد من الدول؟",
+  "answer": "إفريقيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3068",
+  "code": "q_3068"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أكبر دولة في إفريقيا مساحةً؟",
+  "answer": "الجزائر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3069",
+  "code": "q_3069"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أكبر دولة في أمريكا الجنوبية مساحةً؟",
+  "answer": "البرازيل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3070",
+  "code": "q_3070"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما أكبر دولة في أمريكا الشمالية مساحةً؟",
+  "answer": "كندا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3071",
+  "code": "q_3071"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المدينة الشهيرة التي تقع على قارتي أوروبا وآسيا معًا؟",
+  "answer": "إسطنبول",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3072",
+  "code": "q_3072"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الدولة العربية التي تطل على البحر المتوسط والمحيط الأطلسي معًا؟",
+  "answer": "المغرب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3073",
+  "code": "q_3073"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الدولة الطويلة الضيقة الممتدة على الساحل الغربي لأمريكا الجنوبية؟",
+  "answer": "تشيلي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3074",
+  "code": "q_3074"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الدولة الأوروبية التي تشبه خريطتها شكل الحذاء؟",
+  "answer": "إيطاليا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3075",
+  "code": "q_3075"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما أطول نهر في أمريكا الجنوبية؟",
+  "answer": "نهر الأمازون",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3076",
+  "code": "q_3076"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما النهران اللذان يلتقيان في مدينة الخرطوم؟",
+  "answer": "النيل الأبيض والنيل الأزرق",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3077",
+  "code": "q_3077"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما البحر الذي يقع شمال تركيا؟",
+  "answer": "البحر الأسود",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3078",
+  "code": "q_3078"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الغابة المطيرة الاستوائية الأكبر في العالم؟",
+  "answer": "غابات الأمازون",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3079",
+  "code": "q_3079"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي مدينة توجد دار الأوبرا الشهيرة بأشرعتها البيضاء؟",
+  "answer": "سيدني (أستراليا)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3080",
+  "code": "q_3080"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي مدينة يقع تمثال المسيح الفادي فوق جبل كوركوفادو؟",
+  "answer": "ريو دي جانيرو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3081",
+  "code": "q_3081"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي مدينة يقع تمثال الحرية؟",
+  "answer": "نيويورك",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3082",
+  "code": "q_3082"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما خط العرض الذي يمر بمنتصف المسافة بين القطبين؟",
+  "answer": "خط الاستواء (دائرة العرض صفر)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3083",
+  "code": "q_3083"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الخليج الذي يفصل شبه الجزيرة العربية عن إيران؟",
+  "answer": "الخليج العربي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3084",
+  "code": "q_3084"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المعبد الضخم في كمبوديا الذي يظهر على علمها؟",
+  "answer": "أنغكور وات",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3085",
+  "code": "q_3085"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما النهر الذي يمر بمدينة روما؟",
+  "answer": "نهر التيبر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3086",
+  "code": "q_3086"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما النهر الذي يمر بمدينة برلين؟",
+  "answer": "نهر شبريه",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3087",
+  "code": "q_3087"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما النهر الذي يمر بمدينتي فيينا وبودابست؟",
+  "answer": "نهر الدانوب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3088",
+  "code": "q_3088"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما أطول نهر في أوروبا؟",
+  "answer": "نهر الفولغا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3089",
+  "code": "q_3089"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "أين يصب نهر الفولغا؟",
+  "answer": "في بحر قزوين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3090",
+  "code": "q_3090"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما النهر الذي تتكوّن عليه شلالات فيكتوريا؟",
+  "answer": "نهر الزامبيزي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3091",
+  "code": "q_3091"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "بين أي دولتين تقع شلالات فيكتوريا؟",
+  "answer": "زامبيا وزيمبابوي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3092",
+  "code": "q_3092"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما النهر المقدس عند الهندوس الذي تقع عليه مدينة فاراناسي؟",
+  "answer": "نهر الغانج",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3093",
+  "code": "q_3093"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما أطول نهر في الصين وآسيا؟",
+  "answer": "نهر اليانغتسي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3094",
+  "code": "q_3094"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما النهر الأوروبي الذي يمر بأربع عواصم ويصب في البحر الأسود؟",
+  "answer": "نهر الدانوب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3095",
+  "code": "q_3095"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما النهر الذي يشكل جزءًا كبيرًا من الحدود بين الولايات المتحدة والمكسيك؟",
+  "answer": "نهر ريو غراندي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3096",
+  "code": "q_3096"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما أكبر البحيرات العظمى في أمريكا الشمالية؟",
+  "answer": "بحيرة سوبيريور",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3097",
+  "code": "q_3097"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما البحيرة الواقعة على الحدود بين بيرو وبوليفيا والتي تُعد أعلى بحيرة صالحة للملاحة؟",
+  "answer": "بحيرة تيتيكاكا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3098",
+  "code": "q_3098"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المضيق الذي يفصل آسيا عن أمريكا الشمالية؟",
+  "answer": "مضيق بيرينغ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3099",
+  "code": "q_3099"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المضيق الذي يصل بحر مرمرة ببحر إيجه؟",
+  "answer": "مضيق الدردنيل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3100",
+  "code": "q_3100"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المضيق المزدحم بالسفن الواقع بين سومطرة وشبه جزيرة الملايو؟",
+  "answer": "مضيق ملقا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3101",
+  "code": "q_3101"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما البرزخ الذي حُفرت فيه قناة السويس؟",
+  "answer": "برزخ السويس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3102",
+  "code": "q_3102"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما أعلى قمة في أمريكا الشمالية؟",
+  "answer": "جبل دينالي (ماكينلي)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3103",
+  "code": "q_3103"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي ولاية أمريكية يقع جبل دينالي؟",
+  "answer": "ألاسكا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3104",
+  "code": "q_3104"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما أعلى قمة في أمريكا الجنوبية وفي العالم خارج آسيا؟",
+  "answer": "جبل أكونكاغوا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3105",
+  "code": "q_3105"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي دولة يقع جبل أكونكاغوا؟",
+  "answer": "الأرجنتين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3106",
+  "code": "q_3106"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما أعلى قمة في جبال الألب؟",
+  "answer": "مون بلان (الجبل الأبيض)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3107",
+  "code": "q_3107"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما السلسلة الجبلية التي تُعد حدًا تقليديًا بين أوروبا وآسيا؟",
+  "answer": "جبال الأورال",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3108",
+  "code": "q_3108"
+ },
+ {
+  "category": "geography",
+  "subcategory": "deserts",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي قارة تقع صحراء كالاهاري؟",
+  "answer": "إفريقيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3109",
+  "code": "q_3109"
+ },
+ {
+  "category": "geography",
+  "subcategory": "deserts",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي دولتين تقع صحراء غوبي؟",
+  "answer": "منغوليا والصين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3110",
+  "code": "q_3110"
+ },
+ {
+  "category": "geography",
+  "subcategory": "deserts",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما أجف صحراء حارة في العالم وتقع في تشيلي؟",
+  "answer": "صحراء أتاكاما",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3111",
+  "code": "q_3111"
+ },
+ {
+  "category": "geography",
+  "subcategory": "deserts",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الصحراء الساحلية الواقعة على المحيط الأطلسي في ناميبيا؟",
+  "answer": "صحراء ناميب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3112",
+  "code": "q_3112"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما أكبر جزر اليابان؟",
+  "answer": "هونشو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3113",
+  "code": "q_3113"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الجزيرة الإندونيسية التي تقع عليها مدينة جاكرتا؟",
+  "answer": "جاوة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3114",
+  "code": "q_3114"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما النهر الكبير الذي يشكل دلتا واسعة جنوب فيتنام؟",
+  "answer": "نهر الميكونغ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3115",
+  "code": "q_3115"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما النهر الذي يمر بمدينة موسكو؟",
+  "answer": "نهر موسكفا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3116",
+  "code": "q_3116"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم المجرى الذي يتكوّن من التقاء دجلة والفرات جنوب العراق؟",
+  "answer": "شط العرب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3117",
+  "code": "q_3117"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما البحيرة الإفريقية التي تتشاركها كينيا وأوغندا وتنزانيا؟",
+  "answer": "بحيرة فيكتوريا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3118",
+  "code": "q_3118"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما البحيرة في آسيا الوسطى التي جفّ معظمها بسبب تحويل مياه الأنهار للزراعة؟",
+  "answer": "بحر آرال",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3119",
+  "code": "q_3119"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "بين أي دولتين تقع بحيرة جنيف (ليمان)؟",
+  "answer": "سويسرا وفرنسا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3120",
+  "code": "q_3120"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي محيط يقع خندق ماريانا؟",
+  "answer": "المحيط الهادئ (غربه)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3121",
+  "code": "q_3121"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أعمق محيطات العالم؟",
+  "answer": "المحيط الهادئ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3122",
+  "code": "q_3122"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المحيط الذي يحيط بالقارة القطبية الجنوبية؟",
+  "answer": "المحيط الجنوبي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3123",
+  "code": "q_3123"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المحيط الواقع بين إفريقيا وأستراليا؟",
+  "answer": "المحيط الهندي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3124",
+  "code": "q_3124"
+ },
+ {
+  "category": "geography",
+  "subcategory": "deserts",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما أكبر صحراء في العالم إذا احتُسبت الصحاري الباردة؟",
+  "answer": "القارة القطبية الجنوبية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3125",
+  "code": "q_3125"
+ },
+ {
+  "category": "geography",
+  "subcategory": "deserts",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي منطقة من شبه الجزيرة العربية تقع صحراء الربع الخالي؟",
+  "answer": "جنوب شرق شبه الجزيرة العربية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3126",
+  "code": "q_3126"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما شبه الجزيرة التي تضم إسبانيا والبرتغال؟",
+  "answer": "شبه الجزيرة الإيبيرية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3127",
+  "code": "q_3127"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما شبه الجزيرة التي تضم النرويج والسويد؟",
+  "answer": "شبه الجزيرة الإسكندنافية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3128",
+  "code": "q_3128"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما شبه الجزيرة الأوروبية التي تضم اليونان وبلغاريا وصربيا؟",
+  "answer": "شبه جزيرة البلقان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3129",
+  "code": "q_3129"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الجزيرة الكبيرة التي تتقاسمها إندونيسيا وماليزيا وبروناي؟",
+  "answer": "بورنيو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3130",
+  "code": "q_3130"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما ثاني أكبر جزيرة في العالم؟",
+  "answer": "غينيا الجديدة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3131",
+  "code": "q_3131"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المسطح المائي الذي يفصل بريطانيا عن فرنسا؟",
+  "answer": "القنال الإنجليزي (بحر المانش)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3132",
+  "code": "q_3132"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم دائرة العرض 23.5° شمالًا؟",
+  "answer": "مدار السرطان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3133",
+  "code": "q_3133"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم دائرة العرض 23.5° جنوبًا؟",
+  "answer": "مدار الجدي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3134",
+  "code": "q_3134"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما اسم دائرة العرض 66.5° شمالًا تقريبًا؟",
+  "answer": "الدائرة القطبية الشمالية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3135",
+  "code": "q_3135"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما القارات الثلاث التي يمر بها خط الاستواء؟",
+  "answer": "إفريقيا وأمريكا الجنوبية وآسيا (عبر إندونيسيا)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3136",
+  "code": "q_3136"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الدولة الإفريقية الكبيرة في وسط القارة التي يمر بها خط الاستواء وتضم غابات الكونغو؟",
+  "answer": "جمهورية الكونغو الديمقراطية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3137",
+  "code": "q_3137"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "عند أي خط طول تقريبًا يقع خط التاريخ الدولي؟",
+  "answer": "خط الطول 180°",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3138",
+  "code": "q_3138"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما أصغر دولة في آسيا مساحةً؟",
+  "answer": "المالديف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3139",
+  "code": "q_3139"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الدولة التي تحيط بها جنوب إفريقيا من كل الجهات؟",
+  "answer": "ليسوتو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3140",
+  "code": "q_3140"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الدولتان المستقلتان اللتان تقعان داخل أراضي إيطاليا؟",
+  "answer": "الفاتيكان وسان مارينو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3141",
+  "code": "q_3141"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الدولة الإفريقية الصغيرة التي تحيط بها السنغال من كل الجهات تقريبًا عدا ساحلها؟",
+  "answer": "غامبيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3142",
+  "code": "q_3142"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الرأس الشهير في جنوب إفريقيا الذي أبحر حوله فاسكو دا غاما؟",
+  "answer": "رأس الرجاء الصالح",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3143",
+  "code": "q_3143"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما أقصى نقطة جنوبًا في قارة إفريقيا؟",
+  "answer": "رأس أغولهاس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3144",
+  "code": "q_3144"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما التيار البحري الدافئ الذي يُدفئ مناخ أوروبا الغربية؟",
+  "answer": "تيار الخليج (غولف ستريم)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3145",
+  "code": "q_3145"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المناخ الذي يتميز بصيف حار جاف وشتاء معتدل ممطر؟",
+  "answer": "مناخ البحر المتوسط",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3146",
+  "code": "q_3146"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الدولة التي تمتلك أطول خط ساحلي في العالم؟",
+  "answer": "كندا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3147",
+  "code": "q_3147"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الدولة التي تضم أكبر عدد من البحيرات في العالم؟",
+  "answer": "كندا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3148",
+  "code": "q_3148"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما النهر الأمريكي الكبير الذي تقع عليه مدينة نيو أورلينز؟",
+  "answer": "نهر المسيسيبي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3149",
+  "code": "q_3149"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من أي بحيرة ينبع النيل الأزرق؟",
+  "answer": "بحيرة تانا (إثيوبيا)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3150",
+  "code": "q_3150"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما النهر الذي تقع عليه مدينة نيويورك؟",
+  "answer": "نهر هدسون",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3151",
+  "code": "q_3151"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "على أي بحر تطل مدينة البندقية الإيطالية؟",
+  "answer": "البحر الأدرياتيكي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3152",
+  "code": "q_3152"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الخليج الواقع بين اليمن والصومال؟",
+  "answer": "خليج عدن",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3153",
+  "code": "q_3153"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الخليج الذي تطل عليه ولايات تكساس ولويزيانا وفلوريدا الأمريكية؟",
+  "answer": "خليج المكسيك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3154",
+  "code": "q_3154"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما السلسلة الجبلية الواقعة بين البحر الأسود وبحر قزوين؟",
+  "answer": "جبال القوقاز",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3155",
+  "code": "q_3155"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي جزيرة إيطالية يقع بركان إتنا النشط؟",
+  "answer": "صقلية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3156",
+  "code": "q_3156"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما البركان الإندونيسي الذي أحدث ثورانه عام 1883م أحد أعلى الأصوات في التاريخ؟",
+  "answer": "كراكاتوا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3157",
+  "code": "q_3157"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم الحزام الذي تكثر فيه البراكين والزلازل حول المحيط الهادئ؟",
+  "answer": "حلقة النار",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3158",
+  "code": "q_3158"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما أعلى شلال في العالم؟",
+  "answer": "شلال أنجل (فنزويلا)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3159",
+  "code": "q_3159"
+ },
+ {
+  "category": "geography",
+  "subcategory": "deserts",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المنطقة الصحراوية في كاليفورنيا التي سُجلت فيها من أعلى درجات الحرارة في العالم؟",
+  "answer": "وادي الموت",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3160",
+  "code": "q_3160"
+ },
+ {
+  "category": "geography",
+  "subcategory": "landmarks",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما ثاني أكبر غابة مطيرة استوائية في العالم؟",
+  "answer": "غابات حوض الكونغو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3161",
+  "code": "q_3161"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما أكبر دولة غير ساحلية في العالم؟",
+  "answer": "كازاخستان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3162",
+  "code": "q_3162"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما أكبر دولة غير ساحلية في إفريقيا مساحةً؟",
+  "answer": "تشاد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3163",
+  "code": "q_3163"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما أكبر دولة غير ساحلية في أمريكا الجنوبية؟",
+  "answer": "بوليفيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3164",
+  "code": "q_3164"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم عاصمة لجنوب إفريقيا؟",
+  "answer": "ثلاث: بريتوريا (إدارية) وكيب تاون (تشريعية) وبلومفونتين (قضائية)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3165",
+  "code": "q_3165"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما العاصمة الإدارية لجنوب إفريقيا؟",
+  "answer": "بريتوريا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3166",
+  "code": "q_3166"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما النهر الإفريقي الذي يعبر خط الاستواء مرتين؟",
+  "answer": "نهر الكونغو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3167",
+  "code": "q_3167"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما النهر الذي يمر بمدينة هانوي؟",
+  "answer": "النهر الأحمر",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3168",
+  "code": "q_3168"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما النهر الذي يصل البحيرات العظمى بالمحيط الأطلسي؟",
+  "answer": "نهر سانت لورنس",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3169",
+  "code": "q_3169"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما البحيرة الإفريقية التي تُعد ثاني أعمق وأطول بحيرة عذبة في العالم؟",
+  "answer": "بحيرة تنجانيقا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3170",
+  "code": "q_3170"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما أكبر بحيرة في أوروبا؟",
+  "answer": "بحيرة لادوغا (روسيا)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3171",
+  "code": "q_3171"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الاسم النيبالي لجبل إيفرست؟",
+  "answer": "ساغارماتا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3172",
+  "code": "q_3172"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما الاسم التبتي لجبل إيفرست؟",
+  "answer": "تشومولونغما",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3173",
+  "code": "q_3173"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما أعلى بركان في العالم ويقع على حدود تشيلي والأرجنتين؟",
+  "answer": "أوخوس ديل سالادو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3174",
+  "code": "q_3174"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما أعلى قمة في أوروبا إذا احتُسبت جبال القوقاز؟",
+  "answer": "جبل إلبروس (روسيا)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3175",
+  "code": "q_3175"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما أعلى قمة في جبال الروكي الأمريكية؟",
+  "answer": "جبل إلبرت (كولورادو)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3176",
+  "code": "q_3176"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما أعلى قمة في أوقيانوسيا وتقع في جزيرة غينيا الجديدة؟",
+  "answer": "بونتشاك جايا (إندونيسيا)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3177",
+  "code": "q_3177"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الاسم الإندونيسي لجزيرة بورنيو؟",
+  "answer": "كاليمانتان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3178",
+  "code": "q_3178"
+ },
+ {
+  "category": "geography",
+  "subcategory": "islands",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الجزيرة الكاريبية التي تتقاسمها هايتي وجمهورية الدومينيكان؟",
+  "answer": "هيسبانيولا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3179",
+  "code": "q_3179"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المضيق الذي يفصل جزيرة تسمانيا عن البر الأسترالي؟",
+  "answer": "مضيق باس",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3180",
+  "code": "q_3180"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما المضيق الذي يفصل جزيرة جاوة عن جزيرة سومطرة؟",
+  "answer": "مضيق سوندا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3181",
+  "code": "q_3181"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الممر البحري العاصف بين أمريكا الجنوبية والقارة القطبية الجنوبية؟",
+  "answer": "ممر دريك",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3182",
+  "code": "q_3182"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "لماذا لا يكون خط التاريخ الدولي مستقيمًا تمامًا؟",
+  "answer": "لأنه ينحرف حتى لا يقسم الدول والجزر إلى يومين مختلفين",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3183",
+  "code": "q_3183"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما القارة الأقل ارتفاعًا في متوسط ارتفاعها عن سطح البحر؟",
+  "answer": "أستراليا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3184",
+  "code": "q_3184"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما القارة الأعلى في متوسط ارتفاعها عن سطح البحر؟",
+  "answer": "القارة القطبية الجنوبية",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3185",
+  "code": "q_3185"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما أصغر دولة في أمريكا الجنوبية مساحةً؟",
+  "answer": "سورينام",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3186",
+  "code": "q_3186"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما التيار البحري البارد الذي يمر بساحل ناميبيا؟",
+  "answer": "تيار بنغيلا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3187",
+  "code": "q_3187"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما التيار البحري البارد الذي يمر بساحل بيرو وتشيلي ويساعد على جفاف أتاكاما؟",
+  "answer": "تيار همبولت",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3188",
+  "code": "q_3188"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما البحيرة الوحيدة من البحيرات العظمى التي تقع كلها داخل الولايات المتحدة؟",
+  "answer": "بحيرة ميشيغان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3189",
+  "code": "q_3189"
+ },
+ {
+  "category": "geography",
+  "subcategory": "lakes",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما أصغر البحيرات العظمى مساحةً؟",
+  "answer": "بحيرة أونتاريو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3190",
+  "code": "q_3190"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما النهر الذي يصل بحيرة إيري ببحيرة أونتاريو وتقع عليه شلالات نياغرا؟",
+  "answer": "نهر نياغرا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3191",
+  "code": "q_3191"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما النهر الذي تقع عليه العاصمة الأمريكية واشنطن؟",
+  "answer": "نهر بوتوماك",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3192",
+  "code": "q_3192"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما النهر الصغير الذي يمر بمدينة مدريد؟",
+  "answer": "نهر مانثاناريس",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3193",
+  "code": "q_3193"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما النهر الذي تقع عليه مدينة لشبونة عند مصبه؟",
+  "answer": "نهر تاجه",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3194",
+  "code": "q_3194"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما النهر الذي سُميت مدينة أمستردام نسبةً إلى سدّه؟",
+  "answer": "نهر أمستل",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3195",
+  "code": "q_3195"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما النهر الذي يمر بمدينة براغ؟",
+  "answer": "نهر فلتافا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3196",
+  "code": "q_3196"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما البحر الذي يقع بين جنوب إيطاليا وغرب اليونان؟",
+  "answer": "البحر الأيوني",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3197",
+  "code": "q_3197"
+ },
+ {
+  "category": "geography",
+  "subcategory": "mountains",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما السلسلة الجبلية الرئيسية التي تمتد على طول شرق أستراليا؟",
+  "answer": "سلسلة الجبال الكبرى (Great Dividing Range)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3198",
+  "code": "q_3198"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما العاصمة القضائية لجنوب إفريقيا؟",
+  "answer": "بلومفونتين",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3199",
+  "code": "q_3199"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما العاصمة الرسمية لساحل العاج رغم أن أبيدجان أكبر مدنها؟",
+  "answer": "ياموسوكرو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3200",
+  "code": "q_3200"
+ },
+ {
+  "category": "geography",
+  "subcategory": "countries",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما العاصمة الرسمية لتنزانيا رغم أن دار السلام أكبر مدنها؟",
+  "answer": "دودوما",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3201",
+  "code": "q_3201"
+ },
+ {
+  "category": "geography",
+  "subcategory": "rivers",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "عند مصب أي نهر تقع مدينة شنغهاي؟",
+  "answer": "نهر اليانغتسي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3202",
+  "code": "q_3202"
+ },
+ {
+  "category": "geography",
+  "subcategory": "seas",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما البرزخ الضيق الذي حُفرت فيه قناة بنما؟",
+  "answer": "برزخ بنما",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3203",
+  "code": "q_3203"
+ },
+ {
+  "category": "geography",
+  "subcategory": "climate",
+  "tags": [
+   "جغرافيا"
+  ],
+  "source": "أسئلة الجغرافيا (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما اسم دائرة العرض 66.5° جنوبًا تقريبًا؟",
+  "answer": "الدائرة القطبية الجنوبية",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3204",
+  "code": "q_3204"
+ }
+]

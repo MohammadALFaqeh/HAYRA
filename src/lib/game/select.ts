@@ -1,7 +1,7 @@
 import "server-only";
 import type { SupabaseClient } from "@supabase/supabase-js";
 import type { Category, Subcategory } from "@/lib/db/types";
-import { BOARD_POINTS, LEVELS, QUESTION_TYPE_IDS, RECENT_QUESTIONS_HOURS, isQrType, tierOf } from "./constants";
+import { BOARD_POINTS, HINT_POINTS, LEVELS, QUESTION_TYPE_IDS, RECENT_QUESTIONS_HOURS, isHintRound, isQrType, tierOf } from "./constants";
 import type {
   BoardCell,
   BoardColumn,
@@ -277,6 +277,14 @@ export async function buildBoard(
         categoryTitle: r.category?.name ?? "",
         subcategoryName: r.subcategory?.name ?? null,
       };
+    }
+  }
+
+  // خانات فقرة التلميحات: تظهر بأعلى قيمة (500) وتنزل مع كل تلميح أثناء اللعب
+  for (const cell of cells) {
+    if (cell.questionId && isHintRound(questions[cell.questionId])) {
+      cell.points = HINT_POINTS[0];
+      cell.hint = true;
     }
   }
 

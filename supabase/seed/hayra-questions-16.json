@@ -1,0 +1,5540 @@
+[
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الزرافة",
+  "type": "who_am_i",
+  "clues": [
+   "قلبي يزن نحو 11 كيلوغرامًا ليضخ الدم إلى مسافة بعيدة",
+   "لساني أزرق داكن وطوله قرابة نصف متر",
+   "أطول حيوان بري على وجه الأرض"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3205",
+  "code": "q_3205"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الفيل",
+  "type": "who_am_i",
+  "clues": [
+   "أسمع بقدميّ اهتزازات الأرض من بعيد",
+   "أنيابي من العاج وأشرب بالشفط",
+   "أكبر حيوان بري ولي خرطوم طويل"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3206",
+  "code": "q_3206"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الجمل",
+  "type": "who_am_i",
+  "clues": [
+   "أتحمل فقدان نحو ربع ماء جسمي دون أن أهلك",
+   "لي صفّان من الرموش وأستطيع إغلاق أنفي أمام الرمال",
+   "سفينة الصحراء وسنامي مخزن للدهون"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3207",
+  "code": "q_3207"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الأسد",
+  "type": "who_am_i",
+  "clues": [
+   "تقوم الإناث في جماعتي بمعظم الصيد",
+   "يُسمع زئيري من مسافة 8 كيلومترات",
+   "ملك الغابة وصغيري يُسمى شبلًا"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3208",
+  "code": "q_3208"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الدب القطبي",
+  "type": "who_am_i",
+  "clues": [
+   "جلدي أسود وشعري شفاف في الحقيقة",
+   "أسبح عشرات الكيلومترات بحثًا عن الفقمات",
+   "أبيض اللون وأعيش في القطب الشمالي"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3209",
+  "code": "q_3209"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "البطريق",
+  "type": "who_am_i",
+  "clues": [
+   "يحتضن الذكر في أكبر أنواعي البيضة على قدميه شهرين",
+   "ريشي كثيف وأجنحتي زعانف للسباحة",
+   "طائر بالبدلة السوداء والبيضاء لا يطير ويعيش في القارة القطبية الجنوبية"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3210",
+  "code": "q_3210"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الكنغر",
+  "type": "who_am_i",
+  "clues": [
+   "لا أستطيع المشي إلى الخلف بسهولة",
+   "ذيلي القوي يساعدني على التوازن كرِجل خامسة",
+   "أقفز في أستراليا وأحمل صغيري في جراب"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3211",
+  "code": "q_3211"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الباندا",
+  "type": "who_am_i",
+  "clues": [
+   "أقضي نحو 12 ساعة يوميًا في الأكل",
+   "لي «إبهام» زائف أمسك به سيقان النبات",
+   "دب أبيض وأسود صيني يأكل الخيزران"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3212",
+  "code": "q_3212"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الأخطبوط",
+  "type": "who_am_i",
+  "clues": [
+   "دمي أزرق ولي ثلاثة قلوب",
+   "أستطيع المرور من ثقب بحجم عيني لأنني بلا عظام",
+   "حيوان بحري بثمانية أذرع"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3213",
+  "code": "q_3213"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الحرباء",
+  "type": "who_am_i",
+  "clues": [
+   "لساني قد يكون أطول من جسمي",
+   "كل عين من عينيّ تتحرك وحدها",
+   "زاحف مشهور بتغيير لونه"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3214",
+  "code": "q_3214"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الدلفين",
+  "type": "who_am_i",
+  "clues": [
+   "أنام بنصف دماغي فقط",
+   "أتنفس الهواء من فتحة أعلى رأسي",
+   "حيوان بحري ذكي يحب اللعب ويستخدم السونار"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3215",
+  "code": "q_3215"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "النحلة",
+  "type": "who_am_i",
+  "clues": [
+   "أرقص لأدلّ أخواتي على مكان الزهر",
+   "أموت غالبًا بعد أن ألدغ الإنسان",
+   "أصنع العسل والشمع"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3216",
+  "code": "q_3216"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "النملة",
+  "type": "who_am_i",
+  "clues": [
+   "بعض أنواعي يزرع الفطر ويربي حشرات أخرى",
+   "أتواصل مع أخواتي بالروائح (الفيرومونات)",
+   "حشرة صغيرة تحمل أضعاف وزنها وذُكرت في القرآن"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3217",
+  "code": "q_3217"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "التمساح",
+  "type": "who_am_i",
+  "clues": [
+   "أبتلع الحصى ليساعدني على الغوص والهضم",
+   "قلبي بأربع حجرات على عكس أقاربي الزواحف",
+   "زاحف ضخم يعيش في الأنهار ويقال إنه يذرف الدموع"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3218",
+  "code": "q_3218"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الحصان",
+  "type": "who_am_i",
+  "clues": [
+   "عيناي الأكبر بين ثدييات اليابسة",
+   "أستطيع النوم واقفًا",
+   "صغيري مُهر وصوتي صهيل"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3219",
+  "code": "q_3219"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الفهد (الشيتا)",
+  "type": "who_am_i",
+  "clues": [
+   "مخالبي لا تنسحب كاملة كباقي أقاربي",
+   "خطّان أسودان ينزلان من عيني كالدموع",
+   "أسرع حيوان بري"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3220",
+  "code": "q_3220"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الحوت الأزرق",
+  "type": "who_am_i",
+  "clues": [
+   "قلبي بحجم سيارة صغيرة",
+   "آكل الكريل الصغير بالأطنان",
+   "أضخم حيوان عاش على الأرض"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3221",
+  "code": "q_3221"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الكوالا",
+  "type": "who_am_i",
+  "clues": [
+   "بصمات أصابعي تشبه بصمات الإنسان",
+   "أنام نحو 20 ساعة يوميًا",
+   "جرابي أسترالي يأكل أوراق الكينا"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3222",
+  "code": "q_3222"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "خلد الماء (منقار البط)",
+  "type": "who_am_i",
+  "clues": [
+   "ألتقط الإشارات الكهربائية لفرائسي بمنقاري",
+   "للذكر مهماز سام في قدميه",
+   "ثديي أسترالي يضع البيض ومنقاره كالبطة"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3223",
+  "code": "q_3223"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الخفاش",
+  "type": "who_am_i",
+  "clues": [
+   "بعض أنواعي يتغذى على الرحيق وينقل اللقاح",
+   "أنام معلقًا رأسًا على عقب",
+   "الثديي الوحيد الذي يطير طيرانًا حقيقيًا"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3224",
+  "code": "q_3224"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "القنفذ",
+  "type": "who_am_i",
+  "clues": [
+   "ألعق مواد غريبة وأدهن جسمي باللعاب الرغوي",
+   "أنشط ليلًا وآكل الحشرات والديدان",
+   "أتكوّر كالكرة وظهري مغطى بالأشواك"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3225",
+  "code": "q_3225"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "السلحفاة",
+  "type": "who_am_i",
+  "clues": [
+   "لا أملك أسنانًا بل منقارًا قرنيًا",
+   "بعض أنواعي يعيش أكثر من 150 عامًا",
+   "أحمل بيتي على ظهري وأشتهر بالبطء"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3226",
+  "code": "q_3226"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "حصان البحر",
+  "type": "who_am_i",
+  "clues": [
+   "لا أملك معدة فآكل باستمرار",
+   "الذكر عندي هو من يحمل البيض ويلد",
+   "سمكة رأسها يشبه رأس الحصان"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3227",
+  "code": "q_3227"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الكسلان",
+  "type": "who_am_i",
+  "clues": [
+   "تنمو طحالب خضراء على فروي",
+   "أنزل من الشجرة مرة في الأسبوع تقريبًا لقضاء الحاجة",
+   "أبطأ ثديي في العالم"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3228",
+  "code": "q_3228"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الحمار الوحشي",
+  "type": "who_am_i",
+  "clues": [
+   "لا يتطابق نمط جسمي مع أي فرد آخر كبصمة الإصبع",
+   "أعيش في قطعان بالسافانا الإفريقية",
+   "حصان مخطط بالأسود والأبيض"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3229",
+  "code": "q_3229"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "قرش الحوت",
+  "type": "who_am_i",
+  "clues": [
+   "أصفّي الماء ولا أؤذي الغواصين",
+   "على ظهري بقع بيضاء كالنجوم",
+   "أكبر سمكة في العالم"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3230",
+  "code": "q_3230"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الأناكوندا",
+  "type": "who_am_i",
+  "clues": [
+   "أقضي معظم وقتي في مستنقعات الأمازون",
+   "لا أملك سمًّا بل أعصر فريستي",
+   "أثقل أفعى في العالم"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3231",
+  "code": "q_3231"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الغوريلا",
+  "type": "who_am_i",
+  "clues": [
+   "أنفي يشبه بصمة تميزني عن غيري",
+   "يُسمى قائد جماعتي «الظهر الفضي»",
+   "أكبر القردة العليا"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3232",
+  "code": "q_3232"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الضفدع",
+  "type": "who_am_i",
+  "clues": [
+   "أشرب الماء عبر جلدي",
+   "أبدأ حياتي بذيل وخياشيم",
+   "برمائي يقفز وصوتي نقيق"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3233",
+  "code": "q_3233"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "اليراعة",
+  "type": "who_am_i",
+  "clues": [
+   "ضوئي بارد لا يصدر حرارة تقريبًا",
+   "أومض بإيقاع خاص لجذب شريكي",
+   "حشرة تضيء في الليل"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3234",
+  "code": "q_3234"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "العقرب",
+  "type": "who_am_i",
+  "clues": [
+   "أتوهج تحت الأشعة فوق البنفسجية",
+   "ألد صغاري أحياء وأحملهم على ظهري",
+   "ذيلي ينتهي بإبرة سامة"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3235",
+  "code": "q_3235"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "قنديل البحر",
+  "type": "who_am_i",
+  "clues": [
+   "أغلب جسمي ماء بنسبة 95%",
+   "لا دماغ لي ولا قلب ولا عظام",
+   "كائن بحري هلامي يلسع"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3236",
+  "code": "q_3236"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الببغاء",
+  "type": "who_am_i",
+  "clues": [
+   "أمسك الطعام بقدمي وأرفعه إلى منقاري",
+   "بعض أنواعي يعيش أكثر من 60 عامًا",
+   "طائر ملون يقلّد كلام الإنسان"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3237",
+  "code": "q_3237"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "فرس النهر",
+  "type": "who_am_i",
+  "clues": [
+   "عرقي ضارب إلى الحمرة يحميني من الشمس",
+   "أقضي النهار في الماء وأرعى العشب ليلًا",
+   "حيوان إفريقي ضخم اسمه يعني «حصان النهر»"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3238",
+  "code": "q_3238"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "البنغول (آكل النمل الحرشفي)",
+  "type": "who_am_i",
+  "clues": [
+   "لساني أطول من جسمي ومثبت قرب حوضي",
+   "من أكثر الثدييات تهريبًا في العالم",
+   "الثديي الوحيد المغطى بالحراشف"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3239",
+  "code": "q_3239"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "النروال (كركدن البحر)",
+  "type": "who_am_i",
+  "clues": [
+   "أعيش في مياه القطب الشمالي الباردة",
+   "نابي الحلزوني قد يتجاوز طوله مترين",
+   "حوت يُعتقد أنه أصل أسطورة وحيد القرن"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3240",
+  "code": "q_3240"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الأكسولوتل",
+  "type": "who_am_i",
+  "clues": [
+   "أبقى طوال حياتي بشكل اليرقة وخياشيمي ظاهرة",
+   "موطني بحيرات قرب مكسيكو سيتي",
+   "برمائي مبتسم يجدد أطرافه المقطوعة"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3241",
+  "code": "q_3241"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الومبت",
+  "type": "who_am_i",
+  "clues": [
+   "جرابي مفتوح للخلف حتى لا يدخله التراب",
+   "فضلاتي مكعبة الشكل",
+   "جرابي أسترالي ممتلئ يحفر الجحور"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3242",
+  "code": "q_3242"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "حيوان الأوكابي",
+  "type": "who_am_i",
+  "clues": [
+   "لساني طويل أنظف به أذنيّ",
+   "أعيش في غابات الكونغو ولم يعرفني العلم إلا عام 1901",
+   "قريب الزرافة وعلى ساقيّ خطوط كالحمار الوحشي"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3243",
+  "code": "q_3243"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الإغوانا البحرية",
+  "type": "who_am_i",
+  "clues": [
+   "أعطس لأتخلص من الملح الزائد",
+   "أعيش فقط في جزر غالاباغوس",
+   "السحلية الوحيدة التي تغوص في البحر لتأكل الطحالب"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3244",
+  "code": "q_3244"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "ثعلب الفنك",
+  "type": "who_am_i",
+  "clues": [
+   "أستطيع العيش دون شرب الماء مدة طويلة",
+   "باطن قدميّ مكسو بالفرو ليحميني من الرمل",
+   "أصغر الثعالب وأذناي ضخمتان"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3245",
+  "code": "q_3245"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الأطوم (بقرة البحر)",
+  "type": "who_am_i",
+  "clues": [
+   "يُعتقد أن البحارة ظنوني حورية بحر",
+   "أقرب أقاربي على اليابسة هو الفيل",
+   "ثديي بحري بطيء يرعى الأعشاب البحرية"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3246",
+  "code": "q_3246"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "النسر الملتحي",
+  "type": "who_am_i",
+  "clues": [
+   "أصبغ ريشي بالطين الأحمر الغني بالحديد",
+   "90% من غذائي عظام",
+   "أُسقط العظام من الجو على الصخور لأكسرها"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3247",
+  "code": "q_3247"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "التارديغرادا (دب الماء)",
+  "type": "who_am_i",
+  "clues": [
+   "نجوت من التعرض للفضاء الخارجي",
+   "لي ثماني أرجل قصيرة وحجمي أقل من مليمتر",
+   "كائن مجهري يُلقب بدب الماء"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3248",
+  "code": "q_3248"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "فأر الخلد العاري",
+  "type": "who_am_i",
+  "clues": [
+   "لا أشعر بأنواع معينة من الألم ونادرًا ما أُصاب بالسرطان",
+   "تحكم مستعمرتي ملكة واحدة كخلية النحل",
+   "قارض إفريقي وردي بلا شعر يعيش تحت الأرض"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3249",
+  "code": "q_3249"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الغرير العسلي (غرير العسل)",
+  "type": "who_am_i",
+  "clues": [
+   "جلدي سميك ومرن فلا يؤثر فيّ لدغ النحل",
+   "أهاجم الأفاعي السامة دون خوف",
+   "يُضرب بي المثل في الجرأة وأعشق العسل"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3250",
+  "code": "q_3250"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "سمكة المهرج",
+  "type": "who_am_i",
+  "clues": [
+   "أولد ذكرًا وقد أتحول إلى أنثى",
+   "أعيش بين مجسات شقائق النعمان",
+   "بطل فيلم «البحث عن نيمو»"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3251",
+  "code": "q_3251"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "سمكة الصياد (أبو الشص)",
+  "type": "who_am_i",
+  "clues": [
+   "يلتحم ذكري الصغير بالأنثى مدى الحياة",
+   "أعيش في ظلام أعماق المحيط",
+   "يتدلى من رأسي طُعم مضيء أصطاد به"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3252",
+  "code": "q_3252"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الكاكابو",
+  "type": "who_am_i",
+  "clues": [
+   "أنشط ليلًا ورائحتي تشبه العسل",
+   "أثقل ببغاء في العالم",
+   "ببغاء نيوزيلندي لا يطير ومهدد بالانقراض"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3253",
+  "code": "q_3253"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "التواتارا",
+  "type": "who_am_i",
+  "clues": [
+   "لي «عين ثالثة» على قمة رأسي",
+   "أنتمي إلى رتبة عاشت زمن الديناصورات",
+   "زاحف نادر لا يوجد إلا في نيوزيلندا"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3254",
+  "code": "q_3254"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الآي آي",
+  "type": "who_am_i",
+  "clues": [
+   "يعتقد بعض أهل بلدي أنني نذير شؤم",
+   "أنقر الخشب بإصبعي الأوسط الرفيع لأسمع اليرقات",
+   "ليمور ليلي من مدغشقر"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3255",
+  "code": "q_3255"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "روبيان فرس النبي (Mantis shrimp)",
+  "type": "who_am_i",
+  "clues": [
+   "عيناي ترى ألوانًا لا تراها عينك",
+   "ضربتي سريعة كالرصاصة وتكسر زجاج الأحواض",
+   "قشري بحري ملون يشبه فرس النبي"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3256",
+  "code": "q_3256"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "الكوبرا الملكية",
+  "type": "who_am_i",
+  "clues": [
+   "أبني عشًا لبيضي وأحرسه",
+   "طعامي المفضل الأفاعي الأخرى",
+   "أطول الأفاعي السامة وأرفع رأسي عاليًا"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3257",
+  "code": "q_3257"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "تنين كومودو",
+  "type": "who_am_i",
+  "clues": [
+   "أستطيع التكاثر دون ذكر أحيانًا",
+   "في لعابي سم وبكتيريا تضعف فريستي",
+   "أكبر سحلية في العالم وأعيش في إندونيسيا"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3258",
+  "code": "q_3258"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "السمكة المنتفخة (الفوغو)",
+  "type": "who_am_i",
+  "clues": [
+   "أرسم على الرمل دوائر بديعة لأجذب الأنثى",
+   "في جسمي سم أقوى من السيانيد",
+   "أنتفخ كالكرة عند الخطر"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3259",
+  "code": "q_3259"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي حيوان أنا؟",
+  "answer": "سرطان (سلطعون) حدوة الحصان",
+  "type": "who_am_i",
+  "clues": [
+   "عمر سلالتي أكثر من 400 مليون سنة",
+   "دمي الأزرق يُستخدم لفحص سلامة اللقاحات",
+   "رغم اسمي لستُ سلطعونًا حقيقيًا وأشبه حدوة الحصان"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3260",
+  "code": "q_3260"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي طائر أنا؟",
+  "answer": "النعامة",
+  "type": "who_am_i",
+  "clues": [
+   "عيني أكبر من دماغي",
+   "أجري بسرعة نحو 70 كم/ساعة",
+   "أكبر طائر في العالم ولا أطير"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3261",
+  "code": "q_3261"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي طائر أنا؟",
+  "answer": "البومة",
+  "type": "who_am_i",
+  "clues": [
+   "أذناي في مستويين مختلفين لأحدد مصدر الصوت",
+   "أدير رأسي نحو 270 درجة",
+   "طائر ليلي رمز للحكمة في القصص الغربية"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3262",
+  "code": "q_3262"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي طائر أنا؟",
+  "answer": "الطاووس",
+  "type": "who_am_i",
+  "clues": [
+   "الذكر وحده من يحمل الريش الطويل الملون",
+   "أفرد ذيلي كالمروحة لأجذب الأنثى",
+   "على ريشي «عيون» زرقاء وخضراء"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3263",
+  "code": "q_3263"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي طائر أنا؟",
+  "answer": "الحمامة",
+  "type": "who_am_i",
+  "clues": [
+   "أهتدي إلى بيتي من مسافات بعيدة بالمجال المغناطيسي",
+   "استُخدمت لنقل الرسائل في الحروب",
+   "طائر رمز للسلام وصوته هديل"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3264",
+  "code": "q_3264"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي طائر أنا؟",
+  "answer": "النحام (الفلامنغو)",
+  "type": "who_am_i",
+  "clues": [
+   "أطعم صغيري حليبًا أحمر من حوصلتي",
+   "لوني من الروبيان والطحالب التي آكلها",
+   "طائر وردي يقف على رجل واحدة"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3265",
+  "code": "q_3265"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي طائر أنا؟",
+  "answer": "الطائر الطنان",
+  "type": "who_am_i",
+  "clues": [
+   "قلبي قد ينبض أكثر من 1200 مرة في الدقيقة",
+   "أصغر أنواعي يزن أقل من غرامين",
+   "الطائر الوحيد الذي يطير إلى الخلف"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3266",
+  "code": "q_3266"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي طائر أنا؟",
+  "answer": "صقر الشاهين",
+  "type": "who_am_i",
+  "clues": [
+   "في عيني جفن ثالث يحميها أثناء السرعة",
+   "الطيور فريستي المفضلة في الجو",
+   "أسرع كائن حي أثناء الانقضاض"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3267",
+  "code": "q_3267"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي طائر أنا؟",
+  "answer": "الوقواق",
+  "type": "who_am_i",
+  "clues": [
+   "صغيري يرمي بيض الطائر المضيف من العش",
+   "لا أبني عشًا ولا أربي صغاري",
+   "أضع بيضي في أعشاش الطيور الأخرى"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3268",
+  "code": "q_3268"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي طائر أنا؟",
+  "answer": "الغراب",
+  "type": "who_am_i",
+  "clues": [
+   "أتذكر وجوه البشر الذين آذوني",
+   "أصنع أدوات من الأغصان",
+   "طائر أسود ذكي بعثه الله ليُري قابيل كيف يدفن أخاه"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3269",
+  "code": "q_3269"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي طائر أنا؟",
+  "answer": "الهدهد",
+  "type": "who_am_i",
+  "clues": [
+   "أفرز سائلًا كريه الرائحة لأحمي عشي",
+   "على رأسي تاج من الريش",
+   "الطائر الذي جاء سليمانَ بخبر ملكة سبأ"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3270",
+  "code": "q_3270"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي طائر أنا؟",
+  "answer": "الكيوي",
+  "type": "who_am_i",
+  "clues": [
+   "فتحتا أنفي في طرف منقاري",
+   "أضع أكبر بيضة بالنسبة لحجم جسمي",
+   "طائر نيوزيلندي لا يطير وأصبح رمزًا لبلده"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3271",
+  "code": "q_3271"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي طائر أنا؟",
+  "answer": "القطرس الجوّال",
+  "type": "who_am_i",
+  "clues": [
+   "أقضي سنوات فوق المحيط دون أن أطأ اليابسة",
+   "أنام أحيانًا وأنا أنزلق في الهواء",
+   "أكبر امتداد للجناحين بين الطيور"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3272",
+  "code": "q_3272"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي طائر أنا؟",
+  "answer": "الخرشنة القطبية",
+  "type": "who_am_i",
+  "clues": [
+   "أرى صيفين كل عام",
+   "أقطع في حياتي ما يعادل الذهاب للقمر والعودة مرات",
+   "أطول هجرة سنوية بين القطبين"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3273",
+  "code": "q_3273"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي طائر أنا؟",
+  "answer": "طائر الطوقان (التوكان)",
+  "type": "who_am_i",
+  "clues": [
+   "أرمي الثمرة في الهواء ثم ألتقطها",
+   "منقاري خفيف لأنه إسفنجي من الداخل",
+   "طائر استوائي بمنقار ضخم ملون"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3274",
+  "code": "q_3274"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي طائر أنا؟",
+  "answer": "طائر القيثارة",
+  "type": "who_am_i",
+  "clues": [
+   "ذيل الذكر عند فرده يشبه آلة موسيقية قديمة",
+   "أقلد صوت المنشار وغالق الكاميرا",
+   "طائر أسترالي هو أمهر المقلدين"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3275",
+  "code": "q_3275"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي طائر أنا؟",
+  "answer": "السمامة الشائعة",
+  "type": "who_am_i",
+  "clues": [
+   "أشرب وآكل وأنام وأنا أطير",
+   "قد أبقى 10 أشهر في الجو دون هبوط",
+   "طائر أسود سريع يشبه السنونو"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3276",
+  "code": "q_3276"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-animals",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي طائر أنا؟",
+  "answer": "الطائر الكاتب (السكرتير)",
+  "type": "who_am_i",
+  "clues": [
+   "ريش رأسي يشبه أقلامًا مغروسة خلف الأذن",
+   "أقتل الأفاعي بركلات قوية",
+   "طائر جارح إفريقي طويل الساقين على شعار السودان"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3277",
+  "code": "q_3277"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "مصر",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ الأزهر، أحد أقدم الجامعات القائمة في العالم",
+   "عملتي الجنيه وأهم قناة ملاحية في العالم في أرضي",
+   "أرض الأهرامات والنيل"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3278",
+  "code": "q_3278"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "السعودية",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ أكبر صحراء رملية متصلة في العالم",
+   "أكبر دولة في شبه الجزيرة العربية",
+   "فيّ مكة المكرمة والمدينة المنورة"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3279",
+  "code": "q_3279"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "اليابان",
+  "type": "who_am_i",
+  "clues": [
+   "يُطلق عليّ «بلاد الشمس المشرقة»",
+   "أتكون من آلاف الجزر وتكثر فيّ الزلازل",
+   "عاصمتي طوكيو وأشهر جبالي فوجي"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3280",
+  "code": "q_3280"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "البرازيل",
+  "type": "who_am_i",
+  "clues": [
+   "أكبر دولة تتحدث البرتغالية",
+   "أغلب غابات الأمازون في أرضي",
+   "فزت بكأس العالم خمس مرات"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3281",
+  "code": "q_3281"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "إيطاليا",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ دولتان مستقلتان داخل حدودي",
+   "عاصمتي فيها الكولوسيوم",
+   "خريطتي على شكل حذاء"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3282",
+  "code": "q_3282"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "فرنسا",
+  "type": "who_am_i",
+  "clues": [
+   "أكثر دولة زيارةً من السياح في العالم",
+   "علمي أزرق وأبيض وأحمر",
+   "عاصمتي باريس وفيها برج إيفل"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3283",
+  "code": "q_3283"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "الصين",
+  "type": "who_am_i",
+  "clues": [
+   "أكثر دول العالم سكانًا لعقود طويلة",
+   "اخترع أهلي الورق والبوصلة والبارود",
+   "فيّ السور العظيم"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3284",
+  "code": "q_3284"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "الأردن",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ أخفض نقطة على اليابسة",
+   "منفذي البحري الوحيد هو العقبة",
+   "فيّ مدينة البتراء الوردية"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3285",
+  "code": "q_3285"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "الهند",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ أكثر من 20 لغة رسمية",
+   "أكبر ديمقراطية في العالم من حيث عدد السكان",
+   "فيّ تاج محل"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3286",
+  "code": "q_3286"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "روسيا",
+  "type": "who_am_i",
+  "clues": [
+   "أمتد على 11 منطقة زمنية",
+   "فيّ أعمق بحيرة في العالم",
+   "أكبر دولة في العالم مساحةً"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3287",
+  "code": "q_3287"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي دولة أنا؟",
+  "answer": "المغرب",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ أقدم جامعة قائمة في العالم بمدينة فاس",
+   "أطل على البحر المتوسط والمحيط الأطلسي",
+   "عاصمتي الرباط وأشهر مدني مراكش"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3288",
+  "code": "q_3288"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "كندا",
+  "type": "who_am_i",
+  "clues": [
+   "لي أطول خط ساحلي في العالم",
+   "فيّ أكثر من نصف بحيرات العالم",
+   "على علمي ورقة شجر القيقب الحمراء"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3289",
+  "code": "q_3289"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "أستراليا",
+  "type": "who_am_i",
+  "clues": [
+   "دولة وقارة في آن واحد",
+   "فيّ أكبر شعاب مرجانية على الأرض",
+   "موطن الكنغر والكوالا"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3290",
+  "code": "q_3290"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "تركيا",
+  "type": "who_am_i",
+  "clues": [
+   "أمتد على قارتين",
+   "فيّ مدينة كانت عاصمة لإمبراطوريتين عظيمتين",
+   "عاصمتي أنقرة وأكبر مدني إسطنبول"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3291",
+  "code": "q_3291"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "اليمن",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ مدينة شبام «مانهاتن الصحراء» بأبراجها الطينية",
+   "عرفني الرومان بـ«العربية السعيدة»",
+   "عاصمتي صنعاء وفيّ جزيرة سقطرى"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3292",
+  "code": "q_3292"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "إندونيسيا",
+  "type": "who_am_i",
+  "clues": [
+   "أكبر دولة إسلامية من حيث عدد السكان",
+   "أتكون من أكثر من 17 ألف جزيرة",
+   "عاصمتي جاكرتا"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3293",
+  "code": "q_3293"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "الجزائر",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ جبال الهقار في قلب الصحراء",
+   "أكبر دولة في إفريقيا مساحةً",
+   "بلد المليون ونصف المليون شهيد"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3294",
+  "code": "q_3294"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "السودان",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ أهرامات أكثر عددًا من أهرامات جارتي الشمالية",
+   "يلتقي في عاصمتي النيلان الأبيض والأزرق",
+   "عاصمتي الخرطوم"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3295",
+  "code": "q_3295"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "سويسرا",
+  "type": "who_am_i",
+  "clues": [
+   "لي أربع لغات رسمية",
+   "اشتهرت بالحياد وفيها مقر الصليب الأحمر",
+   "بلد الساعات والشوكولاتة وجبال الألب"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3296",
+  "code": "q_3296"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "هولندا",
+  "type": "who_am_i",
+  "clues": [
+   "ربع أرضي تقريبًا تحت مستوى سطح البحر",
+   "عدد الدراجات فيّ أكثر من السكان",
+   "بلد طواحين الهواء وزهور التوليب"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3297",
+  "code": "q_3297"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "الإمارات",
+  "type": "who_am_i",
+  "clues": [
+   "أتكون من سبع إمارات",
+   "أرسلت مسبارًا إلى المريخ اسمه «الأمل»",
+   "فيّ أطول برج في العالم"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3298",
+  "code": "q_3298"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "لبنان",
+  "type": "who_am_i",
+  "clues": [
+   "اسمي يعني «الأبيض» نسبة لثلوج جبالي",
+   "فيّ آثار بعلبك الرومانية",
+   "على علمي شجرة الأرز"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3299",
+  "code": "q_3299"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "المكسيك",
+  "type": "who_am_i",
+  "clues": [
+   "أكثر دولة تتحدث الإسبانية سكانًا",
+   "فيّ هرم تشيتشن إيتزا",
+   "موطن التاكو والسومبريرو"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3300",
+  "code": "q_3300"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي دولة أنا؟",
+  "answer": "اليونان",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ أكثر من 6000 جزيرة",
+   "مهد الديمقراطية والألعاب الأولمبية",
+   "عاصمتي أثينا"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3301",
+  "code": "q_3301"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي دولة أنا؟",
+  "answer": "نيبال",
+  "type": "who_am_i",
+  "clues": [
+   "علمي الوطني الوحيد غير المستطيل في العالم",
+   "فيّ ثمانٍ من أعلى عشر قمم في العالم",
+   "عاصمتي كاتماندو وأقتسم إيفرست مع الصين"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3302",
+  "code": "q_3302"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي دولة أنا؟",
+  "answer": "تشيلي",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ أجف صحراء حارة في العالم",
+   "طولي أكثر من 4000 كيلومتر وعرضي ضيق",
+   "دولة طويلة على الساحل الغربي لأمريكا الجنوبية"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3303",
+  "code": "q_3303"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي دولة أنا؟",
+  "answer": "آيسلندا",
+  "type": "who_am_i",
+  "clues": [
+   "برلماني من أقدم البرلمانات القائمة في العالم",
+   "كهربائي كلها تقريبًا من الطاقة الحرارية الأرضية والمياه",
+   "جزيرة الجليد والنار في شمال الأطلسي"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3304",
+  "code": "q_3304"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي دولة أنا؟",
+  "answer": "الفاتيكان",
+  "type": "who_am_i",
+  "clues": [
+   "لي محطة قطار واحدة ولا مطار عندي",
+   "مساحتي أقل من نصف كيلومتر مربع",
+   "أصغر دولة في العالم وداخل روما"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3305",
+  "code": "q_3305"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي دولة أنا؟",
+  "answer": "مدغشقر",
+  "type": "who_am_i",
+  "clues": [
+   "90% من حيواناتي لا توجد في أي مكان آخر",
+   "رابع أكبر جزيرة في العالم",
+   "موطن الليمور"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3306",
+  "code": "q_3306"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي دولة أنا؟",
+  "answer": "بوليفيا",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ أكبر سهل ملحي في العالم «أويوني»",
+   "لي عاصمتان: سوكري ولاباز",
+   "سُميت باسم محرر أمريكا الجنوبية"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3307",
+  "code": "q_3307"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي دولة أنا؟",
+  "answer": "ليسوتو",
+  "type": "who_am_i",
+  "clues": [
+   "كل أرضي تقع على ارتفاع أكثر من ألف متر",
+   "مملكة جبلية صغيرة",
+   "تحيط بي جنوب إفريقيا من كل الجهات"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3308",
+  "code": "q_3308"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي دولة أنا؟",
+  "answer": "الإكوادور",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ أبعد نقطة على الأرض عن مركزها: قمة تشيمبورازو",
+   "جزر غالاباغوس تتبعني",
+   "اسمي يعني «خط الاستواء» بالإسبانية"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3309",
+  "code": "q_3309"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي دولة أنا؟",
+  "answer": "كازاخستان",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ قاعدة بايكونور التي انطلق منها أول إنسان إلى الفضاء",
+   "أكبر دولة غير ساحلية في العالم",
+   "عاصمتي أستانا"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3310",
+  "code": "q_3310"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي دولة أنا؟",
+  "answer": "بوتان",
+  "type": "who_am_i",
+  "clues": [
+   "أقيس نجاحي بـ«السعادة الوطنية الإجمالية»",
+   "على علمي تنين أبيض",
+   "مملكة صغيرة في الهيمالايا بين الهند والصين"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3311",
+  "code": "q_3311"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "القاهرة",
+  "type": "who_am_i",
+  "clues": [
+   "تُلقب بـ«مدينة الألف مئذنة»",
+   "أسسها جوهر الصقلي للفاطميين",
+   "أكبر مدينة عربية يمر بها النيل"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3312",
+  "code": "q_3312"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "دبي",
+  "type": "who_am_i",
+  "clues": [
+   "كانت قرية صيد ولؤلؤ صغيرة",
+   "فيها جزر صناعية على شكل نخلة",
+   "فيها برج خليفة"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3313",
+  "code": "q_3313"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "باريس",
+  "type": "who_am_i",
+  "clues": [
+   "تُقسّم إلى 20 دائرة تلتف كالحلزون",
+   "يمر فيها نهر السين",
+   "مدينة النور وفيها برج إيفل"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3314",
+  "code": "q_3314"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "إسطنبول",
+  "type": "who_am_i",
+  "clues": [
+   "حملت اسم بيزنطة ثم اسمًا آخر قبل اسمها الحالي",
+   "يقسمها مضيق البوسفور",
+   "مدينة على قارتين وفيها آيا صوفيا"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3315",
+  "code": "q_3315"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "لندن",
+  "type": "who_am_i",
+  "clues": [
+   "كان مترو الأنفاق فيها أول مترو في العالم",
+   "يمر فيها نهر التايمز",
+   "فيها ساعة بيغ بن"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3316",
+  "code": "q_3316"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "نيويورك",
+  "type": "who_am_i",
+  "clues": [
+   "كان اسمها القديم «نيو أمستردام»",
+   "تُلقب بـ«التفاحة الكبيرة»",
+   "فيها تمثال الحرية"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3317",
+  "code": "q_3317"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "القدس",
+  "type": "who_am_i",
+  "clues": [
+   "سورها الحالي بناه السلطان العثماني سليمان القانوني",
+   "مدينة مقدسة للأديان السماوية الثلاثة",
+   "فيها المسجد الأقصى وقبة الصخرة"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3318",
+  "code": "q_3318"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "روما",
+  "type": "who_am_i",
+  "clues": [
+   "فيها دولة كاملة داخل حدودها",
+   "تُلقب «المدينة الخالدة» وبُنيت على سبعة تلال",
+   "فيها الكولوسيوم"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3319",
+  "code": "q_3319"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "البندقية",
+  "type": "who_am_i",
+  "clues": [
+   "لا سيارات فيها إطلاقًا",
+   "بُنيت على أكثر من 100 جزيرة صغيرة",
+   "مدينة القنوات والقوارب الإيطالية «الجندول»"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3320",
+  "code": "q_3320"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "دمشق",
+  "type": "who_am_i",
+  "clues": [
+   "تُعد من أقدم المدن المأهولة باستمرار في العالم",
+   "كانت عاصمة الدولة الأموية",
+   "مدينة الياسمين وفيها الجامع الأموي"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3321",
+  "code": "q_3321"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "بغداد",
+  "type": "who_am_i",
+  "clues": [
+   "كانت دائرية الشكل عند بنائها",
+   "فيها كان «بيت الحكمة»",
+   "عاصمة العباسيين على نهر دجلة"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3322",
+  "code": "q_3322"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "مكة المكرمة",
+  "type": "who_am_i",
+  "clues": [
+   "كانت تُسمى «بكة» قديمًا",
+   "فيها بئر زمزم",
+   "فيها الكعبة المشرفة"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3323",
+  "code": "q_3323"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "ريو دي جانيرو",
+  "type": "who_am_i",
+  "clues": [
+   "اسمها يعني «نهر يناير» مع أنها ليست على نهر",
+   "كانت عاصمة البرازيل حتى عام 1960",
+   "فيها تمثال المسيح الفادي وكرنفال شهير"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3324",
+  "code": "q_3324"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "سيدني",
+  "type": "who_am_i",
+  "clues": [
+   "ليست عاصمة بلدها رغم أنها أكبر مدنه",
+   "فيها جسر يُلقب «علاقة الملابس»",
+   "فيها دار الأوبرا ذات الأشرعة البيضاء"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3325",
+  "code": "q_3325"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "البتراء",
+  "type": "who_am_i",
+  "clues": [
+   "كانت عاصمة الأنباط",
+   "يُدخل إليها عبر ممر صخري ضيق اسمه «السيق»",
+   "المدينة الوردية المنحوتة في الصخر"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3326",
+  "code": "q_3326"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "تمبكتو",
+  "type": "who_am_i",
+  "clues": [
+   "صار اسمها مرادفًا لـ«أبعد مكان في العالم»",
+   "فيها آلاف المخطوطات العلمية القديمة",
+   "مدينة علم وتجارة على حافة الصحراء في مالي"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3327",
+  "code": "q_3327"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "فاس",
+  "type": "who_am_i",
+  "clues": [
+   "يُقال إن مدينتها القديمة أكبر منطقة خالية من السيارات في العالم",
+   "فيها جامعة القرويين",
+   "مدينة مغربية أسسها الأدارسة"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3328",
+  "code": "q_3328"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "برازيليا",
+  "type": "who_am_i",
+  "clues": [
+   "صُممت على شكل طائرة أو طائر من الأعلى",
+   "بُنيت في أربع سنوات تقريبًا لتصبح عاصمة عام 1960",
+   "عاصمة البرازيل"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3329",
+  "code": "q_3329"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "قرطبة",
+  "type": "who_am_i",
+  "clues": [
+   "كانت شوارعها مضاءة ليلًا قبل أغلب مدن أوروبا",
+   "وُلد فيها ابن رشد",
+   "عاصمة الأمويين في الأندلس وفيها جامعها الكبير"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3330",
+  "code": "q_3330"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "سمرقند",
+  "type": "who_am_i",
+  "clues": [
+   "كانت عاصمة الإمبراطورية التيمورية",
+   "فيها ساحة «ريغستان» ومدارسها الزرقاء",
+   "مدينة على طريق الحرير في أوزبكستان"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3331",
+  "code": "q_3331"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "أي مدينة أنا؟",
+  "answer": "كانبرا",
+  "type": "who_am_i",
+  "clues": [
+   "اختيرت حلًا وسطًا بين أكبر مدينتين متنافستين",
+   "صممها مهندسان معماريان من شيكاغو",
+   "عاصمة أستراليا"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3332",
+  "code": "q_3332"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي معلم أنا؟",
+  "answer": "برج إيفل",
+  "type": "who_am_i",
+  "clues": [
+   "كان يُفترض أن يُفكك بعد 20 عامًا من بنائه",
+   "بُني لمعرض باريس عام 1889",
+   "برج حديدي هو رمز فرنسا"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3333",
+  "code": "q_3333"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي معلم أنا؟",
+  "answer": "الأهرامات",
+  "type": "who_am_i",
+  "clues": [
+   "ظلت أطول بناء بشري قرابة 3800 عام",
+   "العجيبة الوحيدة الباقية من عجائب الدنيا السبع القديمة",
+   "مقابر فرعونية في الجيزة"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3334",
+  "code": "q_3334"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي معلم أنا؟",
+  "answer": "برج خليفة",
+  "type": "who_am_i",
+  "clues": [
+   "يمكن رؤية غروب الشمس من قمتي بعد غروبها من أسفلي",
+   "يتجاوز ارتفاعي 828 مترًا",
+   "أطول بناء في العالم في دبي"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3335",
+  "code": "q_3335"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي معلم أنا؟",
+  "answer": "تاج محل",
+  "type": "who_am_i",
+  "clues": [
+   "يتغير لون رخامي بين الصباح والمساء",
+   "بُنيت تخليدًا لزوجة الإمبراطور ممتاز محل",
+   "ضريح أبيض في أغرا بالهند"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3336",
+  "code": "q_3336"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "أي معلم أنا؟",
+  "answer": "سور الصين العظيم",
+  "type": "who_am_i",
+  "clues": [
+   "استُخدم في ملاطي أرز لزج",
+   "طولي مع كل فروعي أكثر من 20 ألف كيلومتر",
+   "أشهر جدار دفاعي في العالم"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3337",
+  "code": "q_3337"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي معلم أنا؟",
+  "answer": "تمثال الحرية",
+  "type": "who_am_i",
+  "clues": [
+   "لوني الأخضر بسبب صدأ النحاس",
+   "أهدته فرنسا للولايات المتحدة عام 1886",
+   "امرأة ترفع شعلة في ميناء نيويورك"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3338",
+  "code": "q_3338"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي معلم أنا؟",
+  "answer": "الكولوسيوم",
+  "type": "who_am_i",
+  "clues": [
+   "كان يمكن غمر أرضيتي بالماء لعروض المعارك البحرية",
+   "اتسعت مدرجاتي لنحو 50 ألف متفرج",
+   "مدرج روماني ضخم للمصارعين في روما"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3339",
+  "code": "q_3339"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي معلم أنا؟",
+  "answer": "ماتشو بيتشو",
+  "type": "who_am_i",
+  "clues": [
+   "لم يعرفني العالم الحديث إلا عام 1911",
+   "بُنيت حجارتي دون ملاط",
+   "مدينة الإنكا فوق جبال الأنديز في بيرو"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3340",
+  "code": "q_3340"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي معلم أنا؟",
+  "answer": "برج بيزا المائل",
+  "type": "who_am_i",
+  "clues": [
+   "بدأ الانحناء أثناء بنائي في القرن الثاني عشر",
+   "أنا برج أجراس لكاتدرائية",
+   "برج إيطالي مشهور بميلانه"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3341",
+  "code": "q_3341"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "أي معلم أنا؟",
+  "answer": "قبة الصخرة",
+  "type": "who_am_i",
+  "clues": [
+   "من أقدم الآثار الإسلامية القائمة بُنيت في عهد عبد الملك بن مروان",
+   "قبتي مكسوة بالذهب",
+   "مبنى مثمن في ساحة المسجد الأقصى"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3342",
+  "code": "q_3342"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي معلم أنا؟",
+  "answer": "أبو سمبل",
+  "type": "who_am_i",
+  "clues": [
+   "نُقلت قطعةً قطعةً لإنقاذي من مياه السد العالي",
+   "تتعامد الشمس على وجه تمثال الملك داخلي مرتين في السنة",
+   "معبد رمسيس الثاني في أسوان"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3343",
+  "code": "q_3343"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي معلم أنا؟",
+  "answer": "أنغكور وات",
+  "type": "who_am_i",
+  "clues": [
+   "أكبر نصب ديني في العالم",
+   "بُنيت للإله فيشنو ثم صرت معبدًا بوذيًا",
+   "معبد على علم كمبوديا"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3344",
+  "code": "q_3344"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي معلم أنا؟",
+  "answer": "قصر الحمراء",
+  "type": "who_am_i",
+  "clues": [
+   "على جدراني تتكرر عبارة «ولا غالب إلا الله»",
+   "فيّ بهو الأسود ونافورته",
+   "قصر أندلسي في غرناطة"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3345",
+  "code": "q_3345"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي معلم أنا؟",
+  "answer": "جزيرة الفصح (تماثيل المواي)",
+  "type": "who_am_i",
+  "clues": [
+   "من أبعد الجزر المأهولة عن أي يابسة مأهولة",
+   "أتبع تشيلي",
+   "فيّ تماثيل حجرية ضخمة لرؤوس بشرية"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3346",
+  "code": "q_3346"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-places",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "أي معلم أنا؟",
+  "answer": "ستونهنج",
+  "type": "who_am_i",
+  "clues": [
+   "تتوافق حجارتي مع شروق الشمس في الانقلاب الصيفي",
+   "نُقلت بعض أحجاري من ويلز على بعد 200 كم",
+   "دائرة حجرية غامضة في إنجلترا"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3347",
+  "code": "q_3347"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "صلاح الدين الأيوبي",
+  "type": "who_am_i",
+  "clues": [
+   "وُلدت في تكريت لأسرة كردية",
+   "قاتلت ريتشارد قلب الأسد",
+   "حررت القدس بعد معركة حطين"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3348",
+  "code": "q_3348"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "محمد الفاتح",
+  "type": "who_am_i",
+  "clues": [
+   "نقلت سفني برًا على ألواح خشبية مدهونة",
+   "توليت الحكم وعمري 21 عامًا تقريبًا عند الفتح",
+   "فتحت القسطنطينية عام 1453"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3349",
+  "code": "q_3349"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "ابن بطوطة",
+  "type": "who_am_i",
+  "clues": [
+   "عملت قاضيًا في جزر المالديف",
+   "قطعت أكثر من 120 ألف كيلومتر في 29 عامًا",
+   "رحالة مغربي من طنجة"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3350",
+  "code": "q_3350"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "طارق بن زياد",
+  "type": "who_am_i",
+  "clues": [
+   "يُنسب إليّ القول: «البحر من ورائكم والعدو أمامكم»",
+   "كنت قائدًا لموسى بن نصير",
+   "سُمي باسمي جبل ومضيق بين إفريقيا وأوروبا"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3351",
+  "code": "q_3351"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "أينشتاين",
+  "type": "who_am_i",
+  "clues": [
+   "رفضت عرضًا لأكون رئيسًا لإسرائيل",
+   "حصلت على نوبل عن التأثير الكهروضوئي",
+   "صاحب النظرية النسبية ومعادلة E=mc²"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3352",
+  "code": "q_3352"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "نيلسون مانديلا",
+  "type": "who_am_i",
+  "clues": [
+   "كان رقمي في السجن 46664",
+   "حصلت على جائزة نوبل للسلام عام 1993",
+   "أول رئيس أسود لجنوب إفريقيا"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3353",
+  "code": "q_3353"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "كريستوفر كولومبوس",
+  "type": "who_am_i",
+  "clues": [
+   "مِتّ وأنا أظن أنني وصلت إلى آسيا",
+   "قادت سفني «سانتا ماريا» عام 1492",
+   "يُنسب إليّ وصول أوروبا إلى الأمريكتين"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3354",
+  "code": "q_3354"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "نابليون بونابرت",
+  "type": "who_am_i",
+  "clues": [
+   "وُلدت في جزيرة كورسيكا",
+   "قدت حملة على مصر والشام عام 1798",
+   "إمبراطور فرنسا الذي هُزم في واترلو"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3355",
+  "code": "q_3355"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "خالد بن الوليد",
+  "type": "who_am_i",
+  "clues": [
+   "قاتلت المسلمين في أحد قبل إسلامي",
+   "قدت المسلمين في اليرموك",
+   "سيف الله المسلول"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3356",
+  "code": "q_3356"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "عمر بن الخطاب",
+  "type": "who_am_i",
+  "clues": [
+   "أول من دوّن الدواوين واتخذ التقويم الهجري",
+   "تسلمت مفاتيح القدس بنفسي",
+   "الفاروق، ثاني الخلفاء الراشدين"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3357",
+  "code": "q_3357"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "توماس إديسون",
+  "type": "who_am_i",
+  "clues": [
+   "سجلت أكثر من ألف براءة اختراع",
+   "اخترعت الفونوغراف لتسجيل الصوت",
+   "اشتهرت بالمصباح الكهربائي"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3358",
+  "code": "q_3358"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "من أنا؟",
+  "answer": "كليوباترا",
+  "type": "who_am_i",
+  "clues": [
+   "كنت أول من تعلّم اللغة المصرية من أسرتي اليونانية",
+   "أحببت مارك أنطونيو وتحالفت معه",
+   "آخر ملكات مصر البطلمية"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3359",
+  "code": "q_3359"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "ابن سينا",
+  "type": "who_am_i",
+  "clues": [
+   "حفظت القرآن وعمري عشر سنوات",
+   "عالجت أمير بخارى وأنا شاب",
+   "صاحب «القانون في الطب»"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3360",
+  "code": "q_3360"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "الخوارزمي",
+  "type": "who_am_i",
+  "clues": [
+   "اشتُقت كلمة «خوارزمية» من اسمي",
+   "عملت في بيت الحكمة ببغداد",
+   "مؤسس علم الجبر"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3361",
+  "code": "q_3361"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "ابن خلدون",
+  "type": "who_am_i",
+  "clues": [
+   "عملت قاضيًا للمالكية في القاهرة",
+   "قابلت تيمورلنك عند حصار دمشق",
+   "صاحب «المقدمة» ومؤسس علم الاجتماع"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3362",
+  "code": "q_3362"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "ابن الهيثم",
+  "type": "who_am_i",
+  "clues": [
+   "تظاهرت بالجنون لأنجو من غضب الحاكم بأمر الله",
+   "شرحت أن الإبصار يحدث بدخول الضوء للعين",
+   "أبو علم البصريات صاحب «كتاب المناظر»"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3363",
+  "code": "q_3363"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "هارون الرشيد",
+  "type": "who_am_i",
+  "clues": [
+   "أرسلت ساعة مائية هدية لشارلمان",
+   "حججت ماشيًا وغزوت عامًا وحججت عامًا",
+   "أشهر خلفاء بني العباس وارتبط اسمي بألف ليلة وليلة"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3364",
+  "code": "q_3364"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "إسحاق نيوتن",
+  "type": "who_am_i",
+  "clues": [
+   "أصبحت مديرًا لدار سك العملة الملكية في بريطانيا",
+   "طوّرت حساب التفاضل والتكامل",
+   "يُقال إن تفاحة ألهمتني قانون الجاذبية"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3365",
+  "code": "q_3365"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "ماري كوري",
+  "type": "who_am_i",
+  "clues": [
+   "دُفنت في تابوت مبطن بالرصاص بسبب الإشعاع",
+   "اكتشفت عنصري البولونيوم والراديوم",
+   "أول من فاز بجائزتي نوبل في علمين مختلفين"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3366",
+  "code": "q_3366"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "غوتنبرغ",
+  "type": "who_am_i",
+  "clues": [
+   "كنت صائغًا قبل أن أشتهر",
+   "طبعت الكتاب المقدس في خمسينيات القرن الخامس عشر",
+   "اخترعت الطباعة بالحروف المتحركة في أوروبا"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3367",
+  "code": "q_3367"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "جنكيز خان",
+  "type": "who_am_i",
+  "clues": [
+   "اسمي الحقيقي تيموجين",
+   "أنشأت نظام بريد بالخيول «اليام» عبر قارة كاملة",
+   "مؤسس الإمبراطورية المغولية"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3368",
+  "code": "q_3368"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "الإسكندر الأكبر",
+  "type": "who_am_i",
+  "clues": [
+   "كان معلمي أرسطو",
+   "سُميت باسمي أكثر من 20 مدينة",
+   "قائد مقدوني وصلت فتوحاته إلى الهند"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3369",
+  "code": "q_3369"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "غاندي",
+  "type": "who_am_i",
+  "clues": [
+   "درست المحاماة في لندن وعملت في جنوب إفريقيا",
+   "قدت «مسيرة الملح» عام 1930",
+   "زعيم استقلال الهند باللاعنف"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3370",
+  "code": "q_3370"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "ليوناردو دا فينشي",
+  "type": "who_am_i",
+  "clues": [
+   "كنت أكتب ملاحظاتي بخط معكوس كالمرآة",
+   "رسمت تصاميم لآلات طائرة قبل اختراعها بقرون",
+   "رسام الموناليزا"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3371",
+  "code": "q_3371"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "يوسف بن تاشفين",
+  "type": "who_am_i",
+  "clues": [
+   "عشت قرابة مئة عام",
+   "انتصرت على ألفونسو السادس في الزلاقة",
+   "أمير المرابطين وباني مراكش"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3372",
+  "code": "q_3372"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "أبو بكر الصديق",
+  "type": "who_am_i",
+  "clues": [
+   "أعتقت بلالًا بن رباح",
+   "رافقت النبي ﷺ في الهجرة وفي الغار",
+   "أول الخلفاء الراشدين"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3373",
+  "code": "q_3373"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "من أنا؟",
+  "answer": "عمرو بن العاص",
+  "type": "who_am_i",
+  "clues": [
+   "أسست مدينة الفسطاط",
+   "كنت داهية العرب وذهبت إلى النجاشي قبل إسلامي",
+   "فاتح مصر"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3374",
+  "code": "q_3374"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "ابن رشد",
+  "type": "who_am_i",
+  "clues": [
+   "عُرفت في أوروبا باسم «أفيروس»",
+   "شرحت كتب أرسطو حتى لُقبت بالشارح",
+   "فيلسوف وقاضٍ أندلسي من قرطبة"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3375",
+  "code": "q_3375"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "البيروني",
+  "type": "who_am_i",
+  "clues": [
+   "قست محيط الأرض بدقة مذهلة من قمة جبل",
+   "عاصرت ابن سينا وتراسلت معه",
+   "صاحب كتاب «تحقيق ما للهند من مقولة»"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3376",
+  "code": "q_3376"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "عبد الرحمن الداخل",
+  "type": "who_am_i",
+  "clues": [
+   "هربت من العباسيين وعبرت الفرات سباحةً",
+   "لقبني أبو جعفر المنصور بـ«صقر قريش»",
+   "مؤسس الدولة الأموية في الأندلس"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3377",
+  "code": "q_3377"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "عباس بن فرناس",
+  "type": "who_am_i",
+  "clues": [
+   "اخترعت ساعة مائية وصنعت زجاجًا من الرمل",
+   "حلّقت بجناحين من الريش في قرطبة",
+   "يُعد من أوائل من حاولوا الطيران"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3378",
+  "code": "q_3378"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "فاطمة الفهرية",
+  "type": "who_am_i",
+  "clues": [
+   "لُقبت بـ«أم البنين»",
+   "أنفقت ميراثي في بناء مسجد",
+   "أسست جامع وجامعة القرويين في فاس"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3379",
+  "code": "q_3379"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "مانسا موسى",
+  "type": "who_am_i",
+  "clues": [
+   "أنفقت في القاهرة من الذهب ما هبط بسعره سنوات",
+   "حججت إلى مكة بقافلة هائلة عام 1324",
+   "حاكم إمبراطورية مالي ويُعد من أغنى من عاشوا"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3380",
+  "code": "q_3380"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "سيمون بوليفار",
+  "type": "who_am_i",
+  "clues": [
+   "حلمت باتحاد واحد اسمه «كولومبيا الكبرى»",
+   "حررت فنزويلا وكولومبيا والإكوادور وبيرو",
+   "سُميت دولة بوليفيا باسمي"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3381",
+  "code": "q_3381"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "فاسكو دا غاما",
+  "type": "who_am_i",
+  "clues": [
+   "مِتّ في الهند بعد أن عُيّنت نائبًا للملك فيها",
+   "أبحرت حول رأس الرجاء الصالح",
+   "أول أوروبي يصل إلى الهند بحرًا"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3382",
+  "code": "q_3382"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "فرديناند ماجلان",
+  "type": "who_am_i",
+  "clues": [
+   "سميت مضيقًا جنوب أمريكا باسمي",
+   "أعطيت المحيط الهادئ اسمه لهدوئه",
+   "قدت أول رحلة حول العالم وقُتلت في الفلبين"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3383",
+  "code": "q_3383"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "قطز",
+  "type": "who_am_i",
+  "clues": [
+   "بِعت عبدًا في طفولتي رغم نسبي الملكي",
+   "أطلقت صيحة «وا إسلاماه»",
+   "هزمت المغول في عين جالوت"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3384",
+  "code": "q_3384"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "الظاهر بيبرس",
+  "type": "who_am_i",
+  "clues": [
+   "أحييت الخلافة العباسية في القاهرة",
+   "أُسرت في طفولتي وبِعت في سوق الرقيق بسبب عيب في عيني",
+   "سلطان مملوكي حارب الصليبيين والمغول بعد عين جالوت"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3385",
+  "code": "q_3385"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "أرخميدس",
+  "type": "who_am_i",
+  "clues": [
+   "صممت مرايا يُقال إنها أحرقت سفن الرومان",
+   "قُتلت على يد جندي روماني وأنا أرسم دوائر",
+   "صرخت «وجدتها!» عندما اكتشفت قانون الطفو"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3386",
+  "code": "q_3386"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "من أنا؟",
+  "answer": "نيكولا تسلا",
+  "type": "who_am_i",
+  "clues": [
+   "ادعيت أنني أستطيع شطر الأرض لنصفين بالاهتزاز",
+   "طوّرت نظام التيار المتردد",
+   "مخترع صربي أمريكي سُميت شركة سيارات كهربائية باسمي"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3387",
+  "code": "q_3387"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "من أنا؟",
+  "answer": "الجزري",
+  "type": "who_am_i",
+  "clues": [
+   "صممت فيلًا آليًا يدق الساعة",
+   "ألفت «الجامع بين العلم والعمل النافع في صناعة الحيل»",
+   "مهندس مسلم من رواد الآلات الذاتية الحركة"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3388",
+  "code": "q_3388"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "من أنا؟",
+  "answer": "الإدريسي",
+  "type": "who_am_i",
+  "clues": [
+   "صنعت للملك روجر الثاني خريطة من الفضة",
+   "ألفت «نزهة المشتاق في اختراق الآفاق»",
+   "جغرافي مسلم من سبتة رسم خريطة للعالم في صقلية"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3389",
+  "code": "q_3389"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "من أنا؟",
+  "answer": "زرياب",
+  "type": "who_am_i",
+  "clues": [
+   "أدخلت إلى الأندلس ترتيب الطعام في وجبات متتالية",
+   "أضفت وترًا خامسًا للعود",
+   "موسيقي هرب من بغداد إلى قرطبة"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3390",
+  "code": "q_3390"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-people",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "من أنا؟",
+  "answer": "الزهراوي",
+  "type": "who_am_i",
+  "clues": [
+   "صممت أكثر من 200 أداة جراحية",
+   "ألفت موسوعة «التصريف لمن عجز عن التأليف»",
+   "أبو الجراحة الأندلسي"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3391",
+  "code": "q_3391"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "ما أنا؟",
+  "answer": "القهوة",
+  "type": "who_am_i",
+  "clues": [
+   "يُقال إن راعيًا لاحظ نشاط ماعزه بعد أكل ثماري",
+   "ارتبط اسمي بميناء المخا في اليمن",
+   "مشروب يُقدّم مع التمر في الضيافة العربية"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3392",
+  "code": "q_3392"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "ما أنا؟",
+  "answer": "الشمس",
+  "type": "who_am_i",
+  "clues": [
+   "أكثر من 99% من كتلة مجموعتي فيّ",
+   "يصل ضوئي إليكم بعد نحو 8 دقائق",
+   "النجم الأقرب إلى الأرض"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3393",
+  "code": "q_3393"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "ما أنا؟",
+  "answer": "القمر",
+  "type": "who_am_i",
+  "clues": [
+   "أبتعد عن الأرض نحو 4 سم كل عام",
+   "وجهي نفسه يقابلكم دائمًا",
+   "تبدأ الشهور الهجرية برؤيتي"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3394",
+  "code": "q_3394"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "ما أنا؟",
+  "answer": "كرة القدم",
+  "type": "who_am_i",
+  "clues": [
+   "أول بطولة عالمية لي أقيمت في الأوروغواي عام 1930",
+   "يلعبني 22 لاعبًا",
+   "أكثر الرياضات شعبية في العالم"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3395",
+  "code": "q_3395"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "ما أنا؟",
+  "answer": "الهاتف المحمول",
+  "type": "who_am_i",
+  "clues": [
+   "أول مكالمة بي كانت عام 1973 في نيويورك",
+   "صرت أحمل الكاميرا والخرائط والبنك",
+   "جهاز في جيب كل شخص تقريبًا"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3396",
+  "code": "q_3396"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "ما أنا؟",
+  "answer": "التمر",
+  "type": "who_am_i",
+  "clues": [
+   "يُستخرج من نواي قهوة بديلة",
+   "ذُكرت شجرتي في القرآن أكثر من 20 مرة",
+   "ثمرة النخيل التي يُفطر عليها الصائم"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3397",
+  "code": "q_3397"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "ما أنا؟",
+  "answer": "الإنترنت",
+  "type": "who_am_i",
+  "clues": [
+   "بدأت مشروعًا عسكريًا أمريكيًا اسمه ARPANET",
+   "اخترع تيم بيرنرز لي شبكتي العنكبوتية",
+   "شبكة تربط حواسيب العالم"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3398",
+  "code": "q_3398"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 2,
+  "question_text": "ما أنا؟",
+  "answer": "الماء",
+  "type": "who_am_i",
+  "clues": [
+   "أتمدد عندما أتجمد ولهذا يطفو جليدي",
+   "أغطي نحو 71% من سطح الأرض",
+   "صيغتي H₂O"
+  ],
+  "depth_level": 1,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3399",
+  "code": "q_3399"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "ما أنا؟",
+  "answer": "المريخ",
+  "type": "who_am_i",
+  "clues": [
+   "فيّ أعلى بركان في المجموعة الشمسية «أوليمبوس»",
+   "لي قمران صغيران: فوبوس وديموس",
+   "الكوكب الأحمر"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3400",
+  "code": "q_3400"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "ما أنا؟",
+  "answer": "زحل",
+  "type": "who_am_i",
+  "clues": [
+   "كثافتي أقل من الماء",
+   "لي أكثر من 140 قمرًا",
+   "كوكب مشهور بحلقاته"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3401",
+  "code": "q_3401"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "ما أنا؟",
+  "answer": "الذهب",
+  "type": "who_am_i",
+  "clues": [
+   "لا أصدأ ولا أتفاعل مع الهواء",
+   "رمزي الكيميائي Au",
+   "معدن أصفر ثمين تُصنع منه السبائك والحلي"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3402",
+  "code": "q_3402"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "ما أنا؟",
+  "answer": "الملح",
+  "type": "who_am_i",
+  "clues": [
+   "يُقال إن كلمة «Salary» (الراتب) مشتقة من اسمي",
+   "تقايضني القوافل بالذهب في الصحراء الكبرى",
+   "كلوريد الصوديوم الذي يوضع في الطعام"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3403",
+  "code": "q_3403"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "ما أنا؟",
+  "answer": "الشطرنج",
+  "type": "who_am_i",
+  "clues": [
+   "الوزيرة أقوى قطعة عندي اليوم",
+   "يُقال إنني جئت من الهند ثم انتقلت عبر بلاد فارس",
+   "لعبة الملك والشاه مات"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3404",
+  "code": "q_3404"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "ما أنا؟",
+  "answer": "الورق",
+  "type": "who_am_i",
+  "clues": [
+   "أُخذت صناعتي من الصين إلى سمرقند في القرن الثامن",
+   "صُنعت قديمًا من لحاء الشجر والخرق",
+   "تكتب عليّ وتصنع منّي الكتب"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3405",
+  "code": "q_3405"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "ما أنا؟",
+  "answer": "الأولمبياد",
+  "type": "who_am_i",
+  "clues": [
+   "توقفت قرابة 1500 عام ثم أُحييت عام 1896",
+   "شعاري خمس حلقات متداخلة",
+   "أكبر حدث رياضي يقام كل 4 سنوات"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3406",
+  "code": "q_3406"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "ما أنا؟",
+  "answer": "الزيتون",
+  "type": "who_am_i",
+  "clues": [
+   "أقدم أشجاري المعمرة يتجاوز عمرها ألفي عام",
+   "غصني رمز للسلام",
+   "شجرة مباركة يُعصر من ثمرها الزيت"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3407",
+  "code": "q_3407"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "ما أنا؟",
+  "answer": "البوصلة",
+  "type": "who_am_i",
+  "clues": [
+   "استخدمني الصينيون أولًا في التنجيم",
+   "أعمل بفضل المجال المغناطيسي للأرض",
+   "إبرتي تشير دائمًا إلى الشمال"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3408",
+  "code": "q_3408"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 3,
+  "question_text": "ما أنا؟",
+  "answer": "الزعفران",
+  "type": "who_am_i",
+  "clues": [
+   "أحتاج نحو 150 ألف زهرة لأصنع كيلوغرامًا واحدًا",
+   "أغلى توابل العالم",
+   "خيوط حمراء تعطي الأرز لونًا ذهبيًا"
+  ],
+  "depth_level": 2,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3409",
+  "code": "q_3409"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "ما أنا؟",
+  "answer": "المشمش",
+  "type": "who_am_i",
+  "clues": [
+   "يُقال «في المشمش» لما لا يتحقق",
+   "أُجفف وأُصنع منّي «قمر الدين»",
+   "فاكهة صيفية برتقالية صغيرة"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3410",
+  "code": "q_3410"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "ما أنا؟",
+  "answer": "الأوبرا",
+  "type": "who_am_i",
+  "clues": [
+   "أُغني فيها النصوص كلها تقريبًا بدل الحوار",
+   "ظهرت في إيطاليا قرابة عام 1600",
+   "مسرحية غنائية موسيقية"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3411",
+  "code": "q_3411"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "ما أنا؟",
+  "answer": "الذرة",
+  "type": "who_am_i",
+  "clues": [
+   "في كل كوز منّي عدد زوجي من الصفوف",
+   "نشأت في المكسيك وكانت أساس غذاء المايا",
+   "حبوب صفراء يُصنع منها الفشار"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3412",
+  "code": "q_3412"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "ما أنا؟",
+  "answer": "الكاكاو",
+  "type": "who_am_i",
+  "clues": [
+   "استخدمني الأزتك عملةً",
+   "تنمو ثماري مباشرة على جذع الشجرة",
+   "منّي تُصنع الشوكولاتة"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3413",
+  "code": "q_3413"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "ما أنا؟",
+  "answer": "المسلة المصرية",
+  "type": "who_am_i",
+  "clues": [
+   "أُخذ كثير منّي إلى روما ولندن وباريس ونيويورك",
+   "قطعة واحدة من الغرانيت رأسها هرمي",
+   "نصب حجري مصري طويل مدبب يحمل نقوشًا هيروغليفية"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3414",
+  "code": "q_3414"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "ما أنا؟",
+  "answer": "حجر رشيد",
+  "type": "who_am_i",
+  "clues": [
+   "يُحفظ في المتحف البريطاني",
+   "عُثر عليّ أثناء حملة نابليون عام 1799",
+   "حجر بثلاث كتابات فك به شامبليون رموز الهيروغليفية"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3415",
+  "code": "q_3415"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 5,
+  "question_text": "ما أنا؟",
+  "answer": "الزئبق",
+  "type": "who_am_i",
+  "clues": [
+   "قياسات الحرارة القديمة اعتمدت عليّ",
+   "رمزي Hg",
+   "الفلز الوحيد السائل في درجة حرارة الغرفة"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3416",
+  "code": "q_3416"
+ },
+ {
+  "category": "hints",
+  "subcategory": "hints-mixed",
+  "tags": [
+   "فقرة التلميحات"
+  ],
+  "source": "حيرة — فقرة التلميحات (تأليف ومراجعة)",
+  "difficulty": 6,
+  "question_text": "ما أنا؟",
+  "answer": "الأسطرلاب",
+  "type": "who_am_i",
+  "clues": [
+   "صُنعت منّي نسخ دقيقة من النحاس في الأندلس",
+   "أُحدد بي الوقت واتجاه القبلة وارتفاع النجوم",
+   "آلة فلكية استخدمها العلماء المسلمون والبحارة"
+  ],
+  "depth_level": 3,
+  "extra": {
+   "hint_round": true
+  },
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3417",
+  "code": "q_3417"
+ }
+]

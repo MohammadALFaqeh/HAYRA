@@ -1,6 +1,6 @@
 // استيراد JSON / CSV بصيغة حيرة (انظر supabase/seed/hayra-questions.json كمثال)
 import Papa from "papaparse";
-import { QUESTION_TYPE_IDS } from "@/lib/game/constants";
+import { HINT_POINTS, QUESTION_TYPE_IDS } from "@/lib/game/constants";
 import type { QuestionType } from "@/lib/game/types";
 import { clampDifficulty, depthFor, hash, type QuestionDraft } from "./types";
 
@@ -57,6 +57,13 @@ export function normalizeRow(raw: Record<string, unknown>, index: number): { dra
   if (list(raw.forbidden)) extra.forbidden = list(raw.forbidden);
   if (str(raw.target)) extra.target = str(raw.target);
 
+  const clues = list(raw.clues);
+  if (boolish(raw.hint_round, false)) extra.hint_round = true;
+  if (extra.hint_round === true) {
+    if (type !== "who_am_i") return { error: `صف ${index + 1}: أسئلة فقرة التلميحات من نوع who_am_i فقط` };
+    if (clues?.length !== HINT_POINTS.length) return { error: `صف ${index + 1}: سؤال فقرة التلميحات يحتاج ${HINT_POINTS.length} تلميحات بالضبط` };
+  }
+
   const choices = list(raw.choices);
   if (type === "multiple_choice" && (!choices || choices.length < 2)) return { error: `صف ${index + 1}: الاختيارات مطلوبة لسؤال الاختيارات` };
   if (type === "reverse_points" && (!choices || choices.length < 2)) return { error: `صف ${index + 1}: أضف عنصرين على الأقل بترتيب المراكز` };
@@ -73,7 +80,7 @@ export function normalizeRow(raw: Record<string, unknown>, index: number): { dra
       question_text,
       answer,
       choices,
-      clues: list(raw.clues),
+      clues,
       extra,
       difficulty,
       depth_level: Number(raw.depth_level) >= 1 && Number(raw.depth_level) <= 3 ? Number(raw.depth_level) : depthFor(difficulty),

@@ -1,0 +1,5569 @@
+[
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من بنى أهرامات الجيزة؟",
+  "answer": "المصريون القدماء",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2679",
+  "code": "q_2679"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة الدولة العباسية؟",
+  "answer": "بغداد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2680",
+  "code": "q_2680"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما عاصمة الدولة الأموية في المشرق؟",
+  "answer": "دمشق",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2681",
+  "code": "q_2681"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "إلى أي مدينة هاجر النبي محمد ﷺ؟",
+  "answer": "المدينة المنورة (يثرب)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2682",
+  "code": "q_2682"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي قرن ميلادي بدأت الدعوة الإسلامية؟",
+  "answer": "القرن السابع الميلادي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2683",
+  "code": "q_2683"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما المعركة التي انتصر فيها المسلمون على قريش في السنة الثانية للهجرة؟",
+  "answer": "غزوة بدر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2684",
+  "code": "q_2684"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الخليفة العباسي الذي بنى مدينة بغداد؟",
+  "answer": "أبو جعفر المنصور",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2685",
+  "code": "q_2685"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من القائد المسلم الذي فتح مصر؟",
+  "answer": "عمرو بن العاص",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2686",
+  "code": "q_2686"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من القائد المسلم الذي عبر المضيق وفتح الأندلس؟",
+  "answer": "طارق بن زياد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2687",
+  "code": "q_2687"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المدينة التي كانت عاصمة الدولة الأموية في الأندلس؟",
+  "answer": "قرطبة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2688",
+  "code": "q_2688"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من مؤسس الدولة الأيوبية؟",
+  "answer": "صلاح الدين الأيوبي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2689",
+  "code": "q_2689"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما المدينة التي حررها صلاح الدين الأيوبي من الصليبيين عام 1187م؟",
+  "answer": "القدس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2690",
+  "code": "q_2690"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي معركة هزم صلاح الدين الصليبيين هزيمة ساحقة عام 1187م؟",
+  "answer": "معركة حطين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2691",
+  "code": "q_2691"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المدينة التي بناها الفاطميون في مصر لتكون عاصمتهم؟",
+  "answer": "القاهرة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2692",
+  "code": "q_2692"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الإمبراطورية التي حكمت القسطنطينية قبل الفتح العثماني؟",
+  "answer": "الإمبراطورية البيزنطية (الرومانية الشرقية)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2693",
+  "code": "q_2693"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الاسم القديم لمدينة إسطنبول؟",
+  "answer": "القسطنطينية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2694",
+  "code": "q_2694"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من المؤرخ صاحب كتاب «المقدمة» الشهير؟",
+  "answer": "ابن خلدون",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2695",
+  "code": "q_2695"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما اسم المنطقة التي قامت فيها الحضارات بين نهري دجلة والفرات؟",
+  "answer": "بلاد الرافدين (ما بين النهرين)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2696",
+  "code": "q_2696"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الحضارة القديمة التي اشتهرت بمدينة بابل؟",
+  "answer": "الحضارة البابلية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2697",
+  "code": "q_2697"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "أي ملك بابلي اشتهر بأقدم مجموعة قوانين مكتوبة معروفة؟",
+  "answer": "حمورابي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2698",
+  "code": "q_2698"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي منطقة قامت الحضارة السومرية؟",
+  "answer": "جنوب بلاد الرافدين (جنوب العراق)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2699",
+  "code": "q_2699"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من أشهر ملكات مصر القديمة، وكانت آخر حكام الأسرة البطلمية؟",
+  "answer": "كليوباترا السابعة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2700",
+  "code": "q_2700"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الفيلسوف اليوناني الذي حُكم عليه بالموت بشرب السم؟",
+  "answer": "سقراط",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2701",
+  "code": "q_2701"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من أشهر تلاميذ سقراط ومؤلف كتاب «الجمهورية»؟",
+  "answer": "أفلاطون",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2702",
+  "code": "q_2702"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الفيلسوف الذي تتلمذ على يد أفلاطون؟",
+  "answer": "أرسطو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2703",
+  "code": "q_2703"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من القائد المقدوني الذي وصلت فتوحاته من اليونان حتى الهند؟",
+  "answer": "الإسكندر الأكبر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2704",
+  "code": "q_2704"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الإمبراطورية القديمة التي كانت عاصمتها روما؟",
+  "answer": "الإمبراطورية الرومانية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2705",
+  "code": "q_2705"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي مدينة يونانية نشأت الديمقراطية؟",
+  "answer": "أثينا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2706",
+  "code": "q_2706"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الحركة الثقافية والفنية التي بدأت في إيطاليا ثم انتشرت في أوروبا في القرنين الخامس عشر والسادس عشر؟",
+  "answer": "عصر النهضة الأوروبية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2707",
+  "code": "q_2707"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الثورة التي اندلعت في فرنسا عام 1789م؟",
+  "answer": "الثورة الفرنسية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2708",
+  "code": "q_2708"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من الإمبراطور الفرنسي الشهير في بداية القرن التاسع عشر؟",
+  "answer": "نابليون بونابرت",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2709",
+  "code": "q_2709"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الحرب الكبرى التي اندلعت في أوروبا عام 1914م؟",
+  "answer": "الحرب العالمية الأولى",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2710",
+  "code": "q_2710"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الحرب التي بدأت عام 1939م؟",
+  "answer": "الحرب العالمية الثانية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2711",
+  "code": "q_2711"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما المدينة اليابانية التي أُلقيت عليها أول قنبلة ذرية في التاريخ؟",
+  "answer": "هيروشيما",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2712",
+  "code": "q_2712"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المدينة اليابانية الثانية التي أُلقيت عليها قنبلة ذرية؟",
+  "answer": "ناغازاكي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2713",
+  "code": "q_2713"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما المنظمة الدولية التي تأسست عام 1945م للحفاظ على السلام العالمي؟",
+  "answer": "الأمم المتحدة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2714",
+  "code": "q_2714"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الحرب التي دارت بين ولايات الشمال وولايات الجنوب في أمريكا؟",
+  "answer": "الحرب الأهلية الأمريكية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2715",
+  "code": "q_2715"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الرئيس الأمريكي الذي قاد البلاد خلال الحرب الأهلية وألغى العبودية؟",
+  "answer": "أبراهام لينكولن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2716",
+  "code": "q_2716"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الوثيقة التي أعلنت بها المستعمرات الأمريكية انفصالها عن بريطانيا؟",
+  "answer": "إعلان الاستقلال",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2717",
+  "code": "q_2717"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي سنة أُعلن استقلال الولايات المتحدة الأمريكية؟",
+  "answer": "1776م",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2718",
+  "code": "q_2718"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من أول رئيس للولايات المتحدة الأمريكية؟",
+  "answer": "جورج واشنطن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2719",
+  "code": "q_2719"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الدولة الأوروبية التي استعمرت البرازيل؟",
+  "answer": "البرتغال",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2720",
+  "code": "q_2720"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الدولة الأوروبية التي استعمرت المكسيك؟",
+  "answer": "إسبانيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2721",
+  "code": "q_2721"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الحضارة التي بنت مدينة ماتشو بيتشو في جبال الأنديز؟",
+  "answer": "الإنكا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2722",
+  "code": "q_2722"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما اسم المحاربين اليابانيين التقليديين الذين اتبعوا قانون «البوشيدو»؟",
+  "answer": "الساموراي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2723",
+  "code": "q_2723"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الديانة التي نشأت في الهند على يد سيدهارتا غوتاما؟",
+  "answer": "البوذية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2724",
+  "code": "q_2724"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الإمبراطور المغولي في الهند الذي بنى تاج محل تخليدًا لزوجته؟",
+  "answer": "شاه جهان",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2725",
+  "code": "q_2725"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المدينة الفينيقية القديمة التي قامت قرب تونس الحالية ونافست روما؟",
+  "answer": "قرطاج",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2726",
+  "code": "q_2726"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من القائد القرطاجي الذي عبر جبال الألب بالفيلة لمحاربة روما؟",
+  "answer": "هانيبال (حنّبعل)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2727",
+  "code": "q_2727"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الدولة الإسلامية التي حكمت الأناضول والبلقان والبلاد العربية لقرون؟",
+  "answer": "الدولة العثمانية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2728",
+  "code": "q_2728"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من مؤسس الدولة العثمانية؟",
+  "answer": "عثمان الأول (عثمان بن أرطغرل)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2729",
+  "code": "q_2729"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المركز العلمي الشهير الذي أسسه العباسيون في بغداد لترجمة الكتب؟",
+  "answer": "بيت الحكمة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2730",
+  "code": "q_2730"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الأمير الأموي الملقب بـ«صقر قريش» الذي أسس الدولة الأموية في الأندلس؟",
+  "answer": "عبد الرحمن الداخل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2731",
+  "code": "q_2731"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما آخر مملكة إسلامية في الأندلس؟",
+  "answer": "مملكة غرناطة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2732",
+  "code": "q_2732"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من البحّار الذي وصل إلى الأمريكتين عام 1492م برعاية إسبانيا؟",
+  "answer": "كريستوفر كولومبوس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2733",
+  "code": "q_2733"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الدولة التي بدأت فيها الثورة الصناعية؟",
+  "answer": "بريطانيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2734",
+  "code": "q_2734"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من المخترع الاسكتلندي المرتبط بتطوير المحرك البخاري؟",
+  "answer": "جيمس واط",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2735",
+  "code": "q_2735"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الخليفة الذي تسلّم مفاتيح القدس بنفسه عند فتحها؟",
+  "answer": "عمر بن الخطاب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2736",
+  "code": "q_2736"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المعركة الحاسمة التي انتصر فيها المسلمون على البيزنطيين عام 636م؟",
+  "answer": "معركة اليرموك",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2737",
+  "code": "q_2737"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من أبرز قادة المسلمين في معركة اليرموك والملقب بـ«سيف الله المسلول»؟",
+  "answer": "خالد بن الوليد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2738",
+  "code": "q_2738"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المعركة الحاسمة التي انتصر فيها المسلمون على الفرس الساسانيين؟",
+  "answer": "معركة القادسية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2739",
+  "code": "q_2739"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الدولة الإسلامية التي قامت بعد سقوط الدولة الأموية في المشرق؟",
+  "answer": "الدولة العباسية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2740",
+  "code": "q_2740"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المسجد الشهير الذي بدأ عبد الرحمن الداخل بناءه في الأندلس؟",
+  "answer": "جامع قرطبة (المسجد الكبير)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2741",
+  "code": "q_2741"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من القائد المغولي الذي أسقط بغداد عام 1258م؟",
+  "answer": "هولاكو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2742",
+  "code": "q_2742"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من الرحالة المغربي الشهير الذي جاب العالم الإسلامي حتى الصين في القرن الرابع عشر؟",
+  "answer": "ابن بطوطة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2743",
+  "code": "q_2743"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من المستكشف البرتغالي الذي وصل إلى الهند بحرًا عبر رأس الرجاء الصالح؟",
+  "answer": "فاسكو دا غاما",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2744",
+  "code": "q_2744"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما القناة المصرية التي افتُتحت عام 1869م لتربط البحر المتوسط بالبحر الأحمر؟",
+  "answer": "قناة السويس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2745",
+  "code": "q_2745"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من الزعيم الجنوب إفريقي الذي سُجن 27 عامًا ثم أصبح رمزًا لمناهضة الفصل العنصري؟",
+  "answer": "نيلسون مانديلا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2746",
+  "code": "q_2746"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما النظام العنصري الذي حاربه نيلسون مانديلا في جنوب إفريقيا؟",
+  "answer": "الفصل العنصري (الأبارتهايد)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2747",
+  "code": "q_2747"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من مؤسس مصر الحديثة وحاكمها في أوائل القرن التاسع عشر؟",
+  "answer": "محمد علي باشا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2748",
+  "code": "q_2748"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الثورة التي أطاحت بالقيصر في روسيا عام 1917م؟",
+  "answer": "الثورة الروسية (البلشفية)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2749",
+  "code": "q_2749"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من قائد البلاشفة في الثورة الروسية؟",
+  "answer": "فلاديمير لينين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2750",
+  "code": "q_2750"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الأزمة الاقتصادية العالمية التي بدأت عام 1929م؟",
+  "answer": "الكساد الكبير",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2751",
+  "code": "q_2751"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من زعيم الحزب النازي في ألمانيا؟",
+  "answer": "أدولف هتلر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2752",
+  "code": "q_2752"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "أي دولة غزتها ألمانيا في 1 سبتمبر 1939م فبدأت الحرب العالمية الثانية؟",
+  "answer": "بولندا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2753",
+  "code": "q_2753"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الهجوم الياباني على قاعدة أمريكية الذي أدخل الولايات المتحدة الحرب العالمية الثانية؟",
+  "answer": "الهجوم على بيرل هاربر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2754",
+  "code": "q_2754"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما اسم الصراع السياسي بين الولايات المتحدة والاتحاد السوفيتي بعد الحرب العالمية الثانية؟",
+  "answer": "الحرب الباردة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2755",
+  "code": "q_2755"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الجدار الذي أصبح رمزًا للحرب الباردة وسقط عام 1989م؟",
+  "answer": "جدار برلين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2756",
+  "code": "q_2756"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الحرب التي دارت في جنوب شرق آسيا وتدخلت فيها الولايات المتحدة بقوة حتى 1975م؟",
+  "answer": "حرب فيتنام",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2757",
+  "code": "q_2757"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من مؤسس الجمهورية التركية الحديثة؟",
+  "answer": "مصطفى كمال أتاتورك",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2758",
+  "code": "q_2758"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المدينة التي أصبحت عاصمة الجمهورية التركية عام 1923م؟",
+  "answer": "أنقرة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2759",
+  "code": "q_2759"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي مدينة يقع المقر الرئيسي للأمم المتحدة؟",
+  "answer": "نيويورك",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2760",
+  "code": "q_2760"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المدينة التي أسسها الإسكندر الأكبر في مصر؟",
+  "answer": "الإسكندرية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2761",
+  "code": "q_2761"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المكتبة القديمة الشهيرة التي كانت أعظم مكتبات العالم القديم؟",
+  "answer": "مكتبة الإسكندرية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2762",
+  "code": "q_2762"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما العجيبة الوحيدة الباقية من عجائب الدنيا السبع القديمة؟",
+  "answer": "الهرم الأكبر في الجيزة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2763",
+  "code": "q_2763"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المنارة التي كانت إحدى عجائب الدنيا السبع القديمة في مصر؟",
+  "answer": "منارة الإسكندرية (فاروس)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2764",
+  "code": "q_2764"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي مدينة قديمة كانت الحدائق المعلقة الشهيرة بحسب الروايات؟",
+  "answer": "بابل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2765",
+  "code": "q_2765"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الزعيم الروماني الذي اغتيل في مجلس الشيوخ عام 44 ق.م؟",
+  "answer": "يوليوس قيصر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2766",
+  "code": "q_2766"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أقدم أنظمة الكتابة التي طوّرها السومريون؟",
+  "answer": "الكتابة المسمارية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2767",
+  "code": "q_2767"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من القائد الذي أسس مدينة القاهرة بأمر الخليفة الفاطمي المعز لدين الله؟",
+  "answer": "جوهر الصقلي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2768",
+  "code": "q_2768"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما اسم كتاب التاريخ الشهير للإمام الطبري؟",
+  "answer": "تاريخ الرسل والملوك (تاريخ الطبري)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2769",
+  "code": "q_2769"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي مدينة وُلد ابن خلدون؟",
+  "answer": "تونس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2770",
+  "code": "q_2770"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الفرعون الذي بنى معبد أبو سمبل وحكم مصر أكثر من 60 عامًا؟",
+  "answer": "رمسيس الثاني",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2771",
+  "code": "q_2771"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الفيلسوف اليوناني الذي كان معلمًا للإسكندر الأكبر؟",
+  "answer": "أرسطو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2772",
+  "code": "q_2772"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من أول إمبراطور روماني؟",
+  "answer": "أغسطس (أوكتافيان)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2773",
+  "code": "q_2773"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي سنة سقطت الإمبراطورية الرومانية الغربية؟",
+  "answer": "476م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2774",
+  "code": "q_2774"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المدينة الإيطالية التي تُعد مهد عصر النهضة؟",
+  "answer": "فلورنسا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2775",
+  "code": "q_2775"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الكتاب الشهير الذي طُبع بمطبعة غوتنبرغ في خمسينيات القرن الخامس عشر؟",
+  "answer": "الكتاب المقدس (إنجيل غوتنبرغ)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2776",
+  "code": "q_2776"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الراهب الألماني الذي أطلق حركة الإصلاح البروتستانتي عام 1517م؟",
+  "answer": "مارتن لوثر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2777",
+  "code": "q_2777"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الرئيس الأمريكي خلال معظم سنوات الحرب العالمية الثانية؟",
+  "answer": "فرانكلين روزفلت",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2778",
+  "code": "q_2778"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من القائد الفنزويلي الذي حرر عدة دول في أمريكا الجنوبية وسُميت بوليفيا باسمه؟",
+  "answer": "سيمون بوليفار",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2779",
+  "code": "q_2779"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الحضارة التي بنت مدينة تشيتشن إيتزا وهرمها الشهير في المكسيك؟",
+  "answer": "المايا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2780",
+  "code": "q_2780"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الحضارة التي اتخذت مدينة تينوتشتيتلان عاصمة لها؟",
+  "answer": "الأزتك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2781",
+  "code": "q_2781"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما العاصمة الحديثة المبنية فوق أنقاض تينوتشتيتلان عاصمة الأزتك؟",
+  "answer": "مكسيكو سيتي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2782",
+  "code": "q_2782"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الأسرة الحاكمة التي وحّدت الصين لأول مرة عام 221 ق.م؟",
+  "answer": "أسرة تشين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2783",
+  "code": "q_2783"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من أول إمبراطور وحّد الصين ودُفن معه «جيش التيراكوتا»؟",
+  "answer": "تشين شي هوانغ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2784",
+  "code": "q_2784"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما المدينة اليابانية التي كانت عاصمة الإمبراطورية أكثر من ألف عام قبل طوكيو؟",
+  "answer": "كيوتو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2785",
+  "code": "q_2785"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما اسم الحكم العسكري الذي حكم اليابان فعليًا قرونًا باسم الإمبراطور؟",
+  "answer": "الشوغونية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2786",
+  "code": "q_2786"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الحضارة القديمة التي ازدهرت حول نهر السند في باكستان والهند؟",
+  "answer": "حضارة وادي السند",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2787",
+  "code": "q_2787"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من مؤسس الإمبراطورية المغولية في الهند عام 1526م؟",
+  "answer": "ظهير الدين بابر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2788",
+  "code": "q_2788"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المدينة في مالي التي اشتهرت مركزًا للعلم والمخطوطات والتجارة؟",
+  "answer": "تمبكتو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2789",
+  "code": "q_2789"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من حاكم إمبراطورية مالي الذي اشتهر بثروته الأسطورية ورحلة حجه إلى مكة؟",
+  "answer": "مانسا موسى",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2790",
+  "code": "q_2790"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الإمبراطورية التي خلفت مالي كأقوى دولة في غرب إفريقيا في القرن الخامس عشر؟",
+  "answer": "إمبراطورية سنغاي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2791",
+  "code": "q_2791"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما اسم الحروب الثلاث بين روما وقرطاج؟",
+  "answer": "الحروب البونيقية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2792",
+  "code": "q_2792"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من انتصر في النهاية في الحروب بين روما وقرطاج؟",
+  "answer": "روما",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2793",
+  "code": "q_2793"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم الأسرة اليونانية التي حكمت مصر بعد الإسكندر وكانت كليوباترا آخر حكامها؟",
+  "answer": "البطالمة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2794",
+  "code": "q_2794"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المدينة المغربية التي أسسها المرابطون واتخذوها عاصمة؟",
+  "answer": "مراكش",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2795",
+  "code": "q_2795"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من القائد المرابطي الذي انتصر على الإسبان في معركة الزلاقة عام 1086م؟",
+  "answer": "يوسف بن تاشفين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2796",
+  "code": "q_2796"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من الداعية الذي أسس حركة المرابطين في الصحراء الكبرى؟",
+  "answer": "عبد الله بن ياسين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2797",
+  "code": "q_2797"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المدينة التي أسسها عمرو بن العاص في مصر بعد فتحها؟",
+  "answer": "الفسطاط",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2798",
+  "code": "q_2798"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الدولة التي حكمت مصر والشام من 1250م حتى الفتح العثماني عام 1517م؟",
+  "answer": "دولة المماليك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2799",
+  "code": "q_2799"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي منطقة وقعت معركة عين جالوت؟",
+  "answer": "فلسطين (قرب بيسان)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2800",
+  "code": "q_2800"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الجامعة في مدينة فاس التي تُعد من أقدم الجامعات في العالم؟",
+  "answer": "جامعة القرويين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2801",
+  "code": "q_2801"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من المرأة التي أسست جامع القرويين في فاس عام 859م؟",
+  "answer": "فاطمة الفهرية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2802",
+  "code": "q_2802"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من آخر حكام غرناطة المسلمين الذي سلّمها للإسبان؟",
+  "answer": "أبو عبد الله الصغير",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2803",
+  "code": "q_2803"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي قرن بدأت الثورة الصناعية في بريطانيا؟",
+  "answer": "القرن الثامن عشر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2804",
+  "code": "q_2804"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الصناعة التي كانت أول ما ميكنته الثورة الصناعية في بريطانيا؟",
+  "answer": "صناعة النسيج",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2805",
+  "code": "q_2805"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الحاكم الذي مهّد لتوحيد الجبهة الإسلامية ضد الصليبيين وكان صلاح الدين من قادته؟",
+  "answer": "نور الدين زنكي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2806",
+  "code": "q_2806"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الملك الإنجليزي الذي واجه صلاح الدين في الحملة الصليبية الثالثة؟",
+  "answer": "ريتشارد قلب الأسد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2807",
+  "code": "q_2807"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من السلطان المملوكي الذي اشتهر بقتال الصليبيين والمغول بعد عين جالوت؟",
+  "answer": "الظاهر بيبرس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2808",
+  "code": "q_2808"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما أول عاصمة كبرى للدولة العثمانية؟",
+  "answer": "بورصة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2809",
+  "code": "q_2809"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من الإمبراطور البيزنطي الذي بنى كنيسة آيا صوفيا الحالية في القرن السادس؟",
+  "answer": "جستنيان الأول",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2810",
+  "code": "q_2810"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم الملحمة السومرية البابلية التي تُعد من أقدم الأعمال الأدبية في التاريخ؟",
+  "answer": "ملحمة جلجامش",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2811",
+  "code": "q_2811"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما المدينة السومرية التي حكمها الملك جلجامش؟",
+  "answer": "أوروك (الوركاء)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2812",
+  "code": "q_2812"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما عاصمة الإمبراطورية الآشورية الحديثة الواقعة قرب الموصل اليوم؟",
+  "answer": "نينوى",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2813",
+  "code": "q_2813"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من مؤسس الإمبراطورية الفارسية الأخمينية؟",
+  "answer": "قورش الكبير",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2814",
+  "code": "q_2814"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي معركة هزم الأثينيون الفرس عام 490 ق.م وجاءت منها تسمية سباق الماراثون؟",
+  "answer": "معركة ماراثون",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2815",
+  "code": "q_2815"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما البركان الذي دمّر مدينة بومبي الرومانية عام 79م؟",
+  "answer": "فيزوف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2816",
+  "code": "q_2816"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الإمبراطور البيزنطي الذي حكم زمن بدايات الفتوحات الإسلامية في الشام؟",
+  "answer": "هرقل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2817",
+  "code": "q_2817"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي عام تقريبًا فتح المسلمون القدس؟",
+  "answer": "638م (15–16هـ)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2818",
+  "code": "q_2818"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الإمبراطورية الفارسية التي حكمت إيران عند ظهور الإسلام؟",
+  "answer": "الإمبراطورية الساسانية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2819",
+  "code": "q_2819"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما عاصمة الساسانيين الواقعة قرب بغداد الحالية؟",
+  "answer": "المدائن (طيسفون)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2820",
+  "code": "q_2820"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الدولة التي قامت في المغرب والأندلس بعد المرابطين؟",
+  "answer": "دولة الموحدين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2821",
+  "code": "q_2821"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الدولة التي حكمت إيران في القرن السادس عشر وجعلت التشيّع مذهبًا رسميًا؟",
+  "answer": "الدولة الصفوية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2822",
+  "code": "q_2822"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الإمبراطورية الإسلامية التي حكمت معظم الهند بين القرنين السادس عشر والتاسع عشر؟",
+  "answer": "الإمبراطورية المغولية (التيمورية) في الهند",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2823",
+  "code": "q_2823"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الاسم الأصلي لجنكيز خان؟",
+  "answer": "تيموجين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2824",
+  "code": "q_2824"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي سنة سقطت بغداد بيد المغول؟",
+  "answer": "1258م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2825",
+  "code": "q_2825"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الفيلسوف والقاضي الأندلسي الذي اشتهر بشروحه لأرسطو؟",
+  "answer": "ابن رشد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2826",
+  "code": "q_2826"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي مدينة وُلد ابن رشد؟",
+  "answer": "قرطبة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2827",
+  "code": "q_2827"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الفيلسوف المسلم الملقب بـ«المعلم الثاني» بعد أرسطو؟",
+  "answer": "الفارابي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2828",
+  "code": "q_2828"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما كتاب ابن الهيثم الشهير في علم البصريات؟",
+  "answer": "كتاب المناظر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2829",
+  "code": "q_2829"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من العالم الموسوعي صاحب كتاب «تحقيق ما للهند من مقولة» واشتهر بالفلك والجغرافيا؟",
+  "answer": "أبو الريحان البيروني",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2830",
+  "code": "q_2830"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من القائد الذي أسس مدينة القيروان في تونس؟",
+  "answer": "عقبة بن نافع",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2831",
+  "code": "q_2831"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما السلعتان اللتان قامت عليهما تجارة القوافل الكبرى عبر الصحراء في غرب إفريقيا؟",
+  "answer": "الذهب والملح",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2832",
+  "code": "q_2832"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الدولة الأوروبية التي بدأت مبكرًا رحلات الاستكشاف البحرية حول سواحل إفريقيا؟",
+  "answer": "البرتغال",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2833",
+  "code": "q_2833"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من المستكشف البرتغالي الذي قاد أول رحلة حول العالم لكنه قُتل في الفلبين؟",
+  "answer": "فرديناند ماجلان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2834",
+  "code": "q_2834"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من الفاتح الإسباني الذي أسقط إمبراطورية الأزتك؟",
+  "answer": "هرنان كورتيس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2835",
+  "code": "q_2835"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي دولة تقع خطوط نازكا الغامضة المرسومة على الأرض؟",
+  "answer": "بيرو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2836",
+  "code": "q_2836"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما المدينة في جبال الأنديز التي كانت عاصمة إمبراطورية الإنكا؟",
+  "answer": "كوسكو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2837",
+  "code": "q_2837"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الحرب التي بدأت عام 1775م بين بريطانيا ومستعمراتها في أمريكا الشمالية؟",
+  "answer": "حرب الاستقلال الأمريكية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2838",
+  "code": "q_2838"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي مدينة وُقّع إعلان استقلال الولايات المتحدة؟",
+  "answer": "فيلادلفيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2839",
+  "code": "q_2839"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من كتب معظم مسودة إعلان الاستقلال الأمريكي؟",
+  "answer": "توماس جيفرسون",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2840",
+  "code": "q_2840"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الوثيقة الشهيرة التي أصدرتها الثورة الفرنسية عام 1789م عن الحقوق؟",
+  "answer": "إعلان حقوق الإنسان والمواطن",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2841",
+  "code": "q_2841"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "إلى أي جزيرة نُفي نابليون أول مرة عام 1814م؟",
+  "answer": "جزيرة إلبا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2842",
+  "code": "q_2842"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي جزيرة نائية نُفي نابليون حتى وفاته؟",
+  "answer": "سانت هيلانة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2843",
+  "code": "q_2843"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما المؤتمر الذي أعاد رسم خريطة أوروبا بعد هزيمة نابليون (1814–1815)؟",
+  "answer": "مؤتمر فيينا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2844",
+  "code": "q_2844"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من «المستشار الحديدي» الذي وحّد ألمانيا عام 1871م؟",
+  "answer": "أوتو فون بسمارك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2845",
+  "code": "q_2845"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من القائد الثوري صاحب «القمصان الحمر» الذي ساهم في توحيد إيطاليا؟",
+  "answer": "جوزيبي غاريبالدي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2846",
+  "code": "q_2846"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الحرب التي تحالفت فيها بريطانيا وفرنسا والدولة العثمانية ضد روسيا (1853–1856)؟",
+  "answer": "حرب القرم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2847",
+  "code": "q_2847"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي سنة بدأت الحرب الأهلية الأمريكية؟",
+  "answer": "1861م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2848",
+  "code": "q_2848"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الحرب الأوروبية الدينية والسياسية التي دارت بين 1618 و1648م؟",
+  "answer": "حرب الثلاثين عامًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2849",
+  "code": "q_2849"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما مصدر الطاقة الذي كان وقود الثورة الصناعية في بريطانيا؟",
+  "answer": "الفحم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2850",
+  "code": "q_2850"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما وسيلة النقل التي انتشرت بسرعة في القرن التاسع عشر بفضل المحرك البخاري؟",
+  "answer": "السكك الحديدية (القطار)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2851",
+  "code": "q_2851"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الخديوي الذي افتتح قناة السويس عام 1869م؟",
+  "answer": "الخديوي إسماعيل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2852",
+  "code": "q_2852"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الدبلوماسي الفرنسي صاحب امتياز مشروع قناة السويس؟",
+  "answer": "فرديناند دي لسبس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2853",
+  "code": "q_2853"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي سنة احتلت بريطانيا مصر؟",
+  "answer": "1882م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2854",
+  "code": "q_2854"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي سنة أُطلق سراح نيلسون مانديلا من السجن؟",
+  "answer": "1990م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2855",
+  "code": "q_2855"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي سنة أصبح نيلسون مانديلا رئيسًا لجنوب إفريقيا؟",
+  "answer": "1994م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2856",
+  "code": "q_2856"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الحزب الذي قاد نضال مانديلا ضد الفصل العنصري؟",
+  "answer": "المؤتمر الوطني الإفريقي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2857",
+  "code": "q_2857"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي مدينة عُقد المؤتمر الذي نظّم تقاسم إفريقيا بين القوى الأوروبية (1884–1885)؟",
+  "answer": "برلين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2858",
+  "code": "q_2858"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي سنة انتهى حكم أسرة محمد علي في مصر؟",
+  "answer": "1952م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2859",
+  "code": "q_2859"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من آخر قياصرة روسيا؟",
+  "answer": "نيقولا الثاني",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2860",
+  "code": "q_2860"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي مدينة اغتيل وليّ عهد النمسا فرانز فرديناند عام 1914م؟",
+  "answer": "سراييفو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2861",
+  "code": "q_2861"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "على أي دولة أعلنت النمسا والمجر الحرب بعد اغتيال فرانز فرديناند؟",
+  "answer": "صربيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2862",
+  "code": "q_2862"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما اسم التحالفين الرئيسيين في الحرب العالمية الأولى؟",
+  "answer": "دول الحلفاء ودول المركز",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2863",
+  "code": "q_2863"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي سنة دخلت الولايات المتحدة الحرب العالمية الأولى؟",
+  "answer": "1917م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2864",
+  "code": "q_2864"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المنظمة الدولية التي تأسست بعد الحرب العالمية الأولى وسبقت الأمم المتحدة؟",
+  "answer": "عصبة الأمم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2865",
+  "code": "q_2865"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما السوق المالي الذي ارتبط انهياره ببداية الكساد الكبير عام 1929م؟",
+  "answer": "بورصة وول ستريت (نيويورك)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2866",
+  "code": "q_2866"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي سنة أصبح هتلر مستشارًا لألمانيا؟",
+  "answer": "1933م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2867",
+  "code": "q_2867"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الاسم الرمزي لغزو ألمانيا للاتحاد السوفيتي عام 1941م؟",
+  "answer": "عملية بارباروسا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2868",
+  "code": "q_2868"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المعركة الضخمة على الجبهة الشرقية التي شكلت نقطة تحول في الحرب العالمية الثانية (1942–1943)؟",
+  "answer": "معركة ستالينغراد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2869",
+  "code": "q_2869"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم إنزال الحلفاء على شواطئ فرنسا في 6 يونيو 1944م؟",
+  "answer": "إنزال نورماندي (D-Day)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2870",
+  "code": "q_2870"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من القائد الأعلى لقوات الحلفاء في إنزال نورماندي، وأصبح لاحقًا رئيسًا لأمريكا؟",
+  "answer": "دوايت أيزنهاور",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2871",
+  "code": "q_2871"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما العاصمة التي سقطت في مايو 1945م فاستسلمت ألمانيا؟",
+  "answer": "برلين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2872",
+  "code": "q_2872"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المشروع الأمريكي السري الذي طوّر القنبلة الذرية؟",
+  "answer": "مشروع مانهاتن",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2873",
+  "code": "q_2873"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من العالم الذي أدار مختبر لوس ألاموس في مشروع القنبلة الذرية ويُلقب «أبو القنبلة الذرية»؟",
+  "answer": "روبرت أوبنهايمر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2874",
+  "code": "q_2874"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي تاريخ أُلقيت القنبلة الذرية على هيروشيما؟",
+  "answer": "6 أغسطس 1945م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2875",
+  "code": "q_2875"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الوثيقة المؤسسة للأمم المتحدة؟",
+  "answer": "ميثاق الأمم المتحدة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2876",
+  "code": "q_2876"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي سنة انهار الاتحاد السوفيتي؟",
+  "answer": "1991م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2877",
+  "code": "q_2877"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما التحالف العسكري الغربي الذي تأسس عام 1949م؟",
+  "answer": "حلف شمال الأطلسي (الناتو)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2878",
+  "code": "q_2878"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما التحالف العسكري الذي أسسه الاتحاد السوفيتي ودول أوروبا الشرقية عام 1955م؟",
+  "answer": "حلف وارسو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2879",
+  "code": "q_2879"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الأزمة التي وضعت العالم على حافة حرب نووية عام 1962م بسبب صواريخ سوفيتية؟",
+  "answer": "أزمة الصواريخ الكوبية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2880",
+  "code": "q_2880"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الحرب التي دارت في شبه الجزيرة الكورية بين 1950 و1953م؟",
+  "answer": "الحرب الكورية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2881",
+  "code": "q_2881"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "عند أي خط عرض تقريبًا انقسمت كوريا إلى شمالية وجنوبية؟",
+  "answer": "خط العرض 38",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2882",
+  "code": "q_2882"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الاسم الحالي لمدينة سايغون الفيتنامية؟",
+  "answer": "مدينة هو تشي منه",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2883",
+  "code": "q_2883"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من قائد الثورة الشيوعية التي أسست جمهورية الصين الشعبية عام 1949م؟",
+  "answer": "ماو تسي تونغ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2884",
+  "code": "q_2884"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "إلى أي جزيرة انسحبت حكومة جمهورية الصين بعد هزيمتها عام 1949م؟",
+  "answer": "تايوان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2885",
+  "code": "q_2885"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي سنة قامت الثورة الإيرانية؟",
+  "answer": "1979م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2886",
+  "code": "q_2886"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي سنة أُعلنت الجمهورية التركية؟",
+  "answer": "1923م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2887",
+  "code": "q_2887"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الدولة التي انتهت رسميًا بإلغاء السلطنة عام 1922م؟",
+  "answer": "الدولة العثمانية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2888",
+  "code": "q_2888"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من المؤسس الفعلي للدولة الفاطمية في شمال إفريقيا عام 909م؟",
+  "answer": "عبيد الله المهدي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2889",
+  "code": "q_2889"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المدينة التونسية التي اتخذها الفاطميون أول عاصمة لهم؟",
+  "answer": "المهدية",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2890",
+  "code": "q_2890"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "قبل بناء بغداد، ما المدن التي اتخذها العباسيون مقرًا لحكمهم؟",
+  "answer": "الكوفة ثم الهاشمية (قرب الأنبار)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2891",
+  "code": "q_2891"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الصلح الذي عُقد بين صلاح الدين وريتشارد قلب الأسد عام 1192م؟",
+  "answer": "صلح الرملة",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2892",
+  "code": "q_2892"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من الخليفة الأموي في الأندلس الذي أعلن نفسه خليفة عام 929م؟",
+  "answer": "عبد الرحمن الناصر (الثالث)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2893",
+  "code": "q_2893"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من البحّار الذي أكمل أول رحلة حول العالم بعد مقتل ماجلان؟",
+  "answer": "خوان سباستيان إلكانو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2894",
+  "code": "q_2894"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من مؤسس حركة الموحدين في المغرب؟",
+  "answer": "محمد بن تومرت",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2895",
+  "code": "q_2895"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المدينة التي صارت عاصمة للعثمانيين بعد بورصة وقبل القسطنطينية؟",
+  "answer": "أدرنة",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2896",
+  "code": "q_2896"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما الأسرة الحاكمة البيزنطية التي شهدت نهضة كبيرة بين القرنين التاسع والحادي عشر؟",
+  "answer": "الأسرة المقدونية",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2897",
+  "code": "q_2897"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما اسم التمرد الشعبي الذي كاد يطيح بالإمبراطور جستنيان في القسطنطينية عام 532م؟",
+  "answer": "ثورة نيكا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2898",
+  "code": "q_2898"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "بأي لغة كُتبت شريعة حمورابي؟",
+  "answer": "الأكدية (بالخط المسماري)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2899",
+  "code": "q_2899"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الملك الآشوري الذي جمع مكتبة ضخمة من الألواح الطينية في نينوى؟",
+  "answer": "آشوربانيبال",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2900",
+  "code": "q_2900"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما العاصمة الاحتفالية الشهيرة للإمبراطورية الأخمينية التي أحرقها الإسكندر؟",
+  "answer": "برسبوليس (تخت جمشيد)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2901",
+  "code": "q_2901"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المعركة البحرية التي هزم فيها الإغريق أسطول الفرس عام 480 ق.م؟",
+  "answer": "معركة سلاميس",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2902",
+  "code": "q_2902"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "من الملك الفارسي الذي قاد الغزو الكبير لليونان عام 480 ق.م؟",
+  "answer": "خشايارشا الأول (زركسيس)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2903",
+  "code": "q_2903"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "في أي معركة هزم الإسكندرُ الأكبر داريوسَ الثالث هزيمته الحاسمة عام 331 ق.م؟",
+  "answer": "معركة غوغميلا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2904",
+  "code": "q_2904"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من مؤسس الأسرة البطلمية في مصر؟",
+  "answer": "بطليموس الأول",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2905",
+  "code": "q_2905"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من أي مدينة فينيقية خرج مؤسسو قرطاج بحسب الرواية؟",
+  "answer": "صور",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2906",
+  "code": "q_2906"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما المعركة التي أباد فيها هانيبال جيشًا رومانيًا ضخمًا عام 216 ق.م؟",
+  "answer": "معركة كاناي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2907",
+  "code": "q_2907"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المعركة التي هُزم فيها هانيبال أخيرًا عام 202 ق.م؟",
+  "answer": "معركة زاما",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2908",
+  "code": "q_2908"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من القائد الروماني الذي هزم هانيبال في معركة زاما؟",
+  "answer": "سكيبيو الإفريقي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2909",
+  "code": "q_2909"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الاسم الأصلي للإمبراطور أغسطس؟",
+  "answer": "غايوس أوكتافيوس (أوكتافيان)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2910",
+  "code": "q_2910"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "من الكاتب الروماني الذي وصف ثوران بركان فيزوف في رسائل شهيرة؟",
+  "answer": "بلينيوس الأصغر",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2911",
+  "code": "q_2911"
+ },
+ {
+  "category": "history",
+  "subcategory": "ancient",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من آخر ملوك الدولة الساسانية؟",
+  "answer": "يزدجرد الثالث",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2912",
+  "code": "q_2912"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من آخر خلفاء بني أمية في المشرق؟",
+  "answer": "مروان بن محمد (مروان الثاني)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2913",
+  "code": "q_2913"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المئذنة الموحدية الشهيرة في إشبيلية التي تحولت إلى برج للكاتدرائية؟",
+  "answer": "الخيرالدا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2914",
+  "code": "q_2914"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من مؤسس الدولة الصفوية؟",
+  "answer": "الشاه إسماعيل الأول",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2915",
+  "code": "q_2915"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المدينة التي جعلها الشاه عباس الأول عاصمة للصفويين وزيّنها بالمساجد؟",
+  "answer": "أصفهان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2916",
+  "code": "q_2916"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من الإمبراطور المغولي الهندي حفيد بابر الذي اشتهر بتسامحه وتوسيع دولته؟",
+  "answer": "جلال الدين أكبر",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2917",
+  "code": "q_2917"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من آخر الخلفاء العباسيين في بغداد الذي قُتل عند سقوطها عام 1258م؟",
+  "answer": "المستعصم بالله",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2918",
+  "code": "q_2918"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما المدينة الإيرانية التي كانت عاصمة الإيلخانيين المغول؟",
+  "answer": "تبريز (ثم السلطانية)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2919",
+  "code": "q_2919"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "من الحاكم الإيلخاني المغولي الذي أعلن إسلامه عام 1295م؟",
+  "answer": "غازان خان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2920",
+  "code": "q_2920"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما عنوان كتاب رحلة ابن بطوطة؟",
+  "answer": "تحفة النظار في غرائب الأمصار وعجائب الأسفار",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2921",
+  "code": "q_2921"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "في أي مدينة تولّى ابن خلدون منصب القضاء وتوفي؟",
+  "answer": "القاهرة",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2922",
+  "code": "q_2922"
+ },
+ {
+  "category": "history",
+  "subcategory": "arab-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "في أي مدينة نشأ ابن سينا وتعلّم؟",
+  "answer": "بخارى",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2923",
+  "code": "q_2923"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما ملك أكسوم الذي اعتنق المسيحية في القرن الرابع الميلادي؟",
+  "answer": "الملك عيزانا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2924",
+  "code": "q_2924"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المدينة الإثيوبية الشهيرة بكنائسها المنحوتة في الصخر؟",
+  "answer": "لاليبيلا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2925",
+  "code": "q_2925"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "من أشهر حكام إمبراطورية سنغاي الذي حج إلى مكة عام 1496م؟",
+  "answer": "أسكيا محمد",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2926",
+  "code": "q_2926"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما عاصمة إمبراطورية سنغاي؟",
+  "answer": "غاو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2927",
+  "code": "q_2927"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "في أي سنة وصل فاسكو دا غاما إلى الهند؟",
+  "answer": "1498م",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2928",
+  "code": "q_2928"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما الاسم الحديث للجزيرة التي وصل إليها كولومبوس أول مرة عام 1492م؟",
+  "answer": "سان سلفادور (غواناهاني) في جزر البهاما",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2929",
+  "code": "q_2929"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من الفاتح الإسباني الذي أسقط إمبراطورية الإنكا؟",
+  "answer": "فرانسيسكو بيثارو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2930",
+  "code": "q_2930"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما المدينة الماياوية الضخمة الواقعة في غابات غواتيمالا؟",
+  "answer": "تيكال",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2931",
+  "code": "q_2931"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما أقدم مدينة معروفة في الأمريكتين (نحو 2600 ق.م) وتقع في بيرو؟",
+  "answer": "كارال",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2932",
+  "code": "q_2932"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الأسرة الصينية الأولى المؤكدة تاريخيًا بالكتابات على العظام؟",
+  "answer": "أسرة شانغ",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2933",
+  "code": "q_2933"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الأسرة الصينية التي ازدهر في عهدها طريق الحرير وحكمت نحو أربعة قرون؟",
+  "answer": "أسرة هان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2934",
+  "code": "q_2934"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما أشهر مدن حضارة وادي السند الأثرية في باكستان؟",
+  "answer": "موهنجو دارو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2935",
+  "code": "q_2935"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الإمبراطورية الهندية التي حكمها الملك أشوكا ونشر البوذية؟",
+  "answer": "الإمبراطورية الماورية",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2936",
+  "code": "q_2936"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما الشعب الإفريقي الذي بنى مدينة زيمبابوي العظمى الحجرية؟",
+  "answer": "شعب الشونا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2937",
+  "code": "q_2937"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-civilizations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المملكة القديمة في إثيوبيا وإريتريا التي كانت قوة تجارية كبرى؟",
+  "answer": "مملكة أكسوم",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2938",
+  "code": "q_2938"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما أولى معارك حرب الاستقلال الأمريكية عام 1775م؟",
+  "answer": "معركتا ليكسينغتون وكونكورد",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2939",
+  "code": "q_2939"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما اسم أول دستور للولايات المتحدة قبل الدستور الحالي؟",
+  "answer": "مواد الاتحاد (وثائق الكونفدرالية)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2940",
+  "code": "q_2940"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "في أي سنة دخل الدستور الأمريكي الحالي حيز التنفيذ؟",
+  "answer": "1789م",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2941",
+  "code": "q_2941"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "من رجل الدولة النمساوي الذي هيمن على مؤتمر فيينا؟",
+  "answer": "كليمنس فون مترنيخ",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2942",
+  "code": "q_2942"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الاسم الذي أُطلق على موجة الثورات التي اجتاحت أوروبا عام 1848م؟",
+  "answer": "ربيع الشعوب (ثورات 1848)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2943",
+  "code": "q_2943"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "في أي سنة أُعلنت مملكة إيطاليا الموحدة؟",
+  "answer": "1861م",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2944",
+  "code": "q_2944"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما التعديل الدستوري الأمريكي الذي ألغى العبودية عام 1865م؟",
+  "answer": "التعديل الثالث عشر",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2945",
+  "code": "q_2945"
+ },
+ {
+  "category": "history",
+  "subcategory": "explorations",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المعاهدة التي قسّمت العالم الجديد بين إسبانيا والبرتغال عام 1494م؟",
+  "answer": "معاهدة تورديسيلاس",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2946",
+  "code": "q_2946"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المعاهدة التي أنهت حرب الثلاثين عامًا عام 1648م؟",
+  "answer": "صلح وستفاليا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2947",
+  "code": "q_2947"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الأسرة الحاكمة النمساوية التي حكمت الإمبراطورية الرومانية المقدسة وإسبانيا قرونًا؟",
+  "answer": "آل هابسبورغ",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2948",
+  "code": "q_2948"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الحرب (1756–1763) التي دارت في أوروبا وأمريكا والهند وتُعد حربًا عالمية مبكرة؟",
+  "answer": "حرب السنوات السبع",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2949",
+  "code": "q_2949"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "من مخترع آلة الغزل «جيني» عام 1764م تقريبًا؟",
+  "answer": "جيمس هارغريفز",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2950",
+  "code": "q_2950"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المدينة البريطانية التي صارت عاصمة صناعة النسيج القطني في الثورة الصناعية؟",
+  "answer": "مانشستر",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2951",
+  "code": "q_2951"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الحربان اللتان خاضتهما بريطانيا ضد المستوطنين الهولنديين في جنوب إفريقيا؟",
+  "answer": "حربا البوير",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2952",
+  "code": "q_2952"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "في أي سنة انتهت حرب البوير الثانية؟",
+  "answer": "1902م",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2953",
+  "code": "q_2953"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المعركة التي هزمت فيها إثيوبيا الجيش الإيطالي عام 1896م فحافظت على استقلالها؟",
+  "answer": "معركة عدوة",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2954",
+  "code": "q_2954"
+ },
+ {
+  "category": "history",
+  "subcategory": "battles",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من إمبراطور إثيوبيا الذي انتصر على إيطاليا في معركة عدوة؟",
+  "answer": "منليك الثاني",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2955",
+  "code": "q_2955"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما الدولتان الإفريقيتان اللتان كانتا مستعمرة ألمانية ثم انتقلتا إلى الإدارة البلجيكية؟",
+  "answer": "رواندا وبوروندي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2956",
+  "code": "q_2956"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المنطقة الإفريقية التي توسّع فيها محمد علي باشا جنوبًا؟",
+  "answer": "السودان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2957",
+  "code": "q_2957"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المدينة السودانية التي نشأت مركزًا إداريًا في عهد محمد علي باشا؟",
+  "answer": "الخرطوم",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2958",
+  "code": "q_2958"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الاسم الذي حملته سانت بطرسبرغ أثناء الثورة الروسية عام 1917م؟",
+  "answer": "بتروغراد",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2959",
+  "code": "q_2959"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما المعاهدة التي أخرجت روسيا من الحرب العالمية الأولى عام 1918م؟",
+  "answer": "معاهدة بريست ليتوفسك",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2960",
+  "code": "q_2960"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من الشاب الذي اغتال وليّ عهد النمسا فرانز فرديناند؟",
+  "answer": "غافريلو برينسيب",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2961",
+  "code": "q_2961"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من الرئيس الأمريكي صاحب «النقاط الأربع عشرة» الذي اقترح فكرة عصبة الأمم؟",
+  "answer": "وودرو ويلسون",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2962",
+  "code": "q_2962"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "هل انضمت الولايات المتحدة إلى عصبة الأمم؟",
+  "answer": "لا، رفض الكونغرس الانضمام",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2963",
+  "code": "q_2963"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما الاتفاقية التي سمحت لألمانيا عام 1938م بضم إقليم السوديت من تشيكوسلوفاكيا؟",
+  "answer": "اتفاقية ميونخ",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2964",
+  "code": "q_2964"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "في أي سنة انتهت معركة ستالينغراد بهزيمة الألمان؟",
+  "answer": "1943م",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2965",
+  "code": "q_2965"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المعركة البحرية عام 1942م التي قلبت موازين حرب المحيط الهادئ ضد اليابان؟",
+  "answer": "معركة ميدواي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2966",
+  "code": "q_2966"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "في أي شبه جزيرة يقع منتجع يالطا الذي التقى فيه روزفلت وتشرشل وستالين عام 1945م؟",
+  "answer": "شبه جزيرة القرم",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2967",
+  "code": "q_2967"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المؤتمر الأخير للحلفاء عام 1945م الذي حضره ترومان بعد وفاة روزفلت؟",
+  "answer": "مؤتمر بوتسدام",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2968",
+  "code": "q_2968"
+ },
+ {
+  "category": "history",
+  "subcategory": "world-wars",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "على متن أي سفينة وقّعت اليابان وثيقة الاستسلام في 2 سبتمبر 1945م؟",
+  "answer": "البارجة الأمريكية «ميزوري»",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2969",
+  "code": "q_2969"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "في أي تاريخ دخل ميثاق الأمم المتحدة حيز التنفيذ؟",
+  "answer": "24 أكتوبر 1945م",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2970",
+  "code": "q_2970"
+ },
+ {
+  "category": "history",
+  "subcategory": "modern-history",
+  "tags": [
+   "تاريخ"
+  ],
+  "source": "أسئلة وأجوبة في التاريخ (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما المعاهدة عام 1923م التي رسمت حدود تركيا الحديثة؟",
+  "answer": "معاهدة لوزان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-2971",
+  "code": "q_2971"
+ }
+]

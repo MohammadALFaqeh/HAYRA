@@ -230,4 +230,39 @@ s = run(s, { type: "FINISH" });
 assert.equal(s.phase, "finished");
 assert.equal(s.lastEvent?.team, "A");
 
+// 10) فقرة التلميحات: 500 ← 300 ← 150، والخطأ يكشف التلميح التالي لنفس الفريق
+{
+  const hq = q("h1", { type: "who_am_i", text: "من أنا؟", answer: "الزرافة", clues: ["صعب", "متوسط", "سهل"], extra: { hint_round: true } });
+  const hCells: BoardCell[] = [0, 1].map((ri) => ({
+    key: `c0-r${ri}`, col: 0, row: ri, points: 500, questionId: ri === 0 ? "h1" : "h2", status: "available", mystery: null, mysteryRevealed: false, wonBy: null, hint: true,
+  }));
+  let h = createInitialState({
+    sessionId: "h", teamNames: ["أ", "ب"], settings: { ...DEFAULT_SETTINGS, powerupsEnabled: false, streakEnabled: false },
+    columns: [columns[0]], cells: hCells, questions: { h1: hq, h2: { ...hq, id: "h2" } }, finalQuestionId: null, packName: null, now,
+  });
+  h = run(h, { type: "OPEN_CELL", cellKey: "c0-r0" });
+  assert.equal(h.active?.basePoints, 500);
+  assert.deepEqual(toPublicState(h).active?.question?.clues, ["صعب"], "التلميح الأول فقط ظاهر");
+  assert.deepEqual(toPublicState(h).active?.question?.hintPoints, [500, 300, 150]);
+  now += 20_000;
+  h = run(h, { type: "MARK_WRONG" });
+  assert.equal(h.active?.stage, "answering", "الخطأ لا يحوّل السؤال قبل نفاد التلميحات");
+  assert.equal(h.active?.answeringTeam, "A");
+  assert.equal(h.active?.basePoints, 300);
+  assert.equal(h.timer.endsAt, now + DEFAULT_SETTINGS.questionSeconds * 1000, "كل تلميح يبدأ وقته من جديد");
+  assert.equal(h.lastEvent?.kind, "clue");
+  h = run(h, { type: "NEXT_CLUE" });
+  assert.equal(h.active?.basePoints, 150);
+  h = run(h, { type: "NEXT_CLUE" });
+  assert.equal(h.active?.cluesShown, 3, "لا تلميح بعد الثالث");
+  h = run(h, { type: "MARK_WRONG" });
+  assert.equal(h.active?.stage, "stealing", "بعد آخر تلميح يتحول السؤال للخصم");
+  h = run(h, { type: "MARK_CORRECT", team: "B" });
+  assert.equal(h.teams.B.score, 150);
+  h = run(h, { type: "BACK_TO_BOARD" });
+  h = run(h, { type: "OPEN_CELL", cellKey: "c0-r1" });
+  h = run(h, { type: "MARK_CORRECT", team: "B" });
+  assert.equal(h.teams.B.score, 150 + 500, "من التلميح الأول = 500");
+}
+
 console.log("✅ كل اختبارات المحرك نجحت. النتيجة:", s.teams.A.name, s.teams.A.score, "—", s.teams.B.name, s.teams.B.score);
