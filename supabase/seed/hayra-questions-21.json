@@ -1,0 +1,5037 @@
+[
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «العاصمة الرسمية لأستراليا هي سيدني»",
+  "answer": "كانبيرا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4219",
+  "code": "q_4219"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عاصمة كندا هي تورونتو»",
+  "answer": "أوتاوا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4220",
+  "code": "q_4220"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عاصمة البرازيل هي ريو دي جانيرو»",
+  "answer": "برازيليا (منذ 1960)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4221",
+  "code": "q_4221"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عاصمة تركيا هي إسطنبول»",
+  "answer": "أنقرة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4222",
+  "code": "q_4222"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عاصمة إيطاليا هي ميلانو»",
+  "answer": "روما",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4223",
+  "code": "q_4223"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عاصمة اليابان هي أوساكا»",
+  "answer": "طوكيو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4224",
+  "code": "q_4224"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «العاصمة الرسمية للهند هي مومباي»",
+  "answer": "نيودلهي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4225",
+  "code": "q_4225"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عاصمة الأرجنتين هي ريو دي جانيرو»",
+  "answer": "بوينس آيرس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4226",
+  "code": "q_4226"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «مدينة الرباط هي عاصمة الجزائر»",
+  "answer": "الرباط عاصمة المغرب، وعاصمة الجزائر هي الجزائر العاصمة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4227",
+  "code": "q_4227"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «مدينة وارسو هي عاصمة روسيا»",
+  "answer": "وارسو عاصمة بولندا، وعاصمة روسيا موسكو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4228",
+  "code": "q_4228"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «مدينة تونس هي عاصمة الجزائر»",
+  "answer": "تونس عاصمة الجمهورية التونسية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4229",
+  "code": "q_4229"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «أكبر قارات العالم مساحةً هي أفريقيا»",
+  "answer": "آسيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4230",
+  "code": "q_4230"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «أكبر محيط في العالم هو المحيط الأطلسي»",
+  "answer": "المحيط الهادئ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4231",
+  "code": "q_4231"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «المحيط المتجمد الشمالي هو أكبر محيطات العالم»",
+  "answer": "هو أصغرها، والأكبر هو المحيط الهادئ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4232",
+  "code": "q_4232"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «جبل إيفرست يقع في جبال الأنديز»",
+  "answer": "في جبال الهيمالايا بآسيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4233",
+  "code": "q_4233"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «جبل كليمنجارو أعلى جبل في قارة آسيا»",
+  "answer": "كليمنجارو أعلى قمة في أفريقيا (تنزانيا)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4234",
+  "code": "q_4234"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «جبل فوجي أعلى جبل في الصين»",
+  "answer": "فوجي في اليابان",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4235",
+  "code": "q_4235"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «جبل فيزوف البركاني يقع في اليابان»",
+  "answer": "في إيطاليا قرب نابولي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4236",
+  "code": "q_4236"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «جبال الألب تقع في أمريكا الشمالية»",
+  "answer": "في أوروبا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4237",
+  "code": "q_4237"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «جبال الروكي تقع في أفريقيا»",
+  "answer": "في أمريكا الشمالية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4238",
+  "code": "q_4238"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «جبال الأبينين تمتد في قارة أفريقيا»",
+  "answer": "تمتد على طول إيطاليا في أوروبا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4239",
+  "code": "q_4239"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «قمة كي 2 تقع في جبال الألب»",
+  "answer": "في سلسلة كاراكورام بين باكستان والصين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4240",
+  "code": "q_4240"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «قمة إلبروس هي أعلى جبل في أمريكا الشمالية»",
+  "answer": "إلبروس في القوقاز (أعلى قمة في أوروبا)، وأعلى قمة في أمريكا الشمالية دينالي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4241",
+  "code": "q_4241"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «قمة دينالي (ماكينلي) تقع في جبال الأنديز»",
+  "answer": "في ألاسكا بأمريكا الشمالية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4242",
+  "code": "q_4242"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «نهر النيل يصب في المحيط الأطلسي»",
+  "answer": "يصب في البحر الأبيض المتوسط",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4243",
+  "code": "q_4243"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «نهر المسيسيبي يصب في المحيط الهادئ»",
+  "answer": "يصب في خليج المكسيك",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4244",
+  "code": "q_4244"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «نهر الغانج يصب في البحر الأحمر»",
+  "answer": "يصب في خليج البنغال",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4245",
+  "code": "q_4245"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «نهر دجلة يصب وحده في البحر الأبيض المتوسط»",
+  "answer": "يلتقي بالفرات فيشكلان شط العرب الذي يصب في الخليج العربي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4246",
+  "code": "q_4246"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «نهر الدانوب ينبع من جبال الأنديز»",
+  "answer": "من الغابة السوداء في ألمانيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4247",
+  "code": "q_4247"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «نهر الراين ينبع من البحر المتوسط»",
+  "answer": "ينبع من جبال الألب السويسرية ويصب في بحر الشمال",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4248",
+  "code": "q_4248"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «نهر التيمز يمر عبر العاصمة الإسبانية مدريد»",
+  "answer": "يمر عبر لندن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4249",
+  "code": "q_4249"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «نهر السند يجري في البرازيل»",
+  "answer": "يجري في باكستان ويصب في بحر العرب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4250",
+  "code": "q_4250"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «نهر الفولغا أطول أنهار أفريقيا»",
+  "answer": "أطول أنهار أوروبا ويصب في بحر قزوين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4251",
+  "code": "q_4251"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «نهر اليانغتسي من أقصر أنهار الصين»",
+  "answer": "أطول أنهار الصين وآسيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4252",
+  "code": "q_4252"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 5,
+  "question_text": "✏️ صحّح الخطأ: «نهر يوكون يصب في المحيط الأطلسي قرب أوروبا»",
+  "answer": "يصب في بحر بيرنغ بالمحيط الهادئ",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4253",
+  "code": "q_4253"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «بحيرة فيكتوريا أعمق بحيرة في العالم»",
+  "answer": "الأعمق بحيرة بايكال في روسيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4254",
+  "code": "q_4254"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «بحيرة سوبيريور تقع بين مصر وليبيا»",
+  "answer": "في أمريكا الشمالية بين الولايات المتحدة وكندا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4255",
+  "code": "q_4255"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «بحر قزوين متصل بالمحيط الأطلسي»",
+  "answer": "مسطح مائي مغلق، وهو أكبر بحيرة في العالم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4256",
+  "code": "q_4256"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «أكبر بحيرة في العالم مساحةً هي تيتيكاكا»",
+  "answer": "بحر قزوين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4257",
+  "code": "q_4257"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «قناة بنما تربط البحر المتوسط بالمحيط الهندي»",
+  "answer": "تربط المحيط الأطلسي بالمحيط الهادئ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4258",
+  "code": "q_4258"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «قناة السويس تقع في تركيا وتربط البحر الأسود بالأطلسي»",
+  "answer": "في مصر وتربط البحر المتوسط بالبحر الأحمر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4259",
+  "code": "q_4259"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «مضيق جبل طارق يفصل بين الأمريكتين وأفريقيا»",
+  "answer": "يفصل بين أوروبا وأفريقيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4260",
+  "code": "q_4260"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «مضيق البوسفور يفصل بين أوروبا وأمريكا الشمالية»",
+  "answer": "يفصل بين شطري تركيا الأوروبي والآسيوي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4261",
+  "code": "q_4261"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «مضيق هرمز يقع بين اليابان والولايات المتحدة»",
+  "answer": "بين الخليج العربي وخليج عُمان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4262",
+  "code": "q_4262"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «البحر الأحمر يفصل بين أفريقيا وأمريكا الجنوبية»",
+  "answer": "يفصل بين أفريقيا وشبه الجزيرة العربية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4263",
+  "code": "q_4263"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «البحر الكاريبي جزء من المحيط الهادئ»",
+  "answer": "جزء من المحيط الأطلسي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4264",
+  "code": "q_4264"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «جزيرة مدغشقر تقع قبالة سواحل الهند»",
+  "answer": "قبالة الساحل الشرقي لأفريقيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4265",
+  "code": "q_4265"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «جزر المالديف تقع في البحر المتوسط»",
+  "answer": "في المحيط الهندي جنوب غرب الهند",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4266",
+  "code": "q_4266"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «جزيرة جرينلاند تقع في المحيط الهندي»",
+  "answer": "في شمال المحيط الأطلسي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4267",
+  "code": "q_4267"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «شبه الجزيرة الإيبيرية تتكون من إيطاليا واليونان»",
+  "answer": "من إسبانيا والبرتغال",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4268",
+  "code": "q_4268"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «صحراء الربع الخالي تقع في شمال أفريقيا»",
+  "answer": "في شبه الجزيرة العربية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4269",
+  "code": "q_4269"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الصحراء الكبرى تقع في جنوب أفريقيا»",
+  "answer": "في شمال أفريقيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4270",
+  "code": "q_4270"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «شلال أنجل أعلى شلال في العالم ويقع في أوروبا»",
+  "answer": "في فنزويلا بأمريكا الجنوبية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4271",
+  "code": "q_4271"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «أيسلندا تقع على خط الاستواء»",
+  "answer": "قرب الدائرة القطبية الشمالية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4272",
+  "code": "q_4272"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «عاصمة تشيلي سانتياغو تقع في قارة أستراليا»",
+  "answer": "تشيلي في أمريكا الجنوبية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4273",
+  "code": "q_4273"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «جزر الفلبين تقع في المحيط الأطلسي»",
+  "answer": "في المحيط الهادئ جنوب شرق آسيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4274",
+  "code": "q_4274"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «خليج البنغال يحده المغرب والجزائر»",
+  "answer": "يحده الهند وبنغلاديش وميانمار",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4275",
+  "code": "q_4275"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «شبه جزيرة القرم تقع في المحيط الهادئ قرب اليابان»",
+  "answer": "على البحر الأسود",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4276",
+  "code": "q_4276"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «موسكو تقع في شرق روسيا قرب اليابان»",
+  "answer": "في غرب روسيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4277",
+  "code": "q_4277"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-geography",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 5,
+  "question_text": "✏️ صحّح الخطأ: «نهر الدانوب لا يمر إلا في ألمانيا»",
+  "answer": "يمر بعشر دول، أكثر من أي نهر آخر في العالم",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4278",
+  "code": "q_4278"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «كأس العالم لكرة القدم تقام كل ثلاث سنوات»",
+  "answer": "كل أربع سنوات",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4279",
+  "code": "q_4279"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «ميسي فاز بكأس العالم مع الأرجنتين عام 2018»",
+  "answer": "عام 2022",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4280",
+  "code": "q_4280"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «مارادونا فاز بكأس العالم مع البرازيل عام 1986»",
+  "answer": "مع الأرجنتين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4281",
+  "code": "q_4281"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «الهاتريك يعني صناعة ثلاث تمريرات حاسمة»",
+  "answer": "تسجيل ثلاثة أهداف في مباراة واحدة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4282",
+  "code": "q_4282"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «كريستيانو رونالدو بدأ مسيرته الاحترافية مع برشلونة»",
+  "answer": "مع سبورتينغ لشبونة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4283",
+  "code": "q_4283"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «باولو مالديني فاز بدوري الأبطال مع يوفنتوس»",
+  "answer": "قضى مسيرته كلها مع ميلان",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4284",
+  "code": "q_4284"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «ريال مدريد تأسس في برشلونة عام 1902»",
+  "answer": "تأسس في مدريد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4285",
+  "code": "q_4285"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «ركلة الجزاء تُنفذ من مسافة 16 مترًا»",
+  "answer": "من 11 مترًا (12 ياردة)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4286",
+  "code": "q_4286"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «يحق للحارس الإمساك بالكرة إذا مررها له زميله بقدمه عمدًا»",
+  "answer": "لا يحق، ويُحتسب ضربة حرة غير مباشرة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4287",
+  "code": "q_4287"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «يمكن تسجيل هدف مباشر من رمية التماس»",
+  "answer": "لا يُحتسب، ويُعطى ركلة مرمى",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4288",
+  "code": "q_4288"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «المباراة تستمر مهما نقص عدد لاعبي الفريق»",
+  "answer": "تتوقف إذا قل عدد لاعبي أحد الفريقين عن سبعة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4289",
+  "code": "q_4289"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «لا يمكن تسجيل هدف مباشر من ركلة ركنية»",
+  "answer": "يمكن، ويُسمى «الهدف الأولمبي»",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4290",
+  "code": "q_4290"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «لا يمكن تسجيل هدف مباشر من ضربة البداية»",
+  "answer": "يمكن ذلك وفق قوانين اللعبة الحديثة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4291",
+  "code": "q_4291"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «التسلل يُعاقب دائمًا ببطاقة صفراء»",
+  "answer": "يُعاقب بركلة حرة غير مباشرة دون بطاقة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4292",
+  "code": "q_4292"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «المدرب لا يمكن طرده أثناء المباراة»",
+  "answer": "يمكن طرده ببطاقة حمراء منذ 2019",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4293",
+  "code": "q_4293"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «زيدان سجل أكثر من 100 هدف في كأس العالم»",
+  "answer": "سجل 5 أهداف فقط",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4294",
+  "code": "q_4294"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «البرازيل شاركت لأول مرة في كأس العالم عام 1966»",
+  "answer": "شاركت منذ النسخة الأولى 1930 ولم تغب عن أي نسخة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4295",
+  "code": "q_4295"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الأرجنتين فازت بكوبا أمريكا لأول مرة عام 2019»",
+  "answer": "عام 1921",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4296",
+  "code": "q_4296"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «يوهان كرويف فاز بكأس العالم مع هولندا 1978»",
+  "answer": "لم يشارك في مونديال 1978، وهولندا خسرت النهائي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4297",
+  "code": "q_4297"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «محمد صلاح لعب طوال مسيرته لليفربول فقط»",
+  "answer": "لعب قبلها للمقاولون العرب وبازل وتشيلسي وفيورنتينا وروما",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4298",
+  "code": "q_4298"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «محمود الخطيب حارس مرمى مصري شهير»",
+  "answer": "مهاجم وأسطورة للأهلي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4299",
+  "code": "q_4299"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «أحمد الشناوي كان هداف الدوري الإيطالي»",
+  "answer": "حارس مرمى مصري",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4300",
+  "code": "q_4300"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «ميشائيل شوماخر فاز ببطولة العالم للفورمولا 1 خمس عشرة مرة»",
+  "answer": "سبع مرات",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4301",
+  "code": "q_4301"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «بطولة ويمبلدون تُلعب على الأرضية الصلبة»",
+  "answer": "على العشب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4302",
+  "code": "q_4302"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «أولمبياد 1960 أُقيم في القاهرة»",
+  "answer": "أُقيم في روما",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4303",
+  "code": "q_4303"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «أولمبياد طوكيو 2020 أُقيم في سياتل»",
+  "answer": "في طوكيو، وأُجل إلى 2021",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4304",
+  "code": "q_4304"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الهلال السعودي يشارك في دوري أبطال أوروبا»",
+  "answer": "يشارك في دوري أبطال آسيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4305",
+  "code": "q_4305"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «كأس أمم أفريقيا تُقام كل عام»",
+  "answer": "كل سنتين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4306",
+  "code": "q_4306"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «يُطرد لاعب كرة السلة في الـNBA بعد خمسة أخطاء شخصية»",
+  "answer": "بعد ستة، وفي فيبا بعد خمسة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4307",
+  "code": "q_4307"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «الكرة الذهبية 1998 فاز بها رونالدو»",
+  "answer": "فاز بها زين الدين زيدان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4308",
+  "code": "q_4308"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «البرازيل فازت بالذهب الأولمبي في كرة القدم خمس مرات حتى 2000»",
+  "answer": "لم تفز بأي ذهبية حتى 2016",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4309",
+  "code": "q_4309"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-sports",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «في الكرة الطائرة يتكون الفريق داخل الملعب من خمسة لاعبين»",
+  "answer": "من ستة لاعبين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4310",
+  "code": "q_4310"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «الماء يغلي عند 50 درجة مئوية عند مستوى سطح البحر»",
+  "answer": "عند 100 درجة مئوية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4311",
+  "code": "q_4311"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «الشمس هي أقرب كوكب إلى الأرض»",
+  "answer": "الشمس نجم وليست كوكبًا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4312",
+  "code": "q_4312"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «الأرض مسطحة»",
+  "answer": "الأرض كروية تقريبًا ومفلطحة قليلًا عند القطبين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4313",
+  "code": "q_4313"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «الشمس تدور حول الأرض»",
+  "answer": "الأرض تدور حول الشمس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4314",
+  "code": "q_4314"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «المجرة التي نعيش فيها تُسمى مجرة الفراشة»",
+  "answer": "درب التبانة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4315",
+  "code": "q_4315"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «جاذبية القمر تساوي جاذبية الأرض»",
+  "answer": "نحو سدس جاذبية الأرض",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4316",
+  "code": "q_4316"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الضوء أسرع في الماء منه في الفراغ»",
+  "answer": "أسرع ما يكون في الفراغ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4317",
+  "code": "q_4317"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الصوت ينتقل في الفراغ»",
+  "answer": "يحتاج وسطًا ماديًا ولا ينتقل في الفراغ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4318",
+  "code": "q_4318"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الضوء يحتاج وسطًا ماديًا لينتشر»",
+  "answer": "ينتشر في الفراغ دون وسط",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4319",
+  "code": "q_4319"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الزئبق مادة صلبة في الظروف العادية»",
+  "answer": "سائل في درجة حرارة الغرفة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4320",
+  "code": "q_4320"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الانصهار هو تحول الغاز إلى سائل»",
+  "answer": "تحول الصلب إلى سائل، والغاز إلى سائل يسمى تكثفًا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4321",
+  "code": "q_4321"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «ملح الطعام يتكون من الكربون والأكسجين»",
+  "answer": "من الصوديوم والكلور (كلوريد الصوديوم)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4322",
+  "code": "q_4322"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «النيوترونات تحمل شحنة موجبة»",
+  "answer": "متعادلة الشحنة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4323",
+  "code": "q_4323"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الذرة أصغر من البروتون»",
+  "answer": "البروتون جزء من نواة الذرة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4324",
+  "code": "q_4324"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الجاذبية قوة تنافر بين الأجسام»",
+  "answer": "قوة تجاذب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4325",
+  "code": "q_4325"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الحديد يطفو على الماء لأن كثافته أقل منه»",
+  "answer": "يغرق لأن كثافته أكبر من كثافة الماء",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4326",
+  "code": "q_4326"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الطاقة الكامنة الجاذبية لا تعتمد على الارتفاع»",
+  "answer": "تعتمد على الكتلة والارتفاع (ط = ك × ج × ع)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4327",
+  "code": "q_4327"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الطاقة الحركية لا تعتمد على الكتلة»",
+  "answer": "تعتمد على الكتلة ومربع السرعة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4328",
+  "code": "q_4328"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «المعادلة الشهيرة E=mc² وضعها نيوتن»",
+  "answer": "ألبرت أينشتاين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4329",
+  "code": "q_4329"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «طاقة الشمس ناتجة عن احتراق كيميائي للهيدروجين»",
+  "answer": "عن الاندماج النووي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4330",
+  "code": "q_4330"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الكواكب تدور حول الشمس في دوائر تامة»",
+  "answer": "في مدارات بيضاوية (قطع ناقص) حسب قوانين كبلر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4331",
+  "code": "q_4331"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «إضافة الملح إلى الماء تخفض درجة غليانه»",
+  "answer": "ترفعها",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4332",
+  "code": "q_4332"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الأشعة السينية ضوء مرئي قوي»",
+  "answer": "إشعاع غير مرئي أقصر موجة من الضوء المرئي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4333",
+  "code": "q_4333"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «الماء المقطر يحتوي معادن أكثر من ماء الصنبور»",
+  "answer": "الماء المقطر خالٍ تقريبًا من المعادن",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4334",
+  "code": "q_4334"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «الحرارة لا تؤثر على سرعة الصوت في الهواء»",
+  "answer": "سرعة الصوت تزيد بارتفاع الحرارة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4335",
+  "code": "q_4335"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «عند ثبات حجم الغاز لا يتغير ضغطه بالتسخين»",
+  "answer": "يزداد الضغط",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4336",
+  "code": "q_4336"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «البلوتونيوم أكثر العناصر وفرة في القشرة الأرضية»",
+  "answer": "الأكسجين ثم السيليكون",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4337",
+  "code": "q_4337"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «المذنب نجم صغير يدور حول الأرض كل ليلة»",
+  "answer": "جسم جليدي صخري يدور حول الشمس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4338",
+  "code": "q_4338"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «القمر يكتمل بدرًا كل أسبوع»",
+  "answer": "كل 29.5 يومًا تقريبًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4339",
+  "code": "q_4339"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عدد أيام السنة الميلادية 360 يومًا»",
+  "answer": "365 يومًا، و366 في الكبيسة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4340",
+  "code": "q_4340"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «عمر الأرض نحو مليار سنة»",
+  "answer": "نحو 4.5 مليار سنة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4341",
+  "code": "q_4341"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الخلايا الحيوانية لها جدار خلوي صلب كالنباتية»",
+  "answer": "لها غشاء خلوي فقط بلا جدار",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4342",
+  "code": "q_4342"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الأوردة تنقل الدم من القلب إلى الأعضاء»",
+  "answer": "الشرايين تنقله من القلب، والأوردة تعيده إليه",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4343",
+  "code": "q_4343"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الأنسولين يُفرز من الغدة النخامية»",
+  "answer": "من البنكرياس (جزر لانغرهانس)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4344",
+  "code": "q_4344"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الطيور لها أسنان تمضغ بها الطعام»",
+  "answer": "لا أسنان لها، وتطحن الطعام في القانصة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4345",
+  "code": "q_4345"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «البكتيريا كائنات حقيقية النواة»",
+  "answer": "بدائية النواة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4346",
+  "code": "q_4346"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «خلايا الدم الحمراء في الإنسان البالغ تحتوي على نواة»",
+  "answer": "خالية من النواة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4347",
+  "code": "q_4347"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الصفائح الدموية تنقل الأكسجين»",
+  "answer": "تساعد على تخثر الدم، وكريات الدم الحمراء تنقل الأكسجين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4348",
+  "code": "q_4348"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «العظم نسيج ميت لا خلايا حية فيه»",
+  "answer": "نسيج حي فيه خلايا وأوعية دموية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4349",
+  "code": "q_4349"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الجهاز العصبي المركزي هو المخ فقط»",
+  "answer": "المخ والحبل الشوكي معًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4350",
+  "code": "q_4350"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الحشرات لها جهاز دوران مغلق كالإنسان»",
+  "answer": "جهازها الدوري مفتوح",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4351",
+  "code": "q_4351"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الخلية النباتية لا تحتوي على ميتوكوندريا»",
+  "answer": "تحتوي عليها إلى جانب البلاستيدات الخضراء",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4352",
+  "code": "q_4352"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «النبات لا يتنفس في الليل»",
+  "answer": "يتنفس ليلًا ونهارًا، والبناء الضوئي هو الذي يتوقف ليلًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4353",
+  "code": "q_4353"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «الانقسام المتساوي ينتج الأمشاج الجنسية»",
+  "answer": "الأمشاج تنتج بالانقسام المنصف (الميوزي)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4354",
+  "code": "q_4354"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «الأكسجين في البناء الضوئي مصدره ثاني أكسيد الكربون»",
+  "answer": "مصدره تحلل الماء",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4355",
+  "code": "q_4355"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «عضلات القلب والعضلات الملساء لا تحتوي أكتين وميوزين»",
+  "answer": "تحتويهما مثل العضلات الهيكلية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4356",
+  "code": "q_4356"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «التناضح نقل نشط يحتاج طاقة»",
+  "answer": "نقل سلبي لا يحتاج طاقة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4357",
+  "code": "q_4357"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الغراب من الثدييات»",
+  "answer": "من الطيور",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4358",
+  "code": "q_4358"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-science",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «أسرع حيوان بري هو الفيل»",
+  "answer": "الفهد (الشيتا)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4359",
+  "code": "q_4359"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الثورة الفرنسية بدأت عام 1815»",
+  "answer": "عام 1789",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4360",
+  "code": "q_4360"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «تيتانيك غرقت أثناء حرب أهلية في بريطانيا»",
+  "answer": "غرقت بعد اصطدامها بجبل جليدي عام 1912",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4361",
+  "code": "q_4361"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «جدار برلين سقط عام 1999»",
+  "answer": "عام 1989",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4362",
+  "code": "q_4362"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «صلاح الدين الأيوبي استُشهد في معركة حطين»",
+  "answer": "انتصر فيها عام 1187 وتوفي في دمشق عام 1193",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4363",
+  "code": "q_4363"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «عاصمة الدولة العثمانية كانت القاهرة»",
+  "answer": "إسطنبول (القسطنطينية) بعد فتحها 1453",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4364",
+  "code": "q_4364"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الطباعة بالحروف المتحركة اخترعها إديسون في القرن التاسع عشر»",
+  "answer": "غوتنبرغ في القرن الخامس عشر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4365",
+  "code": "q_4365"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «أول من هبط على سطح القمر يوري غاغارين»",
+  "answer": "نيل أرمسترونغ، وغاغارين أول إنسان في الفضاء",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4366",
+  "code": "q_4366"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الإسكندر الأكبر عاش في القرن الثاني قبل الميلاد وغزا الصين»",
+  "answer": "عاش في القرن الرابع قبل الميلاد ولم يصل الصين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4367",
+  "code": "q_4367"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الهرم الأكبر بُني في القرن الخامس قبل الميلاد»",
+  "answer": "نحو 2560 ق.م للفرعون خوفو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4368",
+  "code": "q_4368"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «معاهدة فرساي وُقعت في روما»",
+  "answer": "في قصر فرساي قرب باريس عام 1919",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4369",
+  "code": "q_4369"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الإمبراطورية المغولية أسسها جنكيز خان في القرن الثامن عشر»",
+  "answer": "في القرن الثالث عشر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4370",
+  "code": "q_4370"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «نابليون قاد الثورة الروسية عام 1917»",
+  "answer": "قادها البلاشفة، ونابليون توفي عام 1821",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4371",
+  "code": "q_4371"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الثورة الصناعية بدأت في فرنسا»",
+  "answer": "بدأت في بريطانيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4372",
+  "code": "q_4372"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «مارتن لوثر علّق أطروحاته الـ95 في باريس»",
+  "answer": "في فيتنبرغ بألمانيا عام 1517",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4373",
+  "code": "q_4373"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «توت عنخ آمون حكم مصر ثلاثين عامًا»",
+  "answer": "حكم نحو تسع سنوات وتوفي شابًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4374",
+  "code": "q_4374"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «جامع الأزهر أسسه السلطان سليمان القانوني»",
+  "answer": "أسسه الفاطميون في القاهرة عام 970م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4375",
+  "code": "q_4375"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الحضارة السومرية نشأت في شمال تركيا»",
+  "answer": "في جنوب العراق",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4376",
+  "code": "q_4376"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «روما أسسها الإمبراطور ميثريداتس حسب الأسطورة»",
+  "answer": "رومولوس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4377",
+  "code": "q_4377"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «الإمبراطورية الرومانية الغربية سقطت عام 800م»",
+  "answer": "عام 476م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4378",
+  "code": "q_4378"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «ماجلان هو من اكتشف أمريكا»",
+  "answer": "كولومبوس وصلها عام 1492، وماجلان قاد أول رحلة حول العالم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4379",
+  "code": "q_4379"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «معركة واترلو وقعت في إسطنبول ضد العثمانيين»",
+  "answer": "في بلجيكا عام 1815 ضد التحالف الأوروبي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4380",
+  "code": "q_4380"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «الإمبراطورية الأخمينية أسسها الإسكندر الأكبر»",
+  "answer": "أسسها قورش الكبير",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4381",
+  "code": "q_4381"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «الماغنا كارتا وُقعت في باريس»",
+  "answer": "في إنجلترا عام 1215",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4382",
+  "code": "q_4382"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «حضارة الإنكا نشأت على سواحل المتوسط»",
+  "answer": "في جبال الأنديز بأمريكا الجنوبية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4383",
+  "code": "q_4383"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «البنسلين اكتشفه أبو بكر الرازي»",
+  "answer": "ألكسندر فليمنغ عام 1928",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4384",
+  "code": "q_4384"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «غاليليو هو أول من اخترع المنظار»",
+  "answer": "صُنع أول منظار في هولندا 1608، وغاليليو طوّره للفلك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4385",
+  "code": "q_4385"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 5,
+  "question_text": "✏️ صحّح الخطأ: «الكولوسيوم بُني في القرن الرابع قبل الميلاد»",
+  "answer": "في القرن الأول الميلادي زمن فيسباسيان وتيتوس",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4386",
+  "code": "q_4386"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 5,
+  "question_text": "✏️ صحّح الخطأ: «حريق لندن العظيم 1666 سببه زلزال»",
+  "answer": "بدأ من مخبز في شارع بودينغ لين",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4387",
+  "code": "q_4387"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 5,
+  "question_text": "✏️ صحّح الخطأ: «أول طائرة اخترعها إديسون»",
+  "answer": "الأخوان رايت عام 1903",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4388",
+  "code": "q_4388"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-history",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 5,
+  "question_text": "✏️ صحّح الخطأ: «أول عبور جوي للأطلسي دون توقف نفّذه الأخوان رايت»",
+  "answer": "ألكوك وبراون عام 1919",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4389",
+  "code": "q_4389"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عدد سور القرآن الكريم 115 سورة»",
+  "answer": "114 سورة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4390",
+  "code": "q_4390"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «النبي ﷺ وُلد في المدينة المنورة»",
+  "answer": "في مكة المكرمة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4391",
+  "code": "q_4391"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «أول مؤذن في الإسلام علي بن أبي طالب»",
+  "answer": "بلال بن رباح رضي الله عنه",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4392",
+  "code": "q_4392"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «صلاة الفجر ثلاث ركعات»",
+  "answer": "ركعتان",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4393",
+  "code": "q_4393"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «أركان الإسلام ستة»",
+  "answer": "خمسة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4394",
+  "code": "q_4394"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «آية الكرسي سورة مستقلة»",
+  "answer": "الآية 255 من سورة البقرة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4395",
+  "code": "q_4395"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «أول من جمع القرآن في مصحف واحد عمر بن الخطاب»",
+  "answer": "أبو بكر الصديق بمشورة عمر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4396",
+  "code": "q_4396"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «سورة الكافرون أطول سور القرآن»",
+  "answer": "أطولها سورة البقرة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4397",
+  "code": "q_4397"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «أول ما نزل من القرآن سورة البقرة»",
+  "answer": "أوائل سورة العلق",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4398",
+  "code": "q_4398"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «القرآن نزل دفعة واحدة على النبي ﷺ»",
+  "answer": "نزل منجمًا على نحو 23 سنة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4399",
+  "code": "q_4399"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «عمر بن الخطاب استُشهد في غزوة»",
+  "answer": "طُعن وهو يصلي الفجر في المسجد النبوي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4400",
+  "code": "q_4400"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «سورة الإخلاص مدنية»",
+  "answer": "مكية على الأشهر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4401",
+  "code": "q_4401"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: ««من غشنا فليس منا» آية في سورة الأنفال»",
+  "answer": "حديث نبوي وليس آية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4402",
+  "code": "q_4402"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «كل سور القرآن تبدأ بالبسملة»",
+  "answer": "إلا سورة التوبة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4403",
+  "code": "q_4403"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الحج واجب على كل مسلم ولو لم يستطع»",
+  "answer": "واجب مرة في العمر على المستطيع",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4404",
+  "code": "q_4404"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «العقيقة فرض على كل مولود»",
+  "answer": "سنة مؤكدة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4405",
+  "code": "q_4405"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «التثاؤب ينقض الوضوء»",
+  "answer": "لا ينقضه",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4406",
+  "code": "q_4406"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-islamic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الزكاة 10% من كل أنواع المال»",
+  "answer": "ربع العشر (2.5%) في النقود، وتختلف في الزروع والأنعام",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4407",
+  "code": "q_4407"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «اللغة العربية تُكتب من اليسار إلى اليمين»",
+  "answer": "من اليمين إلى اليسار",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4408",
+  "code": "q_4408"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «كان وأخواتها تنصب المبتدأ وترفع الخبر»",
+  "answer": "ترفع المبتدأ (اسمها) وتنصب الخبر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4409",
+  "code": "q_4409"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «إنّ وأخواتها ترفع المبتدأ وتنصب الخبر»",
+  "answer": "تنصب المبتدأ (اسمها) وترفع الخبر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4410",
+  "code": "q_4410"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «المثنى يُرفع بالياء ويُنصب بالألف»",
+  "answer": "يُرفع بالألف ويُنصب ويُجر بالياء",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4411",
+  "code": "q_4411"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الفعل اللازم يأخذ مفعولًا به»",
+  "answer": "اللازم لا يأخذ مفعولًا به، والمتعدي يأخذه",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4412",
+  "code": "q_4412"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «واو الجماعة حرف عطف»",
+  "answer": "ضمير متصل في محل رفع فاعل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4413",
+  "code": "q_4413"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الأفعال الخمسة تُرفع بالواو وتُنصب بالألف»",
+  "answer": "تُرفع بثبوت النون وتُنصب وتُجزم بحذفها",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4414",
+  "code": "q_4414"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «اللام الشمسية تُنطق ولا تُكتب»",
+  "answer": "تُكتب ولا تُنطق",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4415",
+  "code": "q_4415"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الخبر لا يكون إلا مفردًا»",
+  "answer": "يكون مفردًا أو جملة اسمية أو فعلية أو شبه جملة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4416",
+  "code": "q_4416"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الضمير المنفصل لا يقع مبتدأ»",
+  "answer": "يقع مبتدأ كثيرًا مثل «هو مجتهد»",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4417",
+  "code": "q_4417"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «المثل يقول: «يد واحدة لا تحمل قلبًا»»",
+  "answer": "«اليد الواحدة لا تصفق»",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4418",
+  "code": "q_4418"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «الاستعارة نوع واحد فقط»",
+  "answer": "نوعان: تصريحية ومكنية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4419",
+  "code": "q_4419"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «الجناس لا يكون إلا تامًا»",
+  "answer": "يكون تامًا أو ناقصًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4420",
+  "code": "q_4420"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arabic",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «التاء المربوطة تُلفظ تاءً عند الوقف»",
+  "answer": "تُلفظ هاءً عند الوقف وتاءً عند الوصل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4421",
+  "code": "q_4421"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «أشهر لوحة لليوناردو دا فينشي هي «الصرخة»»",
+  "answer": "«الموناليزا»، و«الصرخة» لإدفارد مونك",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4422",
+  "code": "q_4422"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «مؤلفة هاري بوتر هي أجاثا كريستي»",
+  "answer": "ج. ك. رولينغ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4423",
+  "code": "q_4423"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «نجيب محفوظ فاز بجائزة نوبل في الطب»",
+  "answer": "في الأدب عام 1988",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4424",
+  "code": "q_4424"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «رواية «الحرب والسلام» كتبها فيكتور هوغو»",
+  "answer": "ليو تولستوي، وهوغو كتب «البؤساء»",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4425",
+  "code": "q_4425"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «مسرحية «هاملت» كتبها دانتي»",
+  "answer": "ويليام شكسبير",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4426",
+  "code": "q_4426"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «رواية «مئة عام من العزلة» كتبها دوستويفسكي»",
+  "answer": "غابرييل غارسيا ماركيز",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4427",
+  "code": "q_4427"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «رواية «مزرعة الحيوان» كتبتها إميلي برونتي»",
+  "answer": "جورج أورويل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4428",
+  "code": "q_4428"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «فيروز مغنية مصرية من مواليد القاهرة»",
+  "answer": "لبنانية، واسمها الحقيقي نهاد حداد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4429",
+  "code": "q_4429"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «عبد الحليم حافظ وُلد في الرباط»",
+  "answer": "في محافظة الشرقية بمصر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4430",
+  "code": "q_4430"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «نزار قباني رسام تجريدي»",
+  "answer": "شاعر سوري",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4431",
+  "code": "q_4431"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «كاظم الساهر بدأ مسيرته ممثلًا سينمائيًا»",
+  "answer": "مطرب عراقي بدأ بالغناء والتلحين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4432",
+  "code": "q_4432"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «صباح فخري مطرب عراقي»",
+  "answer": "سوري حلبي اشتهر بالقدود والموشحات",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4433",
+  "code": "q_4433"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «هند صبري من مواليد الجزائر»",
+  "answer": "من مواليد تونس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4434",
+  "code": "q_4434"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «أم كلثوم غنّت بالتركية طوال مسيرتها»",
+  "answer": "غنّت بالعربية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4435",
+  "code": "q_4435"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «فرقة البيتلز أمريكية من جون لينون وبول مكارتني فقط»",
+  "answer": "بريطانية من ليفربول، وأعضاؤها أربعة بينهم جورج هاريسون ورينغو ستار",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4436",
+  "code": "q_4436"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «فرقة ABBA أمريكية من لوس أنجلوس»",
+  "answer": "سويدية من ستوكهولم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4437",
+  "code": "q_4437"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «فرقة كولدبلاي أمريكية من نيويورك»",
+  "answer": "بريطانية من لندن",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4438",
+  "code": "q_4438"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «رامي مالك وُلد في القاهرة»",
+  "answer": "وُلد في لوس أنجلوس لأبوين مصريين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4439",
+  "code": "q_4439"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «ليوناردو دي كابريو فاز بأول أوسكار عن «روميو وجولييت»»",
+  "answer": "عن «العائد» (The Revenant)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4440",
+  "code": "q_4440"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «نصب الحرية في نيويورك صممه المصري محمود مختار»",
+  "answer": "صممه الفرنسي بارتولدي ودُشن 1886",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4441",
+  "code": "q_4441"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «كلود مونيه من رواد التكعيبية»",
+  "answer": "من رواد الانطباعية، والتكعيبية لبيكاسو وبراك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4442",
+  "code": "q_4442"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «موزارت كتب سمفونياته في القرن العشرين»",
+  "answer": "عاش في القرن الثامن عشر (1756–1791)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4443",
+  "code": "q_4443"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «بيتهوفن عاش في القرن العشرين»",
+  "answer": "عاش بين 1770 و1827",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4444",
+  "code": "q_4444"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «البيانو اختُرع في القرن الحادي والعشرين»",
+  "answer": "في أوائل القرن الثامن عشر على يد كريستوفوري",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4445",
+  "code": "q_4445"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «رامبرانت توفي عام 1750»",
+  "answer": "عام 1669",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4446",
+  "code": "q_4446"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «أوبرا «كارمن» من تأليف مارسيل خليفة»",
+  "answer": "من تأليف الفرنسي جورج بيزيه",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4447",
+  "code": "q_4447"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «لوحة «الفتاة ذات القرط اللؤلؤي» رسمها جواد سليم»",
+  "answer": "رسمها الهولندي فيرمير، وجواد سليم نحات «نصب الحرية» في بغداد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4448",
+  "code": "q_4448"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «سالفادور دالي من منظري التعبيرية الألمانية»",
+  "answer": "إسباني من أبرز رواد السريالية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4449",
+  "code": "q_4449"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «فريدا كاهلو رسامة وُلدت في إسبانيا»",
+  "answer": "مكسيكية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4450",
+  "code": "q_4450"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «نجيب الريحاني ممثل مصري معاصر»",
+  "answer": "من رواد المسرح المصري في أوائل القرن العشرين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4451",
+  "code": "q_4451"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «أيمن زيدان ممثل لبناني»",
+  "answer": "ممثل سوري",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4452",
+  "code": "q_4452"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-arts",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «إياد نصار ممثل لم يعمل في الدراما المصرية»",
+  "answer": "أردني عمل في أعمال مصرية كثيرة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4453",
+  "code": "q_4453"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عملة اليابان هي اليوان»",
+  "answer": "الين، واليوان عملة الصين",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4454",
+  "code": "q_4454"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عملة المملكة المتحدة هي اليورو»",
+  "answer": "الجنيه الإسترليني",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4455",
+  "code": "q_4455"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «مؤسس مايكروسوفت هو ستيف جوبز»",
+  "answer": "بيل غيتس وبول ألن، وجوبز أسس آبل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4456",
+  "code": "q_4456"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «شعار آبل تفاحة كاملة بلا قضمة»",
+  "answer": "تفاحة مقضومة من جانبها",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4457",
+  "code": "q_4457"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 1,
+  "question_text": "✏️ صحّح الخطأ: «عدد قارات العالم ست قارات»",
+  "answer": "سبع قارات في التقسيم الشائع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4458",
+  "code": "q_4458"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «العملة الرسمية في الهند الروبية الباكستانية»",
+  "answer": "الروبية الهندية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4459",
+  "code": "q_4459"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «أول شركة بلغت قيمتها تريليون دولار سامسونج»",
+  "answer": "آبل عام 2018",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4460",
+  "code": "q_4460"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الويب اخترعه بيل غيتس»",
+  "answer": "تيم بيرنرز لي في مختبر سيرن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4461",
+  "code": "q_4461"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «أطول سور في العالم سور برلين»",
+  "answer": "سور الصين العظيم",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4462",
+  "code": "q_4462"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الورق اخترع في أوروبا في القرن السابع عشر»",
+  "answer": "في الصين نحو القرن الثاني الميلادي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4463",
+  "code": "q_4463"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «نظام GPS يعتمد على أبراج الهواتف»",
+  "answer": "يعتمد على أقمار صناعية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4464",
+  "code": "q_4464"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «اليونانيون القدماء كتبوا بالأبجدية اللاتينية»",
+  "answer": "بالأبجدية اليونانية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4465",
+  "code": "q_4465"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الفارسية تُكتب بالحروف اللاتينية»",
+  "answer": "تُكتب بحروف عربية معدلة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4466",
+  "code": "q_4466"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 2,
+  "question_text": "✏️ صحّح الخطأ: «الإسبانية مشتقة من الإنجليزية»",
+  "answer": "لغة رومانسية مشتقة من اللاتينية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4467",
+  "code": "q_4467"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «أكبر دولة في الشرق الأوسط مساحةً هي إسرائيل»",
+  "answer": "السعودية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4468",
+  "code": "q_4468"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «أكبر اقتصاد في العالم هو اليابان»",
+  "answer": "الولايات المتحدة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4469",
+  "code": "q_4469"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «أول عملة ورقية استخدمتها فرنسا»",
+  "answer": "الصين في عهد أسرة سونغ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4470",
+  "code": "q_4470"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «كتاب «الأمير» كتبه مكيافيلي بالإنجليزية»",
+  "answer": "بالإيطالية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4471",
+  "code": "q_4471"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الراديو اخترعه توماس إديسون»",
+  "answer": "طوّره ماركوني",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4472",
+  "code": "q_4472"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «مقياس الحرارة المئوي اخترعته الولايات المتحدة في القرن العشرين»",
+  "answer": "أندرس سلسيوس في القرن الثامن عشر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4473",
+  "code": "q_4473"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «كل دول الاتحاد الأوروبي تستخدم اليورو»",
+  "answer": "بعضها يحتفظ بعملته مثل السويد والدنمارك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4474",
+  "code": "q_4474"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الجاز نشأ في الشرق الأوسط»",
+  "answer": "نشأ في الولايات المتحدة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4475",
+  "code": "q_4475"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «القهوة اكتُشفت أول مرة في أوروبا»",
+  "answer": "في الحبشة واليمن",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4476",
+  "code": "q_4476"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 3,
+  "question_text": "✏️ صحّح الخطأ: «الأرقام العربية المستخدمة اليوم جاءت من أوروبا»",
+  "answer": "أصلها هندي، ونقلها العرب إلى أوروبا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4477",
+  "code": "q_4477"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «برج بيزا المائل مبني من الخرسانة المسلحة»",
+  "answer": "من الحجر والرخام في العصور الوسطى",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4478",
+  "code": "q_4478"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «أسرع طائرة مأهولة تطير بسرعة 10 ماخ»",
+  "answer": "SR-71 بلاك بيرد بنحو 3.3 ماخ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4479",
+  "code": "q_4479"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «أقدم بنك مركزي أُنشئ في الصين في القرن التاسع عشر»",
+  "answer": "من أقدمها بنك إنجلترا 1694 والبنك السويدي 1668",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4480",
+  "code": "q_4480"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «أول صورة فوتوغرافية التُقطت في القرن العشرين»",
+  "answer": "في أوائل القرن التاسع عشر (نحو 1826)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4481",
+  "code": "q_4481"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «اللغة السواحيلية من اللغات السامية»",
+  "answer": "من لغات البانتو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4482",
+  "code": "q_4482"
+ },
+ {
+  "category": "fix-it",
+  "subcategory": "fix-general",
+  "tags": [
+   "صحّح الخطأ"
+  ],
+  "source": "بنكا «صحّح الخطأ» (ملفات المستخدم) — انتقاء وتصحيح",
+  "difficulty": 4,
+  "question_text": "✏️ صحّح الخطأ: «أقدم جامعة في العالم هي هارفارد»",
+  "answer": "من أقدمها القرويين في فاس (859م)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4483",
+  "code": "q_4483"
+ }
+]
