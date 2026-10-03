@@ -1,0 +1,5195 @@
+[
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما معنى كلمة «بهيّ»؟",
+  "answer": "جميل حسن المظهر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3418",
+  "code": "q_3418"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما ضد كلمة «واضح»؟",
+  "answer": "غامض",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3419",
+  "code": "q_3419"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما أقرب معنى لكلمة «ثاقب» في قولنا «رأيٌ ثاقب»؟",
+  "answer": "نافذ حادّ",
+  "type": "multiple_choice",
+  "choices": [
+   "نافذ حادّ",
+   "بليد",
+   "ضعيف",
+   "متردد"
+  ],
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3420",
+  "code": "q_3420"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «الوقار» عند وصف شخص؟",
+  "answer": "الهيبة والرزانة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3421",
+  "code": "q_3421"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «ساري المفعول» في القوانين والعقود؟",
+  "answer": "نافذ ومعمول به",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3422",
+  "code": "q_3422"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما مرادف كلمة «نهج»؟",
+  "answer": "طريقة أو مسلك",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3423",
+  "code": "q_3423"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما مرادف كلمة «سخيّ»؟",
+  "answer": "كريم (جواد)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3424",
+  "code": "q_3424"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما ضد كلمة «نشيط»؟",
+  "answer": "كسول",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3425",
+  "code": "q_3425"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما معنى «عابس» عند وصف الوجه؟",
+  "answer": "متجهّم مقطّب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3426",
+  "code": "q_3426"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما مرادف كلمة «جسور»؟",
+  "answer": "جريء شجاع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3427",
+  "code": "q_3427"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما ضد كلمة «غزير»؟",
+  "answer": "قليل (شحيح)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3428",
+  "code": "q_3428"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما معنى «النَّهِم»؟",
+  "answer": "الشَّرِه الشديد الرغبة في الأكل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3429",
+  "code": "q_3429"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «التآلف» بين الناس؟",
+  "answer": "الانسجام والمودّة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3430",
+  "code": "q_3430"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «البليغ» عند وصف المتكلم؟",
+  "answer": "الفصيح الذي يبلغ بكلامه ما يريد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3431",
+  "code": "q_3431"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «العُطل» أو «العَطَب» في الآلة؟",
+  "answer": "التلف والخلل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3432",
+  "code": "q_3432"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «بادٍ» في قولنا «الحزن بادٍ على وجهه»؟",
+  "answer": "ظاهر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3433",
+  "code": "q_3433"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما ضد كلمة «ثابت»؟",
+  "answer": "متغيّر (متحرك)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3434",
+  "code": "q_3434"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما ضد كلمة «مأمون»؟",
+  "answer": "مَخُوف (خَطِر)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3435",
+  "code": "q_3435"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «الزاهد»؟",
+  "answer": "المعرض عن ملذات الدنيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3436",
+  "code": "q_3436"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما مرادف كلمة «صيحة»؟",
+  "answer": "صرخة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3437",
+  "code": "q_3437"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «المحنة»؟",
+  "answer": "الابتلاء والشدّة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3438",
+  "code": "q_3438"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما مرادف كلمة «عاجل»؟",
+  "answer": "فوري (سريع)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3439",
+  "code": "q_3439"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما مرادف كلمة «ثروة»؟",
+  "answer": "مال كثير (غنى)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3440",
+  "code": "q_3440"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما معنى «العاهة»؟",
+  "answer": "عيب أو إعاقة دائمة في الجسد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3441",
+  "code": "q_3441"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى قولنا «فلان خفيف الظل»؟",
+  "answer": "لطيف المعشر حلو الدعابة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3442",
+  "code": "q_3442"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى قولنا «فلان دمه ثقيل»؟",
+  "answer": "ثقيل الظل لا يستلطفه الناس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3443",
+  "code": "q_3443"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما ضد كلمة «صارم» عند وصف القرار؟",
+  "answer": "متساهل (ليّن)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3444",
+  "code": "q_3444"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الفرق بين «انقضّ» و«انقضى»؟",
+  "answer": "انقضّ: هجم بسرعة؛ انقضى: انتهى ومضى",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3445",
+  "code": "q_3445"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «يَبِسَ» النبات؟",
+  "answer": "جفّ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3446",
+  "code": "q_3446"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ماذا يُسمّى من يكرّر الطلب بإلحاح مزعج؟",
+  "answer": "اللَّجوج (المُلِحّ)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3447",
+  "code": "q_3447"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما ضد «سَلِس» عند وصف الأسلوب؟",
+  "answer": "معقّد متكلّف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3448",
+  "code": "q_3448"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «مأساوي»؟",
+  "answer": "فاجع شديد الحزن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3449",
+  "code": "q_3449"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما معنى «الاستطراد» في الكلام؟",
+  "answer": "الخروج من الموضوع إلى غيره ثم العودة إليه",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3450",
+  "code": "q_3450"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "كلمة «جَلَل» من الأضداد، فما معنياها المتضادان؟",
+  "answer": "العظيم والهيّن",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3451",
+  "code": "q_3451"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما معنى «أغراه بالمال»؟",
+  "answer": "استماله وأطمعه به",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3452",
+  "code": "q_3452"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما معنى «الزاهر» في قولنا «ربيع زاهر»؟",
+  "answer": "مشرق مُزهِر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3453",
+  "code": "q_3453"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "meanings",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما معنى «الصافي» عند وصف الماء؟",
+  "answer": "النقي الخالي من الكدر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3454",
+  "code": "q_3454"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «مدينة»؟",
+  "answer": "مُدُن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3455",
+  "code": "q_3455"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «باب»؟",
+  "answer": "أبواب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3456",
+  "code": "q_3456"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «جار»؟",
+  "answer": "جيران",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3457",
+  "code": "q_3457"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «قاضٍ»؟",
+  "answer": "قُضاة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3458",
+  "code": "q_3458"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «طفل»؟",
+  "answer": "أطفال",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3459",
+  "code": "q_3459"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «شارع»؟",
+  "answer": "شوارع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3460",
+  "code": "q_3460"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «امرأة»؟",
+  "answer": "نساء (ونسوة)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3461",
+  "code": "q_3461"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «نار»؟",
+  "answer": "نيران",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3462",
+  "code": "q_3462"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «حديقة»؟",
+  "answer": "حدائق",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3463",
+  "code": "q_3463"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمعا كلمة «عين» (عضو البصر)؟",
+  "answer": "عيون وأعيُن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3464",
+  "code": "q_3464"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «بيت»؟",
+  "answer": "بيوت",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3465",
+  "code": "q_3465"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «قلب»؟",
+  "answer": "قلوب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3466",
+  "code": "q_3466"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «يد»؟",
+  "answer": "أيدٍ (وأيادٍ)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3467",
+  "code": "q_3467"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمعا كلمة «بحر»؟",
+  "answer": "بحار وبحور",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3468",
+  "code": "q_3468"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «قصة»؟",
+  "answer": "قِصص",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3469",
+  "code": "q_3469"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «ولد»؟",
+  "answer": "أولاد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3470",
+  "code": "q_3470"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «درس»؟",
+  "answer": "دروس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3471",
+  "code": "q_3471"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «سماء»؟",
+  "answer": "سماوات",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3472",
+  "code": "q_3472"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «وردة»؟",
+  "answer": "ورود (وورد)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3473",
+  "code": "q_3473"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع التكسير لكلمة «عامل»؟",
+  "answer": "عُمّال",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3474",
+  "code": "q_3474"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «شجرة»؟",
+  "answer": "أشجار",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3475",
+  "code": "q_3475"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «مَلِك» (الحاكم)؟",
+  "answer": "ملوك",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3476",
+  "code": "q_3476"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «مَلَك» (من الملائكة)؟",
+  "answer": "ملائكة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3477",
+  "code": "q_3477"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «صديق»؟",
+  "answer": "أصدقاء",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3478",
+  "code": "q_3478"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «قارب»؟",
+  "answer": "قوارب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3479",
+  "code": "q_3479"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «شمس»؟",
+  "answer": "شموس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3480",
+  "code": "q_3480"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «بقرة»؟",
+  "answer": "أبقار",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3481",
+  "code": "q_3481"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «لعبة»؟",
+  "answer": "ألعاب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3482",
+  "code": "q_3482"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «قصر»؟",
+  "answer": "قصور",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3483",
+  "code": "q_3483"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «قِرش»؟",
+  "answer": "قروش",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3484",
+  "code": "q_3484"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «حِكمة»؟",
+  "answer": "حِكَم",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3485",
+  "code": "q_3485"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جمع كلمة «سرير»؟",
+  "answer": "أسِرّة (وسُرُر)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3486",
+  "code": "q_3486"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «أُذن»؟",
+  "answer": "آذان",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3487",
+  "code": "q_3487"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «نجم»؟",
+  "answer": "نجوم",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3488",
+  "code": "q_3488"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «رجل»؟",
+  "answer": "رجال",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3489",
+  "code": "q_3489"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «أمّ»؟",
+  "answer": "أمّهات",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3490",
+  "code": "q_3490"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «حارس»؟",
+  "answer": "حُرّاس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3491",
+  "code": "q_3491"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «جندي»؟",
+  "answer": "جنود",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3492",
+  "code": "q_3492"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمعا كلمة «شيخ»؟",
+  "answer": "شيوخ ومشايخ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3493",
+  "code": "q_3493"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جمع كلمة «مرض»؟",
+  "answer": "أمراض",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3494",
+  "code": "q_3494"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «قطّة»؟",
+  "answer": "قِطَط",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3495",
+  "code": "q_3495"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «أمل»؟",
+  "answer": "آمال",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3496",
+  "code": "q_3496"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «سفينة»؟",
+  "answer": "سُفُن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3497",
+  "code": "q_3497"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «مفتاح»؟",
+  "answer": "مفاتيح",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3498",
+  "code": "q_3498"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «بئر»؟",
+  "answer": "آبار",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3499",
+  "code": "q_3499"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «ماء»؟",
+  "answer": "مياه",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3500",
+  "code": "q_3500"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «أُمّة»؟",
+  "answer": "أُمَم",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3501",
+  "code": "q_3501"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «رأس»؟",
+  "answer": "رؤوس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3502",
+  "code": "q_3502"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «فرع»؟",
+  "answer": "فروع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3503",
+  "code": "q_3503"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جمع كلمة «حُجّة» بمعنى الدليل؟",
+  "answer": "حُجَج",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3504",
+  "code": "q_3504"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «إمام»؟",
+  "answer": "أئمة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3505",
+  "code": "q_3505"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جمع كلمة «كأس»؟",
+  "answer": "كؤوس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3506",
+  "code": "q_3506"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «أُسرة»؟",
+  "answer": "أُسَر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3507",
+  "code": "q_3507"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جمع كلمة «لؤلؤة»؟",
+  "answer": "لآلئ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3508",
+  "code": "q_3508"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «أسد»؟",
+  "answer": "أُسود",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3509",
+  "code": "q_3509"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جمع كلمة «ذراع»؟",
+  "answer": "أذرُع",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3510",
+  "code": "q_3510"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جمع كلمة «وِزر» (الذنب)؟",
+  "answer": "أوزار",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3511",
+  "code": "q_3511"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما جمع كلمة «قِرطاس» (الورقة)؟",
+  "answer": "قراطيس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3512",
+  "code": "q_3512"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جمع كلمة «أُفق»؟",
+  "answer": "آفاق",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3513",
+  "code": "q_3513"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «حاجّ»؟",
+  "answer": "حُجّاج",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3514",
+  "code": "q_3514"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «مقبرة»؟",
+  "answer": "مقابر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3515",
+  "code": "q_3515"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «دليل»؟",
+  "answer": "أدلّة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3516",
+  "code": "q_3516"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جمع كلمة «حُجرة» (الغرفة)؟",
+  "answer": "حُجُرات (وحُجَر)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3517",
+  "code": "q_3517"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جمع كلمة «أستاذة»؟",
+  "answer": "أستاذات",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3518",
+  "code": "q_3518"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جمع كلمة «مِخبأ»؟",
+  "answer": "مخابئ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3519",
+  "code": "q_3519"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما مثنى كلمة «كتاب» في حالة الرفع؟",
+  "answer": "كتابان",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3520",
+  "code": "q_3520"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما مثنى كلمة «امرأة» في حالة الرفع؟",
+  "answer": "امرأتان",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3521",
+  "code": "q_3521"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما مثنى كلمة «فتى»؟",
+  "answer": "فتيان (فَتَيان)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3522",
+  "code": "q_3522"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما مثنى كلمة «عصا»؟",
+  "answer": "عصوان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3523",
+  "code": "q_3523"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما مثنى الاسم «موسى»؟",
+  "answer": "موسَيان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3524",
+  "code": "q_3524"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما مثنى كلمة «صحراء»؟",
+  "answer": "صحراوان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3525",
+  "code": "q_3525"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما مثنى كلمة «قاضٍ»؟",
+  "answer": "قاضيان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3526",
+  "code": "q_3526"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما مفرد كلمة «آبار»؟",
+  "answer": "بئر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3527",
+  "code": "q_3527"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "plurals",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما مفرد كلمة «أعراف»؟",
+  "answer": "عُرف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3528",
+  "code": "q_3528"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جذر الفعل «استخرج»؟",
+  "answer": "خ ر ج",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3529",
+  "code": "q_3529"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "على أي وزن تأتي كلمة «مكتبة»؟",
+  "answer": "مَفْعَلة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3530",
+  "code": "q_3530"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما مصدر الفعل «علّم»؟",
+  "answer": "تعليم",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3531",
+  "code": "q_3531"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما اسم الفاعل من الفعل «كتب»؟",
+  "answer": "كاتب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3532",
+  "code": "q_3532"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما اسم المفعول من الفعل «قرأ»؟",
+  "answer": "مقروء",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3533",
+  "code": "q_3533"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جذر كلمة «استقرار»؟",
+  "answer": "ق ر ر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3534",
+  "code": "q_3534"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جذر كلمة «معلّم»؟",
+  "answer": "ع ل م",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3535",
+  "code": "q_3535"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "على أي وزن يأتي الفعل «استعان»؟",
+  "answer": "استفعل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3536",
+  "code": "q_3536"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما مصدر الفعل «جلس»؟",
+  "answer": "جلوس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3537",
+  "code": "q_3537"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما اسم الفاعل من الفعل «نظّف»؟",
+  "answer": "مُنظِّف",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3538",
+  "code": "q_3538"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما اسم المفعول من الفعل «كسر»؟",
+  "answer": "مكسور",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3539",
+  "code": "q_3539"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جذر كلمة «مسألة»؟",
+  "answer": "س أ ل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3540",
+  "code": "q_3540"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما مصدر الفعل «تعلّم»؟",
+  "answer": "تعلُّم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3541",
+  "code": "q_3541"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما اسم الفاعل من الفعل «أكل»؟",
+  "answer": "آكِل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3542",
+  "code": "q_3542"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم المفعول من الفعل «بنى»؟",
+  "answer": "مبنيّ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3543",
+  "code": "q_3543"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما جذر كلمة «مفتاح»؟",
+  "answer": "ف ت ح",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3544",
+  "code": "q_3544"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "على أي وزن تأتي كلمة «مفتاح»؟",
+  "answer": "مِفْعال (اسم آلة)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3545",
+  "code": "q_3545"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "على أي وزن تأتي كلمة «تحمُّل»؟",
+  "answer": "تَفَعُّل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3546",
+  "code": "q_3546"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جذر كلمة «مؤمن»؟",
+  "answer": "أ م ن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3547",
+  "code": "q_3547"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "على أي وزن تأتي كلمة «استثمار»؟",
+  "answer": "استفعال",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3548",
+  "code": "q_3548"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما جذر كلمة «مرآة»؟",
+  "answer": "ر أ ي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3549",
+  "code": "q_3549"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "على أي وزن تأتي كلمة «مكتوب»؟",
+  "answer": "مفعول",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3550",
+  "code": "q_3550"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جذر كلمة «استقامة»؟",
+  "answer": "ق و م",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3551",
+  "code": "q_3551"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما مصدر الفعل «نسي»؟",
+  "answer": "نسيان",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3552",
+  "code": "q_3552"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما اسم الفاعل من الفعل «سافر»؟",
+  "answer": "مسافِر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3553",
+  "code": "q_3553"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم المفعول من الفعل «أكّد»؟",
+  "answer": "مؤكَّد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3554",
+  "code": "q_3554"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما مصدر الفعل «سأل»؟",
+  "answer": "سؤال",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3555",
+  "code": "q_3555"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جذر كلمة «مستشفى»؟",
+  "answer": "ش ف ي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3556",
+  "code": "q_3556"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما جذر الفعل «استغفر»؟",
+  "answer": "غ ف ر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3557",
+  "code": "q_3557"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما مصدر الفعل «قرّب»؟",
+  "answer": "تقريب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3558",
+  "code": "q_3558"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما مصدر الفعل «انقضّ»؟",
+  "answer": "انقضاض",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3559",
+  "code": "q_3559"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم الفاعل من الفعل «أطعم»؟",
+  "answer": "مُطعِم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3560",
+  "code": "q_3560"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما مصدر الفعل «تزيّن»؟",
+  "answer": "تزيُّن",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3561",
+  "code": "q_3561"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "على أي وزن يأتي الفعل «أسلم»؟",
+  "answer": "أفْعَل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3562",
+  "code": "q_3562"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم المكان من الفعل «نحر»؟",
+  "answer": "مَنْحَر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3563",
+  "code": "q_3563"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما مصدر الفعل «استحمّ»؟",
+  "answer": "استحمام",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3564",
+  "code": "q_3564"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم المكان من الفعل «جرى»؟",
+  "answer": "مَجرى",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3565",
+  "code": "q_3565"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما اسم الفاعل من الفعل «أصلح»؟",
+  "answer": "مُصلِح",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3566",
+  "code": "q_3566"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم المكان من الفعل «ركع»؟",
+  "answer": "مَركَع",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3567",
+  "code": "q_3567"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما اسم المكان من الفعل «سكن»؟",
+  "answer": "مَسكن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3568",
+  "code": "q_3568"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما مصدر الفعل «رسب»؟",
+  "answer": "رسوب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3569",
+  "code": "q_3569"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم المكان من الفعل «نظر»؟",
+  "answer": "مَنظَر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3570",
+  "code": "q_3570"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "على أي وزن يأتي الفعل «اختصم»؟",
+  "answer": "افتعل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3571",
+  "code": "q_3571"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما مصدر الفعل «تناصر»؟",
+  "answer": "تناصُر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3572",
+  "code": "q_3572"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم الفاعل من الفعل «دلّ»؟",
+  "answer": "دالّ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3573",
+  "code": "q_3573"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما مصدر الفعل «تواضع»؟",
+  "answer": "تواضُع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3574",
+  "code": "q_3574"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما مصدر الفعل «لبث»؟",
+  "answer": "لُبْث",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3575",
+  "code": "q_3575"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم الفاعل من الفعل «تسبّب»؟",
+  "answer": "متسبِّب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3576",
+  "code": "q_3576"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما جذر الفعل «استضعف»؟",
+  "answer": "ض ع ف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3577",
+  "code": "q_3577"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما اسم الفاعل من الفعل «تبختر»؟",
+  "answer": "متبختِر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3578",
+  "code": "q_3578"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما اسم المفعول من الفعل «سرق»؟",
+  "answer": "مسروق",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3579",
+  "code": "q_3579"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما مصدر الفعل «هذى» (تكلّم بغير معقول)؟",
+  "answer": "هَذَيان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3580",
+  "code": "q_3580"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما اسم الفاعل من الفعل «تفاجأ»؟",
+  "answer": "متفاجئ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3581",
+  "code": "q_3581"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما اسم المفعول من الفعل «استدعى»؟",
+  "answer": "مُستدعًى",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3582",
+  "code": "q_3582"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما اسم الفاعل من الفعل «انفلق»؟",
+  "answer": "منفلِق",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3583",
+  "code": "q_3583"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم الفاعل من الفعل «تخلّص»؟",
+  "answer": "متخلِّص",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3584",
+  "code": "q_3584"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما اسم المكان من الفعل «طار»؟",
+  "answer": "مطار",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3585",
+  "code": "q_3585"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما اسم الآلة من الفعل «نشر»؟",
+  "answer": "منشار",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3586",
+  "code": "q_3586"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما اسم المكان من الفعل «نسج»؟",
+  "answer": "مَنسَج",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3587",
+  "code": "q_3587"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما نوع الفعل «قام» من حيث الصحة والاعتلال؟",
+  "answer": "معتل أجوف (عينه حرف علة)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3588",
+  "code": "q_3588"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما نوع الفعل «نسي» من حيث الصحة والاعتلال؟",
+  "answer": "معتل ناقص (لامه حرف علة)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3589",
+  "code": "q_3589"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما نوع الفعل «وعد» من حيث الصحة والاعتلال؟",
+  "answer": "معتل مثال (فاؤه حرف علة)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3590",
+  "code": "q_3590"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما نوع الفعل «وعى» من حيث الاعتلال؟",
+  "answer": "لفيف مفروق (فاؤه ولامه حرفا علة)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3591",
+  "code": "q_3591"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما نوع الفعل «قوي» من حيث الاعتلال؟",
+  "answer": "لفيف مقرون (عينه ولامه حرفا علة)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3592",
+  "code": "q_3592"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما نوع الفعل «همّ» من حيث البناء؟",
+  "answer": "صحيح مضعّف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3593",
+  "code": "q_3593"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما نوع الفعل «دحض» من حيث الصحة؟",
+  "answer": "صحيح سالم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3594",
+  "code": "q_3594"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما أصل الألف في الفعل «قال»؟",
+  "answer": "واو (قَوَلَ، يقول)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3595",
+  "code": "q_3595"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما أصل الألف في الفعل «باع»؟",
+  "answer": "ياء (بَيَعَ، يبيع)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3596",
+  "code": "q_3596"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما جذر الفعل «تخطّى»؟",
+  "answer": "خ ط و",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3597",
+  "code": "q_3597"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم حرفًا زائدًا في الفعل «استثمر»؟",
+  "answer": "ثلاثة أحرف (الهمزة والسين والتاء)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3598",
+  "code": "q_3598"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "morphology",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما نوع الفعل «رأى» من حيث الصحة والاعتلال؟",
+  "answer": "مهموز العين ومعتل اللام (ناقص)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3599",
+  "code": "q_3599"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما إعراب «الولدُ» في جملة «الولدُ يلعب في الحديقة»؟",
+  "answer": "مبتدأ مرفوع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3600",
+  "code": "q_3600"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما إعراب «الضيفُ» في جملة «جاءَ الضيفُ مبكرًا»؟",
+  "answer": "فاعل مرفوع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3601",
+  "code": "q_3601"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب «مبكرًا» في جملة «جاءَ الضيفُ مبكرًا»؟",
+  "answer": "حال منصوب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3602",
+  "code": "q_3602"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما إعراب «كتابًا» في جملة «قرأتُ كتابًا»؟",
+  "answer": "مفعول به منصوب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3603",
+  "code": "q_3603"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب «هي» في جملة «هي طالبةٌ مجتهدة»؟",
+  "answer": "ضمير منفصل مبني في محل رفع مبتدأ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3604",
+  "code": "q_3604"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما إعراب «التفاحةَ» في جملة «أكلَ الولدُ التفاحةَ»؟",
+  "answer": "مفعول به منصوب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3605",
+  "code": "q_3605"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما إعراب «باردًا» في جملة «كانَ الجوُّ باردًا»؟",
+  "answer": "خبر كان منصوب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3606",
+  "code": "q_3606"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما إعراب «الجوُّ» في جملة «كانَ الجوُّ باردًا»؟",
+  "answer": "اسم كان مرفوع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3607",
+  "code": "q_3607"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما إعراب «الطلابَ» في جملة «إنّ الطلابَ مجتهدون»؟",
+  "answer": "اسم إنّ منصوب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3608",
+  "code": "q_3608"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب «مجتهدون» في جملة «إنّ الطلابَ مجتهدون»؟",
+  "answer": "خبر إنّ مرفوع بالواو لأنه جمع مذكر سالم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3609",
+  "code": "q_3609"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما علامة رفع جمع المذكر السالم؟",
+  "answer": "الواو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3610",
+  "code": "q_3610"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما علامة رفع المثنى؟",
+  "answer": "الألف",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3611",
+  "code": "q_3611"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما علامة نصب المثنى وجرّه؟",
+  "answer": "الياء",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3612",
+  "code": "q_3612"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما علامة نصب جمع المؤنث السالم؟",
+  "answer": "الكسرة (نيابة عن الفتحة)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3613",
+  "code": "q_3613"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما إعراب «الشارعِ» في جملة «مررتُ بالشارعِ»؟",
+  "answer": "اسم مجرور بالباء",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3614",
+  "code": "q_3614"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ماذا تفعل «لن» بالفعل المضارع؟",
+  "answer": "تنفيه وتنصبه وتخلصه للمستقبل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3615",
+  "code": "q_3615"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ماذا تفعل «لم» بالفعل المضارع؟",
+  "answer": "تنفيه وتجزمه وتقلب زمنه إلى الماضي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3616",
+  "code": "q_3616"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب «حاضرًا» في جملة «ما زالَ المعلمُ حاضرًا»؟",
+  "answer": "خبر ما زال منصوب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3617",
+  "code": "q_3617"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما إعراب «كبيرةٍ» في جملة «فزتُ بجائزةٍ كبيرةٍ»؟",
+  "answer": "نعت (صفة) مجرور",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3618",
+  "code": "q_3618"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما إعراب «طالبًا» في سؤال «كم طالبًا حضر؟»؟",
+  "answer": "تمييز منصوب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3619",
+  "code": "q_3619"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب «نا» في جملة «زارَنا الضيفُ»؟",
+  "answer": "ضمير متصل مبني في محل نصب مفعول به",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3620",
+  "code": "q_3620"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما فعل الأمر من الفعل «يكتب»؟",
+  "answer": "اكتُبْ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3621",
+  "code": "q_3621"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ماذا تعمل «كان» وأخواتها في الجملة الاسمية؟",
+  "answer": "ترفع المبتدأ وتنصب الخبر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3622",
+  "code": "q_3622"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ماذا تعمل «إنّ» وأخواتها في الجملة الاسمية؟",
+  "answer": "تنصب المبتدأ وترفع الخبر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3623",
+  "code": "q_3623"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما معنى «قد» إذا دخلت على الفعل الماضي؟",
+  "answer": "التحقيق",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3624",
+  "code": "q_3624"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما معنى «قد» إذا دخلت على الفعل المضارع؟",
+  "answer": "التقليل أو التوقّع",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3625",
+  "code": "q_3625"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب «كتابًا» في جملة «أعطيتُ صديقي كتابًا»؟",
+  "answer": "مفعول به ثانٍ منصوب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3626",
+  "code": "q_3626"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب «الشبابَ» في قول الشاعر «ليتَ الشبابَ يعودُ يومًا»؟",
+  "answer": "اسم ليت منصوب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3627",
+  "code": "q_3627"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب «قائمًا» في جملة «ظلَّ الرجلُ قائمًا»؟",
+  "answer": "خبر ظلّ منصوب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3628",
+  "code": "q_3628"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما إعراب «القواعدَ» في جملة «علّمَ الأستاذُ الطلابَ القواعدَ»؟",
+  "answer": "مفعول به ثانٍ منصوب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3629",
+  "code": "q_3629"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب «كلُّ» في جملة «كلُّ طالبٍ مجتهدٌ»؟",
+  "answer": "مبتدأ مرفوع",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3630",
+  "code": "q_3630"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما إعراب «مبكّرين» في جملة «جاؤوا مبكّرين»؟",
+  "answer": "حال منصوب بالياء لأنه جمع مذكر سالم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3631",
+  "code": "q_3631"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما علامة جزم الفعل «يأتِ» في جملة «لم يأتِ الضيفُ»؟",
+  "answer": "حذف حرف العلة (الياء)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3632",
+  "code": "q_3632"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما علامة رفع «أصدقاؤه» في جملة «زارني أصدقاؤه»؟",
+  "answer": "الضمة الظاهرة لأنه جمع تكسير",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3633",
+  "code": "q_3633"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "بماذا تُرفع «ذو» وهي من الأسماء الخمسة؟",
+  "answer": "بالواو (ذو مالٍ)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3634",
+  "code": "q_3634"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "اذكر الأسماء الخمسة.",
+  "answer": "أبٌ، أخٌ، حمٌ، فو، ذو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3635",
+  "code": "q_3635"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما إعراب «المطرُ» في جملة «لولا المطرُ لهلك الزرع»؟",
+  "answer": "مبتدأ مرفوع، وخبره محذوف وجوبًا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3636",
+  "code": "q_3636"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما عمل «إنّما» في جملة «إنّما النجاحُ للمجتهدين»؟",
+  "answer": "لا عمل لها (كافّة ومكفوفة)، و«النجاح» مبتدأ مرفوع",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3637",
+  "code": "q_3637"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب الهاء في «أعطيتُه كتابًا»؟",
+  "answer": "ضمير متصل في محل نصب مفعول به أول",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3638",
+  "code": "q_3638"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الصواب: «خمسُ رجالٍ» أم «خمسةُ رجالٍ»؟",
+  "answer": "خمسةُ رجالٍ (العدد من 3 إلى 10 يخالف المعدود في التذكير والتأنيث)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3639",
+  "code": "q_3639"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الصواب: «سبعةُ سنواتٍ» أم «سبعُ سنواتٍ»؟",
+  "answer": "سبعُ سنواتٍ (لأن مفرد المعدود «سنة» مؤنث)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3640",
+  "code": "q_3640"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الصواب: «اشتريتُ مئتين كتابًا» أم «اشتريتُ مئتي كتابٍ»؟",
+  "answer": "مئتي كتابٍ (تُحذف النون للإضافة ويُجرّ المعدود)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3641",
+  "code": "q_3641"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما محل «هل» من الإعراب؟",
+  "answer": "حرف استفهام مبني لا محل له من الإعراب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3642",
+  "code": "q_3642"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما اسم الإشارة للمفرد المؤنث القريب؟",
+  "answer": "هذه",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3643",
+  "code": "q_3643"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما اسم الإشارة للجمع القريب؟",
+  "answer": "هؤلاء",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3644",
+  "code": "q_3644"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما إعراب «أخٍ» في قولهم «رُبَّ أخٍ لك لم تلده أمك»؟",
+  "answer": "مجرور لفظًا بـ«رُبّ» مرفوع محلًا على أنه مبتدأ",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3645",
+  "code": "q_3645"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما إعراب «صديقَنا» في «يا صديقَنا»؟",
+  "answer": "منادى منصوب لأنه مضاف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3646",
+  "code": "q_3646"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما إعراب الكاف في «لعلَّك تنجح»؟",
+  "answer": "ضمير متصل في محل نصب اسم لعلّ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3647",
+  "code": "q_3647"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما نوع «أنْ» في جملة «طلبتُ منك أن تتكلّمَ»؟",
+  "answer": "حرف مصدري ونصب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3648",
+  "code": "q_3648"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما معنى الباء في «أقسمتُ باللهِ»؟",
+  "answer": "باء القسم (حرف جر)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3649",
+  "code": "q_3649"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما إعراب «الطالبُ» في جملة «زارَ المعلمَ الطالبُ»؟",
+  "answer": "فاعل مؤخر مرفوع",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3650",
+  "code": "q_3650"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "grammar",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما نوع الجملة «اجلسْ!» من حيث التركيب؟",
+  "answer": "جملة فعلية (فعل أمر)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3651",
+  "code": "q_3651"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "على أي حرف تُكتب الهمزة في كلمة «سائل»؟",
+  "answer": "على نبرة الياء (لأنها مكسورة)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3652",
+  "code": "q_3652"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "على أي حرف تُكتب الهمزة في كلمة «مسؤول»؟",
+  "answer": "على الواو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3653",
+  "code": "q_3653"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الصواب: «رأى» أم «رئى»؟",
+  "answer": "رأى",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3654",
+  "code": "q_3654"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "لماذا تُكتب ألف «فتى» على صورة الياء؟",
+  "answer": "لأن أصلها ياء (فَتَيان)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3655",
+  "code": "q_3655"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "لماذا تُكتب ألف «عصا» قائمة؟",
+  "answer": "لأن أصلها واو (عصوان)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3656",
+  "code": "q_3656"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما الصواب: «امرأة» أم «امرأه»؟",
+  "answer": "امرأة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3657",
+  "code": "q_3657"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما نوع الهمزة في كلمة «إنشاء»؟",
+  "answer": "همزة قطع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3658",
+  "code": "q_3658"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما نوع الهمزة في كلمة «ابن»؟",
+  "answer": "همزة وصل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3659",
+  "code": "q_3659"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "على أي حرف تُكتب الهمزة في «استئناف»؟",
+  "answer": "على نبرة الياء",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3660",
+  "code": "q_3660"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الصواب: «إن شاء الله» أم «إنشاء الله»؟",
+  "answer": "إن شاء الله (منفصلة)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3661",
+  "code": "q_3661"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "هل تُكتب «مئة» أم «مائة»؟",
+  "answer": "كلاهما صحيح، والألف في «مائة» تُكتب ولا تُنطق",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3662",
+  "code": "q_3662"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما اسم الألف في آخر «كتبوا»؟",
+  "answer": "الألف الفارقة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3663",
+  "code": "q_3663"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الحرف الذي يُنطق ولا يُكتب في كلمة «هذا»؟",
+  "answer": "الألف بعد الهاء",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3664",
+  "code": "q_3664"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الحرف الذي يُنطق ولا يُكتب في لفظ الجلالة «الله»؟",
+  "answer": "الألف بعد اللام الثانية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3665",
+  "code": "q_3665"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "اذكر ثلاثة أسماء تبدأ بهمزة وصل.",
+  "answer": "مثل: ابن، ابنة، اسم، امرؤ، امرأة، اثنان، اثنتان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3666",
+  "code": "q_3666"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما نوع الهمزة في كلمة «أُسرة»؟",
+  "answer": "همزة قطع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3667",
+  "code": "q_3667"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "على أي حرف تُكتب الهمزة في «رُؤْيا»؟",
+  "answer": "على الواو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3668",
+  "code": "q_3668"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الصواب: «لاكن» أم «لكن»؟",
+  "answer": "لكن (تُنطق الألف ولا تُكتب)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3669",
+  "code": "q_3669"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "spelling",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما الصواب: «مسئول» أم «مسؤول»؟",
+  "answer": "كلاهما مستعمل، والأشيع اليوم «مسؤول»",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3670",
+  "code": "q_3670"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما نوع الأسلوب في «ما أجملَ السماءَ!»؟",
+  "answer": "أسلوب تعجب",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3671",
+  "code": "q_3671"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما نوع الأسلوب في «هل حضرتَ الاجتماع؟»؟",
+  "answer": "أسلوب استفهام",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3672",
+  "code": "q_3672"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما نوع الأسلوب الإنشائي في «لا تكذبْ»؟",
+  "answer": "نهي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3673",
+  "code": "q_3673"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما نوع الأسلوب في «ليتَ الشبابَ يعودُ يومًا»؟",
+  "answer": "تمنٍّ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3674",
+  "code": "q_3674"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما نوع الأسلوب في «لعلّك تنجح»؟",
+  "answer": "ترجٍّ",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3675",
+  "code": "q_3675"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما معنى «ألا» في «ألا تزورنا؟»؟",
+  "answer": "العرض (طلب برفق)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3676",
+  "code": "q_3676"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما نوع الاستفهام في «أليست الحياةُ جميلة؟»؟",
+  "answer": "استفهام تقريري",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3677",
+  "code": "q_3677"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما نوع التشبيه في «العلمُ نورٌ»؟",
+  "answer": "تشبيه بليغ (حُذفت الأداة ووجه الشبه)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3678",
+  "code": "q_3678"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما أركان التشبيه الأربعة؟",
+  "answer": "المشبّه، والمشبّه به، وأداة التشبيه، ووجه الشبه",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3679",
+  "code": "q_3679"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الصورة البلاغية في «رأيتُ أسدًا يخطب في الناس»؟",
+  "answer": "استعارة تصريحية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3680",
+  "code": "q_3680"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الصورة البلاغية في «شربت الأرضُ ماءَ السماء»؟",
+  "answer": "استعارة مكنية (شُبّهت الأرض بإنسان يشرب)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3681",
+  "code": "q_3681"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "عن أي صفة كنّى العرب بقولهم «فلان كثير الرماد»؟",
+  "answer": "الكرم",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3682",
+  "code": "q_3682"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "عن أي صفة كنّى العرب بقولهم «فلان طويل النِّجاد»؟",
+  "answer": "طول القامة",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3683",
+  "code": "q_3683"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما المحسّن البديعي بين «الليل» و«النهار»؟",
+  "answer": "الطباق",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3684",
+  "code": "q_3684"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما المحسّن البديعي في «صلّيتُ المغربَ في المغرب»؟",
+  "answer": "الجناس التام",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3685",
+  "code": "q_3685"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 6,
+  "question_text": "ما العلاقة في المجاز المرسل «رعينا الغيث» (أي النبات)؟",
+  "answer": "السببية",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3686",
+  "code": "q_3686"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما «أُفٍّ» من حيث النوع؟",
+  "answer": "اسم فعل مضارع بمعنى أتضجّر",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3687",
+  "code": "q_3687"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما المحسّن البديعي في «يحسبون أنهم يحسنون صنعًا»؟",
+  "answer": "الجناس الناقص (يحسبون/يحسنون)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3688",
+  "code": "q_3688"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الفرق بين الخبر والإنشاء؟",
+  "answer": "الخبر يحتمل الصدق والكذب، والإنشاء لا يحتملهما",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3689",
+  "code": "q_3689"
+ },
+ {
+  "category": "arabic",
+  "subcategory": "rhetoric",
+  "tags": [
+   "لغة عربية"
+  ],
+  "source": "بنك أسئلة اللغة العربية (ملف المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما نوع الأسلوب في «يا ساكنَ القلبِ رفقًا»؟",
+  "answer": "نداء",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-3690",
+  "code": "q_3690"
+ }
+]
