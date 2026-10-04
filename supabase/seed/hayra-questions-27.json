@@ -1,0 +1,2432 @@
+[
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "لديك 3 تفاحات، أخذتَ منها تفاحتين. كم تفاحة أصبحت معك؟",
+  "answer": "تفاحتان",
+  "type": "text",
+  "explanation": "لأنك أنت من أخذهما!",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5829",
+  "code": "q_5829"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "أم أحمد لديها 3 أولاد: سامر ومالك و… ما اسم الولد الثالث؟",
+  "answer": "أحمد",
+  "type": "text",
+  "explanation": "السؤال قال: أم أحمد.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5830",
+  "code": "q_5830"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "أيهما أثقل: كيلوغرام من الحديد أم كيلوغرام من الريش؟",
+  "answer": "متساويان",
+  "type": "text",
+  "explanation": "كلاهما كيلوغرام.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5831",
+  "code": "q_5831"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "لديك 10 شموع مشتعلة، أطفأتَ 3 منها. كم شمعة ستبقى في النهاية؟",
+  "answer": "3 شموع",
+  "type": "text",
+  "explanation": "المشتعلة تذوب، والمطفأة تبقى.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5832",
+  "code": "q_5832"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "لديك 5 أسماك في حوض، ماتت سمكتان. كم سمكة في الحوض؟",
+  "answer": "5 أسماك",
+  "type": "text",
+  "explanation": "الميتة لا تخرج من الحوض وحدها!",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5833",
+  "code": "q_5833"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "رجل خرج تحت المطر بلا مظلة ولا قبعة، ولم تبتل شعرة واحدة من رأسه. كيف؟",
+  "answer": "لأنه أصلع",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5834",
+  "code": "q_5834"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "في غرفة 4 زوايا، وفي كل زاوية قطة، وأمام كل قطة 3 قطط. كم قطة في الغرفة؟",
+  "answer": "4 قطط",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5835",
+  "code": "q_5835"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "إذا كانت الساعة الآن 11، فكم تصبح بعد 6 ساعات؟",
+  "answer": "الساعة 5",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5836",
+  "code": "q_5836"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "رجل في طابور هو السابع من الأمام والسادس من الخلف. كم شخصًا في الطابور؟",
+  "answer": "12 شخصًا",
+  "type": "text",
+  "explanation": "7 + 6 − 1.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5837",
+  "code": "q_5837"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "إذا كان 5 عمال يصنعون 5 قطع في 5 دقائق، فكم دقيقة يحتاج 100 عامل لصنع 100 قطعة؟",
+  "answer": "5 دقائق",
+  "type": "text",
+  "explanation": "كل عامل يصنع قطعة في 5 دقائق.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5838",
+  "code": "q_5838"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "في مزرعة خيول وماعز وأغنام: كلها أغنام إلا 3، وكلها ماعز إلا 4، وكلها خيول إلا 5. كم من كل نوع؟",
+  "answer": "حصان واحد، ماعزان، 3 أغنام",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5839",
+  "code": "q_5839"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "كوبان: ماء ساخن وماء بارد، في كل منهما مكعب ثلج متماثل. أين يذوب الثلج أسرع؟",
+  "answer": "في الماء الساخن",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5840",
+  "code": "q_5840"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "رجل دخل مطعمًا وطلب كوب ماء، فأخرج النادل مسدسًا ووجّهه إليه. قال الرجل «شكرًا» وغادر. لماذا؟",
+  "answer": "كان مصابًا بالحازوقة (الفواق)",
+  "type": "text",
+  "explanation": "أخافه النادل فتوقفت الحازوقة.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5841",
+  "code": "q_5841"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "رجل دفع سيارته حتى وصل إلى فندق، وهناك عرف أنه أفلس. كيف؟",
+  "answer": "كان يلعب مونوبولي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5842",
+  "code": "q_5842"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "وُجد كائن ميتًا في عربة قطار، وعلى الأرض ماء وزجاج مكسور، ولا أثر لجريمة. ما التفسير؟",
+  "answer": "كان سمكة في حوض زجاجي وانكسر الحوض",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5843",
+  "code": "q_5843"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "رجل قصير يسكن في الطابق العاشر. ينزل بالمصعد دائمًا، لكنه عند الصعود يصل الطابق الخامس ويكمل مشيًا، إلا في الأيام الماطرة. لماذا؟",
+  "answer": "لا يصل إلى زر الطابق العاشر",
+  "type": "text",
+  "explanation": "في المطر يضغط الزر بمظلته.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5844",
+  "code": "q_5844"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "riddles",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "شخصان طلبا العصير نفسه بالثلج. شرب الأول بسرعة ونجا، وشرب الثاني ببطء وتسمم. لماذا؟",
+  "answer": "السم كان في مكعبات الثلج",
+  "type": "text",
+  "explanation": "من شرب بسرعة أنهى العصير قبل أن يذوب الثلج.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5845",
+  "code": "q_5845"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "ما ناتج 7 + 7 ÷ 7؟",
+  "answer": "8",
+  "type": "text",
+  "explanation": "القسمة قبل الجمع.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5846",
+  "code": "q_5846"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "ما ناتج (8 + 2) × 3؟",
+  "answer": "30",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5847",
+  "code": "q_5847"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "ما العدد الذي إذا ضربته في نفسه ثم أضفت إليه نفسه كان الناتج 6؟",
+  "answer": "2",
+  "type": "text",
+  "explanation": "2 × 2 + 2 = 6",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5848",
+  "code": "q_5848"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "عددان مجموعهما 10 والفرق بينهما 4. ما هما؟",
+  "answer": "7 و3",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5849",
+  "code": "q_5849"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "كم ثانية في دقيقة ونصف؟",
+  "answer": "90 ثانية",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5850",
+  "code": "q_5850"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "إذا كان اليوم الاثنين، فما اليوم بعد 3 أيام؟",
+  "answer": "الخميس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5851",
+  "code": "q_5851"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "أيهما أكبر: 0.5 أم 0.05؟",
+  "answer": "0.5",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5852",
+  "code": "q_5852"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "ما محيط مربع طول ضلعه 5؟",
+  "answer": "20",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5853",
+  "code": "q_5853"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "ما مجموع زوايا المثلث؟",
+  "answer": "180 درجة",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5854",
+  "code": "q_5854"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "عددان حاصل ضربهما 48 ومجموعهما 14. ما هما؟",
+  "answer": "6 و8",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5855",
+  "code": "q_5855"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "ثلاثة أعداد متتالية مجموعها 45. ما هي؟",
+  "answer": "14، 15، 16",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5856",
+  "code": "q_5856"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "أربعة أعداد متتالية مجموعها 50. ما هي؟",
+  "answer": "11، 12، 13، 14",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5857",
+  "code": "q_5857"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "عدد من رقمين، رقم عشراته ضعف رقم آحاده، ومجموع رقميه 9. ما العدد؟",
+  "answer": "63",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5858",
+  "code": "q_5858"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "كم عددًا من 1 إلى 100 يحتوي على الرقم 7؟",
+  "answer": "19",
+  "type": "text",
+  "explanation": "10 تنتهي بـ7 + 10 من السبعينات − 77 مكرر.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5859",
+  "code": "q_5859"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "3 أقلام ودفتر ثمنها 11، والقلم بـ2. كم ثمن الدفتر؟",
+  "answer": "5",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5860",
+  "code": "q_5860"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "مستطيل محيطه 22 وطوله 7. ما عرضه؟",
+  "answer": "4",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5861",
+  "code": "q_5861"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "سيارة قطعت نصف الطريق في ساعتين. بالسرعة نفسها، كم تحتاج لباقي الطريق؟",
+  "answer": "ساعتان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5862",
+  "code": "q_5862"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "إذا كان 25% من عدد يساوي 15، فما العدد؟",
+  "answer": "60",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5863",
+  "code": "q_5863"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "ما أصغر عدد موجب يقبل القسمة على 2 و3 و4 و5؟",
+  "answer": "60",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5864",
+  "code": "q_5864"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "ما باقي قسمة 100 على 7؟",
+  "answer": "2",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5865",
+  "code": "q_5865"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "ما الزاوية بين عقربي الساعة عند الساعة 6:00 تمامًا؟",
+  "answer": "180 درجة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5866",
+  "code": "q_5866"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "كم عددًا من رقم واحد يقسم 36 بدون باقٍ؟",
+  "answer": "6",
+  "type": "text",
+  "explanation": "1، 2، 3، 4، 6، 9",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5867",
+  "code": "q_5867"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "6 أشخاص صافح كل منهم الآخرين مرة واحدة. كم مصافحة؟",
+  "answer": "15",
+  "type": "text",
+  "explanation": "6 × 5 ÷ 2",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5868",
+  "code": "q_5868"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "في صف، نورة الرابعة من اليمين والثالثة من اليسار. كم طالبًا في الصف؟",
+  "answer": "6",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5869",
+  "code": "q_5869"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "ما العدد الذي إذا زاد بنسبة 20% أصبح 60؟",
+  "answer": "50",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5870",
+  "code": "q_5870"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "4 عمال ينجزون عملًا في 6 أيام. كم يومًا يحتاج 8 عمال بالسرعة نفسها؟",
+  "answer": "3 أيام",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5871",
+  "code": "q_5871"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "ما مجموع الأعداد من 1 إلى 10؟",
+  "answer": "55",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5872",
+  "code": "q_5872"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "إذا كان أ + ب = 10، وأ − ب = 2، فما قيمة أ؟",
+  "answer": "6",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5873",
+  "code": "q_5873"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "إذا كان خُمسا عدد (2/5) يساويان 18، فما العدد؟",
+  "answer": "45",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5874",
+  "code": "q_5874"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "ما أصغر عدد يقبل القسمة على 6 و8 معًا؟",
+  "answer": "24",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5875",
+  "code": "q_5875"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "ثلاثة أعداد متتالية حاصل ضربها 120. ما هي؟",
+  "answer": "4، 5، 6",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5876",
+  "code": "q_5876"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "مضلع مجموع زواياه الداخلية 720 درجة. كم ضلعًا له؟",
+  "answer": "6 أضلاع",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5877",
+  "code": "q_5877"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "ما الزاوية الصغرى بين عقربي الساعة عند 3:15؟",
+  "answer": "7.5 درجات",
+  "type": "text",
+  "explanation": "عقرب الساعات تحرك ربع المسافة بين 3 و4.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5878",
+  "code": "q_5878"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "عدد من رقمين، مجموع رقميه 9، وإذا عكست رقميه زاد 27. ما العدد؟",
+  "answer": "36",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5879",
+  "code": "q_5879"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "ما أصغر عدد يساوي 7 أضعاف مجموع أرقامه؟",
+  "answer": "21",
+  "type": "text",
+  "explanation": "2 + 1 = 3، و3 × 7 = 21",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5880",
+  "code": "q_5880"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "ما عدد الأقطار في مضلع عشاري (10 أضلاع)؟",
+  "answer": "35",
+  "type": "text",
+  "explanation": "10 × 7 ÷ 2",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5881",
+  "code": "q_5881"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "مستطيل مساحته 96، وطوله يزيد عن عرضه بـ4. ما أبعاده؟",
+  "answer": "12 × 8",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5882",
+  "code": "q_5882"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "3 عمال يبنون 3 جدران في 3 أيام. كم جدارًا يبني 9 عمال في 9 أيام؟",
+  "answer": "27 جدارًا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5883",
+  "code": "q_5883"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "في غرفة 10 أشخاص، كل واحد صافح الجميع مرة، إلا شخصين لم يتصافحا. كم مصافحة تمت؟",
+  "answer": "44",
+  "type": "text",
+  "explanation": "45 مصافحة ممكنة ناقص واحدة.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5884",
+  "code": "q_5884"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "ما قيمة 999² بدون ضرب طويل؟",
+  "answer": "998001",
+  "type": "text",
+  "explanation": "(1000 − 1)² = 1000000 − 2000 + 1",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5885",
+  "code": "q_5885"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "ما احتمال سحب كرتين حمراوين متتاليتين من صندوق فيه 3 حمراء و2 زرقاء دون إرجاع؟",
+  "answer": "3/10",
+  "type": "text",
+  "explanation": "3/5 × 2/4",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5886",
+  "code": "q_5886"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "احتمال النجاح في محاولة واحدة هو الثلث. ما احتمال الفشل في محاولتين متتاليتين؟",
+  "answer": "4/9",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5887",
+  "code": "q_5887"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "كم ترتيبًا مختلفًا لأربع بطاقات مرقمة 1، 2، 3، 4؟",
+  "answer": "24",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5888",
+  "code": "q_5888"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "ما أصغر عدد أرقامه مختلفة ويقبل القسمة على 3 و4 و5؟",
+  "answer": "60",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5889",
+  "code": "q_5889"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "عدد من ثلاثة أرقام: عشراته ضعف آحاده، ومئاته مجموعهما، ومجموع أرقامه 12. ما العدد؟",
+  "answer": "642",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5890",
+  "code": "q_5890"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "ما أصغر عدد يقبل القسمة على 7 ويبقى منه 1 عند قسمته على 2 و3 و4 و5 و6؟",
+  "answer": "301",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5891",
+  "code": "q_5891"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "في بطولة خروج مغلوب فيها 32 لاعبًا، كم مباراة تلزم لتحديد البطل؟",
+  "answer": "31 مباراة",
+  "type": "text",
+  "explanation": "كل مباراة تُخرج لاعبًا واحدًا.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5892",
+  "code": "q_5892"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "متى يتطابق عقربا الساعة لأول مرة بعد الساعة 12:00؟",
+  "answer": "نحو الساعة 1:05 و27 ثانية",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5893",
+  "code": "q_5893"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "math-mind",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "ما أكبر عدد من قطع الكعكة بـ6 قطعات مستقيمة إذا جاز القطع في الأبعاد الثلاثة؟",
+  "answer": "42 قطعة",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5894",
+  "code": "q_5894"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "لديك 12 جوربًا أسود و12 أبيض و12 رماديًا في درج مظلم. كم جوربًا تسحب لتضمن زوجًا من اللون نفسه؟",
+  "answer": "4 جوارب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5895",
+  "code": "q_5895"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "ثلاثة أعداد صحيحة مختلفة مجموعها 6 وحاصل ضربها 6. ما هي؟",
+  "answer": "1، 2، 3",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5896",
+  "code": "q_5896"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "لديك 8 كرات متشابهة، واحدة أثقل، وميزان بكفتين. ما أقل عدد من الوزنات لإيجادها؟",
+  "answer": "وزنتان",
+  "type": "text",
+  "explanation": "3 مقابل 3، ثم كرة مقابل كرة.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5897",
+  "code": "q_5897"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "4 أشخاص يعبرون جسرًا ليلًا بمصباح واحد، وأزمنتهم 1 و2 و7 و10 دقائق. يعبر اثنان معًا والمصباح معهما. ما أقل زمن؟",
+  "answer": "17 دقيقة",
+  "type": "text",
+  "explanation": "1و2، يعود 1، 7و10، يعود 2، ثم 1و2.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5898",
+  "code": "q_5898"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "إناء 5 لترات وإناء 3 لترات بلا تدريج. كيف تحصل على 4 لترات بالضبط؟",
+  "answer": "املأ الـ5 واسكب في الـ3، أفرغ الـ3، انقل اللترين إليه، املأ الـ5 مجددًا وأكمل الـ3 بلتر واحد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5899",
+  "code": "q_5899"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "100 باب مغلق: في الجولة الأولى تغيّر حالة كل الأبواب، وفي الثانية كل باب مضاعف لـ2، وهكذا حتى الجولة 100. أي الأبواب تبقى مفتوحة؟",
+  "answer": "الأبواب ذات الأرقام المربعة: 1، 4، 9، 16… 100",
+  "type": "text",
+  "explanation": "لأن لها عددًا فرديًا من القواسم.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5900",
+  "code": "q_5900"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "3 مفاتيح في الطابق الأرضي ومصباح واحد في العلية، ومسموح تصعد مرة واحدة. كيف تعرف المفتاح الصحيح؟",
+  "answer": "شغّل الأول دقائق ثم أطفئه وشغّل الثاني واصعد: مضاء = الثاني، مطفأ وساخن = الأول، مطفأ وبارد = الثالث",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5901",
+  "code": "q_5901"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "حبلان، كل حبل يحترق في ساعة لكن بشكل غير منتظم. كيف تقيس 45 دقيقة؟",
+  "answer": "أشعل الأول من طرفيه والثاني من طرف، وعندما ينتهي الأول (30 دقيقة) أشعل الطرف الآخر للثاني (15 دقيقة)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5902",
+  "code": "q_5902"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "بابان: أحدهما للنجاة، وعندهما حارسان أحدهما يكذب دائمًا والآخر يصدق دائمًا. ما السؤال الوحيد الذي يكشف باب النجاة؟",
+  "answer": "اسأل أيًّا منهما: «أي باب سيقول عنه الآخر إنه باب النجاة؟» ثم اختر الباب الآخر",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5903",
+  "code": "q_5903"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "4 كرات حمراء و4 زرقاء في صندوق مظلم. ما أقل عدد تسحبه لتضمن كرة من كل لون؟",
+  "answer": "5 كرات",
+  "type": "text",
+  "explanation": "قد تسحب الأربع من لون واحد أولًا.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5904",
+  "code": "q_5904"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "9 عملات متطابقة إحداها أخف، وميزان بكفتين. كيف تجدها بوزنتين فقط؟",
+  "answer": "قسّمها 3‑3‑3: زن مجموعتين لتعرف المجموعة الخفيفة، ثم زن عملتين منها",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5905",
+  "code": "q_5905"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "3 صناديق مكتوب عليها: تفاح، برتقال، تفاح وبرتقال — وكل الملصقات خاطئة. من أي صندوق تسحب ثمرة واحدة لتصحح كل الملصقات؟",
+  "answer": "من صندوق «تفاح وبرتقال»",
+  "type": "text",
+  "explanation": "لأنه حتمًا غير مختلط، فتعرف محتواه وتستنتج الباقي.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5906",
+  "code": "q_5906"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "4 أشخاص يعبرون جسرًا بمصباح واحد، أزمنتهم 1 و2 و5 و8 دقائق، ويعبر اثنان على الأكثر. ما أقل زمن؟",
+  "answer": "15 دقيقة",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5907",
+  "code": "q_5907"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "25 حصانًا، وكل سباق يتسع لـ5 فقط ولا يوجد توقيت. ما أقل عدد من السباقات لمعرفة أسرع 3 أحصنة؟",
+  "answer": "7 سباقات",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5908",
+  "code": "q_5908"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "1000 زجاجة إحداها مسمومة، و10 فئران، والسم يظهر بعد ساعة. كيف تحدد الزجاجة في ساعة واحدة؟",
+  "answer": "رقّم الزجاجات بالنظام الثنائي، وكل فأر يشرب من الزجاجات التي خانته فيها 1؛ الفئران الميتة تكشف رقم الزجاجة",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5909",
+  "code": "q_5909"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "3 أكواب، واحد فيه ذهب، وعبارة واحدة فقط صحيحة: الأول «الذهب هنا»، الثاني «الذهب ليس هنا»، الثالث «الذهب ليس في الأول». أين الذهب؟",
+  "answer": "في الكوب الثاني",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5910",
+  "code": "q_5910"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "10 أكياس عملات، العملة الأصلية 10 غرامات، وكيس واحد عملاته 9 غرامات. كيف تعرفه بوزنة واحدة على ميزان رقمي؟",
+  "answer": "خذ عملة من الكيس 1 واثنتين من الكيس 2… وعشرًا من الكيس 10؛ عدد الغرامات الناقصة عن 550 هو رقم الكيس",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5911",
+  "code": "q_5911"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "في جزيرة كل شخص إما صادق دائمًا أو كاذب دائمًا. قال أحدهم: «نحن الاثنان من النوع نفسه». ماذا نعرف عن الشخص الآخر؟",
+  "answer": "الآخر صادق حتمًا",
+  "type": "text",
+  "explanation": "أما المتكلم فلا يمكن تحديده.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5912",
+  "code": "q_5912"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "12 كرة إحداها أثقل، وميزان بكفتين. ما أقل عدد من الوزنات المضمون لإيجادها؟",
+  "answer": "3 وزنات",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5913",
+  "code": "q_5913"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "iq",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "لديك أوزان 1 و3 و9 و27 و81 كغ. كيف تزن 40 كغ بوضع الأوزان في الكفتين؟",
+  "answer": "81 في كفة، و27 و9 و3 و1 في الكفة الأخرى",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5914",
+  "code": "q_5914"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "أكمل النمط: 2، 4، 6، 8، ؟",
+  "answer": "10",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5915",
+  "code": "q_5915"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "أكمل النمط: 1، 3، 5، 7، ؟",
+  "answer": "9",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5916",
+  "code": "q_5916"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "أكمل النمط: 10، 20، 30، 40، ؟",
+  "answer": "50",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5917",
+  "code": "q_5917"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "أكمل النمط: 100، 90، 80، 70، ؟",
+  "answer": "60",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5918",
+  "code": "q_5918"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "أكمل النمط: 2، 4، 8، 16، ؟",
+  "answer": "32",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5919",
+  "code": "q_5919"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 1,
+  "question_text": "أكمل النمط: 10، 13، 16، 19، ؟",
+  "answer": "22",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5920",
+  "code": "q_5920"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "أكمل النمط: 3، 9، 27، ؟",
+  "answer": "81",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5921",
+  "code": "q_5921"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "أكمل النمط: 81، 27، 9، 3، ؟",
+  "answer": "1",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5922",
+  "code": "q_5922"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "أكمل النمط: 1، 4، 9، 16، ؟",
+  "answer": "25",
+  "type": "text",
+  "explanation": "مربعات الأعداد.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5923",
+  "code": "q_5923"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "أكمل النمط: 1، 3، 6، 10، ؟",
+  "answer": "15",
+  "type": "text",
+  "explanation": "نضيف 2 ثم 3 ثم 4 ثم 5.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5924",
+  "code": "q_5924"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "أكمل النمط: 2، 3، 5، 7، 11، ؟",
+  "answer": "13",
+  "type": "text",
+  "explanation": "الأعداد الأولية.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5925",
+  "code": "q_5925"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 2,
+  "question_text": "أكمل النمط: 1، 10، 100، ؟",
+  "answer": "1000",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5926",
+  "code": "q_5926"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "أكمل النمط: 3، 6، 12، 24، ؟",
+  "answer": "48",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5927",
+  "code": "q_5927"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "أكمل النمط: 2، 5، 10، 17، 26، ؟",
+  "answer": "37",
+  "type": "text",
+  "explanation": "الفروق 3، 5، 7، 9، 11.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5928",
+  "code": "q_5928"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "أكمل النمط: 1، 1، 2، 3، 5، 8، ؟",
+  "answer": "13",
+  "type": "text",
+  "explanation": "كل عدد مجموع العددين قبله (فيبوناتشي).",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5929",
+  "code": "q_5929"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "أكمل النمط: 99، 92، 86، 81، 77، ؟",
+  "answer": "74",
+  "type": "text",
+  "explanation": "نطرح 7 ثم 6 ثم 5 ثم 4 ثم 3.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5930",
+  "code": "q_5930"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "أكمل النمط: 1، 8، 27، 64، ؟",
+  "answer": "125",
+  "type": "text",
+  "explanation": "مكعبات الأعداد.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5931",
+  "code": "q_5931"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "أكمل النمط: 2، 6، 12، 20، 30، ؟",
+  "answer": "42",
+  "type": "text",
+  "explanation": "1×2، 2×3، 3×4…",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5932",
+  "code": "q_5932"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "أكمل النمط: 10، 11، 13، 16، 20، ؟",
+  "answer": "25",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5933",
+  "code": "q_5933"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 3,
+  "question_text": "أكمل النمط: 11، 22، 44، 88، ؟",
+  "answer": "176",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5934",
+  "code": "q_5934"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "أكمل النمط: 8، 12، 20، 36، 68، ؟",
+  "answer": "132",
+  "type": "text",
+  "explanation": "الفروق تتضاعف: 4، 8، 16، 32، 64.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5935",
+  "code": "q_5935"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "أكمل النمط: 2، 3، 6، 18، 72، ؟",
+  "answer": "360",
+  "type": "text",
+  "explanation": "×1.5 ثم ×2 ثم ×3 ثم ×4 ثم ×5.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5936",
+  "code": "q_5936"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "أكمل النمط: 120، 60، 20، 5، ؟",
+  "answer": "1",
+  "type": "text",
+  "explanation": "÷2 ثم ÷3 ثم ÷4 ثم ÷5.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5937",
+  "code": "q_5937"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "أكمل النمط: 1، 4، 10، 22، 46، ؟",
+  "answer": "94",
+  "type": "text",
+  "explanation": "×2 + 2",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5938",
+  "code": "q_5938"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "أكمل النمط: 3، 7، 15، 31، 63، ؟",
+  "answer": "127",
+  "type": "text",
+  "explanation": "×2 + 1",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5939",
+  "code": "q_5939"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "أكمل النمط: 2، 5، 11، 23، 47، ؟",
+  "answer": "95",
+  "type": "text",
+  "explanation": "×2 + 1",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5940",
+  "code": "q_5940"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "أكمل النمط: 2، 4، 5، 10، 12، 24، 27، ؟",
+  "answer": "54",
+  "type": "text",
+  "explanation": "بالتناوب: ×2 ثم +1، +2، +3.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5941",
+  "code": "q_5941"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 4,
+  "question_text": "أكمل النمط: 4، 7، 15، 29، 59، 117، ؟",
+  "answer": "235",
+  "type": "text",
+  "explanation": "×2 − 1 ثم ×2 + 1 بالتناوب.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5942",
+  "code": "q_5942"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "أكمل النمط: 1، 2، 6، 24، 120، ؟",
+  "answer": "720",
+  "type": "text",
+  "explanation": "×2، ×3، ×4، ×5، ×6",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5943",
+  "code": "q_5943"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "أكمل النمط: 2، 4، 10، 28، 82، ؟",
+  "answer": "244",
+  "type": "text",
+  "explanation": "×3 − 2",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5944",
+  "code": "q_5944"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "أكمل النمط: 3، 5، 9، 17، 33، ؟",
+  "answer": "65",
+  "type": "text",
+  "explanation": "×2 − 1",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5945",
+  "code": "q_5945"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "أكمل النمط: 1، 2، 6، 7، 21، 22، ؟",
+  "answer": "66",
+  "type": "text",
+  "explanation": "×3 ثم +1 بالتناوب.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5946",
+  "code": "q_5946"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "أكمل النمط: 100، 50، 52، 26، 28، 14، ؟",
+  "answer": "16",
+  "type": "text",
+  "explanation": "÷2 ثم +2 بالتناوب.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5947",
+  "code": "q_5947"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "أكمل النمط: 2، 10، 12، 60، 62، 310، ؟",
+  "answer": "312",
+  "type": "text",
+  "explanation": "×5 ثم +2 بالتناوب.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5948",
+  "code": "q_5948"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "أكمل النمط: 1، 4، 13، 40، 121، ؟",
+  "answer": "364",
+  "type": "text",
+  "explanation": "×3 + 1",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5949",
+  "code": "q_5949"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 5,
+  "question_text": "أكمل النمط: 2، 12، 36، 80، 150، ؟",
+  "answer": "252",
+  "type": "text",
+  "explanation": "ن² × (ن + 1)",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5950",
+  "code": "q_5950"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "أكمل النمط: 1، 11، 21، 1211، 111221، ؟",
+  "answer": "312211",
+  "type": "text",
+  "explanation": "كل حد «يقرأ» الحد السابق: واحد 1 → 11 → اثنان 1 → 21 …",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5951",
+  "code": "q_5951"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "أكمل النمط: 31، 94، 47، 142، 71، 214، ؟",
+  "answer": "107",
+  "type": "text",
+  "explanation": "إذا كان فرديًا ×3 + 1، وإذا كان زوجيًا ÷2.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5952",
+  "code": "q_5952"
+ },
+ {
+  "category": "puzzles",
+  "subcategory": "patterns",
+  "tags": [
+   "ألغاز وذكاء"
+  ],
+  "source": "بنك ألغاز وذكاء وسرعة بديهة (ملف المستخدم) — تحقق من كل حل",
+  "difficulty": 6,
+  "question_text": "أكمل النمط: 1، 4، 9، 18، 35، ؟",
+  "answer": "68",
+  "type": "text",
+  "explanation": "×2+2، ×2+1، ×2+0، ×2−1، ثم ×2−2.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-5953",
+  "code": "q_5953"
+ }
+]
