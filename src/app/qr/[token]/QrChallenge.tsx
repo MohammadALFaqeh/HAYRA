@@ -4,12 +4,14 @@ import { Eye, EyeOff } from "lucide-react";
 import { getDeviceId } from "@/lib/client/storage";
 import { hintServerTime, useCountdown } from "@/lib/client/clock";
 import { Logo } from "@/components/ui/Logo";
+import { QR_MODES, type QrMode } from "@/lib/game/constants";
 import { Spinner } from "@/components/ui";
 import type { TimerState } from "@/lib/game/types";
 import { cn, seconds, TEAM_COLORS } from "@/lib/utils";
 
 interface Challenge {
   type: string;
+  mode: QrMode | null;
   typeName: string;
   prompt: string;
   secret: string;
@@ -86,6 +88,7 @@ export function QrChallenge({ token }: { token: string }) {
   }
 
   const c = data.challenge;
+  const mode = c.mode ? QR_MODES[c.mode] : null;
   return (
     <main className="mx-auto flex min-h-dvh max-w-md flex-col gap-5 p-5">
       <header className="flex items-center justify-between">
@@ -93,7 +96,9 @@ export function QrChallenge({ token }: { token: string }) {
         {timer?.label && <span className="font-display text-3xl font-extrabold tabular-nums text-gold-300">{seconds(remaining)}</span>}
       </header>
       <div className="text-center">
-        <div className="text-sm text-white/55">{c.typeName}</div>
+        <div className="text-sm text-white/55">
+          {mode?.icon} {c.typeName}
+        </div>
         <h1 className="font-display text-2xl font-bold">{c.prompt}</h1>
       </div>
 
@@ -119,7 +124,20 @@ export function QrChallenge({ token }: { token: string }) {
         )}
       </button>
 
-      <div className="rounded-2xl bg-white/[0.05] p-4 text-lg">{c.instructions || DEFAULT_HINT[c.type] || "خلّي فريقك يعرف الإجابة بدون ما تقولها!"}</div>
+      {mode ? (
+        <div className="space-y-3 rounded-2xl bg-white/[0.05] p-4">
+          <div className="font-bold text-gold-300">📋 القواعد</div>
+          <ol className="list-inside list-decimal space-y-1.5 text-lg">
+            {mode.rules.map((r) => (
+              <li key={r}>{r}</li>
+            ))}
+          </ol>
+          {c.instructions && <p className="text-white/75">💡 {c.instructions}</p>}
+          <p className="border-t border-white/10 pt-3 text-sm text-leaf-400">✅ {mode.judge}</p>
+        </div>
+      ) : (
+        <div className="rounded-2xl bg-white/[0.05] p-4 text-lg">{c.instructions || DEFAULT_HINT[c.type] || "خلّي فريقك يعرف الإجابة بدون ما تقولها!"}</div>
+      )}
       {c.forbidden.length > 0 && (
         <div className="rounded-2xl border border-wine-400/40 bg-wine-500/10 p-4">
           <div className="mb-2 font-bold text-wine-400">🚫 ممنوع تقول:</div>

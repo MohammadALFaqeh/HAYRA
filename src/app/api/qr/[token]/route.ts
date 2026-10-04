@@ -1,5 +1,5 @@
 import type { NextRequest } from "next/server";
-import { QUESTION_TYPES } from "@/lib/game/constants";
+import { QR_MODES, QUESTION_TYPES, qrModeOf } from "@/lib/game/constants";
 import type { GameState } from "@/lib/game/types";
 import { json } from "@/lib/http";
 import { getServiceSupabase } from "@/lib/supabase/admin";
@@ -49,11 +49,13 @@ export async function GET(req: NextRequest, { params }: { params: Promise<{ toke
   const q = state.questions[a.questionId];
   if (!q) return expired();
   const team = state.teams[a.answeringTeam];
+  const mode = qrModeOf(q);
   return json({
     status: "ok" as QrStatus,
     challenge: {
       type: q.type,
-      typeName: QUESTION_TYPES[q.type]?.name ?? "تحدي",
+      mode,
+      typeName: mode ? QR_MODES[mode].name : QUESTION_TYPES[q.type]?.name ?? "تحدي",
       prompt: q.text,
       secret: q.answer,
       instructions: q.extra?.instructions ?? null,

@@ -1,6 +1,7 @@
 import "server-only";
 import type { SupabaseClient } from "@supabase/supabase-js";
 import type { Category, Subcategory } from "@/lib/db/types";
+import { areRelated, relInfo, type RelInfo } from "./related";
 import { BOARD_POINTS, HINT_POINTS, LEVELS, QUESTION_TYPE_IDS, RECENT_QUESTIONS_HOURS, isHintRound, isQrType, tierOf } from "./constants";
 import type {
   BoardCell,
@@ -24,6 +25,9 @@ interface PoolRow {
   subcategory_id: string | null;
   times_used: number | null;
   last_used_at: string | null;
+  question_text: string | null;
+  answer: string | null;
+  rel: string | null;
 }
 
 export interface BuiltBoard {
@@ -34,7 +38,8 @@ export interface BuiltBoard {
   warnings: string[];
 }
 
-const LIGHT_COLUMNS = "id,difficulty,depth_level,type,subcategory_id,times_used,last_used_at";
+// النص والإجابة ومجموعة الترابط تلزم لمنع الأسئلة المترابطة في اللعبة نفسها
+const LIGHT_COLUMNS = "id,difficulty,depth_level,type,subcategory_id,times_used,last_used_at,question_text,answer,rel:extra->>related";
 const FULL_COLUMNS =
   "id,type,question_text,answer,choices,clues,extra,image_url,audio_url,video_url,explanation,source,reference,verified,difficulty,category:categories(name),subcategory:subcategories(name)";
 
@@ -89,6 +94,7 @@ function pickBest(
   level: GameSettings["level"],
   random: () => number,
   now: number,
+  related: (p: PoolRow) => boolean,
 ): PoolRow | null {
   const candidates = pool.filter((p) => !used.has(p.id));
   if (!candidates.length) return null;
@@ -101,6 +107,8 @@ function pickBest(
       Math.abs(tierOf(p.difficulty) - tier) * 6 +
       freshnessPenalty(p, recent, now) +
       depthRank(level, p.depth_level) * 2 +
+      // سؤال مترابط مع سؤال اختير في اللعبة نفسها: نؤجله لجلسة أخرى ما دام هناك بديل
+      (related(p) ? 7 : 0) +
       Math.min(p.times_used ?? 0, 10) * 0.05,
   }));
   const best = Math.min(...scored.map((x) => x.score));
@@ -143,6 +151,18 @@ export async function buildBoard(
 
   const now = Date.now();
   const used = new Set<string>();
+  // معلومات الترابط للأسئلة المختارة حتى الآن
+  const taken: RelInfo[] = [];
+  const relCache = new Map<string, RelInfo>();
+  const relOf = (p: PoolRow) => {
+    let r = relCache.get(p.id);
+    if (!r) relCache.set(p.id, (r = relInfo(p)));
+    return r;
+  };
+  const isRelated = (p: PoolRow) => {
+    const r = relOf(p);
+    return taken.some((t) => areRelated(r, t));
+  };
   const columns: BoardColumn[] = [];
   const cells: BoardCell[] = [];
   const pools: PoolRow[][] = [];
@@ -176,8 +196,11 @@ export async function buildBoard(
 
     let missing = 0;
     BOARD_POINTS.forEach((points, ri) => {
-      const pick = pickBest(rows, tierOf(points / 100), used, recent, settings.level, random, now);
-      if (pick) used.add(pick.id);
+      const pick = pickBest(rows, tierOf(points / 100), used, recent, settings.level, random, now, isRelated);
+      if (pick) {
+        used.add(pick.id);
+        taken.push(relOf(pick));
+      }
       else missing++;
       cells.push({
         key: `c${colIndex}-r${ri}`,
@@ -233,7 +256,7 @@ export async function buildBoard(
   if (settings.finalEnabled) {
     const finalTypes: QuestionType[] = ["text", "multiple_choice", "identify_image"];
     const candidates = freshFirst(
-      pools.flat().filter((p) => !used.has(p.id) && p.difficulty >= 5 && finalTypes.includes(p.type)),
+      pools.flat().filter((p) => !used.has(p.id) && p.difficulty >= 5 && finalTypes.includes(p.type) && !isRelated(p)),
       recent,
       random,
       now,

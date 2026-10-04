@@ -113,6 +113,10 @@ export interface QuestionSnapshot {
     rank_limit?: number;
     /** سؤال من فقرة التلميحات (500 ← 300 ← 150) */
     hint_round?: boolean;
+    /** فقرة تحدي QR (انظر QR_MODES) */
+    mode?: string;
+    /** مجموعة ترابط: أسئلة المجموعة نفسها لا تظهر في لعبة واحدة */
+    related?: string;
   };
   imageUrl: string | null;
   audioUrl: string | null;

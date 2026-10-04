@@ -25,7 +25,7 @@ import { useHostSession } from "@/lib/client/use-host-session";
 import { usePublicSession } from "@/lib/client/use-public-session";
 import { play, unlockAudio } from "@/lib/client/sound";
 import { toPublicState } from "@/lib/game/public";
-import { HINT_POINTS, MYSTERY, POWERUPS, QUESTION_TYPES, hintPointsAt, isHintRound, isQrType } from "@/lib/game/constants";
+import { HINT_POINTS, MYSTERY, POWERUPS, QR_MODES, QUESTION_TYPES, hintPointsAt, isHintRound, isQrType, qrModeOf } from "@/lib/game/constants";
 import type { GameState, PowerupId, TeamId } from "@/lib/game/types";
 import { FEEDBACK_LABELS, type FeedbackRating } from "@/lib/db/types";
 import { cn, formatPoints, seconds, TEAM_COLORS } from "@/lib/utils";
@@ -297,6 +297,7 @@ function QuestionControls({
   const nextHintPoints = hintPointsAt(a.cluesShown + 1);
   const other: TeamId = a.pickedBy === "A" ? "B" : "A";
   const qr = isQrType(q.type);
+  const qrMode = qrModeOf(q);
   const stageLabel: Record<string, string> = {
     prep: `⚡ وسائل المساعدة لـ ${s.teams[a.pickedBy].name} (اختياري)`,
     answering: `🎯 ${s.teams[a.answeringTeam].name} يجيب`,
@@ -315,7 +316,7 @@ function QuestionControls({
             {q.subcategoryName && ` / ${q.subcategoryName}`}
           </span>
           <span className="gold-text font-display text-xl font-extrabold">{formatPoints(points)}</span>
-          <span className="rounded-full bg-white/[0.06] px-2 py-0.5 text-xs">{QUESTION_TYPES[q.type].name}</span>
+          <span className="rounded-full bg-white/[0.06] px-2 py-0.5 text-xs">{qrMode ? `${QR_MODES[qrMode].icon} ${QR_MODES[qrMode].name}` : QUESTION_TYPES[q.type].name}</span>
           {a.mystery && <span className="rounded-full bg-violet-500/25 px-2 py-0.5 text-xs text-violet-400">{MYSTERY[a.mystery].icon} {MYSTERY[a.mystery].name}</span>}
           {!q.verified && <span className="rounded-full bg-ember-500/20 px-2 py-0.5 text-xs text-ember-400">غير موثّق</span>}
         </div>
@@ -324,6 +325,11 @@ function QuestionControls({
         ) : (
           <>
         <p className="font-display text-xl font-bold leading-relaxed">{q.text}</p>
+        {qrMode && (
+          <p className="rounded-xl bg-leaf-500/10 px-3 py-2 text-sm text-leaf-400">
+            ⚖️ للمضيف: {QR_MODES[qrMode].judge}
+          </p>
+        )}
         {q.type === "individual" && q.extra?.target && <p className="rounded-xl bg-volt-500/10 px-3 py-2 text-sm font-bold text-volt-400">🎯 موجّه إلى: {q.extra.target}</p>}
         {q.extra?.quote && <p className="quran rounded-2xl bg-gold-400/[0.07] px-4 py-2 text-xl text-gold-200">﴿ {q.extra.quote} ﴾</p>}
         {q.imageUrl && (

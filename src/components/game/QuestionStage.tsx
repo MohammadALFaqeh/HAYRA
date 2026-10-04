@@ -4,7 +4,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { QRCodeSVG } from "qrcode.react";
 import type { PublicActive } from "@/lib/game/public";
 import type { TeamId, TeamState, TimerState } from "@/lib/game/types";
-import { MYSTERY, POWERUPS, isQrType } from "@/lib/game/constants";
+import { MYSTERY, POWERUPS, QR_MODES, isQrType } from "@/lib/game/constants";
 import { cn, formatPoints, TEAM_COLORS } from "@/lib/utils";
 import { TimerRing } from "./TimerRing";
 
@@ -44,6 +44,7 @@ export function QuestionStage({
   const tc = TEAM_COLORS[active.answeringTeam];
   const points = active.basePoints * active.multiplier * (active.doubleFor === active.answeringTeam ? 2 : 1);
   const qr = isQrType(q.type);
+  const mode = q.qrMode ? QR_MODES[q.qrMode] : null;
   const showAnswer = q.answer !== null;
 
   return (
@@ -188,8 +189,20 @@ export function QuestionStage({
                 <QRCodeSVG value={`${origin}/qr/${active.qrToken}`} size={200} level="M" />
               </div>
               <div className="space-y-2 text-center sm:text-right">
-                <p className="font-display text-2xl font-bold">📱 شخص واحد من {team.name} يمسح الرمز</p>
-                <p className="text-white/60">سيظهر له التحدي على جواله فقط — لا تفرجوا الباقين!</p>
+                {mode && (
+                  <p className="font-display text-3xl font-extrabold text-gold-300">
+                    {mode.icon} {mode.name}
+                  </p>
+                )}
+                <p className="font-display text-xl font-bold">📱 {mode ? mode.who : `شخص واحد من ${team.name} يمسح الرمز`}</p>
+                {mode && (
+                  <ul className="space-y-0.5 text-white/75">
+                    {mode.rules.map((r) => (
+                      <li key={r}>• {r}</li>
+                    ))}
+                  </ul>
+                )}
+                <p className="text-white/55">السر يظهر على جوال اللاعب فقط — لا تفرجوا الباقين!</p>
               </div>
             </div>
           )}

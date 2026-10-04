@@ -2,7 +2,7 @@
 // حيرة — النسخة العامة من الحالة (للتلفزيون والجمهور)
 // لا تحتوي الإجابة إلا بعد السماح بعرضها، ولا تكشف نوع الخانة الغامضة
 // ============================================================
-import { HINT_POINTS, isHintRound } from "./constants";
+import { HINT_POINTS, isHintRound, qrModeOf, type QrMode } from "./constants";
 import type {
   ActiveQuestion,
   BoardColumn,
@@ -41,6 +41,8 @@ export interface PublicQuestion {
   cluesTotal: number;
   /** فقرة التلميحات: قيمة السؤال عند كل تلميح (500، 300، 150) */
   hintPoints: number[] | null;
+  /** فقرة تحدي QR — قواعدها تظهر على الشاشة للجميع (بدون السر) */
+  qrMode: QrMode | null;
   imageUrl: string | null;
   audioUrl: string | null;
   videoUrl: string | null;
@@ -144,6 +146,7 @@ export function toPublicState(s: GameState, serverTime = Date.now()): PublicStat
             clues: (q.clues ?? []).slice(0, a.cluesShown),
             cluesTotal: q.clues?.length ?? 0,
             hintPoints: isHintRound(q) ? [...HINT_POINTS] : null,
+            qrMode: qrModeOf(q),
             imageUrl: q.imageUrl,
             audioUrl: q.audioUrl,
             videoUrl: q.videoUrl,
