@@ -1,0 +1,4262 @@
+[
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي عام تأسس نادي ريال مدريد؟",
+  "answer": "1902",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4581",
+  "code": "q_4581"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما اللقب الأشهر لنادي ريال مدريد؟",
+  "answer": "النادي الملكي (الميرينغي)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4582",
+  "code": "q_4582"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من الهداف التاريخي لريال مدريد؟",
+  "answer": "كريستيانو رونالدو (451 هدفًا)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4583",
+  "code": "q_4583"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "كم لقبًا في دوري أبطال أوروبا يملك ريال مدريد بعد تتويج 2024؟",
+  "answer": "15 لقبًا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4584",
+  "code": "q_4584"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من رئيس ريال مدريد الذي ارتبط اسمه بصفقات «الغالاكتيكوس»؟",
+  "answer": "فلورنتينو بيريز",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4585",
+  "code": "q_4585"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من المدرب الذي قاد ريال مدريد إلى ثلاثة ألقاب متتالية في دوري الأبطال؟",
+  "answer": "زين الدين زيدان (2016، 2017، 2018)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4586",
+  "code": "q_4586"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما رقم القميص الذي اشتهر به كريستيانو رونالدو في ريال مدريد؟",
+  "answer": "7",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4587",
+  "code": "q_4587"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما رقم القميص الذي ارتداه لوكا مودريتش في ريال مدريد؟",
+  "answer": "10",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4588",
+  "code": "q_4588"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما لقب الحارس إيكر كاسياس؟",
+  "answer": "القديس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4589",
+  "code": "q_4589"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من المدافع الإسباني الذي ارتدى الرقم 4 وكان قائدًا لريال مدريد؟",
+  "answer": "سيرخيو راموس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4590",
+  "code": "q_4590"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من المهاجم الفرنسي الذي لعب لريال مدريد من 2009 إلى 2023؟",
+  "answer": "كريم بنزيما",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4591",
+  "code": "q_4591"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من سجل هدف ريال مدريد الوحيد في نهائي دوري الأبطال 2022؟",
+  "answer": "فينيسيوس جونيور",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4592",
+  "code": "q_4592"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ضد أي فريق فاز ريال مدريد في نهائي دوري الأبطال 2022؟",
+  "answer": "ليفربول",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4593",
+  "code": "q_4593"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ضد أي فريق فاز ريال مدريد في نهائي دوري الأبطال 2024؟",
+  "answer": "بوروسيا دورتموند",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4594",
+  "code": "q_4594"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من سجل هدفي ريال مدريد في نهائي دوري الأبطال 2024؟",
+  "answer": "داني كارفاخال وفينيسيوس جونيور",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4595",
+  "code": "q_4595"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي ملعب أقيم نهائي دوري الأبطال 2024؟",
+  "answer": "ويمبلي في لندن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4596",
+  "code": "q_4596"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من سجل الهدف المقصّي الشهير في نهائي دوري الأبطال 2018؟",
+  "answer": "غاريث بيل",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4597",
+  "code": "q_4597"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ضد أي فريق فاز ريال مدريد في نهائي دوري الأبطال 2017؟",
+  "answer": "يوفنتوس (4-1)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4598",
+  "code": "q_4598"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "كيف حُسم نهائي دوري الأبطال 2016 بين ريال مدريد وأتلتيكو مدريد؟",
+  "answer": "بركلات الترجيح",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4599",
+  "code": "q_4599"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من سجل ركلة الترجيح الحاسمة لريال مدريد في نهائي 2016؟",
+  "answer": "كريستيانو رونالدو",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4600",
+  "code": "q_4600"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من سجل هدف ريال مدريد الطائر الشهير في نهائي دوري الأبطال 2002؟",
+  "answer": "زين الدين زيدان",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4601",
+  "code": "q_4601"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ضد أي فريق لعب ريال مدريد نهائي دوري الأبطال 2002؟",
+  "answer": "باير ليفركوزن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4602",
+  "code": "q_4602"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من سجل هدف فوز ريال مدريد في نهائي دوري الأبطال 1998؟",
+  "answer": "بريدراغ مياتوفيتش",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4603",
+  "code": "q_4603"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما معنى «Los Blancos»، أحد ألقاب ريال مدريد؟",
+  "answer": "البيض",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4604",
+  "code": "q_4604"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من لاعب ريال مدريد الكرواتي الذي فاز بالكرة الذهبية 2018؟",
+  "answer": "لوكا مودريتش",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4605",
+  "code": "q_4605"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من الحارس البلجيكي الذي تألق مع ريال مدريد في نهائي 2022؟",
+  "answer": "تيبو كورتوا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4606",
+  "code": "q_4606"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من المدرب الإيطالي الذي فاز بدوري الأبطال مع ريال مدريد ثلاث مرات؟",
+  "answer": "كارلو أنشيلوتي (2014، 2022، 2024)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4607",
+  "code": "q_4607"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "كم مرة فاز ريال مدريد بكأس أوروبا قبل تحويلها إلى دوري الأبطال عام 1992؟",
+  "answer": "6 مرات",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4608",
+  "code": "q_4608"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الأسطورة المجري الذي لعب لريال مدريد في الخمسينيات والستينيات؟",
+  "answer": "فيرينتس بوشكاش",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4609",
+  "code": "q_4609"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من سجل هدف التعادل لريال مدريد في الدقيقة 93 من نهائي دوري الأبطال 2014؟",
+  "answer": "سيرخيو راموس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4610",
+  "code": "q_4610"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "كم انتهى نهائي دوري الأبطال 2014 بين ريال مدريد وأتلتيكو؟",
+  "answer": "4-1 لريال مدريد بعد التمديد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4611",
+  "code": "q_4611"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي عام أضيفت كلمة «ريال» إلى اسم النادي؟",
+  "answer": "1920",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4612",
+  "code": "q_4612"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "أي ملك إسباني منح النادي لقب «ريال»؟",
+  "answer": "الملك ألفونسو الثالث عشر",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4613",
+  "code": "q_4613"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي موسم فاز ريال مدريد بأول لقب دوري إسباني؟",
+  "answer": "1931-1932 (دون أي هزيمة)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4614",
+  "code": "q_4614"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من كان خصم ريال مدريد في أول نهائي لكأس أوروبا عام 1956؟",
+  "answer": "ستاد دي ريمس الفرنسي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4615",
+  "code": "q_4615"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي مدينة أقيم نهائي كأس أوروبا 1956؟",
+  "answer": "باريس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4616",
+  "code": "q_4616"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم انتهى نهائي كأس أوروبا 1956؟",
+  "answer": "4-3 لريال مدريد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4617",
+  "code": "q_4617"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من خصم ريال مدريد في نهائي كأس أوروبا 1957؟",
+  "answer": "فيورنتينا (2-0)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4618",
+  "code": "q_4618"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من خصم ريال مدريد في نهائي كأس أوروبا 1958؟",
+  "answer": "ميلان (3-2 بعد التمديد)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4619",
+  "code": "q_4619"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم انتهى نهائي كأس أوروبا 1960 أمام آينتراخت فرانكفورت؟",
+  "answer": "7-3 لريال مدريد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4620",
+  "code": "q_4620"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل أربعة أهداف لريال مدريد في نهائي كأس أوروبا 1960؟",
+  "answer": "فيرينتس بوشكاش",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4621",
+  "code": "q_4621"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم هدفًا سجل دي ستيفانو في نهائي كأس أوروبا 1960؟",
+  "answer": "ثلاثة أهداف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4622",
+  "code": "q_4622"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم لقبًا أوروبيًا متتاليًا حقق ريال مدريد بين 1956 و1960؟",
+  "answer": "خمسة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4623",
+  "code": "q_4623"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من خصم ريال مدريد في نهائي كأس أوروبا 1966؟",
+  "answer": "بارتيزان بلغراد (2-1)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4624",
+  "code": "q_4624"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من مدرب ريال مدريد في نهائي دوري الأبطال 1998؟",
+  "answer": "يوب هاينكس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4625",
+  "code": "q_4625"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل أهداف ريال مدريد الثلاثة في نهائي دوري الأبطال 2000 أمام فالنسيا؟",
+  "answer": "مورينتس وماكمانامان وراؤول",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4626",
+  "code": "q_4626"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف ريال مدريد الأول في نهائي دوري الأبطال 2002؟",
+  "answer": "راؤول",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4627",
+  "code": "q_4627"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من صنع هدف زيدان الطائر في نهائي 2002؟",
+  "answer": "روبرتو كارلوس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4628",
+  "code": "q_4628"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل الهدف الثالث لريال مدريد في نهائي 2014؟",
+  "answer": "مارسيلو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4629",
+  "code": "q_4629"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف ريال مدريد الأول في نهائي 2016 أمام أتلتيكو؟",
+  "answer": "سيرخيو راموس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4630",
+  "code": "q_4630"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف أتلتيكو مدريد في نهائي 2016؟",
+  "answer": "يانيك كاراسكو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4631",
+  "code": "q_4631"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف ريال مدريد الثاني في نهائي 2017 بتسديدة بعيدة؟",
+  "answer": "كاسيميرو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4632",
+  "code": "q_4632"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف ريال مدريد الرابع في نهائي 2017؟",
+  "answer": "ماركو أسينسيو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4633",
+  "code": "q_4633"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف يوفنتوس المقصّي في نهائي 2017؟",
+  "answer": "ماريو ماندزوكيتش",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4634",
+  "code": "q_4634"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل أول أهداف ريال مدريد في نهائي 2018 بعد خطأ من الحارس كاريوس؟",
+  "answer": "كريم بنزيما",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4635",
+  "code": "q_4635"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف ليفربول في نهائي 2018؟",
+  "answer": "ساديو ماني",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4636",
+  "code": "q_4636"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من صنع هدف فينيسيوس في نهائي 2022؟",
+  "answer": "فيديريكو فالفيردي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4637",
+  "code": "q_4637"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من نال جائزة أفضل لاعب في نهائي دوري الأبطال 2022؟",
+  "answer": "تيبو كورتوا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4638",
+  "code": "q_4638"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من كان حارس بوروسيا دورتموند في نهائي 2024؟",
+  "answer": "غريغور كوبل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4639",
+  "code": "q_4639"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم لقبًا حقق مارسيلو مع ريال مدريد؟",
+  "answer": "25 لقبًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4640",
+  "code": "q_4640"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم هدفًا سجل كريم بنزيما مع ريال مدريد؟",
+  "answer": "354 هدفًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4641",
+  "code": "q_4641"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من آخر مدافع فاز بالكرة الذهبية، وكان حينها لاعبًا في ريال مدريد؟",
+  "answer": "فابيو كانافارو (2006)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4642",
+  "code": "q_4642"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من لاعب ريال مدريد الذي فاز بالكرة الذهبية عام 2000 بعد انتقاله من برشلونة؟",
+  "answer": "لويس فيغو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4643",
+  "code": "q_4643"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من لاعب ريال مدريد الذي فاز بالكرة الذهبية عام 2002؟",
+  "answer": "رونالدو نازاريو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4644",
+  "code": "q_4644"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل أهداف ريال مدريد الأربعة في نهائي كأس أوروبا 1956؟",
+  "answer": "دي ستيفانو وماركيتوس وهيكتور ريال (هدفان)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4645",
+  "code": "q_4645"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدفي ريال مدريد في نهائي كأس أوروبا 1957؟",
+  "answer": "دي ستيفانو وخينتو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4646",
+  "code": "q_4646"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدف الفوز لريال مدريد في الوقت الإضافي بنهائي كأس أوروبا 1958؟",
+  "answer": "فرانسيسكو خينتو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4647",
+  "code": "q_4647"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدفي ريال مدريد في نهائي كأس أوروبا 1959؟",
+  "answer": "ماتيوس ودي ستيفانو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4648",
+  "code": "q_4648"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدفي ريال مدريد في نهائي كأس أوروبا 1966؟",
+  "answer": "أمانسيو وسيرينا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4649",
+  "code": "q_4649"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من مدرب ريال مدريد في نهائي كأس أوروبا 1966، وكان قد فاز بها لاعبًا أيضًا؟",
+  "answer": "ميغيل مونيوز",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4650",
+  "code": "q_4650"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الاسم الأصلي لملعب سانتياغو برنابيو عند افتتاحه عام 1947؟",
+  "answer": "ملعب شامارتين الجديد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4651",
+  "code": "q_4651"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي عام أُطلق اسم سانتياغو برنابيو على الملعب؟",
+  "answer": "1955",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4652",
+  "code": "q_4652"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ضد أي فريق لعب ريال مدريد المباراة الافتتاحية لملعبه الجديد عام 1947؟",
+  "answer": "بيلينينسيس البرتغالي (3-1)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4653",
+  "code": "q_4653"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "أين يقع مركز تدريب ريال مدريد «مدينة ريال مدريد»؟",
+  "answer": "في فالديبيباس شمال شرق مدريد",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4654",
+  "code": "q_4654"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي عام فاز ريال مدريد بأول كأس ملك (كأس إسبانيا)؟",
+  "answer": "1905",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4655",
+  "code": "q_4655"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من أول رئيس لنادي ريال مدريد؟",
+  "answer": "خوان بادروس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4656",
+  "code": "q_4656"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما تاريخ التأسيس الرسمي لنادي ريال مدريد؟",
+  "answer": "6 مارس 1902",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4657",
+  "code": "q_4657"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من أول لاعب في ريال مدريد يفوز بالكرة الذهبية؟",
+  "answer": "ألفريدو دي ستيفانو (1957)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4658",
+  "code": "q_4658"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من اللاعب الفرنسي في ريال مدريد الذي فاز بالكرة الذهبية 1958؟",
+  "answer": "ريمون كوبا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4659",
+  "code": "q_4659"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم كرة ذهبية فاز بها كريستيانو رونالدو وهو لاعب في ريال مدريد؟",
+  "answer": "4 (2013، 2014، 2016، 2017)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4660",
+  "code": "q_4660"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من كان هداف ريال مدريد التاريخي قبل كريستيانو رونالدو؟",
+  "answer": "راؤول غونزاليس (323 هدفًا)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4661",
+  "code": "q_4661"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم مباراة لعب راؤول مع ريال مدريد؟",
+  "answer": "741 مباراة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4662",
+  "code": "q_4662"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم مباراة رسمية لعب كريستيانو رونالدو مع ريال مدريد؟",
+  "answer": "438 مباراة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4663",
+  "code": "q_4663"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم هدفًا سجل كريستيانو رونالدو في الدوري الإسباني؟",
+  "answer": "311 هدفًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4664",
+  "code": "q_4664"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم هدفًا سجل كريستيانو رونالدو مع ريال مدريد في دوري الأبطال؟",
+  "answer": "105 أهداف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4665",
+  "code": "q_4665"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما أكبر عدد أهداف سجله رونالدو في موسم واحد مع ريال مدريد؟",
+  "answer": "61 هدفًا (2014-2015)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4666",
+  "code": "q_4666"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ما الرقم القياسي لعدد أهداف لاعب في نسخة واحدة من دوري الأبطال، وسجله رونالدو موسم 2013-2014؟",
+  "answer": "17 هدفًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4667",
+  "code": "q_4667"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "كم هاتريك سجل رونالدو في الدوري الإسباني؟",
+  "answer": "34",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4668",
+  "code": "q_4668"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما أول بطولة فاز بها رونالدو مع ريال مدريد؟",
+  "answer": "كأس الملك 2011 (برأسية في مرمى برشلونة)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4669",
+  "code": "q_4669"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من صنع هدف رونالدو الرأسي في نهائي كأس الملك 2011؟",
+  "answer": "أنخيل دي ماريا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4670",
+  "code": "q_4670"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي موسم جمع ريال مدريد 100 نقطة في الدوري الإسباني؟",
+  "answer": "2011-2012 مع مورينيو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4671",
+  "code": "q_4671"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "كم هدفًا سجل ريال مدريد في دوري موسم 2011-2012 القياسي؟",
+  "answer": "121 هدفًا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4672",
+  "code": "q_4672"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم هدفًا سجل رونالدو في الدوري الإسباني موسم 2011-2012؟",
+  "answer": "46 هدفًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4673",
+  "code": "q_4673"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من صنع ركنية هدف راموس الشهير في نهائي 2014؟",
+  "answer": "لوكا مودريتش",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4674",
+  "code": "q_4674"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدف أتلتيكو مدريد في نهائي 2014؟",
+  "answer": "دييغو غودين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4675",
+  "code": "q_4675"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من كان حارس أتلتيكو مدريد في نهائي 2014 أمام ريال مدريد؟",
+  "answer": "تيبو كورتوا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4676",
+  "code": "q_4676"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من سدد ركلات ترجيح ريال مدريد الخمس في نهائي 2016 بالترتيب؟",
+  "answer": "فاسكيز، مارسيلو، بيل، راموس، رونالدو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4677",
+  "code": "q_4677"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من أهدر ركلة ترجيح أتلتيكو مدريد في نهائي 2016؟",
+  "answer": "خوانفران",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4678",
+  "code": "q_4678"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي ملعب أقيم نهائي 2016 بين ريال مدريد وأتلتيكو؟",
+  "answer": "سان سيرو في ميلانو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4679",
+  "code": "q_4679"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي مدينة أقيم نهائي دوري الأبطال 2017؟",
+  "answer": "كارديف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4680",
+  "code": "q_4680"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي مدينة أقيم نهائي دوري الأبطال 2018؟",
+  "answer": "كييف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4681",
+  "code": "q_4681"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من صنع هدف ماندزوكيتش في نهائي 2017؟",
+  "answer": "أليكس ساندرو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4682",
+  "code": "q_4682"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من كان حارس ريال مدريد في نهائي 2018؟",
+  "answer": "كيلور نافاس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4683",
+  "code": "q_4683"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من صنع الهدف المقصّي لغاريث بيل في نهائي 2018؟",
+  "answer": "مارسيلو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4684",
+  "code": "q_4684"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من حكم نهائي دوري الأبطال 2022؟",
+  "answer": "الفرنسي كليمان توربان",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4685",
+  "code": "q_4685"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من حكم نهائي دوري الأبطال 2024؟",
+  "answer": "السلوفيني سلافكو فينتشيتش",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4686",
+  "code": "q_4686"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من صنع هدف فينيسيوس في نهائي 2024؟",
+  "answer": "جود بيلينغهام",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4687",
+  "code": "q_4687"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من صنع ركنية هدف كارفاخال في نهائي 2024؟",
+  "answer": "توني كروس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4688",
+  "code": "q_4688"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من رفع كأس دوري الأبطال 2024 قائدًا لريال مدريد؟",
+  "answer": "ناتشو فرنانديز",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4689",
+  "code": "q_4689"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من أول مدرب يفوز بدوري الأبطال/كأس أوروبا خمس مرات؟",
+  "answer": "كارلو أنشيلوتي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4690",
+  "code": "q_4690"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدف ريال مدريد في نهائي كأس الملك 2014 بعد ركضة تجاوز فيها بارترا خارج الملعب؟",
+  "answer": "غاريث بيل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4691",
+  "code": "q_4691"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من مساعد زيدان في فترته التدريبية مع ريال مدريد؟",
+  "answer": "دافيد بيتوني",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4692",
+  "code": "q_4692"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم هدفًا سجل سيرخيو راموس مع ريال مدريد وهو مدافع؟",
+  "answer": "101 هدف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4693",
+  "code": "q_4693"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم مباراة لعب سيرخيو راموس مع ريال مدريد؟",
+  "answer": "671 مباراة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4694",
+  "code": "q_4694"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم لقب دوري إسباني يملك ريال مدريد بعد موسم 2023-2024؟",
+  "answer": "36 لقبًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4695",
+  "code": "q_4695"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "كم لقب كأس الاتحاد الأوروبي (يوروبا ليغ حاليًا) حقق ريال مدريد؟",
+  "answer": "لقبان (1985 و1986)",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4696",
+  "code": "q_4696"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من خصم ريال مدريد في نهائي كأس العالم للأندية 2018؟",
+  "answer": "العين الإماراتي (4-1)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4697",
+  "code": "q_4697"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من سجل أهداف ريال مدريد في نهائي كأس العالم للأندية 2018 أمام العين؟",
+  "answer": "مودريتش ويورينتي وراموس، والرابع بالخطأ في مرمى العين",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4698",
+  "code": "q_4698"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هاتريك لريال مدريد في نهائي كأس العالم للأندية 2016 أمام كاشيما؟",
+  "answer": "كريستيانو رونالدو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4699",
+  "code": "q_4699"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدف ريال مدريد الوحيد في نهائي كأس العالم للأندية 2017 أمام غريميو؟",
+  "answer": "كريستيانو رونالدو (ركلة حرة)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4700",
+  "code": "q_4700"
+ },
+ {
+  "category": "sports",
+  "subcategory": "real-madrid",
+  "tags": [
+   "كرة القدم",
+   "ريال مدريد"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من سجل أول هدف لريال مدريد في تاريخ كأس أوروبا (1955)؟",
+  "answer": "ميغيل مونيوز",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4701",
+  "code": "q_4701"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "في أي عام تأسس نادي برشلونة؟",
+  "answer": "1899",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4702",
+  "code": "q_4702"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من مؤسس نادي برشلونة؟",
+  "answer": "السويسري خوان غامبر",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4703",
+  "code": "q_4703"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما معنى شعار برشلونة «Més que un club»؟",
+  "answer": "أكثر من مجرد نادٍ",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4704",
+  "code": "q_4704"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما اسم أكاديمية برشلونة الشهيرة؟",
+  "answer": "لا ماسيا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4705",
+  "code": "q_4705"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما اسم مباراة ديربي برشلونة أمام جاره في المدينة؟",
+  "answer": "ديربي برشلونة أمام إسبانيول",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4706",
+  "code": "q_4706"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من الهداف التاريخي لبرشلونة؟",
+  "answer": "ليونيل ميسي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4707",
+  "code": "q_4707"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما رقم قميص تشافي هيرنانديز في برشلونة؟",
+  "answer": "6",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4708",
+  "code": "q_4708"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ما رقم قميص أندريس إنييستا في برشلونة؟",
+  "answer": "8",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4709",
+  "code": "q_4709"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما رقم قميص القائد كارليس بويول؟",
+  "answer": "5",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4710",
+  "code": "q_4710"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ماذا كان يُسمى ثلاثي برشلونة الهجومي ميسي وسواريز ونيمار؟",
+  "answer": "MSN",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4711",
+  "code": "q_4711"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "كم مرة فاز برشلونة بدوري أبطال أوروبا؟",
+  "answer": "5 مرات (1992، 2006، 2009، 2011، 2015)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4712",
+  "code": "q_4712"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من أول فريق إسباني يحقق الثلاثية (الدوري والكأس ودوري الأبطال)؟",
+  "answer": "برشلونة موسم 2008-2009",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4713",
+  "code": "q_4713"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من مدرب برشلونة في موسم الثلاثية الأولى 2008-2009؟",
+  "answer": "بيب غوارديولا",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4714",
+  "code": "q_4714"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من مدرب برشلونة الذي حقق الثلاثية الثانية عام 2015؟",
+  "answer": "لويس إنريكي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4715",
+  "code": "q_4715"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من مدرب برشلونة الذي فاز بدوري الأبطال 2006؟",
+  "answer": "فرانك ريكارد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4716",
+  "code": "q_4716"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من صانع «فريق الأحلام» الذي فاز بأول كأس أوروبية لبرشلونة عام 1992؟",
+  "answer": "يوهان كرويف",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4717",
+  "code": "q_4717"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من سجل هدف برشلونة في نهائي كأس أوروبا 1992؟",
+  "answer": "رونالد كومان (ركلة حرة)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4718",
+  "code": "q_4718"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ضد أي فريق فاز برشلونة في نهائي 1992؟",
+  "answer": "سامبدوريا الإيطالي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4719",
+  "code": "q_4719"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي ملعب أقيم نهائي 1992؟",
+  "answer": "ويمبلي في لندن",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4720",
+  "code": "q_4720"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "ضد أي فريق فاز برشلونة في نهائيي دوري الأبطال 2009 و2011؟",
+  "answer": "مانشستر يونايتد",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4721",
+  "code": "q_4721"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من سجل هدفي برشلونة في نهائي دوري الأبطال 2009؟",
+  "answer": "صامويل إيتو وليونيل ميسي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4722",
+  "code": "q_4722"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل أهداف برشلونة الثلاثة في نهائي 2011؟",
+  "answer": "بيدرو وميسي ودافيد فيا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4723",
+  "code": "q_4723"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ضد أي فريق فاز برشلونة في نهائي دوري الأبطال 2015؟",
+  "answer": "يوفنتوس (3-1)",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4724",
+  "code": "q_4724"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "ما الملعب الذي لعب فيه برشلونة قبل كامب نو؟",
+  "answer": "ليس كورتس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4725",
+  "code": "q_4725"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي عام افتتح ملعب كامب نو؟",
+  "answer": "1957",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4726",
+  "code": "q_4726"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الحارس الإسباني لبرشلونة في عصر غوارديولا؟",
+  "answer": "فيكتور فالديس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4727",
+  "code": "q_4727"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "من الظهير البرازيلي الذي انضم لبرشلونة من إشبيلية عام 2008؟",
+  "answer": "داني ألفيس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4728",
+  "code": "q_4728"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 1,
+  "question_text": "من المهاجم البولندي الذي انضم إلى برشلونة عام 2022؟",
+  "answer": "روبرت ليفاندوفسكي",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4729",
+  "code": "q_4729"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "كيف سجل ميسي هدفه في نهائي دوري الأبطال 2009؟",
+  "answer": "بضربة رأس",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4730",
+  "code": "q_4730"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم مباراة كان قد لعبها ميسي حين تجاوز رقم تشافي القياسي في عدد المباريات مع برشلونة؟",
+  "answer": "768 مباراة",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4731",
+  "code": "q_4731"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم هدفًا سجل ميسي في عام 2012 الميلادي (رقم قياسي عالمي)؟",
+  "answer": "91 هدفًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4732",
+  "code": "q_4732"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 2,
+  "question_text": "في أي عام حقق برشلونة السداسية التاريخية؟",
+  "answer": "2009",
+  "type": "text",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4733",
+  "code": "q_4733"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما البطولات الست التي حققها برشلونة عام 2009؟",
+  "answer": "الدوري، كأس الملك، دوري الأبطال، السوبر الإسباني، السوبر الأوروبي، كأس العالم للأندية",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4734",
+  "code": "q_4734"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم لقبًا حقق غوارديولا مع برشلونة في أربعة مواسم؟",
+  "answer": "14 لقبًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4735",
+  "code": "q_4735"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم نقطة جمع برشلونة في الدوري موسم 2009-2010؟",
+  "answer": "99 نقطة (بفارق 3 عن ريال مدريد)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4736",
+  "code": "q_4736"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من صنع هدفي برشلونة في نهائي دوري الأبطال 2006؟",
+  "answer": "هنريك لارسون",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4737",
+  "code": "q_4737"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف الفوز لبرشلونة في نهائي 2006 أمام أرسنال؟",
+  "answer": "جوليانو بيليتي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4738",
+  "code": "q_4738"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من حارس أرسنال الذي طُرد مبكرًا في نهائي 2006؟",
+  "answer": "ينس ليمان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4739",
+  "code": "q_4739"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف أرسنال في نهائي 2006؟",
+  "answer": "سول كامبل",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4740",
+  "code": "q_4740"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي مدينة أقيم نهائي 2009؟",
+  "answer": "روما (الملعب الأولمبي)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4741",
+  "code": "q_4741"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي مدينة أقيم نهائي 2015 أمام يوفنتوس؟",
+  "answer": "برلين",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4742",
+  "code": "q_4742"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل أهداف برشلونة في نهائي 2015 بالترتيب؟",
+  "answer": "راكيتيتش ثم سواريز ثم نيمار",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4743",
+  "code": "q_4743"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف يوفنتوس في نهائي 2015؟",
+  "answer": "ألفارو موراتا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4744",
+  "code": "q_4744"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم هدفًا سجل ميسي في مباريات الكلاسيكو؟",
+  "answer": "26 هدفًا (الأكثر في التاريخ)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4745",
+  "code": "q_4745"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "ما نتيجة فوز برشلونة الشهير على ريال مدريد في البرنابيو عام 2009؟",
+  "answer": "6-2",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4746",
+  "code": "q_4746"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدف برشلونة السادس في الفوز 6-2 على ريال مدريد 2009؟",
+  "answer": "جيرارد بيكيه",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4747",
+  "code": "q_4747"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدفين لبرشلونة في الفوز 6-2 على ريال مدريد 2009؟",
+  "answer": "ميسي وتييري هنري",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4748",
+  "code": "q_4748"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من سجل هدف برشلونة القاتل في الدقيقة 93 أمام تشيلسي بنصف نهائي 2009؟",
+  "answer": "أندريس إنييستا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4749",
+  "code": "q_4749"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من مرر الكرة لإنييستا في هدفه الشهير أمام تشيلسي 2009؟",
+  "answer": "ليونيل ميسي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4750",
+  "code": "q_4750"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدف تشيلسي في إياب نصف نهائي 2009 أمام برشلونة؟",
+  "answer": "مايكل إيسيان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4751",
+  "code": "q_4751"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من ثلاثي وسط برشلونة الشهير في عهد غوارديولا؟",
+  "answer": "تشافي وإنييستا وبوسكيتس",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4752",
+  "code": "q_4752"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "في أي عام افتتح ملعب ليس كورتس؟",
+  "answer": "1922",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4753",
+  "code": "q_4753"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم لقبًا حقق ميسي مع برشلونة حتى رحيله عام 2021؟",
+  "answer": "35 لقبًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4754",
+  "code": "q_4754"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من صاحب ثاني أكبر عدد من الألقاب في تاريخ برشلونة بعد ميسي؟",
+  "answer": "أندريس إنييستا (32 لقبًا)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4755",
+  "code": "q_4755"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم لقب دوري إسباني فاز به ميسي مع برشلونة؟",
+  "answer": "10",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4756",
+  "code": "q_4756"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم لقب دوري أبطال فاز به ميسي مع برشلونة؟",
+  "answer": "4",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4757",
+  "code": "q_4757"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من كان الهداف التاريخي لبرشلونة قبل ميسي؟",
+  "answer": "سيزار رودريغيز",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4758",
+  "code": "q_4758"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم هدفًا سجل لويس سواريز مع برشلونة؟",
+  "answer": "198 هدفًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4759",
+  "code": "q_4759"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من اللاعب الكرواتي الذي سجل هدف برشلونة الأول في نهائي 2015؟",
+  "answer": "إيفان راكيتيتش",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4760",
+  "code": "q_4760"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من الحارس الألماني الذي انضم لبرشلونة عام 2014؟",
+  "answer": "مارك أندريه تير شتيغن",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4761",
+  "code": "q_4761"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من أي نادٍ انضم المدافع الفرنسي صامويل أومتيتي إلى برشلونة عام 2016؟",
+  "answer": "أولمبيك ليون",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4762",
+  "code": "q_4762"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "كم هدفًا سجل ميسي مع برشلونة في دوري أبطال أوروبا؟",
+  "answer": "120 هدفًا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4763",
+  "code": "q_4763"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما أول ملعب لعب فيه برشلونة بعد تأسيسه؟",
+  "answer": "فيلودروم لا بونانوفا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4764",
+  "code": "q_4764"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "ما الملعب الذي لعب فيه برشلونة بين 1909 و1922؟",
+  "answer": "كارير إندوستريا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4765",
+  "code": "q_4765"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من هزم برشلونة في نهائي كأس أوروبا 1961؟",
+  "answer": "بنفيكا (3-2)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4766",
+  "code": "q_4766"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من هزم برشلونة بركلات الترجيح في نهائي كأس أوروبا 1986 بإشبيلية؟",
+  "answer": "ستيوا بوخارست",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4767",
+  "code": "q_4767"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من حارس ستيوا بوخارست الذي صد كل ركلات برشلونة في نهائي 1986؟",
+  "answer": "هيلموت دوكادام",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4768",
+  "code": "q_4768"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "متى سجل كومان هدف الفوز في نهائي 1992؟",
+  "answer": "في الوقت الإضافي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4769",
+  "code": "q_4769"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من كان حارس سامبدوريا في نهائي 1992؟",
+  "answer": "جانلوكا باليوكا",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4770",
+  "code": "q_4770"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم دوريًا متتاليًا فاز به «فريق الأحلام» بقيادة كرويف؟",
+  "answer": "4 (من 1991 إلى 1994)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4771",
+  "code": "q_4771"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من هزم برشلونة 4-0 في نهائي دوري الأبطال 1994 بأثينا؟",
+  "answer": "ميلان",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4772",
+  "code": "q_4772"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من مدرب ميلان الذي هزم برشلونة 4-0 في نهائي 1994؟",
+  "answer": "فابيو كابيلو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4773",
+  "code": "q_4773"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي ملعب أقيم نهائي 2006 بين برشلونة وأرسنال؟",
+  "answer": "ملعب فرنسا في سان دوني",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4774",
+  "code": "q_4774"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "في أي دقيقة سجل إيتو هدف برشلونة الأول في نهائي 2009؟",
+  "answer": "الدقيقة 10",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4775",
+  "code": "q_4775"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من صنع هدف ميسي الرأسي في نهائي 2009؟",
+  "answer": "تشافي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4776",
+  "code": "q_4776"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من مدرب تشيلسي في نصف نهائي 2009 أمام برشلونة؟",
+  "answer": "غوس هيدينك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4777",
+  "code": "q_4777"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من خصم برشلونة في نهائي كأس الملك 2009؟",
+  "answer": "أتلتيك بلباو (4-1)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4778",
+  "code": "q_4778"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من سجل أهداف برشلونة الأربعة في نهائي كأس الملك 2009؟",
+  "answer": "يايا توريه وميسي وبويان وتشافي",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4779",
+  "code": "q_4779"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من خصم برشلونة في السوبر الأوروبي 2009؟",
+  "answer": "شاختار دونيتسك",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4780",
+  "code": "q_4780"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من سجل هدف فوز برشلونة في الوقت الإضافي بالسوبر الأوروبي 2009؟",
+  "answer": "بيدرو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4781",
+  "code": "q_4781"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من خصم برشلونة في نهائي كأس العالم للأندية 2009؟",
+  "answer": "إستوديانتس الأرجنتيني",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4782",
+  "code": "q_4782"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 5,
+  "question_text": "من سجل هدف التعادل لبرشلونة قبل النهاية في نهائي كأس العالم للأندية 2009؟",
+  "answer": "بيدرو",
+  "type": "text",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4783",
+  "code": "q_4783"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كيف سجل ميسي هدف الفوز في نهائي كأس العالم للأندية 2009؟",
+  "answer": "بصدره في الوقت الإضافي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4784",
+  "code": "q_4784"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ضد أي فريق خاض ميسي أول مباراة رسمية له في الدوري الإسباني عام 2004؟",
+  "answer": "إسبانيول",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4785",
+  "code": "q_4785"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "ضد أي فريق سجل ميسي أول أهدافه في الدوري الإسباني عام 2005؟",
+  "answer": "ألباسيتي",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4786",
+  "code": "q_4786"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من صنع أول هدف لميسي في الدوري الإسباني؟",
+  "answer": "رونالدينيو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4787",
+  "code": "q_4787"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "كم هدفًا سجل ميسي في نهائي كأس الملك 2021 أمام أتلتيك بلباو؟",
+  "answer": "هدفان (فاز برشلونة 4-0)",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4788",
+  "code": "q_4788"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من رفع كأس أوروبا 1992 قائدًا لبرشلونة؟",
+  "answer": "خوسيه رامون أليسانكو",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4789",
+  "code": "q_4789"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من حارس برشلونة في نهائي 1992؟",
+  "answer": "أندوني زوبيزاريتا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4790",
+  "code": "q_4790"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من المهاجم البلغاري نجم «فريق الأحلام»؟",
+  "answer": "خريستو ستويتشكوف",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4791",
+  "code": "q_4791"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 3,
+  "question_text": "من النجم الدنماركي في «فريق الأحلام»؟",
+  "answer": "مايكل لاودروب",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4792",
+  "code": "q_4792"
+ },
+ {
+  "category": "sports",
+  "subcategory": "barcelona",
+  "tags": [
+   "كرة القدم",
+   "برشلونة"
+  ],
+  "source": "مسابقات ريال مدريد وبرشلونة (ملفات المستخدم) — مراجعة وتصحيح",
+  "difficulty": 4,
+  "question_text": "من لاعب الوسط في «فريق الأحلام» الذي صار لاحقًا مدربًا لبرشلونة؟",
+  "answer": "بيب غوارديولا",
+  "type": "text",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4793",
+  "code": "q_4793"
+ }
+]

@@ -1,0 +1,2524 @@
+[
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 1,
+  "question_text": "ما الوحدة الأساسية للحياة؟",
+  "answer": "الخلية",
+  "type": "multiple_choice",
+  "choices": [
+   "النسيج",
+   "الجزيء",
+   "العضو",
+   "الخلية"
+  ],
+  "explanation": "الخلية أصغر وحدة قادرة على أداء وظائف الحياة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4484",
+  "code": "q_4484"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الجزيء الذي يحمل المعلومات الوراثية في معظم الكائنات الحية؟",
+  "answer": "DNA",
+  "type": "multiple_choice",
+  "choices": [
+   "الدهون",
+   "البروتين",
+   "ATP",
+   "DNA"
+  ],
+  "explanation": "يحمل DNA التعليمات الوراثية في معظم الكائنات الحية.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4485",
+  "code": "q_4485"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما العُضيّة المسؤولة عن إنتاج معظم طاقة الخلية (ATP)؟",
+  "answer": "الميتوكوندريا",
+  "type": "multiple_choice",
+  "choices": [
+   "الميتوكوندريا",
+   "الريبوسوم",
+   "جهاز غولجي",
+   "النواة"
+  ],
+  "explanation": "تنتج الميتوكوندريا معظم ATP عبر التنفس الخلوي، وتُلقّب ببيت الطاقة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4486",
+  "code": "q_4486"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما الوظيفة الأساسية للريبوسومات؟",
+  "answer": "تصنيع البروتين",
+  "type": "multiple_choice",
+  "choices": [
+   "تصنيع البروتين",
+   "تخزين الدهون",
+   "نسخ DNA",
+   "هضم الفضلات"
+  ],
+  "explanation": "تترجم الريبوسومات الـmRNA إلى سلاسل من الأحماض الأمينية.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4487",
+  "code": "q_4487"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الصبغة الخضراء التي تمتص الضوء في النباتات؟",
+  "answer": "الكلوروفيل",
+  "type": "multiple_choice",
+  "choices": [
+   "الميلانين",
+   "الكيراتين",
+   "الكلوروفيل",
+   "الهيموغلوبين"
+  ],
+  "explanation": "يمتص الكلوروفيل الضوء اللازم للبناء الضوئي.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4488",
+  "code": "q_4488"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما نوع الانقسام الذي ينتج خليتين متماثلتين؟",
+  "answer": "الانقسام المتساوي",
+  "type": "multiple_choice",
+  "choices": [
+   "الانقسام المنصف",
+   "الانقسام المتساوي",
+   "الطفرة",
+   "الإخصاب"
+  ],
+  "explanation": "ينتج الانقسام المتساوي خليتين بالعدد نفسه من الكروموسومات.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4489",
+  "code": "q_4489"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما نوع الانقسام الذي يكوّن الحيوانات المنوية والبويضات؟",
+  "answer": "الانقسام المنصف",
+  "type": "multiple_choice",
+  "choices": [
+   "الانقسام المنصف",
+   "التبرعم",
+   "الانقسام المتساوي",
+   "الاستنساخ"
+  ],
+  "explanation": "يخفض الانقسام المنصف عدد الكروموسومات إلى النصف.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4490",
+  "code": "q_4490"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما الوحدة الوظيفية للكلية؟",
+  "answer": "النفرون",
+  "type": "multiple_choice",
+  "choices": [
+   "الزغابة",
+   "الحويصلة الهوائية",
+   "النفرون",
+   "العصبون"
+  ],
+  "explanation": "يرشّح النفرون الدم ويكوّن البول.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4491",
+  "code": "q_4491"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما البروتين الذي ينقل الأكسجين في كريات الدم الحمراء؟",
+  "answer": "الهيموغلوبين",
+  "type": "multiple_choice",
+  "choices": [
+   "الهيموغلوبين",
+   "الكولاجين",
+   "الأكتين",
+   "الإنسولين"
+  ],
+  "explanation": "يرتبط الهيموغلوبين بالأكسجين ويعطي الدم لونه الأحمر.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4492",
+  "code": "q_4492"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الوعاء الدموي الذي ينقل الدم بعيدًا عن القلب؟",
+  "answer": "الشريان",
+  "type": "multiple_choice",
+  "choices": [
+   "الشريان",
+   "الوريد",
+   "الوعاء اللمفي",
+   "الشعيرة"
+  ],
+  "explanation": "الشرايين تحمل الدم من القلب إلى أعضاء الجسم.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4493",
+  "code": "q_4493"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الوعاء الدموي الذي يعيد الدم إلى القلب؟",
+  "answer": "الوريد",
+  "type": "multiple_choice",
+  "choices": [
+   "الوريد",
+   "الشعيرة",
+   "القصبة",
+   "الشريان"
+  ],
+  "explanation": "الأوردة تعيد الدم إلى القلب، وكثير منها فيه صمامات.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4494",
+  "code": "q_4494"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما أصغر وعاء دموي في الجسم؟",
+  "answer": "الشعيرة الدموية",
+  "type": "multiple_choice",
+  "choices": [
+   "الشريان الرئوي",
+   "الوريد الأجوف",
+   "الشعيرة الدموية",
+   "الشريان الأبهر"
+  ],
+  "explanation": "تتبادل الشعيرات الغازات والمواد مع الأنسجة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4495",
+  "code": "q_4495"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "أين يحدث معظم امتصاص الغذاء في الجهاز الهضمي؟",
+  "answer": "الأمعاء الدقيقة",
+  "type": "multiple_choice",
+  "choices": [
+   "الأمعاء الغليظة",
+   "المريء",
+   "الأمعاء الدقيقة",
+   "المعدة"
+  ],
+  "explanation": "تحتوي الأمعاء الدقيقة على زغابات تزيد مساحة الامتصاص.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4496",
+  "code": "q_4496"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما الإنزيم الموجود في اللعاب الذي يبدأ هضم النشويات في الفم؟",
+  "answer": "الأميلاز",
+  "type": "multiple_choice",
+  "choices": [
+   "الأميلاز",
+   "البيبسين",
+   "التربسين",
+   "الليباز"
+  ],
+  "explanation": "يبدأ الأميلاز تفكيك النشويات إلى سكريات.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4497",
+  "code": "q_4497"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الهرمون الذي يخفض سكر الدم؟",
+  "answer": "الإنسولين",
+  "type": "multiple_choice",
+  "choices": [
+   "الأدرينالين",
+   "الغلوكاغون",
+   "الثيروكسين",
+   "الإنسولين"
+  ],
+  "explanation": "يساعد الإنسولين الخلايا على امتصاص الغلوكوز.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4498",
+  "code": "q_4498"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما الهرمون الذي يرفع سكر الدم عند انخفاضه؟",
+  "answer": "الغلوكاغون",
+  "type": "multiple_choice",
+  "choices": [
+   "الأوكسيتوسين",
+   "الغلوكاغون",
+   "الإنسولين",
+   "الميلاتونين"
+  ],
+  "explanation": "ينبّه الغلوكاغون الكبد لإطلاق الغلوكوز المخزّن.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4499",
+  "code": "q_4499"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما الجزء من الخلية العصبية الذي يستقبل الإشارات من الخلايا الأخرى؟",
+  "answer": "التغصّنات",
+  "type": "multiple_choice",
+  "choices": [
+   "المحور العصبي",
+   "غمد الميالين",
+   "التغصّنات",
+   "المشبك"
+  ],
+  "explanation": "التغصّنات فروع قصيرة تستقبل الإشارات، والمحور ينقلها بعيدًا.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4500",
+  "code": "q_4500"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 5,
+  "question_text": "ما الناقل العصبي الذي يحفّز انقباض العضلات الهيكلية؟",
+  "answer": "الأستيل كولين",
+  "type": "multiple_choice",
+  "choices": [
+   "الأستيل كولين",
+   "الإنسولين",
+   "الهيموغلوبين",
+   "الكورتيزول"
+  ],
+  "explanation": "يُفرز الأستيل كولين في الوصلة العصبية العضلية.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4501",
+  "code": "q_4501"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الوحدة البنائية للبروتين؟",
+  "answer": "الحمض الأميني",
+  "type": "multiple_choice",
+  "choices": [
+   "النيوكليوتيد",
+   "الغلوكوز",
+   "الحمض الأميني",
+   "الحمض الدهني"
+  ],
+  "explanation": "ترتبط الأحماض الأمينية بروابط ببتيدية لتكوين البروتين.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4502",
+  "code": "q_4502"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما الوحدة البنائية للـDNA؟",
+  "answer": "النيوكليوتيد",
+  "type": "multiple_choice",
+  "choices": [
+   "الغليسرول",
+   "النيوكليوتيد",
+   "السكروز",
+   "الحمض الأميني"
+  ],
+  "explanation": "يتكون النيوكليوتيد من سكر وفوسفات وقاعدة نيتروجينية.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4503",
+  "code": "q_4503"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما القاعدة التي ترتبط مع الأدينين في DNA؟",
+  "answer": "الثايمين",
+  "type": "multiple_choice",
+  "choices": [
+   "الثايمين",
+   "الغوانين",
+   "اليوراسيل",
+   "السيتوزين"
+  ],
+  "explanation": "في DNA: الأدينين مع الثايمين، والغوانين مع السيتوزين.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4504",
+  "code": "q_4504"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 5,
+  "question_text": "ما القاعدة التي تحل محل الثايمين في RNA؟",
+  "answer": "اليوراسيل",
+  "type": "multiple_choice",
+  "choices": [
+   "السيتوزين",
+   "الأدينين",
+   "الغوانين",
+   "اليوراسيل"
+  ],
+  "explanation": "يستخدم RNA اليوراسيل بدل الثايمين.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4505",
+  "code": "q_4505"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ماذا نسمي التغيّر في تسلسل المادة الوراثية؟",
+  "answer": "الطفرة",
+  "type": "multiple_choice",
+  "choices": [
+   "الطفرة",
+   "التمايز",
+   "الانقسام",
+   "الإخصاب"
+  ],
+  "explanation": "قد تؤثر الطفرة في وظيفة الجين وقد لا تؤثر.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4506",
+  "code": "q_4506"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما اسم قدرة الجسم على الحفاظ على بيئة داخلية مستقرة نسبيًا؟",
+  "answer": "الاتزان الداخلي",
+  "type": "multiple_choice",
+  "choices": [
+   "الاتزان الداخلي",
+   "النمو",
+   "الأيض",
+   "التكيّف"
+  ],
+  "explanation": "يحافظ الجسم على حرارته وحموضة دمه ضمن حدود مناسبة.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4507",
+  "code": "q_4507"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما اسم المستوى البيئي الذي يضم جماعات أنواع مختلفة تعيش معًا في مكان واحد؟",
+  "answer": "المجتمع الحيوي",
+  "type": "multiple_choice",
+  "choices": [
+   "المجتمع الحيوي",
+   "الفرد",
+   "الجماعة الحيوية",
+   "الغلاف الحيوي"
+  ],
+  "explanation": "الجماعة نوع واحد، والمجتمع عدة أنواع متفاعلة.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4508",
+  "code": "q_4508"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ماذا نسمي الكائن الذي يصنع غذاءه بنفسه مثل النبات؟",
+  "answer": "المنتج",
+  "type": "multiple_choice",
+  "choices": [
+   "المحلّل",
+   "المنتج",
+   "الطفيلي",
+   "المستهلك"
+  ],
+  "explanation": "المنتجات تصنع المواد العضوية من مواد غير عضوية.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4509",
+  "code": "q_4509"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الدور البيئي للفطريات والبكتيريا المحلّلة؟",
+  "answer": "تفكيك المادة العضوية وإعادة العناصر للتربة",
+  "type": "multiple_choice",
+  "choices": [
+   "تفكيك المادة العضوية وإعادة العناصر للتربة",
+   "منع التبخر",
+   "تثبيت العظام",
+   "إنتاج الضوء"
+  ],
+  "explanation": "تعيد المحلّلات العناصر إلى البيئة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4510",
+  "code": "q_4510"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما اسم العلاقة بين كائنين يستفيد فيها الطرفان؟",
+  "answer": "التبادلية (تكافل)",
+  "type": "multiple_choice",
+  "choices": [
+   "الافتراس",
+   "التطفل",
+   "التبادلية (تكافل)",
+   "التنافس"
+  ],
+  "explanation": "مثل النحل والأزهار.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4511",
+  "code": "q_4511"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما الجزيء الذي يُعد عملة الطاقة السريعة في الخلية؟",
+  "answer": "ATP",
+  "type": "multiple_choice",
+  "choices": [
+   "السليلوز",
+   "الكوليسترول",
+   "DNA",
+   "ATP"
+  ],
+  "explanation": "يخزّن ATP الطاقة في روابط الفوسفات.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4512",
+  "code": "q_4512"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 6,
+  "question_text": "ما الناتج النهائي للتحلل السكري لجزيء غلوكوز واحد؟",
+  "answer": "جزيئان من البيروفات",
+  "type": "multiple_choice",
+  "choices": [
+   "أربعة جزيئات أكسجين",
+   "ثلاثة أحماض أمينية",
+   "جزيء DNA",
+   "جزيئان من البيروفات"
+  ],
+  "explanation": "يحدث في السيتوبلازم وينتج أيضًا ATP وNADH.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4513",
+  "code": "q_4513"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 6,
+  "question_text": "أين تحدث دورة كربس في الخلايا حقيقية النواة؟",
+  "answer": "مصفوفة الميتوكوندريا",
+  "type": "multiple_choice",
+  "choices": [
+   "النواة",
+   "جهاز غولجي",
+   "مصفوفة الميتوكوندريا",
+   "السيتوبلازم"
+  ],
+  "explanation": "دورة كربس مرحلة من التنفس الخلوي.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4514",
+  "code": "q_4514"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما الخلايا التي تنتج الأجسام المضادة؟",
+  "answer": "الخلايا البلازمية",
+  "type": "multiple_choice",
+  "choices": [
+   "الخلايا العظمية",
+   "الصفائح الدموية",
+   "الخلايا البلازمية",
+   "كريات الدم الحمراء"
+  ],
+  "explanation": "تنشأ الخلايا البلازمية من الخلايا البائية (B).",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4515",
+  "code": "q_4515"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما خط الدفاع الأول للجسم ضد الجراثيم؟",
+  "answer": "الجلد والأغشية المخاطية",
+  "type": "multiple_choice",
+  "choices": [
+   "الجلد والأغشية المخاطية",
+   "الأجسام المضادة",
+   "الخلايا الذاكرة",
+   "الطحال"
+  ],
+  "explanation": "حواجز سطحية تمنع دخول الممرضات.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4516",
+  "code": "q_4516"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما وظيفة اللقاح؟",
+  "answer": "تكوين ذاكرة مناعية دون الإصابة بالمرض",
+  "type": "multiple_choice",
+  "choices": [
+   "قتل كل البكتيريا",
+   "تكوين ذاكرة مناعية دون الإصابة بالمرض",
+   "رفع سكر الدم",
+   "تقوية العظام"
+  ],
+  "explanation": "يعرّض اللقاح الجسم لمستضد آمن.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4517",
+  "code": "q_4517"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "هل تعالج المضادات الحيوية العدوى الفيروسية مثل الزكام؟",
+  "answer": "لا، تعالج العدوى البكتيرية فقط",
+  "type": "multiple_choice",
+  "choices": [
+   "نعم، كل الفيروسات",
+   "نعم، بعض الفيروسات فقط",
+   "تعالج الفطريات فقط",
+   "لا، تعالج العدوى البكتيرية فقط"
+  ],
+  "explanation": "المضادات الحيوية تستهدف البكتيريا.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4518",
+  "code": "q_4518"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما السبب الرئيسي لظهور بكتيريا مقاومة للمضادات الحيوية؟",
+  "answer": "الاستخدام الخاطئ والمفرط للمضادات",
+  "type": "multiple_choice",
+  "choices": [
+   "غسل اليدين",
+   "الالتزام بالجرعة",
+   "التطعيم",
+   "الاستخدام الخاطئ والمفرط للمضادات"
+  ],
+  "explanation": "يسمح الاستخدام الخاطئ ببقاء البكتيريا المقاومة وتكاثرها.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4519",
+  "code": "q_4519"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما وظيفة البلاستيدات الخضراء؟",
+  "answer": "البناء الضوئي",
+  "type": "multiple_choice",
+  "choices": [
+   "البناء الضوئي",
+   "تخزين اليوريا",
+   "ضخ الدم",
+   "إنتاج الأجسام المضادة"
+  ],
+  "explanation": "تحتوي البلاستيدات الخضراء على الكلوروفيل.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4520",
+  "code": "q_4520"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ماذا يعني التنوع الحيوي؟",
+  "answer": "تنوع الجينات والأنواع والنظم البيئية",
+  "type": "multiple_choice",
+  "choices": [
+   "عدد البشر",
+   "عدد الصخور",
+   "كمية الأمطار",
+   "تنوع الجينات والأنواع والنظم البيئية"
+  ],
+  "explanation": "يشمل مستويات متعددة من الحياة.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4521",
+  "code": "q_4521"
+ },
+ {
+  "category": "science",
+  "subcategory": "biology",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ماذا تمثل السلسلة الغذائية؟",
+  "answer": "انتقال الطاقة من كائن إلى آخر عبر التغذي",
+  "type": "multiple_choice",
+  "choices": [
+   "دورة الماء",
+   "انتقال الطاقة من كائن إلى آخر عبر التغذي",
+   "تسلسل DNA",
+   "دوران الدم"
+  ],
+  "explanation": "تنتقل الطاقة من المنتجين إلى المستهلكين ثم المحلّلات.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4522",
+  "code": "q_4522"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الحجرة القلبية التي تستقبل الدم العائد من الجسم؟",
+  "answer": "الأذين الأيمن",
+  "type": "multiple_choice",
+  "choices": [
+   "البطين الأيمن",
+   "البطين الأيسر",
+   "الأذين الأيمن",
+   "الأذين الأيسر"
+  ],
+  "explanation": "يستقبل الأذين الأيمن الدم غير المؤكسج.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4523",
+  "code": "q_4523"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما الحجرة القلبية التي تضخ الدم المؤكسج إلى الجسم؟",
+  "answer": "البطين الأيسر",
+  "type": "multiple_choice",
+  "choices": [
+   "البطين الأيمن",
+   "البطين الأيسر",
+   "الأذين الأيسر",
+   "الأذين الأيمن"
+  ],
+  "explanation": "يضخ البطين الأيسر الدم إلى الشريان الأبهر، وجداره الأسمك.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4524",
+  "code": "q_4524"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "أين يحدث تبادل الغازات في الرئتين؟",
+  "answer": "الحويصلات الهوائية",
+  "type": "multiple_choice",
+  "choices": [
+   "الحنجرة",
+   "القصبة الهوائية",
+   "الحويصلات الهوائية",
+   "الحجاب الحاجز"
+  ],
+  "explanation": "يتبادل الأكسجين وثاني أكسيد الكربون عبر جدرانها الرقيقة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4525",
+  "code": "q_4525"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما العضلة الرئيسية في عملية التنفس؟",
+  "answer": "الحجاب الحاجز",
+  "type": "multiple_choice",
+  "choices": [
+   "عضلة القلب",
+   "الحجاب الحاجز",
+   "اللسان",
+   "العضلة ذات الرأسين"
+  ],
+  "explanation": "انقباضه يوسّع القفص الصدري فيدخل الهواء.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4526",
+  "code": "q_4526"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الوحدة البنائية للجهاز العصبي؟",
+  "answer": "العصبون (الخلية العصبية)",
+  "type": "multiple_choice",
+  "choices": [
+   "الكرية الحمراء",
+   "الخلية الكبدية",
+   "الصفيحة الدموية",
+   "العصبون (الخلية العصبية)"
+  ],
+  "explanation": "العصبون متخصص في نقل الإشارات.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4527",
+  "code": "q_4527"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 1,
+  "question_text": "ما الجزء الأكبر من الدماغ؟",
+  "answer": "المخ",
+  "type": "multiple_choice",
+  "choices": [
+   "المهاد",
+   "المخيخ",
+   "النخاع المستطيل",
+   "المخ"
+  ],
+  "explanation": "يضم نصفي الكرة المخية ويتحكم بالتفكير والذاكرة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4528",
+  "code": "q_4528"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما وظيفة المخيخ الأساسية؟",
+  "answer": "تنسيق الحركة والتوازن",
+  "type": "multiple_choice",
+  "choices": [
+   "إفراز الإنسولين",
+   "تنسيق الحركة والتوازن",
+   "إنتاج الصفراء",
+   "تنقية الدم"
+  ],
+  "explanation": "المخيخ يقع أسفل مؤخرة الدماغ.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4529",
+  "code": "q_4529"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الغدة التي تنظم معدل الأيض في الجسم؟",
+  "answer": "الغدة الدرقية",
+  "type": "multiple_choice",
+  "choices": [
+   "الغدة اللعابية",
+   "الغدة الزعترية",
+   "الغدة الدمعية",
+   "الغدة الدرقية"
+  ],
+  "explanation": "تقع في الرقبة وتفرز هرمونات الثيروكسين.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4530",
+  "code": "q_4530"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 5,
+  "question_text": "ما الهرمون الذي تفرزه الغدة النخامية لتحفيز الغدة الدرقية؟",
+  "answer": "TSH (الهرمون المنبّه للدرقية)",
+  "type": "multiple_choice",
+  "choices": [
+   "الأدرينالين",
+   "TSH (الهرمون المنبّه للدرقية)",
+   "الألدوستيرون",
+   "الإنسولين"
+  ],
+  "explanation": "يُقاس TSH عادة في فحوص الغدة الدرقية.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4531",
+  "code": "q_4531"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما العضو الذي ينتج العصارة الصفراوية؟",
+  "answer": "الكبد",
+  "type": "multiple_choice",
+  "choices": [
+   "الكبد",
+   "المرارة",
+   "البنكرياس",
+   "المعدة"
+  ],
+  "explanation": "ينتجها الكبد وتخزّنها المرارة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4532",
+  "code": "q_4532"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما وظيفة المرارة؟",
+  "answer": "تخزين الصفراء وتركيزها",
+  "type": "multiple_choice",
+  "choices": [
+   "إنتاج الإنسولين",
+   "تخزين الصفراء وتركيزها",
+   "ترشيح الدم",
+   "إنتاج البول"
+  ],
+  "explanation": "تطلق الصفراء إلى الأمعاء لهضم الدهون.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4533",
+  "code": "q_4533"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 1,
+  "question_text": "ما الوظيفة الأساسية للكليتين؟",
+  "answer": "ترشيح الدم وتكوين البول",
+  "type": "multiple_choice",
+  "choices": [
+   "ضخ الدم",
+   "تبادل الغازات",
+   "إنتاج الصفراء",
+   "ترشيح الدم وتكوين البول"
+  ],
+  "explanation": "تنظمان الماء والأملاح في الجسم.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4534",
+  "code": "q_4534"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ماذا يقيس جهاز ضغط الدم؟",
+  "answer": "قوة اندفاع الدم على جدران الشرايين",
+  "type": "multiple_choice",
+  "choices": [
+   "سكر الدم",
+   "حرارة الجسم",
+   "قوة اندفاع الدم على جدران الشرايين",
+   "كمية الأكسجين"
+  ],
+  "explanation": "يُعبّر عنه برقمين: الانقباضي والانبساطي.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4535",
+  "code": "q_4535"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما سبب النبض الذي نحسه في المعصم؟",
+  "answer": "تمدد الشريان مع كل ضربة قلب",
+  "type": "multiple_choice",
+  "choices": [
+   "انقباض العضلات",
+   "تمدد الشريان مع كل ضربة قلب",
+   "حركة الأعصاب",
+   "مرور الهواء"
+  ],
+  "explanation": "موجة ضغط يدفعها انقباض القلب.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4536",
+  "code": "q_4536"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 1,
+  "question_text": "ما العظم الذي يحمي الدماغ؟",
+  "answer": "الجمجمة",
+  "type": "multiple_choice",
+  "choices": [
+   "القص",
+   "الجمجمة",
+   "عظم الفخذ",
+   "الحوض"
+  ],
+  "explanation": "تحيط الجمجمة بالدماغ وتحميه.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4537",
+  "code": "q_4537"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما نوع مفصل الكتف الذي يسمح بالحركة في كل الاتجاهات؟",
+  "answer": "المفصل الكروي (الكرة والحُق)",
+  "type": "multiple_choice",
+  "choices": [
+   "الدرز",
+   "المفصل الكروي (الكرة والحُق)",
+   "المفصل الرزّي",
+   "المفصل الليفي"
+  ],
+  "explanation": "مثل مفصلي الكتف والورك.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4538",
+  "code": "q_4538"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما وظيفة النخاع العظمي الأحمر؟",
+  "answer": "إنتاج خلايا الدم",
+  "type": "multiple_choice",
+  "choices": [
+   "إنتاج خلايا الدم",
+   "تخزين الهواء",
+   "إنتاج الصفراء",
+   "إفراز اللعاب"
+  ],
+  "explanation": "يوجد داخل بعض العظام كالحوض والقص.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4539",
+  "code": "q_4539"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما النسيج الذي يربط العضلة بالعظم؟",
+  "answer": "الوتر",
+  "type": "multiple_choice",
+  "choices": [
+   "الوتر",
+   "الرباط",
+   "الجلد",
+   "الغضروف"
+  ],
+  "explanation": "مثل وتر أخيل في الكاحل.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4540",
+  "code": "q_4540"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما النسيج الذي يربط العظم بالعظم؟",
+  "answer": "الرباط",
+  "type": "multiple_choice",
+  "choices": [
+   "العضلة",
+   "العصب",
+   "الوتر",
+   "الرباط"
+  ],
+  "explanation": "تثبّت الأربطة المفاصل، مثل الرباط الصليبي في الركبة.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4541",
+  "code": "q_4541"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 1,
+  "question_text": "ما الوظيفة الأساسية لكريات الدم البيضاء؟",
+  "answer": "الدفاع عن الجسم ضد الأمراض",
+  "type": "multiple_choice",
+  "choices": [
+   "الدفاع عن الجسم ضد الأمراض",
+   "تخثر الدم",
+   "تخزين الكالسيوم",
+   "نقل الأكسجين"
+  ],
+  "explanation": "تتعرف على الجراثيم وتقاومها.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4542",
+  "code": "q_4542"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما السائل الذي يحيط بالدماغ والحبل الشوكي ويحميهما؟",
+  "answer": "السائل الدماغي الشوكي",
+  "type": "multiple_choice",
+  "choices": [
+   "الصفراء",
+   "السائل الدماغي الشوكي",
+   "اللمف",
+   "البلازما"
+  ],
+  "explanation": "يمتص الصدمات ويغذي الجهاز العصبي.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4543",
+  "code": "q_4543"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما الجهاز الذي يعيد السوائل الزائدة من الأنسجة إلى الدم ويشارك في المناعة؟",
+  "answer": "الجهاز اللمفي",
+  "type": "multiple_choice",
+  "choices": [
+   "الجهاز العظمي",
+   "الجهاز التنفسي",
+   "الجهاز اللمفي",
+   "الجهاز الهضمي"
+  ],
+  "explanation": "يضم العقد اللمفية والطحال.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4544",
+  "code": "q_4544"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما الذي يحدث في الجسم عند الإصابة بالحمى؟",
+  "answer": "يرفع الدماغ نقطة ضبط حرارة الجسم",
+  "type": "multiple_choice",
+  "choices": [
+   "يرفع الدماغ نقطة ضبط حرارة الجسم",
+   "تتوقف الدورة الدموية",
+   "تتوقف المناعة",
+   "ينخفض سكر الدم"
+  ],
+  "explanation": "تحدث غالبًا كاستجابة للعدوى.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4545",
+  "code": "q_4545"
+ },
+ {
+  "category": "science",
+  "subcategory": "human-body",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما الالتهاب؟",
+  "answer": "استجابة دفاعية للإصابة أو العدوى",
+  "type": "multiple_choice",
+  "choices": [
+   "استجابة دفاعية للإصابة أو العدوى",
+   "زيادة في كثافة العظم",
+   "نوع من الفيتامينات",
+   "توقف الدورة الدموية"
+  ],
+  "explanation": "علاماته: احمرار وحرارة وتورم وألم.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4546",
+  "code": "q_4546"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما أصغر وحدة تحتفظ بخواص العنصر الكيميائي؟",
+  "answer": "الذرة",
+  "type": "multiple_choice",
+  "choices": [
+   "الجزيء",
+   "الخلية",
+   "البروتون",
+   "الذرة"
+  ],
+  "explanation": "الذرة أصغر وحدة للعنصر في التفاعلات الكيميائية.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4547",
+  "code": "q_4547"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 1,
+  "question_text": "ما الجسيم سالب الشحنة في الذرة؟",
+  "answer": "الإلكترون",
+  "type": "multiple_choice",
+  "choices": [
+   "البروتون",
+   "الفوتون",
+   "النيوترون",
+   "الإلكترون"
+  ],
+  "explanation": "تدور الإلكترونات حول النواة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4548",
+  "code": "q_4548"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الجسيم متعادل الشحنة في نواة الذرة؟",
+  "answer": "النيوترون",
+  "type": "multiple_choice",
+  "choices": [
+   "الإلكترون",
+   "الأيون",
+   "البروتون",
+   "النيوترون"
+  ],
+  "explanation": "النيوترونات لا تحمل شحنة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4549",
+  "code": "q_4549"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ماذا يمثل العدد الذري للعنصر؟",
+  "answer": "عدد البروتونات",
+  "type": "multiple_choice",
+  "choices": [
+   "عدد مستويات الطاقة",
+   "عدد النيوترونات",
+   "عدد الجزيئات",
+   "عدد البروتونات"
+  ],
+  "explanation": "يحدد عدد البروتونات هوية العنصر.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4550",
+  "code": "q_4550"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما نوع الرابطة الناتجة عن مشاركة الذرات للإلكترونات؟",
+  "answer": "الرابطة التساهمية",
+  "type": "multiple_choice",
+  "choices": [
+   "الرابطة التساهمية",
+   "الأيونية",
+   "الفلزية",
+   "الهيدروجينية"
+  ],
+  "explanation": "مثل الروابط في جزيء الماء.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4551",
+  "code": "q_4551"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما نوع الرابطة الناتجة عن تجاذب أيونات موجبة وسالبة؟",
+  "answer": "الرابطة الأيونية",
+  "type": "multiple_choice",
+  "choices": [
+   "النووية",
+   "التساهمية",
+   "الرابطة الأيونية",
+   "الفلزية"
+  ],
+  "explanation": "مثل كلوريد الصوديوم (ملح الطعام).",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4552",
+  "code": "q_4552"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما قيمة الـpH للمحلول المتعادل كالماء النقي؟",
+  "answer": "7",
+  "type": "multiple_choice",
+  "choices": [
+   "7",
+   "0",
+   "14",
+   "1"
+  ],
+  "explanation": "أقل من 7 حمضي، وأكثر من 7 قاعدي.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4553",
+  "code": "q_4553"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما الذي تزيده الأحماض عند ذوبانها في الماء؟",
+  "answer": "أيونات الهيدروجين H⁺",
+  "type": "multiple_choice",
+  "choices": [
+   "أيونات الهيدروكسيد OH⁻",
+   "الأكسجين",
+   "الكالسيوم",
+   "أيونات الهيدروجين H⁺"
+  ],
+  "explanation": "لذلك تكون قيمة pH للأحماض أقل من 7.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4554",
+  "code": "q_4554"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما الذي تزيده القواعد عند ذوبانها في الماء؟",
+  "answer": "أيونات الهيدروكسيد OH⁻",
+  "type": "multiple_choice",
+  "choices": [
+   "أيونات الهيدروجين H⁺",
+   "ثاني أكسيد الكربون",
+   "الصوديوم",
+   "أيونات الهيدروكسيد OH⁻"
+  ],
+  "explanation": "لذلك تكون قيمة pH للقواعد أكبر من 7.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4555",
+  "code": "q_4555"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما وحدة قياس كمية المادة في الكيمياء؟",
+  "answer": "المول",
+  "type": "multiple_choice",
+  "choices": [
+   "اللتر",
+   "المول",
+   "الباسكال",
+   "الجول"
+  ],
+  "explanation": "يحتوي المول على نحو 6.022×10²³ جسيمًا (عدد أفوغادرو).",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4556",
+  "code": "q_4556"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ماذا ينص قانون حفظ الكتلة؟",
+  "answer": "الكتلة لا تفنى ولا تُستحدث في التفاعل الكيميائي",
+  "type": "multiple_choice",
+  "choices": [
+   "الضغط ثابت دائمًا",
+   "الطاقة تساوي الحجم",
+   "كل التفاعلات عكوسة",
+   "الكتلة لا تفنى ولا تُستحدث في التفاعل الكيميائي"
+  ],
+  "explanation": "كتلة المتفاعلات تساوي كتلة النواتج في نظام مغلق.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4557",
+  "code": "q_4557"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما أثر رفع درجة الحرارة على سرعة التفاعل الكيميائي غالبًا؟",
+  "answer": "يزيدها",
+  "type": "multiple_choice",
+  "choices": [
+   "لا يؤثر",
+   "يوقفها",
+   "يبطئها",
+   "يزيدها"
+  ],
+  "explanation": "تزيد الحرارة عدد التصادمات الفعالة بين الجزيئات.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4558",
+  "code": "q_4558"
+ },
+ {
+  "category": "science",
+  "subcategory": "chemistry",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما المادة التي تسرّع التفاعل الكيميائي دون أن تُستهلك؟",
+  "answer": "المادة المحفّزة",
+  "type": "multiple_choice",
+  "choices": [
+   "المادة المحفّزة",
+   "المذيب",
+   "الناتج",
+   "المتفاعل"
+  ],
+  "explanation": "تخفض المحفّزات طاقة التنشيط.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4559",
+  "code": "q_4559"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما وحدة قياس القوة في النظام الدولي؟",
+  "answer": "النيوتن",
+  "type": "multiple_choice",
+  "choices": [
+   "الواط",
+   "النيوتن",
+   "الأمبير",
+   "الجول"
+  ],
+  "explanation": "النيوتن = كغ·م/ث².",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4560",
+  "code": "q_4560"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما وحدة قياس الطاقة في النظام الدولي؟",
+  "answer": "الجول",
+  "type": "multiple_choice",
+  "choices": [
+   "الهرتز",
+   "النيوتن",
+   "الفولت",
+   "الجول"
+  ],
+  "explanation": "الجول وحدة الطاقة والشغل.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4561",
+  "code": "q_4561"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 1,
+  "question_text": "كيف نحسب السرعة؟",
+  "answer": "المسافة ÷ الزمن",
+  "type": "multiple_choice",
+  "choices": [
+   "الكتلة × الحجم",
+   "الزمن ÷ المسافة",
+   "القوة ÷ الزمن",
+   "المسافة ÷ الزمن"
+  ],
+  "explanation": "مثال: 100 كم في ساعتين = 50 كم/ساعة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4562",
+  "code": "q_4562"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما التسارع؟",
+  "answer": "معدل تغيّر السرعة مع الزمن",
+  "type": "multiple_choice",
+  "choices": [
+   "القوة فقط",
+   "المسافة الكلية",
+   "الكتلة النوعية",
+   "معدل تغيّر السرعة مع الزمن"
+  ],
+  "explanation": "يقاس بالمتر لكل ثانية تربيع.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4563",
+  "code": "q_4563"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ماذا ينص قانون نيوتن الأول؟",
+  "answer": "يبقى الجسم على حالته ما لم تؤثر فيه قوة محصلة",
+  "type": "multiple_choice",
+  "choices": [
+   "لكل فعل رد فعل",
+   "القوة = الكتلة × التسارع",
+   "الطاقة لا تفنى",
+   "يبقى الجسم على حالته ما لم تؤثر فيه قوة محصلة"
+  ],
+  "explanation": "يُعرف بقانون القصور الذاتي.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4564",
+  "code": "q_4564"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما اسم الطاقة التي يمتلكها الجسم بسبب حركته؟",
+  "answer": "الطاقة الحركية",
+  "type": "multiple_choice",
+  "choices": [
+   "الطاقة النووية",
+   "الطاقة الحركية",
+   "طاقة الوضع",
+   "الطاقة الكيميائية"
+  ],
+  "explanation": "تعتمد على الكتلة ومربع السرعة.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4565",
+  "code": "q_4565"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما طريقة انتقال الحرارة في السوائل والغازات عبر حركتها؟",
+  "answer": "الحمل",
+  "type": "multiple_choice",
+  "choices": [
+   "التوصيل",
+   "الإشعاع",
+   "الحمل",
+   "الانعكاس"
+  ],
+  "explanation": "مثل غليان الماء وحركة الهواء الساخن للأعلى.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4566",
+  "code": "q_4566"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ماذا تنقل الموجة؟",
+  "answer": "الطاقة",
+  "type": "multiple_choice",
+  "choices": [
+   "الذرات",
+   "الكتلة",
+   "الطاقة",
+   "المادة"
+  ],
+  "explanation": "تنقل الموجة الطاقة دون أن تنقل المادة معها.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4567",
+  "code": "q_4567"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما التردد؟",
+  "answer": "عدد الاهتزازات في الثانية",
+  "type": "multiple_choice",
+  "choices": [
+   "سرعة الضوء",
+   "شدة الصوت",
+   "عدد الاهتزازات في الثانية",
+   "المسافة بين قمتين"
+  ],
+  "explanation": "يقاس بالهرتز.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4568",
+  "code": "q_4568"
+ },
+ {
+  "category": "science",
+  "subcategory": "physics",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما الضوء المرئي؟",
+  "answer": "جزء من الطيف الكهرومغناطيسي تراه العين",
+  "type": "multiple_choice",
+  "choices": [
+   "جزء من الطيف الكهرومغناطيسي تراه العين",
+   "موجة صوتية",
+   "إلكترونات ساكنة",
+   "حرارة فقط"
+  ],
+  "explanation": "يمتد ألوانه من الأحمر إلى البنفسجي.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4569",
+  "code": "q_4569"
+ },
+ {
+  "category": "science",
+  "subcategory": "space",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 1,
+  "question_text": "ما الكوكب الأقرب إلى الشمس؟",
+  "answer": "عطارد",
+  "type": "multiple_choice",
+  "choices": [
+   "عطارد",
+   "المريخ",
+   "الأرض",
+   "الزهرة"
+  ],
+  "explanation": "عطارد أصغر كواكب المجموعة الشمسية وأقربها للشمس.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4570",
+  "code": "q_4570"
+ },
+ {
+  "category": "science",
+  "subcategory": "space",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما سبب تعاقب الفصول الأربعة؟",
+  "answer": "ميل محور الأرض أثناء دورانها حول الشمس",
+  "type": "multiple_choice",
+  "choices": [
+   "ميل محور الأرض أثناء دورانها حول الشمس",
+   "دوران القمر",
+   "تغير المسافة بين الأرض والشمس",
+   "اختلاف سرعة الضوء"
+  ],
+  "explanation": "يغيّر الميل زاوية سقوط أشعة الشمس وطول النهار.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4571",
+  "code": "q_4571"
+ },
+ {
+  "category": "science",
+  "subcategory": "space",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما السبب الرئيسي لظاهرة المد والجزر؟",
+  "answer": "جاذبية القمر والشمس",
+  "type": "multiple_choice",
+  "choices": [
+   "البراكين",
+   "جاذبية القمر والشمس",
+   "المجال المغناطيسي",
+   "الرياح"
+  ],
+  "explanation": "تأثير القمر أكبر لقربه من الأرض.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4572",
+  "code": "q_4572"
+ },
+ {
+  "category": "science",
+  "subcategory": "general-science",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 1,
+  "question_text": "ما اسم الطبقة الغازية المحيطة بالأرض؟",
+  "answer": "الغلاف الجوي",
+  "type": "multiple_choice",
+  "choices": [
+   "الغلاف الجوي",
+   "الغلاف المائي",
+   "الوشاح",
+   "الغلاف الصخري"
+  ],
+  "explanation": "يتكون أساسًا من النيتروجين والأكسجين.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4573",
+  "code": "q_4573"
+ },
+ {
+  "category": "science",
+  "subcategory": "general-science",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما نوع الصخور التي تتكون من تبرد الصهارة (الماغما)؟",
+  "answer": "الصخور النارية",
+  "type": "multiple_choice",
+  "choices": [
+   "الصخور النارية",
+   "العضوية",
+   "الرسوبية",
+   "المتحولة"
+  ],
+  "explanation": "مثل البازلت والغرانيت.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4574",
+  "code": "q_4574"
+ },
+ {
+  "category": "science",
+  "subcategory": "general-science",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 3,
+  "question_text": "ما نوع الصخور التي تتكون من تراكم الرواسب طبقة فوق طبقة؟",
+  "answer": "الصخور الرسوبية",
+  "type": "multiple_choice",
+  "choices": [
+   "الصخور الرسوبية",
+   "النارية",
+   "المتحولة",
+   "البركانية"
+  ],
+  "explanation": "مثل الحجر الجيري والرملي، وفيها توجد الأحافير غالبًا.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4575",
+  "code": "q_4575"
+ },
+ {
+  "category": "science",
+  "subcategory": "general-science",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما المقياس المستخدم لمقارنة صلابة المعادن؟",
+  "answer": "مقياس موهس",
+  "type": "multiple_choice",
+  "choices": [
+   "مقياس موهس",
+   "مقياس سلسيوس",
+   "مقياس pH",
+   "مقياس ريختر"
+  ],
+  "explanation": "يبدأ بالتلك (1) وينتهي بالألماس (10).",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4576",
+  "code": "q_4576"
+ },
+ {
+  "category": "science",
+  "subcategory": "general-science",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 5,
+  "question_text": "ما اسم النقطة على سطح الأرض الواقعة فوق بؤرة الزلزال مباشرة؟",
+  "answer": "المركز السطحي للزلزال",
+  "type": "multiple_choice",
+  "choices": [
+   "النواة",
+   "المركز السطحي للزلزال",
+   "الوشاح",
+   "الصدع"
+  ],
+  "explanation": "البؤرة في العمق، والمركز السطحي فوقها على السطح.",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4577",
+  "code": "q_4577"
+ },
+ {
+  "category": "science",
+  "subcategory": "general-science",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 4,
+  "question_text": "ما الفرق بين التجوية والتعرية؟",
+  "answer": "التجوية تفتيت الصخور، والتعرية نقل الفتات بعيدًا",
+  "type": "multiple_choice",
+  "choices": [
+   "التجوية تفتيت الصخور، والتعرية نقل الفتات بعيدًا",
+   "كلاهما تكوين بلورات",
+   "التعرية تفتيت والتجوية نقل",
+   "هما الشيء نفسه"
+  ],
+  "explanation": "تنقل المياه والرياح والجليد نواتج التجوية.",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4578",
+  "code": "q_4578"
+ },
+ {
+  "category": "science",
+  "subcategory": "general-science",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "أي مما يلي مورد طاقة متجدد؟",
+  "answer": "طاقة الرياح",
+  "type": "multiple_choice",
+  "choices": [
+   "طاقة الرياح",
+   "النفط",
+   "الغاز الطبيعي",
+   "الفحم"
+  ],
+  "explanation": "يتجدد طبيعيًا ولا ينفد كالوقود الأحفوري.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4579",
+  "code": "q_4579"
+ },
+ {
+  "category": "science",
+  "subcategory": "general-science",
+  "tags": [
+   "علوم"
+  ],
+  "source": "بنك أسئلة العلوم والأحياء والطب (ملف المستخدم) — نسخة واحدة لكل سؤال مكرر",
+  "difficulty": 2,
+  "question_text": "ما الغاز الدفيء الرئيسي الناتج عن احتراق الوقود الأحفوري؟",
+  "answer": "ثاني أكسيد الكربون",
+  "type": "multiple_choice",
+  "choices": [
+   "الهيليوم",
+   "الأكسجين",
+   "النيون",
+   "ثاني أكسيد الكربون"
+  ],
+  "explanation": "يزداد CO₂ في الجو باحتراق الفحم والنفط والغاز.",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4580",
+  "code": "q_4580"
+ }
+]

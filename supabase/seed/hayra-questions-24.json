@@ -1,0 +1,3282 @@
+[
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "إيطاليا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/it/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4794",
+  "code": "q_4794"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "السعودية",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/sa/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4795",
+  "code": "q_4795"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "مصر",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/eg/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4796",
+  "code": "q_4796"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الأردن",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/jo/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4797",
+  "code": "q_4797"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "المغرب",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ma/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4798",
+  "code": "q_4798"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "العراق",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/iq/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4799",
+  "code": "q_4799"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "البرازيل",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/br/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4800",
+  "code": "q_4800"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الهند",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/in/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4801",
+  "code": "q_4801"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "أستراليا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/au/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4802",
+  "code": "q_4802"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الولايات المتحدة الأمريكية",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/us/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4803",
+  "code": "q_4803"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "تشيلي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/cl/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4804",
+  "code": "q_4804"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "اليابان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/jp/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4805",
+  "code": "q_4805"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "المملكة المتحدة",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/gb/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4806",
+  "code": "q_4806"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "تركيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/tr/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4807",
+  "code": "q_4807"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "سوريا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/sy/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4808",
+  "code": "q_4808"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الجزائر",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/dz/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4809",
+  "code": "q_4809"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الصين",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/cn/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4810",
+  "code": "q_4810"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 1,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "روسيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ru/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4811",
+  "code": "q_4811"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "فرنسا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/fr/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4812",
+  "code": "q_4812"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "إسبانيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/es/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4813",
+  "code": "q_4813"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ألمانيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/de/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4814",
+  "code": "q_4814"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "كندا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ca/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4815",
+  "code": "q_4815"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "المكسيك",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/mx/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4816",
+  "code": "q_4816"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الأرجنتين",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ar/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4817",
+  "code": "q_4817"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ليبيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ly/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4818",
+  "code": "q_4818"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "تونس",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/tn/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4819",
+  "code": "q_4819"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "عُمان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/om/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4820",
+  "code": "q_4820"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "اليمن",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ye/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4821",
+  "code": "q_4821"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الإمارات",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ae/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4822",
+  "code": "q_4822"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "قطر",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/qa/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4823",
+  "code": "q_4823"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "لبنان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/lb/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4824",
+  "code": "q_4824"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الكويت",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/kw/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4825",
+  "code": "q_4825"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "السودان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/sd/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4826",
+  "code": "q_4826"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الصومال",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/so/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4827",
+  "code": "q_4827"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "اليونان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/gr/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4828",
+  "code": "q_4828"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "البرتغال",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/pt/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4829",
+  "code": "q_4829"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "إيران",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ir/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4830",
+  "code": "q_4830"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "باكستان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/pk/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4831",
+  "code": "q_4831"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جنوب أفريقيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/za/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4832",
+  "code": "q_4832"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "النرويج",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/no/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4833",
+  "code": "q_4833"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "السويد",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/se/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4834",
+  "code": "q_4834"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 2,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "مدغشقر",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/mg/512.png&filt=negate&output=png",
+  "depth_level": 1,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4835",
+  "code": "q_4835"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "أفغانستان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/af/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4836",
+  "code": "q_4836"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "إثيوبيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/et/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4837",
+  "code": "q_4837"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "نيجيريا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ng/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4838",
+  "code": "q_4838"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "كينيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ke/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4839",
+  "code": "q_4839"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "تنزانيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/tz/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4840",
+  "code": "q_4840"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "موريتانيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/mr/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4841",
+  "code": "q_4841"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "أوكرانيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ua/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4842",
+  "code": "q_4842"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بولندا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/pl/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4843",
+  "code": "q_4843"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "فنلندا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/fi/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4844",
+  "code": "q_4844"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "آيسلندا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/is/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4845",
+  "code": "q_4845"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "أيرلندا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ie/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4846",
+  "code": "q_4846"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "نيوزيلندا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/nz/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4847",
+  "code": "q_4847"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "إندونيسيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/id/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4848",
+  "code": "q_4848"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الفلبين",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ph/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4849",
+  "code": "q_4849"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "فيتنام",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/vn/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4850",
+  "code": "q_4850"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "تايلاند",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/th/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4851",
+  "code": "q_4851"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "كوريا الجنوبية",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/kr/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4852",
+  "code": "q_4852"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "كوريا الشمالية",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/kp/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4853",
+  "code": "q_4853"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "سريلانكا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/lk/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4854",
+  "code": "q_4854"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "كولومبيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/co/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4855",
+  "code": "q_4855"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "البيرو",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/pe/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4856",
+  "code": "q_4856"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "كوبا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/cu/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4857",
+  "code": "q_4857"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "كازاخستان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/kz/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4858",
+  "code": "q_4858"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "منغوليا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/mn/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4859",
+  "code": "q_4859"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الدنمارك",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/dk/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4860",
+  "code": "q_4860"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "هولندا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/nl/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4861",
+  "code": "q_4861"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "سويسرا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ch/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4862",
+  "code": "q_4862"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "النمسا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/at/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4863",
+  "code": "q_4863"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "كرواتيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/hr/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4864",
+  "code": "q_4864"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جنوب السودان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ss/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4865",
+  "code": "q_4865"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "تشاد",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/td/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4866",
+  "code": "q_4866"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "مالي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ml/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4867",
+  "code": "q_4867"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "النيجر",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ne/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4868",
+  "code": "q_4868"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 3,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جمهورية الكونغو الديمقراطية",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/cd/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4869",
+  "code": "q_4869"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ماليزيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/my/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4870",
+  "code": "q_4870"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ميانمار",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/mm/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4871",
+  "code": "q_4871"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "نيبال",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/np/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4872",
+  "code": "q_4872"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بنغلاديش",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bd/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4873",
+  "code": "q_4873"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "أوزبكستان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/uz/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4874",
+  "code": "q_4874"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "تركمانستان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/tm/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4875",
+  "code": "q_4875"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "أذربيجان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/az/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4876",
+  "code": "q_4876"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جورجيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ge/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4877",
+  "code": "q_4877"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "أرمينيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/am/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4878",
+  "code": "q_4878"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بلجيكا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/be/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4879",
+  "code": "q_4879"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "التشيك",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/cz/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4880",
+  "code": "q_4880"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "المجر",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/hu/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4881",
+  "code": "q_4881"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "رومانيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ro/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4882",
+  "code": "q_4882"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بلغاريا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bg/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4883",
+  "code": "q_4883"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "صربيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/rs/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4884",
+  "code": "q_4884"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بيلاروسيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/by/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4885",
+  "code": "q_4885"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "فنزويلا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ve/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4886",
+  "code": "q_4886"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الإكوادور",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ec/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4887",
+  "code": "q_4887"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بوليفيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bo/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4888",
+  "code": "q_4888"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الباراغواي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/py/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4889",
+  "code": "q_4889"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الأوروغواي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/uy/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4890",
+  "code": "q_4890"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بنما",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/pa/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4891",
+  "code": "q_4891"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "كوستاريكا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/cr/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4892",
+  "code": "q_4892"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جامايكا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/jm/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4893",
+  "code": "q_4893"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "السنغال",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/sn/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4894",
+  "code": "q_4894"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "غانا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/gh/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4895",
+  "code": "q_4895"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ساحل العاج",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ci/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4896",
+  "code": "q_4896"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الكاميرون",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/cm/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4897",
+  "code": "q_4897"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "أوغندا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ug/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4898",
+  "code": "q_4898"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "أنغولا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ao/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4899",
+  "code": "q_4899"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ناميبيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/na/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4900",
+  "code": "q_4900"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بوتسوانا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bw/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4901",
+  "code": "q_4901"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "زامبيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/zm/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4902",
+  "code": "q_4902"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "زيمبابوي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/zw/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4903",
+  "code": "q_4903"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "موزمبيق",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/mz/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4904",
+  "code": "q_4904"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "إريتريا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/er/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4905",
+  "code": "q_4905"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "لاوس",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/la/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4906",
+  "code": "q_4906"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "كمبوديا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/kh/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4907",
+  "code": "q_4907"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بابوا غينيا الجديدة",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/pg/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4908",
+  "code": "q_4908"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 4,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "قبرص",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/cy/512.png&filt=negate&output=png",
+  "depth_level": 2,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4909",
+  "code": "q_4909"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "قيرغيزستان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/kg/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4910",
+  "code": "q_4910"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "طاجيكستان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/tj/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4911",
+  "code": "q_4911"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بوتان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bt/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4912",
+  "code": "q_4912"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "سلوفاكيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/sk/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4913",
+  "code": "q_4913"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "سلوفينيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/si/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4914",
+  "code": "q_4914"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "البوسنة والهرسك",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ba/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4915",
+  "code": "q_4915"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "مقدونيا الشمالية",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/mk/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4916",
+  "code": "q_4916"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ألبانيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/al/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4917",
+  "code": "q_4917"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الجبل الأسود",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/me/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4918",
+  "code": "q_4918"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "مولدوفا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/md/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4919",
+  "code": "q_4919"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "إستونيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ee/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4920",
+  "code": "q_4920"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "لاتفيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/lv/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4921",
+  "code": "q_4921"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ليتوانيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/lt/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4922",
+  "code": "q_4922"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "لوكسمبورغ",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/lu/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4923",
+  "code": "q_4923"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جيبوتي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/dj/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4924",
+  "code": "q_4924"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "رواندا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/rw/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4925",
+  "code": "q_4925"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بوروندي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bi/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4926",
+  "code": "q_4926"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ملاوي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/mw/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4927",
+  "code": "q_4927"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بوركينا فاسو",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bf/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4928",
+  "code": "q_4928"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "غينيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/gn/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4929",
+  "code": "q_4929"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ليبيريا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/lr/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4930",
+  "code": "q_4930"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "سيراليون",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/sl/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4931",
+  "code": "q_4931"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "توغو",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/tg/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4932",
+  "code": "q_4932"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بنين",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bj/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4933",
+  "code": "q_4933"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "الغابون",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ga/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4934",
+  "code": "q_4934"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جمهورية الكونغو",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/cg/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4935",
+  "code": "q_4935"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جمهورية أفريقيا الوسطى",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/cf/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4936",
+  "code": "q_4936"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "غواتيمالا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/gt/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4937",
+  "code": "q_4937"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "هندوراس",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/hn/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4938",
+  "code": "q_4938"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "نيكاراغوا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ni/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4939",
+  "code": "q_4939"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جمهورية الدومينيكان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/do/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4940",
+  "code": "q_4940"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "هايتي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ht/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4941",
+  "code": "q_4941"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "غيانا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/gy/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4942",
+  "code": "q_4942"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "سورينام",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/sr/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4943",
+  "code": "q_4943"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 5,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "تيمور الشرقية",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/tl/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4944",
+  "code": "q_4944"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "غامبيا",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/gm/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4945",
+  "code": "q_4945"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "غينيا بيساو",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/gw/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4946",
+  "code": "q_4946"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "غينيا الاستوائية",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/gq/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4947",
+  "code": "q_4947"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ليسوتو",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/ls/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4948",
+  "code": "q_4948"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "إسواتيني",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/sz/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4949",
+  "code": "q_4949"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "السلفادور",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/sv/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4950",
+  "code": "q_4950"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بليز",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bz/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4951",
+  "code": "q_4951"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "ترينيداد وتوباغو",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/tt/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4952",
+  "code": "q_4952"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "بروناي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bn/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4953",
+  "code": "q_4953"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جزر البهاما",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/bs/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4954",
+  "code": "q_4954"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "فيجي",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/fj/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4955",
+  "code": "q_4955"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "جزر سليمان",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/sb/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4956",
+  "code": "q_4956"
+ },
+ {
+  "category": "geography",
+  "subcategory": "maps",
+  "tags": [
+   "خرائط"
+  ],
+  "source": "mapsicon (djaiss) عبر images.weserv.nl",
+  "difficulty": 6,
+  "question_text": "🗺️ لأي دولة هذا الشكل؟",
+  "answer": "فانواتو",
+  "type": "identify_image",
+  "image_url": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/djaiss/mapsicon@master/all/vu/512.png&filt=negate&output=png",
+  "depth_level": 3,
+  "extra": {},
+  "family_safe": true,
+  "verified": false,
+  "import_source": "hayra-seed",
+  "external_id": "seed-4957",
+  "code": "q_4957"
+ }
+]
